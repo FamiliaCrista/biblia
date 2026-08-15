@@ -1,6 +1,173 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
-  "capítulo": 40,
-  "titulos": {},
-  "versiculos": {}
+    "9": {
+      "traducao_completa": "E jurou-lhes Gedalias, filho de Aicão, filho de Safã, e aos seus homens, dizendo: Não temais servir aos caldeus; habitai na terra, e servi ao rei da Babilônia, e bem vos irá.",
+      "palavras": [
+        { "hebraico": "וַיִּשָּׁבַ֨ע", "transliteral": "way-yiš-šā-ḇaʿ", "traducao_palavra": "e jurou" },
+        { "hebraico": "לָהֶ֜ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "גְּדַלְיָ֨הוּ", "transliteral": "gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָ֤ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "בֶּן־שָׁפָן֙", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "וּלְאַנְשֵׁיהֶ֣ם", "transliteral": "ū-lə-ʾan-šê-hem", "traducao_palavra": "e aos seus homens" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "אַל־תִּֽירְא֖וּ", "transliteral": "ʾal-tî-rə-ʾû", "traducao_palavra": "não temais" },
+        { "hebraico": "מֵעֲבֹ֣וד", "transliteral": "mê-ʿă-ḇôḏ", "traducao_palavra": "de servir" },
+        { "hebraico": "הַכַּשְׂדִּ֑ים", "transliteral": "hak-kaś-dîm", "traducao_palavra": "os caldeus" },
+        { "hebraico": "שְׁב֣וּ", "transliteral": "šə-ḇû", "traducao_palavra": "habitai" },
+        { "hebraico": "בָאָ֗רֶץ", "transliteral": "ḇā-ʾā-reṣ", "traducao_palavra": "na terra" },
+        { "hebraico": "וְעִבְד֛וּ", "transliteral": "wə-ʿiḇ-ḏû", "traducao_palavra": "e servi" },
+        { "hebraico": "אֶת־מֶ֥לֶךְ", "transliteral": "ʾeṯ-me-leḵ", "traducao_palavra": "ao rei de" },
+        { "hebraico": "בָּבֶ֖ל", "transliteral": "bā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "וְיִיטַ֥ב", "transliteral": "wə-yî-ṭaḇ", "traducao_palavra": "e irá bem" },
+        { "hebraico": "לָכֶֽם׃", "transliteral": "lā-ḵem", "traducao_palavra": "a vós" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Quanto a mim, eis que habito em Mispa, para estar diante dos caldeus que vierem a nós; e vós, colhei vinho, e frutas de verão, e azeite, e ponde-os nos vossos vasos, e habitai nas vossas cidades que tomastes.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֞י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "הִנְנִ֣י", "transliteral": "hin-nî", "traducao_palavra": "eis-me aqui" },
+        { "hebraico": "יֹשֵׁ֣ב", "transliteral": "yō-šêḇ", "traducao_palavra": "habito" },
+        { "hebraico": "בַּמִּצְפָּ֗ה", "transliteral": "bam-miṣ-pā", "traducao_palavra": "em Mispa" },
+        { "hebraico": "לַעֲמֹד֙", "transliteral": "la-ʿă-mōḏ", "traducao_palavra": "para estar/servir" },
+        { "hebraico": "לִפְנֵ֣י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "הַכַּשְׂדִּ֔ים", "transliteral": "hak-kaś-dîm", "traducao_palavra": "os caldeus" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "יָבֹ֖אוּ", "transliteral": "yā-ḇō-ʾû", "traducao_palavra": "vierem" },
+        { "hebraico": "אֵלֵ֑ינוּ", "transliteral": "ʾē-lê-nû", "traducao_palavra": "a nós" },
+        { "hebraico": "וְאַתֶּ֡ם", "transliteral": "wə-ʾat-tem", "traducao_palavra": "e vós" },
+        { "hebraico": "אִסְפּ֥וּ", "transliteral": "ʾis-pû", "traducao_palavra": "colhei" },
+        { "hebraico": "יַיִן֙", "transliteral": "ya-yin", "traducao_palavra": "vinho" },
+        { "hebraico": "וְקַ֣יִץ", "transliteral": "wə-qa-yiṣ", "traducao_palavra": "e frutas de verão" },
+        { "hebraico": "וְשֶׁ֔מֶן", "transliteral": "wə-še-men", "traducao_palavra": "e azeite" },
+        { "hebraico": "וּשְׂמ֖וּ", "transliteral": "ū-śə-mû", "traducao_palavra": "e ponde" },
+        { "hebraico": "בִּכְלֵיכֶ֑ם", "transliteral": "biḵ-lê-ḵem", "traducao_palavra": "em vossos vasos" },
+        { "hebraico": "וּשְׁב֖וּ", "transliteral": "ū-šə-ḇû", "traducao_palavra": "e habitai" },
+        { "hebraico": "בְּעָרֵיכֶ֥ם", "transliteral": "bə-ʿā-rê-ḵem", "traducao_palavra": "em vossas cidades" },
+        { "hebraico": "אֲשֶׁר־תְּפַשְׂתֶּֽם׃", "transliteral": "ʾă-šer-tə-p̄aś-tem", "traducao_palavra": "que ocupastes" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Também todos os judeus que estavam em Moabe, e entre os filhos de Amom, e em Edom, e os que havia em todas as terras, ouviram que o rei da Babilônia deixara um resto em Judá, e que pusera sobre eles a Gedalias, filho de Aicão, filho de Safã.",
+      "palavras": [
+        { "hebraico": "וְגַ֣ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "כָּל־הַיְּהוּדִ֣ים", "transliteral": "kāl-hay-yə-hû-ḏîm", "traducao_palavra": "todos os judeus" },
+        { "hebraico": "אֲשֶׁר־בְּמֹואָ֣ב", "transliteral": "ʾă-šer-bə-mô-ʾāḇ", "traducao_palavra": "que [estavam] em Moabe" },
+        { "hebraico": "וּבִבְנֵי־עַמֹּ֨ון", "transliteral": "ū-ḇiḇ-nê-ʿam-môn", "traducao_palavra": "e entre os filhos de Amom" },
+        { "hebraico": "וּבֶאֱדֹ֜ום", "transliteral": "ū-ḇe-ʾĕ-ḏôm", "traducao_palavra": "e em Edom" },
+        { "hebraico": "וַאֲשֶׁ֣ר", "transliteral": "wa-ʾă-šer", "traducao_palavra": "e os que [estavam]" },
+        { "hebraico": "בְּכָל־הָאֲרָצֹ֗ות", "transliteral": "bə-ḵāl-hā-ʾă-rā-ṣôṯ", "traducao_palavra": "em todas as terras" },
+        { "hebraico": "שָׁמְעוּ֙", "transliteral": "šā-mə-ʿû", "traducao_palavra": "ouviram" },
+        { "hebraico": "כִּֽי־נָתַ֧ן", "transliteral": "kî-nā-ṯan", "traducao_palavra": "que deu/deixou" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֛ל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "o rei da Babilônia" },
+        { "hebraico": "שְׁאֵרִ֖ית", "transliteral": "šə-ʾē-rîṯ", "traducao_palavra": "um resto" },
+        { "hebraico": "לִיהוּדָ֑ה", "transliteral": "lî-hû-ḏā", "traducao_palavra": "a Judá" },
+        { "hebraico": "וְכִ֣י", "transliteral": "wə-ḵî", "traducao_palavra": "e que" },
+        { "hebraico": "הִפְקִ֣יד", "transliteral": "hip̄-qîḏ", "traducao_palavra": "pôs/encarregou" },
+        { "hebraico": "עֲלֵיהֶ֗ם", "transliteral": "ʿă-lê-hem", "traducao_palavra": "sobre eles" },
+        { "hebraico": "אֶת־גְּדַלְיָ֙הוּ֙", "transliteral": "ʾeṯ-gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶּן־אֲחִיקָ֣ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "בֶּן־שָׁפָֽן׃", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Voltaram, pois, todos os judeus de todos os lugares para onde tinham sido lançados, e vieram à terra de Judá, a Gedalias, a Mispa; e colheram vinho e frutas de verão em muita abundância.",
+      "palavras": [
+        { "hebraico": "וַיָּשֻׁ֣בוּ", "transliteral": "way-yā-šu-ḇû", "traducao_palavra": "e voltaram" },
+        { "hebraico": "כָל־הַיְּהוּדִ֗ים", "transliteral": "ḵāl-hay-yə-hû-ḏîm", "traducao_palavra": "todos os judeus" },
+        { "hebraico": "מִכָּל־הַמְּקֹמֹות֙", "transliteral": "mik-kāl-ham-mə-qō-môṯ", "traducao_palavra": "de todos os lugares" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "נִדְּחוּ־שָׁ֔ם", "transliteral": "nid-də-ḥû-šām", "traducao_palavra": "foram espalhados/lançados ali" },
+        { "hebraico": "וַיָּבֹ֧אוּ", "transliteral": "way-yā-ḇō-ʾû", "traducao_palavra": "e vieram" },
+        { "hebraico": "אֶרֶץ־יְהוּדָ֛ה", "transliteral": "ʾe-reṣ-yə-hû-ḏā", "traducao_palavra": "[à] terra de Judá" },
+        { "hebraico": "אֶל־גְּדַלְיָ֖הוּ", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "הַמִּצְפָּ֑תָה", "transliteral": "ham-miṣ-pā-ṯā", "traducao_palavra": "[a] Mispa" },
+        { "hebraico": "וַיַּאַסְפּ֥וּ", "transliteral": "way-ya-ʾas-pû", "traducao_palavra": "e colheram" },
+        { "hebraico": "יַ֛יִן", "transliteral": "ya-yin", "traducao_palavra": "vinho" },
+        { "hebraico": "וָקַ֖יִץ", "transliteral": "wā-qa-yiṣ", "traducao_palavra": "e frutas de verão" },
+        { "hebraico": "הַרְבֵּ֥ה", "transliteral": "har-bē", "traducao_palavra": "muito" },
+        { "hebraico": "מְאֹֽד׃", "transliteral": "mə-ʾōḏ", "traducao_palavra": "abundância/demais" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Joanã, filho de Careá, e todos os capitães dos exércitos que estavam no campo, vieram a Gedalias, a Mispa,",
+      "palavras": [
+        { "hebraico": "וְיֹוחָנָן֙", "transliteral": "wə-yô-ḥā-nān", "traducao_palavra": "e Joanã" },
+        { "hebraico": "בֶּן־קָרֵ֔חַ", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" },
+        { "hebraico": "וְכָל־שָׂרֵ֥י", "transliteral": "wə-ḵāl-śā-rê", "traducao_palavra": "e todos os capitães de" },
+        { "hebraico": "הַחֲיָלִ֖ים", "transliteral": "ha-ḥă-yā-lîm", "traducao_palavra": "exércitos" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "בַּשָּׂדֶ֑ה", "transliteral": "baś-śā-ḏeh", "traducao_palavra": "no campo" },
+        { "hebraico": "בָּ֥אוּ", "transliteral": "bā-ʾû", "traducao_palavra": "vieram" },
+        { "hebraico": "אֶל־גְּדַלְיָ֖הוּ", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "הַמִּצְפָּֽתָה׃", "transliteral": "ham-miṣ-pā-ṯā", "traducao_palavra": "[a] Mispa" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E disseram-lhe: Sabes tu que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para te tirar a vida? Mas Gedalias, filho de Aicão, não lhes deu crédito.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמְר֣וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אֵלָ֗יו", "transliteral": "ʾê-lāw", "traducao_palavra": "a ele" },
+        { "hebraico": "הֲיָדֹ֣עַ", "transliteral": "hă-yā-ḏō-aʿ", "traducao_palavra": "acaso sabes?" },
+        { "hebraico": "תֵּדַע֮", "transliteral": "tê-ḏaʿ", "traducao_palavra": "saberias" },
+        { "hebraico": "כִּ֡י", "transliteral": "kî", "traducao_palavra": "que" },
+        { "hebraico": "בַּעֲלִ֣יס", "transliteral": "ba-ʿă-lîs", "traducao_palavra": "Baalis" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "בְּנֵי־עַמֹּון֮", "transliteral": "bə-nê-ʿam-môn", "traducao_palavra": "filhos de Amom" },
+        { "hebraico": "שָׁלַח֮", "transliteral": "šā-laḥ", "traducao_palavra": "enviou" },
+        { "hebraico": "אֶת־יִשְׁמָעֵ֣אל", "transliteral": "ʾeṯ-yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָה֒", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "לְהַכֹּתְךָ֣", "transliteral": "lə-hak-kō-ṯə-ḵā", "traducao_palavra": "para te ferir/matar" },
+        { "hebraico": "נָ֑פֶשׁ", "transliteral": "nā-p̄eš", "traducao_palavra": "[a] alma/vida" },
+        { "hebraico": "וְלֹא־הֶאֱמִ֣ין", "transliteral": "wə-lō-he-ʾĕ-mîn", "traducao_palavra": "e não creu" },
+        { "hebraico": "לָהֶ֔ם", "transliteral": "lā-hem", "traducao_palavra": "neles" },
+        { "hebraico": "גְּדַלְיָ֖הוּ", "transliteral": "gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶּן־אֲחִיקָֽם׃", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E Joanã, filho de Careá, falou a Gedalias em segredo, em Mispa, dizendo: Deixa-me ir, e ferirei a Ismael, filho de Netanias, e ninguém o saberá; por que te tiraria ele a vida, para que todos os judeus que se ajuntaram a ti se espalhassem e perecesse o resto de Judá?",
+      "palavras": [
+        { "hebraico": "וְיֹוחָנָ֣ן", "transliteral": "wə-yô-ḥā-nān", "traducao_palavra": "e Joanã" },
+        { "hebraico": "בֶּן־קָרֵ֡חַ", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" },
+        { "hebraico": "אָמַר֩", "transliteral": "ʾā-mar", "traducao_palavra": "falou" },
+        { "hebraico": "אֶל־גְּדַלְיָ֨הוּ", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בַסֵּ֤תֶר", "transliteral": "ḇas-sê-ṯer", "traducao_palavra": "em segredo" },
+        { "hebraico": "בַּמִּצְפָּה֙", "transliteral": "bam-miṣ-pā", "traducao_palavra": "em Mispa" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "אֵלְכָה־נָּ֣א", "transliteral": "ʾê-lə-ḵā-nā", "traducao_palavra": "irei, peço-te" },
+        { "hebraico": "וְאַכֶּ֗ה", "transliteral": "wə-ʾak-keh", "traducao_palavra": "e ferirei" },
+        { "hebraico": "אֶת־יִשְׁמָעֵ֣אל", "transliteral": "ʾeṯ-yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֔ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "וְאִ֖ישׁ", "transliteral": "wə-ʾîš", "traducao_palavra": "e ninguém" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יֵדָ֑ע", "transliteral": "yê-ḏāʿ", "traducao_palavra": "saberá" },
+        { "hebraico": "לָ֧מָּה", "transliteral": "lām-mā", "traducao_palavra": "por que" },
+        { "hebraico": "יַכֶּ֣כָּה", "transliteral": "yak-kek-kā", "traducao_palavra": "ele te feriria" },
+        { "hebraico": "נֶּ֗פֶשׁ", "transliteral": "ne-p̄eš", "traducao_palavra": "[a] alma/vida" },
+        { "hebraico": "וְנָפֹ֙צוּ֙", "transliteral": "wə-nā-p̄ō-ṣû", "traducao_palavra": "e se espalhassem" },
+        { "hebraico": "כָּל־יְהוּדָ֔ה", "transliteral": "kāl-yə-hû-ḏā", "traducao_palavra": "todo o Judá" },
+        { "hebraico": "הַנִּקְבָּצִ֖ים", "transliteral": "han-niq-bā-ṣîm", "traducao_palavra": "os reunidos" },
+        { "hebraico": "אֵלֶ֑יךָ", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "וְאָבְדָ֖ה", "transliteral": "wə-ʾā-ḇə-ḏā", "traducao_palavra": "e perecesse" },
+        { "hebraico": "שְׁאֵרִ֥ית", "transliteral": "šə-ʾē-rîṯ", "traducao_palavra": "o resto de" },
+        { "hebraico": "יְהוּדָֽה׃", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal coisa; porque falas mentira de Ismael.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֨אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "גְּדַלְיָ֧הוּ", "transliteral": "gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָ֛ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "אֶל־יֹוחָנָ֣ן", "transliteral": "ʾel-yô-ḥā-nān", "traducao_palavra": "a Joanã" },
+        { "hebraico": "בֶּן־קָרֵ֔חַ", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" },
+        { "hebraico": "אַל־תַּעֲשֵׂ֧ה", "transliteral": "ʾal-ta-ʿă-śē", "traducao_palavra": "não faças" },
+        { "hebraico": "אֶת־הַדָּבָ֥ר", "transliteral": "ʾeṯ-had-dā-ḇār", "traducao_palavra": "esta coisa" },
+        { "hebraico": "הַזֶּ֖ה", "transliteral": "haz-zeh", "traducao_palavra": "esta" },
+        { "hebraico": "כִּֽי־שֶׁ֥קֶר", "transliteral": "kî-še-qer", "traducao_palavra": "porque mentira" },
+        { "hebraico": "אַתָּ֧ה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "דֹבֵ֧ר", "transliteral": "dō-ḇêr", "traducao_palavra": "estás falando" },
+        { "hebraico": "אֶל־יִשְׁמָעֵֽאל׃", "transliteral": "ʾel-yiš-mā-ʿēl", "traducao_palavra": "de/sobre Ismael" }
+      ]
+    }
 }

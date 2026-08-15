@@ -1,6 +1,349 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
+  "livro": "Jeremias - יִרְמְיָהוּ - Yirməyāhū",
   "capítulo": 28,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E sucedeu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no quinto mês, que Hananias, filho de Azur, o profeta que era de Gibeão, me falou na casa de YHWH, na presença dos sacerdotes e de todo o povo, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י ׀", "transliteral": "way-hî", "traducao_palavra": "E foi/sucedeu" },
+        { "hebraico": "בַּשָּׁנָ֣ה", "transliteral": "baš-šā-nāh", "traducao_palavra": "no ano" },
+        { "hebraico": "הַהִ֗יא", "transliteral": "ha-hî", "traducao_palavra": "aquele [mesmo]" },
+        { "hebraico": "בְּרֵאשִׁית֙", "transliteral": "bə-rē-šîṯ", "traducao_palavra": "no princípio de" },
+        { "hebraico": "מַמְלֶ֔כֶת", "transliteral": "mam-le-ḵeṯ", "traducao_palavra": "[o] reinado de" },
+        { "hebraico": "צִדְקִיָּ֥ה", "transliteral": "Ṣiḏ-qiy-yāh", "traducao_palavra": "Zedequias" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָ֖ה", "transliteral": "me-leḵ-Yə-hū-ḏāh", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "בשנת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano [Qere: biš-naṯ]" },
+        { "hebraico": "הָרְבִעִ֑ית", "transliteral": "hā-rə-ḇî-ʿîṯ", "traducao_palavra": "quarto" },
+        { "hebraico": "בַּחֹ֣דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הַחֲמִישִׁ֗י", "transliteral": "ha-ḥă-mî-šî", "traducao_palavra": "quinto" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֵלַ֡י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "חֲנַנְיָ֨ה", "transliteral": "Ḥă-nan-yāh", "traducao_palavra": "Hananias" },
+        { "hebraico": "בֶן־עַזּ֧וּר", "transliteral": "ben-ʿAz-zūr", "traducao_palavra": "filho de Azur" },
+        { "hebraico": "הַנָּבִ֛יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [era]" },
+        { "hebraico": "מִגִּבְעֹ֖ון", "transliteral": "miḡ-Giḇ-ʿō-wn", "traducao_palavra": "de Gibeão" },
+        { "hebraico": "בְּבֵ֣ית", "transliteral": "bə-ḇêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לְעֵינֵ֧י", "transliteral": "lə-ʿê-nê", "traducao_palavra": "perante os olhos de" },
+        { "hebraico": "הַכֹּהֲנִ֛ים", "transliteral": "hak-kō-hă-nîm", "traducao_palavra": "os sacerdotes" },
+        { "hebraico": "וְכָל־הָעָ֖ם", "transliteral": "wə-ḵāl-hā-ʿām", "traducao_palavra": "e todo o povo" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lē-ʾmōr", "traducao_palavra": "dizendo:" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Assim diz YHWH dos Exércitos, o Deus de Israel, dizendo: Eu quebrei o jugo do rei de Babilônia.",
+      "palavras": [
+        { "hebraico": "כֹּֽה־אָמַ֧ר", "transliteral": "kōh-ʾā-mar", "traducao_palavra": "Assim disse" },
+        { "hebraico": "יְהוָ֛ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾō-wṯ", "traducao_palavra": "Exércitos" },
+        { "hebraico": "אֱלֹהֵ֥י", "transliteral": "ʾĕ-lō-hê", "traducao_palavra": "Deus de" },
+        { "hebraico": "יִשְׂרָאֵ֖ל", "transliteral": "Yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lē-ʾmōr", "traducao_palavra": "dizendo:" },
+        { "hebraico": "שָׁבַ֕רְתִּי", "transliteral": "šā-ḇar-tî", "traducao_palavra": "Quebrei eu" },
+        { "hebraico": "אֶת־עֹ֖ל", "transliteral": "ʾeṯ-ʿōl", "traducao_palavra": "[partícula] o jugo de" },
+        { "hebraico": "מֶ֥לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "בָּבֶֽל׃", "transliteral": "Bā-ḇel", "traducao_palavra": "Babilônia." }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Dentro de dois anos de dias, eu tornarei a trazer a este lugar todos os vasos da casa de YHWH, que Nabucodonosor, rei de Babilônia, tomou deste lugar e os levou para Babilônia.",
+      "palavras": [
+        { "hebraico": "בְּעֹ֣וד ׀", "transliteral": "bə-ʿō-wḏ", "traducao_palavra": "Dentro de/Ainda" },
+        { "hebraico": "שְׁנָתַ֣יִם", "transliteral": "šə-nā-ṯa-yim", "traducao_palavra": "dois anos" },
+        { "hebraico": "יָמִ֗ים", "transliteral": "yā-mîm", "traducao_palavra": "de dias" },
+        { "hebraico": "אֲנִ֤י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "מֵשִׁীব֙", "transliteral": "mê-šîḇ", "traducao_palavra": "trazendo de volta" },
+        { "hebraico": "אֶל־הַמָּקֹ֣ום", "transliteral": "ʾel-ham-mā-qō-wm", "traducao_palavra": "para o lugar" },
+        { "hebraico": "הַזֶּ֔ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "אֵת֙", "transliteral": "ʾēṯ", "traducao_palavra": "[partícula]" },
+        { "hebraico": "כָּל־כְּלֵי֙", "transliteral": "kāl-kə-lê", "traducao_palavra": "todos os vasos de" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לָקַ֗ח", "transliteral": "lā-qaḥ", "traducao_palavra": "tomou" },
+        { "hebraico": "נְבוּכַדְנֶאצַּר֙", "transliteral": "Nə-ḇū-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֔ל", "transliteral": "me-leḵ-Bā-ḇel", "traducao_palavra": "rei de Babilônia" },
+        { "hebraico": "מִן־הַמָּקֹ֖ום", "transliteral": "min-ham-mā-qō-wm", "traducao_palavra": "deste lugar" },
+        { "hebraico": "הַזֶּ֑ה", "transliteral": "haz-zeh", "traducao_palavra": "[partícula]" },
+        { "hebraico": "וַיְבִיאֵ֖ם", "transliteral": "way-ḇî-ʾêm", "traducao_palavra": "e os trouxe" },
+        { "hebraico": "בָּבֶֽל׃", "transliteral": "Bā-ḇel", "traducao_palavra": "Babilônia." }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E também tornarei a trazer a este lugar a Jeconias, filho de Jeoaquim, rei de Judá, e a todos os cativos de Judá que foram para Babilônia, diz YHWH; porque quebrarei o jugo do rei de Babilônia.",
+      "palavras": [
+        { "hebraico": "וְאֶת־יְכָנְיָ֣ה", "transliteral": "wə-ʾeṯ-Yə-ḵā-nə-yāh", "traducao_palavra": "E a Jeconias" },
+        { "hebraico": "בֶן־יְהֹויָקִ֣ים", "transliteral": "ben-Yə-hō-w-yā-qîm", "traducao_palavra": "filho de Jeoaquim" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָה֩", "transliteral": "me-leḵ-Yə-hū-ḏāh", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "וְאֶת־כָּל־גָּל֨וּת", "transliteral": "wə-ʾeṯ-kāl-gā-lūṯ", "traducao_palavra": "e a todo o exílio/cativos de" },
+        { "hebraico": "יְהוּדָ֜ה", "transliteral": "Yə-hū-ḏāh", "traducao_palavra": "Judá" },
+        { "hebraico": "הַבָּאִ֣ים", "transliteral": "hab-bā-ʾîm", "traducao_palavra": "os que foram" },
+        { "hebraico": "בָּבֶ֗לָה", "transliteral": "Bā-ḇe-lāh", "traducao_palavra": "[para] Babilônia" },
+        { "hebraico": "אֲנִ֤י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "מֵשִׁיב֙", "transliteral": "mê-šîḇ", "traducao_palavra": "trarei de volta" },
+        { "hebraico": "אֶל־הַמָּקֹ֣ום", "transliteral": "ʾel-ham-mā-qō-wm", "traducao_palavra": "para o lugar" },
+        { "hebraico": "הַזֶּ֔ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "נְאֻם־יְהוָ֑ה", "transliteral": "nə-ʾum-YHWH", "traducao_palavra": "diz YHWH" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אֶשְׁבֹּ֕ר", "transliteral": "ʾeš-bōr", "traducao_palavra": "quebrarei" },
+        { "hebraico": "אֶת־עֹ֖ל", "transliteral": "ʾeṯ-ʿōl", "traducao_palavra": "[partícula] o jugo de" },
+        { "hebraico": "מֶ֥לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "בָּבֶֽל׃", "transliteral": "Bā-ḇel", "traducao_palavra": "Babilônia." }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Então falou o profeta Jeremias ao profeta Hananias, na presença dos sacerdotes e na presença de todo o povo que estava na casa de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֨אמֶר֙", "transliteral": "way-yō-mer", "traducao_palavra": "E disse" },
+        { "hebraico": "יִרְמְיָ֣ה", "transliteral": "Yir-mə-yāh", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֔יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶל־חֲנַנְיָ֖ה", "transliteral": "ʾel-Ḥă-nan-yāh", "traducao_palavra": "a Hananias" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "לְעֵינֵ֤י", "transliteral": "lə-ʿê-nê", "traducao_palavra": "perante os olhos de" },
+        { "hebraico": "הַכֹּהֲנִים֙", "transliteral": "hak-kō-hă-nîm", "traducao_palavra": "os sacerdotes" },
+        { "hebraico": "וּלְעֵינֵ֣י", "transliteral": "ū-lə-ʿê-nê", "traducao_palavra": "e perante os olhos de" },
+        { "hebraico": "כָל־הָעָ֔ם", "transliteral": "ḵāl-hā-ʿām", "traducao_palavra": "todo o povo" },
+        { "hebraico": "הָעֹמְדִ֖ים", "transliteral": "hā-ʿō-mə-ḏîm", "traducao_palavra": "os que estavam em pé" },
+        { "hebraico": "בְּבֵ֥ית", "transliteral": "bə-ḇêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH." }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Disse, pois, Jeremias o profeta: Amém! Assim faça YHWH; confirme YHWH as tuas palavras, que profetizaste, trazendo de volta os vasos da casa de YHWH, e todos os exilados, de Babilônia para este lugar.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֙אמֶר֙", "transliteral": "way-yō-mer", "traducao_palavra": "E disse" },
+        { "hebraico": "יִרְמְיָ֣ה", "transliteral": "Yir-mə-yāh", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֔יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אָמֵ֕ן", "transliteral": "ʾā-mên", "traducao_palavra": "Amém" },
+        { "hebraico": "כֵּ֖ן", "transliteral": "kên", "traducao_palavra": "assim" },
+        { "hebraico": "יַעֲשֶׂ֣ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "faça" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "יָקֵ֤ם", "transliteral": "yā-qêm", "traducao_palavra": "confirme/levante" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶת־דְּבָרֶ֔יךָ", "transliteral": "ʾeṯ-də-ḇā-re-y-ḵā", "traducao_palavra": "as tuas palavras" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "נִבֵּ֔אתָ", "transliteral": "nib-bê-ṯā", "traducao_palavra": "profetizaste" },
+        { "hebraico": "לְהָשִׁ֨יב", "transliteral": "lə-hā-šîḇ", "traducao_palavra": "de trazer de volta" },
+        { "hebraico": "כְּלֵ֧י", "transliteral": "kə-lê", "traducao_palavra": "[os] vasos de" },
+        { "hebraico": "בֵית־יְהוָ֛ה", "transliteral": "bêṯ-YHWH", "traducao_palavra": "casa de YHWH" },
+        { "hebraico": "וְכָל־הַגֹּולָ֖ה", "transliteral": "wə-ḵāl-hag-gō-w-lāh", "traducao_palavra": "e todo o exílio" },
+        { "hebraico": "מִבָּבֶ֖ל", "transliteral": "mib-Bā-ḇel", "traducao_palavra": "de Babilônia" },
+        { "hebraico": "אֶל־הַמָּקֹ֥ום", "transliteral": "ʾel-ham-mā-qō-wm", "traducao_palavra": "para o lugar" },
+        { "hebraico": "הַזֶּֽה׃", "transliteral": "haz-zeh", "traducao_palavra": "este." }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Contudo ouve agora esta palavra que eu falo aos teus ouvidos e aos ouvidos de todo o povo:",
+      "palavras": [
+        { "hebraico": "אַךְ־שְׁמַֽע־", "transliteral": "ʾaḵ-šə-ma-ʿ-", "traducao_palavra": "Mas/Contudo ouve" },
+        { "hebraico": "נָא֙", "transliteral": "nā", "traducao_palavra": "agora/pois" },
+        { "hebraico": "הַדָּבָ֣ר", "transliteral": "had-dā-ḇar", "traducao_palavra": "a palavra" },
+        { "hebraico": "הַזֶּ֔ה", "transliteral": "haz-zeh", "traducao_palavra": "esta" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אָנֹכִ֖י", "transliteral": "ʾā-nō-ḵî", "traducao_palavra": "eu" },
+        { "hebraico": "דֹּבֵ֣ר", "transliteral": "dō-ḇêr", "traducao_palavra": "[estou] falando" },
+        { "hebraico": "בְּאָזְנֶ֑יךָ", "transliteral": "bə-ʾāz-ne-y-ḵā", "traducao_palavra": "em teus ouvidos" },
+        { "hebraico": "וּבְאָזְנֵ֖י", "transliteral": "ū-ḇə-ʾāz-nê", "traducao_palavra": "e nos ouvidos de" },
+        { "hebraico": "כָל־הָעָֽם׃", "transliteral": "ḵāl-hā-ʿām", "traducao_palavra": "todo o povo." }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram contra muitas terras e contra grandes reinos, acerca de guerra, de maldade e de peste.",
+      "palavras": [
+        { "hebraico": "הַנְּבִיאִ֗ים", "transliteral": "han-nə-ḇî-ʾîm", "traducao_palavra": "Os profetas" },
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הָי֧וּ", "transliteral": "hā-yū", "traducao_palavra": "houve" },
+        { "hebraico": "לְפָנַ֛י", "transliteral": "lə-p̄ā-nay", "traducao_palavra": "antes de mim" },
+        { "hebraico": "וּלְפָנֶ֖יךָ", "transliteral": "ū-lə-p̄ā-ne-ḵā", "traducao_palavra": "e antes de ti" },
+        { "hebraico": "מִן־הָעֹולָ֑ם", "transliteral": "min-hā-ʿō-w-lām", "traducao_palavra": "desde a antiguidade" },
+        { "hebraico": "וַיִּנָּבְא֞וּ", "transliteral": "way-yin-nā-ḇə-ʾū", "traducao_palavra": "e profetizaram" },
+        { "hebraico": "אֶל־אֲרָצֹ֣ות", "transliteral": "ʾel-ʾă-rā-ṣō-wṯ", "traducao_palavra": "contra terras" },
+        { "hebraico": "רַבֹּ֗ות", "transliteral": "rab-bō-wṯ", "traducao_palavra": "muitas" },
+        { "hebraico": "וְעַל־מַמְלָכֹות֙", "transliteral": "wə-ʿal-mam-lā-ḵō-wṯ", "traducao_palavra": "e contra reinos" },
+        { "hebraico": "גְּדֹלֹ֔ות", "transliteral": "gə-ḏō-lō-wṯ", "traducao_palavra": "grandes" },
+        { "hebraico": "לְמִלְחָמָ֖ה", "transliteral": "lə-mil-ḥā-māh", "traducao_palavra": "acerca de guerra" },
+        { "hebraico": "וּלְרָעָ֥ה", "transliteral": "ū-lə-rā-ʿāh", "traducao_palavra": "e de maldade/calamidade" },
+        { "hebraico": "וּלְדָֽבֶר׃", "transliteral": "ū-lə-ḏā-ḇer", "traducao_palavra": "e de peste." }
+      ]
+    },
+    "9": {
+      "traducao_completa": "O profeta que profetizar paz, quando se cumprir a palavra do profeta, será conhecido como o profeta que YHWH verdadeiramente enviou.",
+      "palavras": [
+        { "hebraico": "הַנָּבִ֕יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "[Quanto ao] profeta" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "יִנָּבֵ֖א", "transliteral": "yin-nā-ḇē", "traducao_palavra": "profetizar" },
+        { "hebraico": "לְשָׁלֹ֑ום", "transliteral": "lə-šā-lō-wm", "traducao_palavra": "paz" },
+        { "hebraico": "בְּבֹא֙", "transliteral": "bə-ḇō", "traducao_palavra": "ao vir/quando se cumprir" },
+        { "hebraico": "דְּבַ֣ר", "transliteral": "də-ḇar", "traducao_palavra": "a palavra de" },
+        { "hebraico": "הַנָּבִ֔יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "יִוָּדַַ֖ע", "transliteral": "yiw-wā-ḏa-ʿ", "traducao_palavra": "será conhecido" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֲשֶׁר־", "transliteral": "ʾă-šer-", "traducao_palavra": "que" },
+        { "hebraico": "שְׁלָחֹ֥ו", "transliteral": "šə-lā-ḥō-w", "traducao_palavra": "enviou ele" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בֶּאֱמֶֽת׃", "transliteral": "be-ʾĕ-meṯ", "traducao_palavra": "em verdade." }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Então Hananias, o profeta, tomou o jugo do pescoço do profeta Jeremias e o quebrou.",
+      "palavras": [
+        { "hebraico": "וַיִּקַּ֞ח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "E tomou" },
+        { "hebraico": "חֲנַנְיָ֣ה", "transliteral": "Ḥă-nan-yāh", "traducao_palavra": "Hananias" },
+        { "hebraico": "הַנָּבִ֗יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶת־", "transliteral": "ʾeṯ-", "traducao_palavra": "[partícula acusativa]" },
+        { "hebraico": "הַמֹּוטָה֙", "transliteral": "ham-mō-w-ṭāh", "traducao_palavra": "o jugo/barra" },
+        { "hebraico": "מֵעַ֕ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "צַוַּ֖אר", "transliteral": "ṣaw-war", "traducao_palavra": "[o] pescoço de" },
+        { "hebraico": "יִרְמְיָ֣ה", "transliteral": "Yir-mə-yāh", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "וַֽיִּשְׁבְּרֵֽהוּ׃", "transliteral": "way-yiš-bə-rê-hū", "traducao_palavra": "e o quebrou." }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E falou Hananias na presença de todo o povo, dizendo: Assim diz YHWH: Deste modo, dentro de dois anos de dias, quebrarei o jugo de Nabucodonosor, rei de Babilônia, de sobre o pescoço de todas as nações. E Jeremias, o profeta, seguiu o seu caminho.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "E disse" },
+        { "hebraico": "חֲנַנְיָה֩", "transliteral": "Ḥă-nan-yāh", "traducao_palavra": "Hananias" },
+        { "hebraico": "לְעֵינֵ֨י", "transliteral": "lə-ʿê-nê", "traducao_palavra": "perante os olhos de" },
+        { "hebraico": "כָל־הָעָ֜ם", "transliteral": "ḵāl-hā-ʿām", "traducao_palavra": "todo o povo" },
+        { "hebraico": "לֵאמֹ֗ר", "transliteral": "lē-ʾmōr", "traducao_palavra": "dizendo:" },
+        { "hebraico": "כֹּ֣ה ׀", "transliteral": "kōh", "traducao_palavra": "Assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֗ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "כָּ֣כָה", "transliteral": "kā-ḵāh", "traducao_palavra": "Deste modo/Assim" },
+        { "hebraico": "אֶשְׁבֹּ֞ר", "transliteral": "ʾeš-bōr", "traducao_palavra": "quebrarei eu" },
+        { "hebraico": "אֶת־עֹ֣ל ׀", "transliteral": "ʾeṯ-ʿōl", "traducao_palavra": "[partícula] o jugo de" },
+        { "hebraico": "נְבוּכַדְנֶאצַּ֣ר", "transliteral": "Nə-ḇū-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֗ל", "transliteral": "me-leḵ-Bā-ḇel", "traducao_palavra": "rei de Babilônia" },
+        { "hebraico": "בְּעֹוד֙", "transliteral": "bə-ʿō-wḏ", "traducao_palavra": "dentro de" },
+        { "hebraico": "שְׁנָתַ֣יִם", "transliteral": "šə-nā-ṯa-yim", "traducao_palavra": "dois anos" },
+        { "hebraico": "יָמִ֔ים", "transliteral": "yā-mîm", "traducao_palavra": "de dias" },
+        { "hebraico": "מֵעַ֕ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "צַוַּ֖אר", "transliteral": "ṣaw-war", "traducao_palavra": "[o] pescoço de" },
+        { "hebraico": "כָּל־הַגֹּויִ֑ם", "transliteral": "ḵāl-hag-gō-w-yim", "traducao_palavra": "todas as nações" },
+        { "hebraico": "וַיֵּ֛לֶךְ", "transliteral": "way-yê-leḵ", "traducao_palavra": "e foi" },
+        { "hebraico": "יִרְמְיָ֥ה", "transliteral": "Yir-mə-yāh", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֖יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "לְדַרְכֹּֽו׃", "transliteral": "lə-ḏar-kō-w", "traducao_palavra": "pelo seu caminho." }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E veio a palavra de YHWH a Jeremias, depois que Hananias, o profeta, quebrou o jugo de sobre o pescoço do profeta Jeremias, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "E foi/veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־יִרְמְיָ֑ה", "transliteral": "ʾel-Yir-mə-yāh", "traducao_palavra": "a Jeremias" },
+        { "hebraico": "אַ֠חֲרֵי", "transliteral": "ʾa-ḥă-rê", "traducao_palavra": "depois que" },
+        { "hebraico": "שְׁבֹ֞ר", "transliteral": "šə-ḇōr", "traducao_palavra": "[o] quebrar" },
+        { "hebraico": "חֲנַנְיָ֣ה", "transliteral": "Ḥă-nan-yāh", "traducao_palavra": "Hananias" },
+        { "hebraico": "הַנָּבִ֗יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶת־הַמֹּוטָה֙", "transliteral": "ʾeṯ-ham-mō-w-ṭāh", "traducao_palavra": "[partícula] o jugo" },
+        { "hebraico": "מֵעַ֕ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "צַוַּ֖אר", "transliteral": "ṣaw-war", "traducao_palavra": "[o] pescoço de" },
+        { "hebraico": "יִרְמְיָ֥ה", "transliteral": "Yir-mə-yāh", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֖יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lē-ʾmōr", "traducao_palavra": "dizendo:" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Vai, e dize a Hananias, dizendo: Assim diz YHWH: Jugos de madeira quebraste; mas em vez deles farás jugos de ferro.",
+      "palavras": [
+        { "hebraico": "הָלֹוךְ֩", "transliteral": "hā-lō-wḵ", "traducao_palavra": "Vai" },
+        { "hebraico": "וְאָמַרְתָּ֨", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "אֶל־חֲנַנְיָה֮", "transliteral": "ʾel-Ḥă-nan-yāh", "traducao_palavra": "a Hananias" },
+        { "hebraico": "לֵאמֹר֒", "transliteral": "lē-ʾmōr", "traducao_palavra": "dizendo:" },
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "Assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "מֹוטֹ֥ת", "transliteral": "mō-w-ṭō-wṯ", "traducao_palavra": "Jugos/Barras de" },
+        { "hebraico": "עֵ֖ץ", "transliteral": "ʿêṣ", "traducao_palavra": "madeira" },
+        { "hebraico": "שָׁבָ֑רְתָּ", "transliteral": "šā-ḇār-tā", "traducao_palavra": "quebraste" },
+        { "hebraico": "וְעָשִׂ֥יתָ", "transliteral": "wə-ʿā-śî-ṯā", "traducao_palavra": "e farás tu" },
+        { "hebraico": "תַחְתֵּיהֶ֖ן", "transliteral": "ṯaḥ-tê-hen", "traducao_palavra": "em lugar delas" },
+        { "hebraico": "מֹטֹ֥ות", "transliteral": "mō-ṭō-wṯ", "traducao_palavra": "jugos de" },
+        { "hebraico": "בַּרְזֶֽל׃", "transliteral": "bar-zel", "traducao_palavra": "ferro." }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Porque assim diz YHWH dos Exércitos, o Deus de Israel: Um jugo de ferro pus sobre o pescoço de todas estas nações, para servirem a Nabucodonosor, rei de Babilônia, e o servirão; e até os animais do campo lhe dei.",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "Porque" },
+        { "hebraico": "כֹֽה־אָמַר֩", "transliteral": "kōh-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "יְהוָ֨ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֜ות", "transliteral": "ṣə-ḇā-ʾō-wṯ", "traducao_palavra": "Exércitos" },
+        { "hebraico": "אֱלֹהֵ֣י", "transliteral": "ʾĕ-lō-hê", "traducao_palavra": "Deus de" },
+        { "hebraico": "יִשְׂרָאֵ֗ל", "transliteral": "Yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "עֹ֣ל", "transliteral": "ʿōl", "traducao_palavra": "[um] jugo de" },
+        { "hebraico": "בַּרְזֶ֞ל", "transliteral": "bar-zel", "traducao_palavra": "ferro" },
+        { "hebraico": "נָתַ֣תִּי ׀", "transliteral": "nā-ṯat-tî", "traducao_palavra": "pus eu" },
+        { "hebraico": "עַל־צַוַּאר֙", "transliteral": "ʿal-ṣaw-war", "traducao_palavra": "sobre [o] pescoço de" },
+        { "hebraico": "כָּל־הַגֹּויִ֣ם", "transliteral": "kāl-hag-gō-w-yim", "traducao_palavra": "todas as nações" },
+        { "hebraico": "הָאֵ֔לֶּה", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "לַעֲבֹ֖ד", "transliteral": "la-ʿă-ḇōḏ", "traducao_palavra": "para servir" },
+        { "hebraico": "אֶת־", "transliteral": "ʾeṯ-", "traducao_palavra": "[partícula]" },
+        { "hebraico": "נְבֻכַדְנֶאצַּ֣ר", "transliteral": "Nə-ḇu-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֑ל", "transliteral": "me-leḵ-Bā-ḇel", "traducao_palavra": "rei de Babilônia" },
+        { "hebraico": "וַעֲבָדֻ֔הוּ", "transliteral": "wa-ʿă-ḇā-ḏu-hū", "traducao_palavra": "e servirão ele" },
+        { "hebraico": "וְגַ֛ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "אֶת־חַיַּ֥ת", "transliteral": "ʾeṯ-ḥay-yaṯ", "traducao_palavra": "a fera de/animal de" },
+        { "hebraico": "הַשָּׂדֶ֖ה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "נָתַ֥תִּי", "transliteral": "nā-ṯat-tî", "traducao_palavra": "dei" },
+        { "hebraico": "לֹֽו׃", "transliteral": "lō-w", "traducao_palavra": "a ele." }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E disse Jeremias, o profeta, a Hananias, o profeta: Ouve agora, Hananias: YHWH não te enviou, mas tu fazes este povo confiar em mentiras.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֨אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "E disse" },
+        { "hebraico": "יִרְמְיָ֧ה", "transliteral": "Yir-mə-yāh", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֛יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶל־חֲנַנְיָ֖ה", "transliteral": "ʾel-Ḥă-nan-yāh", "traducao_palavra": "a Hananias" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "שְׁמַֽע־", "transliteral": "šə-ma-ʿ-", "traducao_palavra": "Ouve" },
+        { "hebraico": "נָ֣א", "transliteral": "nā", "traducao_palavra": "pois/agora" },
+        { "hebraico": "חֲנַנְיָ֔ה", "transliteral": "Ḥă-nan-yāh", "traducao_palavra": "Hananias" },
+        { "hebraico": "לֹֽא־שְׁלָחֲךָ֣", "transliteral": "lō-šə-lā-ḥă-ḵā", "traducao_palavra": "não enviou a ti" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְאַתָּה֙", "transliteral": "wə-ʾat-tāh", "traducao_palavra": "e tu" },
+        { "hebraico": "הִבְטַ֣חְתָּ", "transliteral": "hiḇ-ṭaḥ-tā", "traducao_palavra": "fizeste confiar" },
+        { "hebraico": "אֶת־הָעָ֥ם", "transliteral": "ʾeṯ-hā-ʿām", "traducao_palavra": "[partícula] o povo" },
+        { "hebraico": "הַזֶּ֖ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "עַל־שָֽׁקֶר׃", "transliteral": "ʿal-šā-qer", "traducao_palavra": "em mentira." }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Portanto, assim diz YHWH: Eis que te lançarei de sobre a face da terra; este ano morrerás, porque pregaste rebeldia contra YHWH.",
+      "palavras": [
+        { "hebraico": "לָכֵן֙", "transliteral": "lā-ḵēn", "traducao_palavra": "Portanto" },
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הִנְנִ֣י", "transliteral": "hin-nî", "traducao_palavra": "Eis que eu" },
+        { "hebraico": "מְשַׁלֵּחֲךָ֔", "transliteral": "mə-šal-lê-ḥă-ḵā", "traducao_palavra": "estou enviando a ti/lançando a ti" },
+        { "hebraico": "מֵעַ֖ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "פְּנֵ֣י", "transliteral": "pə-nê", "traducao_palavra": "a face de" },
+        { "hebraico": "הָאֲדָמָ֑ה", "transliteral": "hā-ʾă-ḏā-māh", "traducao_palavra": "a terra" },
+        { "hebraico": "הַשָּׁנָה֙", "transliteral": "haš-šā-nāh", "traducao_palavra": "[neste] ano" },
+        { "hebraico": "אַתָּ֣ה", "transliteral": "ʾat-tāh", "traducao_palavra": "tu" },
+        { "hebraico": "מֵ֔ת", "transliteral": "mêṯ", "traducao_palavra": "morrerás" },
+        { "hebraico": "כִּֽי־סָרָ֥ה", "transliteral": "kî-śā-rāh", "traducao_palavra": "porque rebeldia/apostasia" },
+        { "hebraico": "דִבַּ֖רְתָּ", "transliteral": "dib-bar-tā", "traducao_palavra": "falaste" },
+        { "hebraico": "אֶל־יְהוָֽה׃", "transliteral": "ʾel-YHWH", "traducao_palavra": "contra YHWH." }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E morreu Hananias, o profeta, no mesmo ano, no sétimo mês.",
+      "palavras": [
+        { "hebraico": "וַיָּ֛מָת", "transliteral": "way-yā-māṯ", "traducao_palavra": "E morreu" },
+        { "hebraico": "חֲנַנְיָ֥ה", "transliteral": "Ḥă-nan-yāh", "traducao_palavra": "Hananias" },
+        { "hebraico": "הַנָּבִ֖יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "בַּשָּׁנָ֥ה", "transliteral": "baš-šā-nāh", "traducao_palavra": "no ano" },
+        { "hebraico": "הַהִ֖יא", "transliteral": "ha-hî", "traducao_palavra": "aquele [mesmo]" },
+        { "hebraico": "בַּחֹ֥דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הַשְּׁבִיעִֽי׃", "transliteral": "haš-šə-ḇî-ʿî", "traducao_palavra": "sétimo." }
+      ]
+    }
+  }
 }

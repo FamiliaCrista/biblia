@@ -1,6 +1,165 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
-  "capítulo": 39,
-  "titulos": {},
-  "versiculos": {}
+    "10": {
+      "traducao_completa": "Mas a alguns do povo, os pobres que não tinham nada, Nebuzaradã, capitão da guarda, deixou na terra de Judá; e deu-lhes vinhas e campos naquele dia.",
+      "palavras": [
+        { "hebraico": "וּמִן־הָעָ֣ם", "transliteral": "ū-min-hā-ʿām", "traducao_palavra": "e do povo" },
+        { "hebraico": "הַדַּלִּ֔ים", "transliteral": "had-dal-lîm", "traducao_palavra": "os pobres/humildes" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אֵין־לָהֶ֖ם", "transliteral": "ʾên-lā-hem", "traducao_palavra": "não tinham nada" },
+        { "hebraico": "מְא֑וּם", "transliteral": "mə-ʾûm", "traducao_palavra": "coisa alguma" },
+        { "hebraico": "הִשְׁאִ֞יר", "transliteral": "hiš-ʾîr", "traducao_palavra": "deixou" },
+        { "hebraico": "נְבוּזַרְאֲדָ֧ן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִ֖ים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" },
+        { "hebraico": "בְּאֶ֣רֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra de" },
+        { "hebraico": "יְהוּדָ֑ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וַיִּתֵּ֨ן", "transliteral": "way-yit-tên", "traducao_palavra": "e deu" },
+        { "hebraico": "לָהֶ֥ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "כְּרָמִ֛ים", "transliteral": "kə-rā-mîm", "traducao_palavra": "vinhas" },
+        { "hebraico": "וִיוָגֵ֖ב", "transliteral": "wî-yā-ḡêḇ", "traducao_palavra": "e campos/lavouras" },
+        { "hebraico": "בַּיֹּ֥ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַהֽוּא׃", "transliteral": "ha-hû", "traducao_palavra": "aquele" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E Nabucodonosor, rei da Babilônia, dera ordem acerca de Jeremias, a Nebuzaradã, capitão da guarda, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְצַ֤ו", "transliteral": "way-ṣaw", "traducao_palavra": "e ordenou" },
+        { "hebraico": "נְבוּכַדְרֶאצַּר֙", "transliteral": "nə-ḇû-ḵaḏ-reṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מֶ֣לֶךְ־בָּבֶ֔ל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "rei da Babilônia" },
+        { "hebraico": "עַל־יִרְמְיָָ֖הוּ", "transliteral": "ʿal-yir-mə-yā-hû", "traducao_palavra": "acerca de Jeremias" },
+        { "hebraico": "בְּיַ֥ד", "transliteral": "bə-yaḏ", "traducao_palavra": "pela mão de" },
+        { "hebraico": "נְבוּזַרְאֲדָ֧ן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִ֖ים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Toma-o, e põe os teus olhos sobre ele, e não lhe faças mal algum; mas como ele te disser, assim farás com ele.",
+      "palavras": [
+        { "hebraico": "קָחֶ֗נּוּ", "transliteral": "qā-ḥen-nû", "traducao_palavra": "toma-o" },
+        { "hebraico": "וְעֵינֶ֨יךָ֙", "transliteral": "wə-ʿê-ne-ḵā", "traducao_palavra": "e teus olhos" },
+        { "hebraico": "שִׂ֣ים", "transliteral": "śîm", "traducao_palavra": "põe" },
+        { "hebraico": "עָלָ֔יו", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele" },
+        { "hebraico": "וְאַל־תַּ֥עַשׂ", "transliteral": "wə-ʾal-ta-ʿaś", "traducao_palavra": "e não faças" },
+        { "hebraico": "לֹ֖ו", "transliteral": "lô", "traducao_palavra": "a ele" },
+        { "hebraico": "מְא֣וּם", "transliteral": "mə-ʾûm", "traducao_palavra": "coisa alguma" },
+        { "hebraico": "רָ֑ע", "transliteral": "rā", "traducao_palavra": "má" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "mas" },
+        { "hebraico": "אִם־כַּאֲשֶׁ֛ר", "transliteral": "ʾim-ka-ʾă-šer", "traducao_palavra": "conforme" },
+        { "hebraico": "יְדַבֵּ֥ר", "transliteral": "yə-ḏab-bêr", "traducao_palavra": "ele falar" },
+        { "hebraico": "אֵלֶ֖יךָ", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "כֵּ֥ן", "transliteral": "kên", "traducao_palavra": "assim" },
+        { "hebraico": "עֲשֵׂ֥ה", "transliteral": "ʿă-śē", "traducao_palavra": "farás" },
+        { "hebraico": "עִמֹּֽו׃", "transliteral": "ʿim-mô", "traducao_palavra": "com ele" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Enviou, pois, Nebuzaradã, capitão da guarda, e Nebushasbã, Rab-Saris, e Nergal-Sarezer, Rab-Mag, e todos os príncipes do rei da Babilônia;",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁלַ֡ח", "transliteral": "way-yiš-laḥ", "traducao_palavra": "e enviou" },
+        { "hebraico": "נְבוּזַרְאֲדָ֣ן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִים֮", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" },
+        { "hebraico": "וּנְבוּשַׁזְבָּ֣ן", "transliteral": "ū-nə-ḇû-šaz-bān", "traducao_palavra": "e Nebushasbã" },
+        { "hebraico": "רַב־סָרִ֑יס", "transliteral": "raḇ-śā-rîs", "traducao_palavra": "Rab-Saris" },
+        { "hebraico": "וְנֵרְגַ֣ל", "transliteral": "wə-nêr-ḡal", "traducao_palavra": "e Nergal-" },
+        { "hebraico": "שַׁר־אֶ֕צֶר", "transliteral": "śar-ʾe-ṣer", "traducao_palavra": "Sarezer" },
+        { "hebraico": "רַב־מָ֖ג", "transliteral": "raḇ-māḡ", "traducao_palavra": "Rab-Mag" },
+        { "hebraico": "וְכֹ֖ל", "transliteral": "wə-ḵōl", "traducao_palavra": "e todos" },
+        { "hebraico": "רַבֵּ֥י", "transliteral": "rab-bê", "traducao_palavra": "os príncipes de/grandes de" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶֽל׃", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "rei da Babilônia" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Enviaram, e tomaram a Jeremias do pátio da guarda, e o entregaram a Gedalias, filho de Aicão, filho de Safã, para que o levasse para casa; e ele habitou entre o povo.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁלְח֡וּ", "transliteral": "way-yiš-lə-ḥû", "traducao_palavra": "e enviaram" },
+        { "hebraico": "וַיִּקְח֣וּ", "transliteral": "way-yiq-ḥû", "traducao_palavra": "e tomaram" },
+        { "hebraico": "אֶת־יִרְמְיָָהוּ֮", "transliteral": "ʾeṯ-yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "מֵחֲצַ֣ר", "transliteral": "mê-ḥă-ṣar", "traducao_palavra": "do pátio de" },
+        { "hebraico": "הַמַּטָּרָה֒", "transliteral": "ham-maṭ-ṭā-rā", "traducao_palavra": "a guarda" },
+        { "hebraico": "וַיִּתְּנ֣וּ", "transliteral": "way-yit-tə-nû", "traducao_palavra": "e o entregaram" },
+        { "hebraico": "אֹתֹ֗ו", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "אֶל־גְּדַלְיָ֙הוּ֙", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶּן־אֲחִיקָ֣ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "בֶּן־שָׁפָ֔ן", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "לְהֹוצִיאֵ֖הוּ", "transliteral": "lə-hô-ṣî-ʾê-hû", "traducao_palavra": "para levá-lo" },
+        { "hebraico": "אֶל־הַבָּ֑יִת", "transliteral": "ʾel-hab-bā-yiṯ", "traducao_palavra": "para a casa" },
+        { "hebraico": "וַיֵּ֖שֶׁב", "transliteral": "way-yê-šeḇ", "traducao_palavra": "e habitou" },
+        { "hebraico": "בְּתֹ֥וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הָעָֽם׃", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Ora, a palavra de YHWH viera a Jeremias, estando ele ainda preso no pátio da guarda, dizendo:",
+      "palavras": [
+        { "hebraico": "וְאֶל־יִרְמְיָָ֖הוּ", "transliteral": "wə-ʾel-yir-mə-yā-hû", "traducao_palavra": "e a Jeremias" },
+        { "hebraico": "הָיָ֣ה", "transliteral": "hā-yā", "traducao_palavra": "veio/foi" },
+        { "hebraico": "דְבַר־יְהוָ֑ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "בִּהְיֹותֹ֥ו", "transliteral": "bih-yô-ṯô", "traducao_palavra": "estando ele" },
+        { "hebraico": "עָצ֖וּר", "transliteral": "ʿā-ṣûr", "traducao_palavra": "preso/detido" },
+        { "hebraico": "בַּחֲצַ֥ר", "transliteral": "ba-ḥă-ṣar", "traducao_palavra": "no pátio de" },
+        { "hebraico": "הַמַּטָּרָ֥ה", "transliteral": "ham-maṭ-ṭā-rā", "traducao_palavra": "a guarda" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Vai, e dize a Ebede-Meleque, o etíope, dizendo: Assim diz YHWH dos Exércitos, Deus de Israel: Eis que eu trarei as minhas palavras sobre esta cidade para mal e não para bem; e se cumprirão diante de ti naquele dia.",
+      "palavras": [
+        { "hebraico": "הָלֹ֡וךְ", "transliteral": "hā-lôḵ", "traducao_palavra": "vai" },
+        { "hebraico": "וְאָמַרְתָּ֩", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "לְעֶבֶד־מֶ֨לֶךְ֙", "transliteral": "lə-ʿe-ḇeḏ-me-leḵ", "traducao_palavra": "a Ebede-Meleque" },
+        { "hebraico": "הַכּוּשִׁ֣י", "transliteral": "hak-kû-šî", "traducao_palavra": "o etíope" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "כֹּֽה־אָמַ֞ר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "יְהוָ֧ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹות֮", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "אֱלֹהֵ֣י", "transliteral": "ĕ-lō-hê", "traducao_palavra": "Deus de" },
+        { "hebraico": "יִשְׂרָאֵל֒", "transliteral": "yiś-rā-ʾêl", "traducao_palavra": "Israel" },
+        { "hebraico": "הִנְנִ֨י", "transliteral": "hin-nî", "traducao_palavra": "eis que eu" },
+        { "hebraico": "מֵבִ֤יא", "transliteral": "mê-ḇî", "traducao_palavra": "trazendo" },
+        { "hebraico": "אֶת־דְּבָרַי֙", "transliteral": "ʾeṯ-də-ḇā-ray", "traducao_palavra": "minhas palavras" },
+        { "hebraico": "אֶל־הָעִ֣יר", "transliteral": "ʾel-hā-ʿîr", "traducao_palavra": "sobre a cidade" },
+        { "hebraico": "הַזֹּאת֙", "transliteral": "haz-zōṯ", "traducao_palavra": "esta" },
+        { "hebraico": "לְרָעָ֔ה", "transliteral": "lə-rā-ʿā", "traducao_palavra": "para mal" },
+        { "hebraico": "וְלֹ֖א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "לְטֹובָ֑ה", "transliteral": "lə-ṭô-ḇā", "traducao_palavra": "para bem" },
+        { "hebraico": "וְהָי֥וּ", "transliteral": "wə-hā-yû", "traducao_palavra": "e elas serão/acontecerão" },
+        { "hebraico": "לְפָנֶ֖יךָ", "transliteral": "lə-p̄ā-ne-ḵā", "traducao_palavra": "diante de ti" },
+        { "hebraico": "בַּיֹּ֥ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַהֽוּא׃", "transliteral": "ha-hû", "traducao_palavra": "aquele" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Mas a ti livrarei naquele dia, diz YHWH, e não serás entregue na mão dos homens perante cuja face tu temes.",
+      "palavras": [
+        { "hebraico": "וְהִצַּלְתִּ֥יךָ", "transliteral": "wə-hiṣ-ṣal-tî-ḵā", "traducao_palavra": "e te livrarei" },
+        { "hebraico": "בַיֹּום־הַה֖וּא", "transliteral": "ḇay-yôm-ha-hû", "traducao_palavra": "naquele dia" },
+        { "hebraico": "נְאֻם־יְהוָ֑ה", "transliteral": "nə-ʾum-YHWH", "traducao_palavra": "diz YHWH" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "תִנָּתֵ֔ן", "transliteral": "tin-nā-ṯên", "traducao_palavra": "serás entregue" },
+        { "hebraico": "בְּיַד֙", "transliteral": "bə-yaḏ", "traducao_palavra": "na mão de" },
+        { "hebraico": "הָאֲנָשִׁ֔ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "אֲשֶׁר־אַתָּ֥ה", "transliteral": "ʾă-šer-ʾat-tā", "traducao_palavra": "que tu" },
+        { "hebraico": "יָגֹ֖ור", "transliteral": "yā-ḡôr", "traducao_palavra": "temes/receias" },
+        { "hebraico": "מִפְּנֵיהֶֽם׃", "transliteral": "mip-pə-nê-hem", "traducao_palavra": "por causa da face deles" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Porque certamente te livrarei, e não cairás à espada; mas a tua alma terás por despojo, porquanto confiaste em mim, diz YHWH.",
+      "palavras": [
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "מַלֵּט֙", "transliteral": "mal-lêṭ", "traducao_palavra": "livrando" },
+        { "hebraico": "אֲמַלֶּטְךָ֔", "transliteral": "ʾă-mal-leṭ-ḵā", "traducao_palavra": "te livrarei certamente" },
+        { "hebraico": "וּבַחֶ֖רֶב", "transliteral": "ū-ḇa-ḥe-reḇ", "traducao_palavra": "e pela espada" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תִפֹּ֑ל", "transliteral": "tip-pōl", "traducao_palavra": "cairás" },
+        { "hebraico": "וְהָיְתָ֨ה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e será" },
+        { "hebraico": "לְךָ֤", "transliteral": "lə-ḵā", "traducao_palavra": "para ti" },
+        { "hebraico": "נַפְשְׁךָ֙", "transliteral": "nap̄-šə-ḵā", "traducao_palavra": "tua alma" },
+        { "hebraico": "לְשָׁלָ֔ל", "transliteral": "lə-šā-lāl", "traducao_palavra": "por despojo" },
+        { "hebraico": "כִּֽי־בָטַ֥חְתָּ", "transliteral": "kî-ḇā-ṭaḥ-tā", "traducao_palavra": "porquanto confiaste" },
+        { "hebraico": "בִּ֖י", "transliteral": "bî", "traducao_palavra": "em mim" },
+        { "hebraico": "נְאֻם־יְהוָֽה׃", "transliteral": "nə-ʾum-YHWH", "traducao_palavra": "diz YHWH" }
+      ]
+    }
 }

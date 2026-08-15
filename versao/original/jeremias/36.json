@@ -1,6 +1,663 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
+  "livro": "Jeremias - יִרְמְיָ֫הוּ - Yirmeyahu",
   "capítulo": 36,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E sucedeu no quarto ano de Jeoaquim, filho de Josias, rei de Judá, que veio esta palavra a Jeremias, da parte de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בַּשָּׁנָ֣ה", "transliteral": "baš-šā-nā", "traducao_palavra": "no ano" },
+        { "hebraico": "הָרְבִיעִ֗ית", "transliteral": "hā-rə-ḇî-ʿîṯ", "traducao_palavra": "quarto" },
+        { "hebraico": "לִיהֹויָקִ֧ים", "transliteral": "lî-hô-yā-qîm", "traducao_palavra": "de Jeoaquim" },
+        { "hebraico": "בֶּן־יֹאשִׁיָּ֛הוּ", "transliteral": "ben-yō-šî-yā-hû", "traducao_palavra": "filho de Josias" },
+        { "hebraico": "מֶ֥לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "יְהוּדָ֖ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "הָיָ֞ה", "transliteral": "hā-yā", "traducao_palavra": "veio/foi" },
+        { "hebraico": "הַדָּבָ֥ר", "transliteral": "had-dā-ḇār", "traducao_palavra": "a palavra" },
+        { "hebraico": "הַזֶּ֛ה", "transliteral": "haz-zeh", "traducao_palavra": "esta" },
+        { "hebraico": "אֶל־יִרְמְיָ֖הוּ", "transliteral": "ʾel-yir-mə-yā-hû", "traducao_palavra": "a Jeremias" },
+        { "hebraico": "מֵאֵ֥ת", "transliteral": "mê-ʾēṯ", "traducao_palavra": "da parte de" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Toma o rolo de um livro e escreve nele todas as palavras que te falei contra Israel, e contra Judá, e contra todas as nações, desde o dia em que te falei, desde os dias de Josias até o dia de hoje.",
+      "palavras": [
+        { "hebraico": "קַח־לְךָ֕", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "מְגִלַּת־סֵ֑פֶר", "transliteral": "mə-ḡil-laṯ-sê-p̄er", "traducao_palavra": "um rolo de livro" },
+        { "hebraico": "וְכָתַבְתָּ֣", "transliteral": "wə-ḵā-ṯaḇ-tā", "traducao_palavra": "e escreverás" },
+        { "hebraico": "אֵלֶ֗יהָ", "transliteral": "ʾê-le-hā", "traducao_palavra": "nele" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִ֞ים", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "אֲשֶׁר־דִּבַּ֧רְתִּי", "transliteral": "ʾă-šer-dib-bar-tî", "traducao_palavra": "que falei" },
+        { "hebraico": "אֵלֶ֛יךָ", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "עַל־יִשְׂרָאֵ֥ל", "transliteral": "ʿal-yiś-rā-ʾēl", "traducao_palavra": "sobre Israel" },
+        { "hebraico": "וְעַל־יְהוּדָ֖ה", "transliteral": "wə-ʿal-yə-hû-ḏā", "traducao_palavra": "e sobre Judá" },
+        { "hebraico": "וְעַל־כָּל־הַגֹּויִ֑ם", "transliteral": "wə-ʿal-kāl-hag-gô-yim", "traducao_palavra": "e sobre todas as nações" },
+        { "hebraico": "מִיֹּ֧ום", "transliteral": "miy-yôm", "traducao_palavra": "desde o dia" },
+        { "hebraico": "דִּבַּ֣רְתִּי", "transliteral": "dib-bar-tî", "traducao_palavra": "que falei" },
+        { "hebraico": "אֵלֶ֗יךָ", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "מִימֵי֙", "transliteral": "mî-mê", "traducao_palavra": "desde os dias de" },
+        { "hebraico": "יֹאשִׁיָּ֔הוּ", "transliteral": "yō-šî-yā-hû", "traducao_palavra": "Josias" },
+        { "hebraico": "וְעַ֖ד", "transliteral": "wə-ʿaḏ", "traducao_palavra": "e até" },
+        { "hebraico": "הַיֹּ֥ום", "transliteral": "hay-yôm", "traducao_palavra": "o dia" },
+        { "hebraico": "הַזֶּֽה׃", "transliteral": "haz-zeh", "traducao_palavra": "este" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Talvez a casa de Judá ouça todo o mal que eu intento fazer-lhes, para que cada um se converta do seu mau caminho, e eu perdoe a sua iniquidade e o seu pecado.",
+      "palavras": [
+        { "hebraico": "אוּלַ֣י", "transliteral": "ʾû-lay", "traducao_palavra": "talvez" },
+        { "hebraico": "יִשְׁמְע֞וּ", "transliteral": "yiš-mə-ʿû", "traducao_palavra": "ouçam" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יְהוּדָ֗ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "אֵ֚ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הָרָעָ֔ה", "transliteral": "kāl-hā-rā-ʿā", "traducao_palavra": "todo o mal" },
+        { "hebraico": "אֲשֶׁר֙", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אָנֹכִ֣י", "transliteral": "ʾā-nō-ḵî", "traducao_palavra": "eu" },
+        { "hebraico": "חֹשֵׁ֥ב", "transliteral": "ḥō-šêḇ", "traducao_palavra": "estou planejando" },
+        { "hebraico": "לַעֲשֹׂ֖ות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "fazer" },
+        { "hebraico": "לָהֶ֑ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "לְמַ֣עַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "a fim de que" },
+        { "hebraico": "יָשׁ֗וּבוּ", "transliteral": "yā-šû-ḇû", "traducao_palavra": "se convertam" },
+        { "hebraico": "אִ֚ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "מִדַּרְכֹּ֣ו", "transliteral": "mid-dar-kō", "traducao_palavra": "de seu caminho" },
+        { "hebraico": "הָרָעָ֔ה", "transliteral": "hā-rā-ʿā", "traducao_palavra": "mau" },
+        { "hebraico": "וְסָלַחְתִּ֥י", "transliteral": "wə-śā-laḥ-tî", "traducao_palavra": "e eu perdoarei" },
+        { "hebraico": "לַעֲוֹנָ֖ם", "transliteral": "la-ʿă-wō-nām", "traducao_palavra": "a iniquidade deles" },
+        { "hebraico": "וּלְחַטָּאתָֽם׃", "transliteral": "ū-lə-ḥaṭ-ṭā-ṯām", "traducao_palavra": "e o pecado deles" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Então chamou Jeremias a Baruque, filho de Nerias; e escreveu Baruque, da boca de Jeremias, todas as palavras de YHWH, que ele lhe tinha falado, no rolo de um livro.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרָ֣א", "transliteral": "way-yiq-rā", "traducao_palavra": "e chamou" },
+        { "hebraico": "יִרְמְיָ֔הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "אֶת־בָּר֖וּךְ", "transliteral": "ʾeṯ-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "בֶּן־נֵרִיָּ֑ה", "transliteral": "ben-nê-rî-yā", "traducao_palavra": "filho de Nerias" },
+        { "hebraico": "וַיִּכְתֹּ֨ב", "transliteral": "way-yik-tōḇ", "traducao_palavra": "e escreveu" },
+        { "hebraico": "בָּר֜וּךְ", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "מִפִּ֣י", "transliteral": "mip-pî", "traducao_palavra": "da boca de" },
+        { "hebraico": "יִרְמְיָ֗הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־דִּבְרֵ֧י", "transliteral": "kāl-diḇ-rê", "traducao_palavra": "todas as palavras de" },
+        { "hebraico": "יְהוָ֛ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֲשֶׁר־דִּבֶּ֥ר", "transliteral": "ʾă-šer-dib-ber", "traducao_palavra": "que [ele] falou" },
+        { "hebraico": "אֵלָ֖יו", "transliteral": "ʾê-lāw", "traducao_palavra": "a ele" },
+        { "hebraico": "עַל־מְגִלַּת־סֵֽפֶר׃", "transliteral": "ʿal-mə-ḡil-laṯ-sê-p̄er", "traducao_palavra": "sobre o rolo do livro" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E Jeremias deu ordem a Baruque, dizendo: Eu estou impedido; não posso entrar na casa de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיְצַוֶּ֣ה", "transliteral": "way-ṣaw-weh", "traducao_palavra": "e ordenou" },
+        { "hebraico": "יִרְמְיָ֔הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "אֶת־בָּר֖וּךְ", "transliteral": "ʾeṯ-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "עָצ֔וּר", "transliteral": "ʿā-ṣûr", "traducao_palavra": "estou impedido/detido" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אוּכַ֔ל", "transliteral": "ʾû-ḵal", "traducao_palavra": "posso" },
+        { "hebraico": "לָבֹ֖וא", "transliteral": "lā-ḇô", "traducao_palavra": "entrar em" },
+        { "hebraico": "בֵּ֥ית", "transliteral": "bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Entra, pois, tu e lê no rolo, que escreveste da minha boca, as palavras de YHWH, aos ouvidos do povo, na casa de YHWH, no dia do jejum; e também as lerás aos ouvidos de todo o Judá que vem das suas cidades.",
+      "palavras": [
+        { "hebraico": "וּבָ֨אתָ", "transliteral": "ū-ḇā-ṯā", "traducao_palavra": "e tu entrarás" },
+        { "hebraico": "אַתָּ֜ה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "וְקָרָ֣אתָ", "transliteral": "wə-qā-rā-ṯā", "traducao_palavra": "e lerás" },
+        { "hebraico": "בַמְּגִלָּ֣ה", "transliteral": "ḇam-mə-ḡil-lā", "traducao_palavra": "no rolo" },
+        { "hebraico": "אֲשֶׁר־כָּתַ֧בְתָּ", "transliteral": "ʾă-šer-kā-ṯaḇ-tā", "traducao_palavra": "que escreveste" },
+        { "hebraico": "מִפִּ֣י", "transliteral": "mip-pî", "traducao_palavra": "da minha boca" },
+        { "hebraico": "אֶת־דִּבְרֵי", "transliteral": "ʾeṯ-diḇ-rê", "traducao_palavra": "as palavras de" },
+        { "hebraico": "יְהוָ֗ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בְּאָזְנֵ֥י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "הָעָ֛ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "בֵּ֥ית", "transliteral": "bêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בְּיֹ֣ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "צֹ֑ום", "transliteral": "ṣôm", "traducao_palavra": "jejum" },
+        { "hebraico": "וְגַ֨ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "בְּאָזְנֵ֖י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "כָל־יְהוּדָ֛ה", "transliteral": "ḵāl-yə-hû-ḏā", "traducao_palavra": "todo o Judá" },
+        { "hebraico": "הַבָּאִ֥ים", "transliteral": "hab-bā-ʾîm", "traducao_palavra": "os que vêm" },
+        { "hebraico": "מֵעָרֵיהֶ֖ם", "transliteral": "mê-ʿā-rê-hem", "traducao_palavra": "de suas cidades" },
+        { "hebraico": "תִּקְרָאֵֽם׃", "transliteral": "tiq-rā-ʾêm", "traducao_palavra": "as lerás" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Talvez caia a sua súplica diante de YHWH, e se converta cada um do seu mau caminho; porque grande é a ira e o furor que YHWH tem pronunciado contra este povo.",
+      "palavras": [
+        { "hebraico": "אוּלַ֞י", "transliteral": "ʾû-lay", "traducao_palavra": "talvez" },
+        { "hebraico": "תִּפֹּ֤ל", "transliteral": "tip-pōl", "traducao_palavra": "caia" },
+        { "hebraico": "תְּחִנָּתָם֙", "transliteral": "tə-ḥin-nā-ṯām", "traducao_palavra": "a súplica deles" },
+        { "hebraico": "לִפְנֵ֣י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְיָשֻׁ֕בוּ", "transliteral": "wə-yā-šu-ḇû", "traducao_palavra": "e se convertam" },
+        { "hebraico": "אִ֖ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "מִדַּרְכֹּ֣ו", "transliteral": "mid-dar-kō", "traducao_palavra": "de seu caminho" },
+        { "hebraico": "הָרָעָ֑ה", "transliteral": "hā-rā-ʿā", "traducao_palavra": "mau" },
+        { "hebraico": "כִּֽי־גָדֹ֤ול", "transliteral": "kî-ḡā-ḏôl", "traducao_palavra": "porque grande [é]" },
+        { "hebraico": "הָאַף֙", "transliteral": "hā-ʾap̄", "traducao_palavra": "a ira" },
+        { "hebraico": "וְהַחֵמָ֔ה", "transliteral": "wə-ha-ḥê-mā", "traducao_palavra": "e o furor" },
+        { "hebraico": "אֲשֶׁר־דִּבֶּ֥ר", "transliteral": "ʾă-šer-dib-ber", "traducao_palavra": "que falou" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶל־הָעָ֥ם", "transliteral": "ʾel-hā-ʿām", "traducao_palavra": "contra o povo" },
+        { "hebraico": "הַזֶּֽה׃", "transliteral": "haz-zeh", "traducao_palavra": "este" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E fez Baruque, filho de Nerias, conforme tudo quanto lhe havia ordenado Jeremias, o profeta, lendo naquele livro as palavras de YHWH, na casa de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיַּ֗עַשׂ", "transliteral": "way-ya-ʿaś", "traducao_palavra": "e fez" },
+        { "hebraico": "בָּרוּךְ֙", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "בֶּן־נֵרִיָּ֔ה", "transliteral": "ben-nê-rî-yā", "traducao_palavra": "filho de Nerias" },
+        { "hebraico": "כְּכֹ֥ל", "transliteral": "kə-ḵōl", "traducao_palavra": "conforme tudo" },
+        { "hebraico": "אֲשֶׁר־צִוָּ֖הוּ", "transliteral": "ʾă-šer-ṣiw-wā-hû", "traducao_palavra": "que lhe ordenou" },
+        { "hebraico": "יִרְמְיָ֣הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "לִקְרֹ֥א", "transliteral": "liq-rō", "traducao_palavra": "para ler" },
+        { "hebraico": "בַסֵּ֛פֶר", "transliteral": "ḇas-sê-p̄er", "traducao_palavra": "no livro" },
+        { "hebraico": "דִּבְרֵ֥י", "transliteral": "diḇ-rê", "traducao_palavra": "as palavras de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בֵּ֥ית", "transliteral": "bêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E sucedeu no quinto ano de Jeoaquim, filho de Josias, rei de Judá, no nono mês, que proclamaram um jejum diante de YHWH a todo o povo em Jerusalém, e a todo o povo que vinha das cidades de Judá a Jerusalém.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בַשָּׁנָ֣ה", "transliteral": "ḇaš-šā-nā", "traducao_palavra": "no ano" },
+        { "hebraico": "הַחֲמִשִׁ֣ית", "transliteral": "ha-ḥă-miš-šîṯ", "traducao_palavra": "quinto" },
+        { "hebraico": "לִיהֹויָקִ֣ים", "transliteral": "lî-hô-yā-qîm", "traducao_palavra": "de Jeoaquim" },
+        { "hebraico": "בֶּן־יֹאשִׁיָּ֣הוּ", "transliteral": "ben-yō-šî-yā-hû", "traducao_palavra": "filho de Josias" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָ֞ה", "transliteral": "me-leḵ-yə-hû-ḏā", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "בַּחֹ֣דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הַתְּשִׁעִ֗י", "transliteral": "hat-tə-ši-ʿî", "traducao_palavra": "nono" },
+        { "hebraico": "קָרְא֨וּ", "transliteral": "qā-rə-ʾû", "traducao_palavra": "proclamaram" },
+        { "hebraico": "צֹ֜ום", "transliteral": "ṣôm", "traducao_palavra": "um jejum" },
+        { "hebraico": "לִפְנֵ֧י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "יְהוָ֛ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "כָּל־הָעָ֖ם", "transliteral": "kāl-hā-ʿām", "traducao_palavra": "todo o povo" },
+        { "hebraico": "בִּירֽוּשָׁלִָ֑ם", "transliteral": "bî-rû-šā-la-yim", "traducao_palavra": "em Jerusalém" },
+        { "hebraico": "וְכָל־הָעָ֗ם", "transliteral": "wə-ḵāl-hā-ʿām", "traducao_palavra": "e todo o povo" },
+        { "hebraico": "הַבָּאִ֛ים", "transliteral": "hab-bā-ʾîm", "traducao_palavra": "os que vinham" },
+        { "hebraico": "מֵעָרֵ֥י", "transliteral": "mê-ʿā-rê", "traducao_palavra": "das cidades de" },
+        { "hebraico": "יְהוּדָ֖ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "בִּירֽוּשָׁלִָֽם׃", "transliteral": "bî-rû-šā-lā-yim", "traducao_palavra": "em Jerusalém" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E leu Baruque no livro as palavras de Jeremias, na casa de YHWH, na câmara de Gemarias, filho de Safã, o escriba, no átrio superior, à entrada da porta nova da casa de YHWH, aos ouvidos de todo o povo.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרָ֨א", "transliteral": "way-yiq-rā", "traducao_palavra": "e leu" },
+        { "hebraico": "בָר֜וּךְ", "transliteral": "ḇā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "בַּסֵּ֤פֶר", "transliteral": "bas-sê-p̄er", "traducao_palavra": "no livro" },
+        { "hebraico": "אֶת־דִּבְרֵי֙", "transliteral": "ʾeṯ-diḇ-rê", "traducao_palavra": "as palavras de" },
+        { "hebraico": "יִרְמְיָ֔הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בְּלִשְׁכַּ֡ת", "transliteral": "bə-liš-kaṯ", "traducao_palavra": "na câmara de" },
+        { "hebraico": "גְּמַרְיָהוּ֩", "transliteral": "gə-mar-yā-hû", "traducao_palavra": "Gemarias" },
+        { "hebraico": "בֶּן־שָׁפָ֨ן", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "הַסֹּפֵ֜ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "בֶּחָצֵ֣ר", "transliteral": "be-ḥā-ṣêr", "traducao_palavra": "no átrio" },
+        { "hebraico": "הָעֶלְיֹ֗ון", "transliteral": "hā-ʿel-yôn", "traducao_palavra": "superior" },
+        { "hebraico": "פֶּ֣תַח", "transliteral": "pe-ṯaḥ", "traducao_palavra": "à entrada de" },
+        { "hebraico": "שַׁ֤עַר", "transliteral": "ša-ʿar", "traducao_palavra": "porta" },
+        { "hebraico": "בֵּית־יְהוָ֖ה", "transliteral": "bêṯ-YHWH", "traducao_palavra": "casa de YHWH" },
+        { "hebraico": "הֶחָדָ֑שׁ", "transliteral": "he-ḥā-ḏāš", "traducao_palavra": "nova" },
+        { "hebraico": "בְּאָזְנֵ֥י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "כָל־הָעָֽם׃", "transliteral": "ḵāl-hā-ʿām", "traducao_palavra": "todo o povo" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E ouvindo Micaías, filho de Gemarias, filho de Safã, todas as palavras de YHWH, daquele livro,",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁמַ֧ע", "transliteral": "way-yiš-maʿ", "traducao_palavra": "e ouviu" },
+        { "hebraico": "מִיכָיָ֛הוּ", "transliteral": "mî-ḵā-yā-hû", "traducao_palavra": "Micaías" },
+        { "hebraico": "בֶּן־גְּמַרְיָ֥הוּ", "transliteral": "ben-gə-mar-yā-hû", "traducao_palavra": "filho de Gemarias" },
+        { "hebraico": "בֶן־שָׁפָ֖ן", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "אֶת־כָּל־דִּבְרֵ֥י", "transliteral": "ʾeṯ-kāl-diḇ-rê", "traducao_palavra": "todas as palavras de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "מֵעַ֥ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre/daquele" },
+        { "hebraico": "הַסֵּֽפֶר׃", "transliteral": "has-sê-p̄er", "traducao_palavra": "livro" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Desceu então à casa do rei, à câmara do escriba; e eis que todos os príncipes estavam ali assentados: Elisama, o escriba, e Delaías, filho de Semaías, e Elnatã, filho de Acbor, e Gemarias, filho de Safã, e Zedequias, filho de Hananias, e todos os outros príncipes.",
+      "palavras": [
+        { "hebraico": "וַיֵּ֤רֶד", "transliteral": "way-yē-reḏ", "traducao_palavra": "e desceu" },
+        { "hebraico": "בֵּית־הַמֶּ֨לֶךְ", "transliteral": "bêṯ-ham-me-leḵ", "traducao_palavra": "[à] casa do rei" },
+        { "hebraico": "עַל־לִשְׁכַּ֣ת", "transliteral": "ʿal-liš-kaṯ", "traducao_palavra": "à câmara de" },
+        { "hebraico": "הַסֹּפֵ֑ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "וְהִנֵּה־שָׁם֙", "transliteral": "wə-hin-nēh-šām", "traducao_palavra": "e eis que lá" },
+        { "hebraico": "כָּל־הַשָּׂרִ֣ים", "transliteral": "kāl-haś-śā-rîm", "traducao_palavra": "todos os príncipes" },
+        { "hebraico": "יֹושְׁבִ֔ים", "transliteral": "yô-šə-ḇîm", "traducao_palavra": "sentados" },
+        { "hebraico": "אֱלִישָׁמָ֣ע", "transliteral": "ʾĕ-lî-šā-māʿ", "traducao_palavra": "Elisama" },
+        { "hebraico": "הַסֹּפֵ֗ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "וּדְלָיָ֣הוּ", "transliteral": "ū-ḏə-lā-yā-hû", "traducao_palavra": "e Delaías" },
+        { "hebraico": "בֶן־שְׁמַעְיָהוּ֩", "transliteral": "ben-šə-ma-ʿə-yā-hû", "traducao_palavra": "filho de Semaías" },
+        { "hebraico": "וְאֶלְנָתָ֨ן", "transliteral": "wə-ʾel-nā-ṯān", "traducao_palavra": "e Elnatã" },
+        { "hebraico": "בֶּן־עַכְבֹּ֜ור", "transliteral": "ben-ʿaḵ-bôr", "traducao_palavra": "filho de Acbor" },
+        { "hebraico": "וּגְמַרְיָ֧הוּ", "transliteral": "ū-ḡə-mar-yā-hû", "traducao_palavra": "e Gemarias" },
+        { "hebraico": "בֶן־שָׁפָ֛ן", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "וְצִדְקִיָּ֥הוּ", "transliteral": "wə-ṣiḏ-qi-yā-hû", "traducao_palavra": "e Zedequias" },
+        { "hebraico": "בֶן־חֲנַנְיָ֖הוּ", "transliteral": "ben-ḥă-nan-yā-hû", "traducao_palavra": "filho de Hananias" },
+        { "hebraico": "וְכָל־הַשָּׂרִֽים׃", "transliteral": "wə-ḵāl-haś-śā-rîm", "traducao_palavra": "e todos os príncipes" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E Micaías anunciou-lhes todas as palavras que ouvira, quando Baruque leu no livro, aos ouvidos do povo.",
+      "palavras": [
+        { "hebraico": "וַיַּגֵּ֤ד", "transliteral": "way-yag-gêḏ", "traducao_palavra": "e anunciou" },
+        { "hebraico": "לָהֶם֙", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "מִיכָיָ֔הוּ", "transliteral": "mî-ḵā-yā-hû", "traducao_palavra": "Micaías" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִ֖ים", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "שָׁמֵ֑עַ", "transliteral": "šā-mê-aʿ", "traducao_palavra": "ele ouviu" },
+        { "hebraico": "בִּקְרֹ֤א", "transliteral": "biq-rō", "traducao_palavra": "ao ler" },
+        { "hebraico": "בָר֨וּךְ֙", "transliteral": "ḇā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "בַּסֵּ֔פר", "transliteral": "bas-sê-p̄er", "traducao_palavra": "no livro" },
+        { "hebraico": "בְּאָזְנֵ֖י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "הָעָֽם׃", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Então todos os príncipes enviaram Jehudi, filho de Netanias, filho de Selemias, filho de Cusi, a Baruque, dizendo: O rolo que leste aos ouvidos do povo, toma-o na tua mão, e vem. E Baruque, filho de Nerias, tomou o rolo na sua mão, e veio a eles.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁלְח֨וּ", "transliteral": "way-yiš-lə-ḥû", "traducao_palavra": "e enviaram" },
+        { "hebraico": "כָל־הַשָּׂרִ֜ים", "transliteral": "ḵāl-haś-śā-rîm", "traducao_palavra": "todos os príncipes" },
+        { "hebraico": "אֶל־בָּר֗וּךְ", "transliteral": "ʾel-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "אֶת־יְהוּדִ֡י", "transliteral": "ʾeṯ-yə-hû-ḏî", "traducao_palavra": "Jehudi" },
+        { "hebraico": "בֶּן־נְתַנְיָ֡הוּ", "transliteral": "ben-nə-ṯan-yā-hû", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "בֶּן־שֶׁלֶמְיָ֣הוּ", "transliteral": "ben-še-lem-yā-hû", "traducao_palavra": "filho de Selemias" },
+        { "hebraico": "בֶן־כּוּשִׁ֣י", "transliteral": "ben-kû-šî", "traducao_palavra": "filho de Cusi" },
+        { "hebraico": "לֵאמֹ֕ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "הַמְּגִלָּ֗ה", "transliteral": "ham-mə-ḡil-lā", "traducao_palavra": "o rolo" },
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "קָרָ֤אתָ", "transliteral": "qā-rā-ṯā", "traducao_palavra": "leste" },
+        { "hebraico": "בָּהּ֙", "transliteral": "bāh", "traducao_palavra": "nele" },
+        { "hebraico": "בְּאָזְנֵ֣י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "הָעָ֔ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "קָחֶ֥נָּה", "transliteral": "qā-ḥen-nā", "traducao_palavra": "toma-o" },
+        { "hebraico": "בְיָדְךָ֖", "transliteral": "ḇə-yā-ḏə-ḵā", "traducao_palavra": "na tua mão" },
+        { "hebraico": "וָלֵ֑ךְ", "transliteral": "wā-lêḵ", "traducao_palavra": "e vem" },
+        { "hebraico": "וַיִּקַּ֞ח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "e tomou" },
+        { "hebraico": "בָּר֧וּךְ", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "בֶּן־נֵרִיָּ֛ה", "transliteral": "ben-nê-rî-yā", "traducao_palavra": "filho de Nerias" },
+        { "hebraico": "אֶת־הַמְּגִלָּ֥ה", "transliteral": "ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "o rolo" },
+        { "hebraico": "בְּיָדֹ֖ו", "transliteral": "bə-yā-ḏô", "traducao_palavra": "na sua mão" },
+        { "hebraico": "וַיָּבֹ֥א", "transliteral": "way-yā-ḇō", "traducao_palavra": "e veio" },
+        { "hebraico": "אֲלֵיהֶֽם׃", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E disseram-lhe: Assenta-te agora, e lê-o aos nossos ouvidos. E Baruque o leu aos seus ouvidos.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמְר֣וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אֵלָ֗יו", "transliteral": "ʾê-lāw", "traducao_palavra": "a ele" },
+        { "hebraico": "שֵׁ֣ב", "transliteral": "šēḇ", "traducao_palavra": "assenta-te" },
+        { "hebraico": "נָ֔א", "transliteral": "nā", "traducao_palavra": "agora/rogamos" },
+        { "hebraico": "וּקְרָאֶ֖נָּה", "transliteral": "ū-qə-rā-ʾen-nā", "traducao_palavra": "e lê-o" },
+        { "hebraico": "בְּאָזְנֵ֑ינוּ", "transliteral": "bə-ʾāz-nê-nû", "traducao_palavra": "aos nossos ouvidos" },
+        { "hebraico": "וַיִּקְרָ֥א", "transliteral": "way-yiq-rā", "traducao_palavra": "e leu" },
+        { "hebraico": "בָר֖וּךְ", "transliteral": "ḇā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "בְּאָזְנֵיהֶֽם׃", "transliteral": "bə-ʾāz-nê-hem", "traducao_palavra": "aos ouvidos deles" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "E sucedeu que, ouvindo eles todas aquelas palavras, voltaram-se espantados uns para os outros, e disseram a Baruque: Sem dúvida anunciaremos ao rei todas estas palavras.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֗י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כְּשָׁמְעָם֙", "transliteral": "kə-šā-mə-ʿām", "traducao_palavra": "ao ouvirem" },
+        { "hebraico": "אֶת־כָּל־הַדְּבָרִ֔ים", "transliteral": "ʾeṯ-kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "פָּחֲד֖וּ", "transliteral": "pā-ḥă-ḏû", "traducao_palavra": "tremeram/temeram" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "אֶל־רֵעֵ֑הוּ", "transliteral": "ʾel-rē-ʿê-hû", "traducao_palavra": "para o seu companheiro" },
+        { "hebraico": "וַיֹּאמְרוּ֙", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אֶל־בָּר֔וּךְ", "transliteral": "ʾel-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "הַגֵּ֤יד", "transliteral": "hag-gêḏ", "traducao_palavra": "anunciar" },
+        { "hebraico": "נַגִּיד֙", "transliteral": "nag-gîḏ", "traducao_palavra": "certamente anunciaremos" },
+        { "hebraico": "לַמֶּ֔לֶךְ", "transliteral": "lam-me-leḵ", "traducao_palavra": "ao rei" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִ֖ים", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "הָאֵֽלֶּה׃", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E perguntaram a Baruque, dizendo: Declara-nos agora, como escreveste da sua boca todas estas palavras?",
+      "palavras": [
+        { "hebraico": "וְאֶת־בָּר֖וּךְ", "transliteral": "wə-ʾeṯ-bā-rûḵ", "traducao_palavra": "e a Baruque" },
+        { "hebraico": "שָׁאֲל֣וּ", "transliteral": "šā-ʾă-lû", "traducao_palavra": "perguntaram" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "הַגֶּד־נָ֣א", "transliteral": "hag-geḏ-nā", "traducao_palavra": "declara, rogo-te" },
+        { "hebraico": "לָ֔נוּ", "transliteral": "lā-nû", "traducao_palavra": "a nós" },
+        { "hebraico": "אֵיךְ֙", "transliteral": "ʾêḵ", "traducao_palavra": "como" },
+        { "hebraico": "כָּתַ֣בְתָּ", "transliteral": "kā-ṯaḇ-tā", "traducao_palavra": "escreveste" },
+        { "hebraico": "אֶת־כָּל־הַדְּבָרִ֥ים", "transliteral": "ʾeṯ-kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "הָאֵ֖לֶּה", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "מִפִּֽיו׃", "transliteral": "mip-pîw", "traducao_palavra": "da boca dele" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E disse-lhes Baruque: Da sua boca ele me ditava todas estas palavras, e eu as escrevia no livro com tinta.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "לָהֶם֙", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "בָּר֔וּךְ", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "מִפִּיו֙", "transliteral": "mip-pîw", "traducao_palavra": "da sua boca" },
+        { "hebraico": "יִקְרָ֣א", "transliteral": "yiq-rā", "traducao_palavra": "ele ditava/chamava" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִ֖ים", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "הָאֵ֑לֶּה", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "וַאֲנִ֛י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "כֹּתֵ֥ב", "transliteral": "kō-ṯêḇ", "traducao_palavra": "escrevia" },
+        { "hebraico": "עַל־הַסֵּ֖פֶר", "transliteral": "ʿal-has-sê-p̄er", "traducao_palavra": "no livro" },
+        { "hebraico": "בַּדְּיֹֽו׃", "transliteral": "bad-də-yô", "traducao_palavra": "com tinta" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Então disseram os príncipes a Baruque: Vai, esconde-te, tu e Jeremias, e ninguém saiba onde estais.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמְר֨וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "הַשָּׂרִ֜ים", "transliteral": "haś-śā-rîm", "traducao_palavra": "os príncipes" },
+        { "hebraico": "אֶל־בָּר֗וּךְ", "transliteral": "ʾel-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "לֵ֤ךְ", "transliteral": "lēḵ", "traducao_palavra": "vai" },
+        { "hebraico": "הִסָּתֵר֙", "transliteral": "his-śā-ṯêr", "traducao_palavra": "esconde-te" },
+        { "hebraico": "אַתָּ֣ה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "וְיִרְמְיָ֔הוּ", "transliteral": "wə-yir-mə-yā-hû", "traducao_palavra": "e Jeremias" },
+        { "hebraico": "וְאִ֥ישׁ", "transliteral": "wə-ʾîš", "traducao_palavra": "e ninguém" },
+        { "hebraico": "אַל־יֵדַ֖ע", "transliteral": "ʾal-yê-ḏaʿ", "traducao_palavra": "não saiba" },
+        { "hebraico": "אֵיפֹ֥ה", "transliteral": "ʾê-p̄ōh", "traducao_palavra": "onde" },
+        { "hebraico": "אַתֶּֽם׃", "transliteral": "ʾat-tem", "traducao_palavra": "vós [estais]" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E foram ao rei, ao átrio, mas depositaram o rolo na câmara de Elisama, o escriba; e anunciaram aos ouvidos do rei todas aquelas palavras.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹ֤אוּ", "transliteral": "way-yā-ḇō-ʾû", "traducao_palavra": "e vieram/foram" },
+        { "hebraico": "אֶל־הַמֶּ֨לֶךְ֙", "transliteral": "ʾel-ham-me-leḵ", "traducao_palavra": "ao rei" },
+        { "hebraico": "חָצֵ֔רָה", "transliteral": "ḥā-ṣē-rā", "traducao_palavra": "[ao] átrio" },
+        { "hebraico": "וְאֶת־הַמְּגִלָּ֣ה", "transliteral": "wə-ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "e o rolo" },
+        { "hebraico": "הִפְקִ֔ידוּ", "transliteral": "hip̄-qî-ḏû", "traducao_palavra": "depositaram/confiaram" },
+        { "hebraico": "בִּלְשְׁכַ֖ת", "transliteral": "bil-šə-ḵaṯ", "traducao_palavra": "na câmara de" },
+        { "hebraico": "אֱלִישָׁמָ֣ע", "transliteral": "ʾĕ-lî-šā-māʿ", "traducao_palavra": "Elisama" },
+        { "hebraico": "הַסֹּפֵ֑ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "וַיַּגִּ֨ידוּ֙", "transliteral": "way-yag-gî-ḏû", "traducao_palavra": "e anunciaram" },
+        { "hebraico": "בְּאָזְנֵ֣י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "הַמֶּ֔לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִֽים׃", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E enviou o rei a Jehudi, para que tomasse o rolo; e ele o tomou da câmara de Elisama, o escriba; e Jehudi o leu aos ouvidos do rei e aos ouvidos de todos os príncipes que estavam em pé junto ao rei.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁלַ֤ח", "transliteral": "way-yiš-laḥ", "traducao_palavra": "e enviou" },
+        { "hebraico": "הַמֶּ֨לֶךְ֙", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "אֶת־יְהוּדִ֔י", "transliteral": "ʾeṯ-yə-hû-ḏî", "traducao_palavra": "Jehudi" },
+        { "hebraico": "לָקַ֖חַת", "transliteral": "lā-qa-ḥaṯ", "traducao_palavra": "para tomar" },
+        { "hebraico": "אֶת־הַמְּגִלָּ֑ה", "transliteral": "ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "o rolo" },
+        { "hebraico": "וַיִּקָּחֶ֕הָ", "transliteral": "way-yiq-qā-ḥe-hā", "traducao_palavra": "e ele o tomou" },
+        { "hebraico": "מִלִּשְׁכַּ֖ת", "transliteral": "mil-liš-kaṯ", "traducao_palavra": "da câmara de" },
+        { "hebraico": "אֱלִישָׁמָ֣ע", "transliteral": "ʾĕ-lî-šā-māʿ", "traducao_palavra": "Elisama" },
+        { "hebraico": "הַסֹּפֵ֑ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "וַיִּקְרָאֶ֤הָ", "transliteral": "way-yiq-rā-ʾe-hā", "traducao_palavra": "e o leu" },
+        { "hebraico": "יְהוּדִי֙", "transliteral": "yə-hû-ḏî", "traducao_palavra": "Jehudi" },
+        { "hebraico": "בְּאָזְנֵ֣י", "transliteral": "bə-ʾāz-nê", "traducao_palavra": "aos ouvidos de" },
+        { "hebraico": "הַמֶּ֔לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וּבְאָזְנֵי֙", "transliteral": "ū-ḇə-ʾāz-nê", "traducao_palavra": "e aos ouvidos de" },
+        { "hebraico": "כָּל־הַשָּׂרִ֔ים", "transliteral": "kāl-haś-śā-rîm", "traducao_palavra": "todos os príncipes" },
+        { "hebraico": "הָעֹמְדִ֖ים", "transliteral": "hā-ʿō-mə-ḏîm", "traducao_palavra": "os que estavam em pé" },
+        { "hebraico": "מֵעַ֥ל", "transliteral": "mê-ʿal", "traducao_palavra": "junto a/sobre" },
+        { "hebraico": "הַמֶּֽלֶךְ׃", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Ora, o rei estava assentado na casa de inverno, no nono mês; e havia diante dele um braseiro aceso.",
+      "palavras": [
+        { "hebraico": "וְהַמֶּ֜לֶךְ", "transliteral": "wə-ham-me-leḵ", "traducao_palavra": "e o rei" },
+        { "hebraico": "יֹושֵׁב֙", "transliteral": "yô-šêḇ", "traducao_palavra": "[estava] sentado" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "[na] casa de" },
+        { "hebraico": "הַחֹ֔רֶף", "transliteral": "ha-ḥō-rep̄", "traducao_palavra": "o inverno" },
+        { "hebraico": "בַּחֹ֖דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הַתְּשִׁיעִ֑י", "transliteral": "hat-tə-šî-ʿî", "traducao_palavra": "nono" },
+        { "hebraico": "וְאֶת־הָאָ֖ח", "transliteral": "wə-ʾeṯ-hā-ʾāḥ", "traducao_palavra": "e com o braseiro" },
+        { "hebraico": "לְפָנָ֥יו", "transliteral": "lə-p̄ā-nāw", "traducao_palavra": "diante dele" },
+        { "hebraico": "מְבֹעָֽרֶת׃", "transliteral": "mə-ḇō-ʿā-reṯ", "traducao_palavra": "ardendo/aceso" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E sucedeu que, tendo Jehudi lido três ou quatro colunas, cortou-o com o canivete do escriba, e lançou-o no fogo que havia no braseiro, até que todo o rolo se consumiu no fogo que estava sobre o braseiro.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כִּקְרֹ֣וא", "transliteral": "kik-rô", "traducao_palavra": "ao ler" },
+        { "hebraico": "יְהוּדִ֗י", "transliteral": "yə-hû-ḏî", "traducao_palavra": "Jehudi" },
+        { "hebraico": "שָׁלֹ֣שׁ", "transliteral": "šā-lōš", "traducao_palavra": "três" },
+        { "hebraico": "דְּלָתֹות֮", "transliteral": "də-lā-ṯôṯ", "traducao_palavra": "colunas/folhas" },
+        { "hebraico": "וְאַרְבָּעָה֒", "transliteral": "wə-ʾar-bā-ʿā", "traducao_palavra": "e quatro" },
+        { "hebraico": "יִקְרָעֶ֨הָ֙", "transliteral": "yiq-rā-ʿe-hā", "traducao_palavra": "ele o cortava" },
+        { "hebraico": "בְּתַ֣עַר", "transliteral": "bə-ṯa-ʿar", "traducao_palavra": "com a navalha/faca" },
+        { "hebraico": "הַסֹּפֵ֔ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "do escriba" },
+        { "hebraico": "וְהַשְׁלֵךְ֙", "transliteral": "wə-haš-lêḵ", "traducao_palavra": "e lançava" },
+        { "hebraico": "אֶל־הָאֵ֣שׁ", "transliteral": "ʾel-hā-ʾêš", "traducao_palavra": "ao fogo" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אֶל־הָאָ֔ח", "transliteral": "ʾel-hā-ʾāḥ", "traducao_palavra": "[estava] no braseiro" },
+        { "hebraico": "עַד־תֹּ֣ם", "transliteral": "ʿaḏ-tōm", "traducao_palavra": "até o fim de/consumir" },
+        { "hebraico": "כָּל־הַמְּגִלָּ֔ה", "transliteral": "kāl-ham-mə-ḡil-lā", "traducao_palavra": "todo o rolo" },
+        { "hebraico": "עַל־הָאֵ֖שׁ", "transliteral": "ʿal-hā-ʾêš", "traducao_palavra": "sobre o fogo" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עַל־הָאָֽח׃", "transliteral": "ʿal-hā-ʾāḥ", "traducao_palavra": "no braseiro" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E não temeram, nem rasgaram as suas vestes, o rei e todos os seus servos que ouviram todas estas palavras.",
+      "palavras": [
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "פָחֲד֗וּ", "transliteral": "p̄ā-ḥă-ḏû", "traducao_palavra": "temeram" },
+        { "hebraico": "וְלֹ֤א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "קָֽרְעוּ֙", "transliteral": "qā-rə-ʿû", "traducao_palavra": "rasgaram" },
+        { "hebraico": "אֶת־בִּגְדֵיהֶ֔ם", "transliteral": "ʾeṯ-biḡ-ḏê-hem", "traducao_palavra": "suas vestes" },
+        { "hebraico": "הַמֶּ֖לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וְכָל־עֲבָדָ֑יו", "transliteral": "wə-ḵāl-ʿă-ḇā-ḏāw", "traducao_palavra": "e todos os seus servos" },
+        { "hebraico": "הַשֹּׁמְעִ֔ים", "transliteral": "haš-šō-mə-ʿîm", "traducao_palavra": "os que ouviram" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִ֖ים", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "הָאֵֽלֶּה׃", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E, embora Elnatã, e Delaías, e Gemarias tivessem insistido com o rei para que não queimasse o rolo, ele não lhes deu ouvidos.",
+      "palavras": [
+        { "hebraico": "וְגַ֣ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "אֶ֠לְנָתָן", "transliteral": "ʾel-nā-ṯān", "traducao_palavra": "Elnatã" },
+        { "hebraico": "וּדְלָיָ֨הוּ", "transliteral": "ū-ḏə-lā-yā-hû", "traducao_palavra": "e Delaías" },
+        { "hebraico": "וּגְמַרְיָ֜הוּ", "transliteral": "ū-ḡə-mar-yā-hû", "traducao_palavra": "e Gemarias" },
+        { "hebraico": "הִפְגִּ֣עוּ", "transliteral": "hip̄-gi-ʿû", "traducao_palavra": "intercederam/insistiram" },
+        { "hebraico": "בַמֶּ֗לֶךְ", "transliteral": "ḇam-me-leḵ", "traducao_palavra": "com o rei" },
+        { "hebraico": "לְבִלְתִּ֥י", "transliteral": "lə-ḇil-tî", "traducao_palavra": "para não" },
+        { "hebraico": "שְׂרֹ֛ף", "transliteral": "śə-rōp̄", "traducao_palavra": "queimar" },
+        { "hebraico": "אֶת־הַמְּגִלָּ֖ה", "transliteral": "ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "o rolo" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "שָׁמַ֥ע", "transliteral": "šā-maʿ", "traducao_palavra": "ouviu" },
+        { "hebraico": "אֲלֵיהֶֽם׃", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E o rei deu ordem a Jerameel, filho do rei, e a Seraías, filho de Azriel, e a Selemias, filho de Abdeel, para que prendessem a Baruque, o escriba, e a Jeremias, o profeta; mas YHWH os escondeu.",
+      "palavras": [
+        { "hebraico": "וַיְצַוֶּ֣ה", "transliteral": "way-ṣaw-weh", "traducao_palavra": "e ordenou" },
+        { "hebraico": "הַמֶּ֡לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "אֶת־יְרַחְמְאֵ֣ל", "transliteral": "ʾeṯ-yə-raḥ-mə-ʾêl", "traducao_palavra": "Jerameel" },
+        { "hebraico": "בֶּן־הַמֶּּ֜לֶךְ", "transliteral": "ben-ham-me-leḵ", "traducao_palavra": "filho do rei" },
+        { "hebraico": "וְאֶת־שְׂרָיָ֣הוּ", "transliteral": "wə-ʾeṯ-śə-rā-yā-hû", "traducao_palavra": "e Seraías" },
+        { "hebraico": "בֶן־עַזְרִיאֵ֗ל", "transliteral": "ben-ʿaz-rî-ʾêl", "traducao_palavra": "filho de Azriel" },
+        { "hebraico": "וְאֶת־שֶׁלֶמְיָהוּ֙", "transliteral": "wə-ʾeṯ-še-lem-yā-hû", "traducao_palavra": "e Selemias" },
+        { "hebraico": "בֶּן־עַבְדְּאֵ֔ל", "transliteral": "ben-ʿaḇ-də-ʾêl", "traducao_palavra": "filho de Abdeel" },
+        { "hebraico": "לָקַ֜חַת", "transliteral": "lā-qa-ḥaṯ", "traducao_palavra": "para tomar/prender" },
+        { "hebraico": "אֵת֙", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "בָּר֣וּךְ", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "הַסֹּפֵ֔ר", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "וְאֵ֖ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e" },
+        { "hebraico": "יִרְמְיָ֣הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "וַיַּסְתִּרֵ֖ם", "transliteral": "way-yas-ti-rêm", "traducao_palavra": "mas os escondeu" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Então veio a palavra de YHWH a Jeremias, depois que o rei queimara o rolo, com as palavras que Baruque escrevera da boca de Jeremias, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu/veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־יִרְמְיָ֑הוּ", "transliteral": "ʾel-yir-mə-yā-hû", "traducao_palavra": "a Jeremias" },
+        { "hebraico": "אַחֲרֵ֣י", "transliteral": "ʾa-ḥă-rê", "traducao_palavra": "depois de" },
+        { "hebraico": "שְׂרֹ֣ף", "transliteral": "śə-rōp̄", "traducao_palavra": "queimar" },
+        { "hebraico": "הַמֶּ֗לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "אֶת־הַמְּגִלָּה֙", "transliteral": "ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "o rolo" },
+        { "hebraico": "וְאֶת־הַדְּבָרִ֔ים", "transliteral": "wə-ʾeṯ-had-də-ḇā-rîm", "traducao_palavra": "e as palavras" },
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "כָּתַ֧ב", "transliteral": "kā-ṯaḇ", "traducao_palavra": "escreveu" },
+        { "hebraico": "בָּר֛וּךְ", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" },
+        { "hebraico": "מִפִּ֥י", "transliteral": "mip-pî", "traducao_palavra": "da boca de" },
+        { "hebraico": "יִרְמְיָ֖הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Toma ainda outro rolo, e escreve nele todas aquelas palavras anteriores que estavam no primeiro rolo, que Jeoaquim, rei de Judá, queimou.",
+      "palavras": [
+        { "hebraico": "שׁ֚וּב", "transliteral": "šûḇ", "traducao_palavra": "retorna/novamente" },
+        { "hebraico": "קַח־לְךָ֔", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "מְגִלָּ֖ה", "transliteral": "mə-ḡil-lā", "traducao_palavra": "um rolo" },
+        { "hebraico": "אַחֶ֑רֶת", "transliteral": "ʾa-ḥe-reṯ", "traducao_palavra": "outro" },
+        { "hebraico": "וּכְתֹ֣ב", "transliteral": "ū-ḵə-ṯōḇ", "traducao_palavra": "e escreve" },
+        { "hebraico": "עָלֶ֗יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "nele" },
+        { "hebraico": "אֵ֤ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַדְּבָרִים֙", "transliteral": "kāl-had-də-ḇā-rîm", "traducao_palavra": "todas as palavras" },
+        { "hebraico": "הָרִאשֹׁנִ֔ים", "transliteral": "hā-ri-šō-nîm", "traducao_palavra": "primeiras/anteriores" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הָי֗וּ", "transliteral": "hā-yû", "traducao_palavra": "estavam" },
+        { "hebraico": "עַל־הַמְּגִלָּה֙", "transliteral": "ʿal-ham-mə-ḡil-lā", "traducao_palavra": "no rolo" },
+        { "hebraico": "הָרִאשֹׁנָ֔ה", "transliteral": "hā-ri-šō-nā", "traducao_palavra": "primeiro" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "שָׂרַ֖ף", "transliteral": "śā-rap̄", "traducao_palavra": "queimou" },
+        { "hebraico": "יְהֹויָקִ֥ים", "transliteral": "yə-hô-yā-qîm", "traducao_palavra": "Jeoaquim" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָֽה׃", "transliteral": "me-leḵ-yə-hû-ḏā", "traducao_palavra": "rei de Judá" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "E a Jeoaquim, rei de Judá, dirás: Assim diz YHWH: Tu queimaste este rolo, dizendo: Por que escreveste nele, dizendo: Certamente virá o rei da Babilônia, e destruirá esta terra, e fará cessar nela homens e animais?",
+      "palavras": [
+        { "hebraico": "וְעַל־יְהֹויָקִ֨ים", "transliteral": "wə-ʿal-yə-hô-yā-qîm", "traducao_palavra": "e sobre Jeoaquim" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָה֙", "transliteral": "me-leḵ-yə-hû-ḏā", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "תֹּאמַ֔ר", "transliteral": "tō-mar", "traducao_palavra": "dirás" },
+        { "hebraico": "כֹּ֖ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אַתָּה֙", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "שָׂרַ֜פְתָּ", "transliteral": "śā-rap̄-tā", "traducao_palavra": "queimaste" },
+        { "hebraico": "אֶת־הַמְּגִלָּ֤ה", "transliteral": "ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "este rolo" },
+        { "hebraico": "הַזֹּאת֙", "transliteral": "haz-zōṯ", "traducao_palavra": "esta" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "מַדּ֨וּעַ֙", "transliteral": "mad-dû-aʿ", "traducao_palavra": "por que" },
+        { "hebraico": "כָּתַ֤בְתָּ", "transliteral": "kā-ṯaḇ-tā", "traducao_palavra": "escreveste" },
+        { "hebraico": "עָלֶ֨יהָ֙", "transliteral": "ʿā-le-hā", "traducao_palavra": "nele" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "בֹּא־יָבֹ֨וא", "transliteral": "bō-yā-ḇô", "traducao_palavra": "certamente virá" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶל֙", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "rei da Babilônia" },
+        { "hebraico": "וְהִשְׁחִית֙", "transliteral": "wə-hiš-ḥîṯ", "traducao_palavra": "e destruirá" },
+        { "hebraico": "אֶת־הָאָ֣רֶץ", "transliteral": "ʾeṯ-hā-ʾā-reṣ", "traducao_palavra": "esta terra" },
+        { "hebraico": "הַזֹּ֔את", "transliteral": "haz-zōṯ", "traducao_palavra": "esta" },
+        { "hebraico": "וְהִשְׁבִּ֥ית", "transliteral": "wə-hiš-bîṯ", "traducao_palavra": "e fará cessar" },
+        { "hebraico": "מִמֶּ֖נָּה", "transliteral": "mim-men-nā", "traducao_palavra": "dela" },
+        { "hebraico": "אָדָ֥ם", "transliteral": "ʾā-ḏām", "traducao_palavra": "homem" },
+        { "hebraico": "וּבְהֵמָֽה׃", "transliteral": "ū-ḇə-hē-mā", "traducao_palavra": "e animal" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "Portanto assim diz YHWH acerca de Jeoaquim, rei de Judá: Não terá quem se assente sobre o trono de Davi, e o seu cadáver será lançado ao calor de dia, e à geada de noite.",
+      "palavras": [
+        { "hebraico": "לָכֵ֞ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּֽה־אָמַ֣ר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "יְהוָ֗ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "עַל־יְהֹויָקִים֙", "transliteral": "ʿal-yə-hô-yā-qîm", "traducao_palavra": "sobre Jeoaquim" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "יְהוּדָ֔ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "לֹא־יִֽהְיֶה־לֹּ֥ו", "transliteral": "lō-yih-yeh-lô", "traducao_palavra": "não terá ele" },
+        { "hebraico": "יֹושֵׁ֖ב", "transliteral": "yô-šêḇ", "traducao_palavra": "[quem] se assente" },
+        { "hebraico": "עַל־כִּסֵּ֣א", "transliteral": "ʿal-kis-śē", "traducao_palavra": "sobre o trono de" },
+        { "hebraico": "דָוִ֑ד", "transliteral": "ḏā-wiḏ", "traducao_palavra": "Davi" },
+        { "hebraico": "וְנִבְלָתֹ֗ו", "transliteral": "wə-niḇ-lā-ṯô", "traducao_palavra": "e seu cadáver" },
+        { "hebraico": "תִּהְיֶ֤ה", "transliteral": "tih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "מֻשְׁלֶ֨כֶת֙", "transliteral": "muš-le-ḵeṯ", "traducao_palavra": "lançado" },
+        { "hebraico": "לַחֹ֣רֶב", "transliteral": "la-ḥō-reḇ", "traducao_palavra": "ao calor" },
+        { "hebraico": "בַּיֹּ֔ום", "transliteral": "bay-yôm", "traducao_palavra": "durante o dia" },
+        { "hebraico": "וְלַקֶּ֖רַח", "transliteral": "wə-laq-qe-raḥ", "traducao_palavra": "e à geada/frio" },
+        { "hebraico": "בַּלָּֽיְלָה׃", "transliteral": "bal-lā-yə-lā", "traducao_palavra": "durante a noite" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E castigá-lo-ei a ele, e à sua descendência, e aos seus servos, pela sua iniquidade; e trarei sobre eles, e sobre os moradores de Jerusalém, e sobre os homens de Judá, todo aquele mal que lhes tenho falado, e eles não ouviram.",
+      "palavras": [
+        { "hebraico": "וּפָקַדְתִּ֨י", "transliteral": "ū-p̄ā-qaḏ-tî", "traducao_palavra": "e visitarei/castigarei" },
+        { "hebraico": "עָלָ֧יו", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele" },
+        { "hebraico": "וְעַל־זַרְעֹ֛ו", "transliteral": "wə-ʿal-zar-ʿô", "traducao_palavra": "e sobre sua semente" },
+        { "hebraico": "וְעַל־עֲבָדָ֖יו", "transliteral": "wə-ʿal-ʿă-ḇā-ḏāw", "traducao_palavra": "e sobre seus servos" },
+        { "hebraico": "אֶת־עֲוֹנָ֑ם", "transliteral": "ʾeṯ-ʿă-wō-nām", "traducao_palavra": "a iniquidade deles" },
+        { "hebraico": "וְהֵבֵאתִ֣י", "transliteral": "wə-hê-ḇê-ṯî", "traducao_palavra": "e trarei" },
+        { "hebraico": "עֲלֵיהֶ֡ם", "transliteral": "ʿă-lê-hem", "traducao_palavra": "sobre eles" },
+        { "hebraico": "וְאֶל־יֹושְׁבֵ֨י", "transliteral": "wə-ʾel-yô-šə-ḇê", "traducao_palavra": "e sobre os moradores de" },
+        { "hebraico": "יְרוּשָׁלִַ֜ם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "וְאֶל־אִ֣ישׁ", "transliteral": "wə-ʾel-ʾîš", "traducao_palavra": "e sobre o homem de" },
+        { "hebraico": "יְהוּדָ֗ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "אֵ֤ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הָרָעָה֙", "transliteral": "kāl-hā-rā-ʿā", "traducao_palavra": "todo o mal" },
+        { "hebraico": "אֲשֶׁר־דִּבַּ֣רְתִּי", "transliteral": "ʾă-šer-dib-bar-tî", "traducao_palavra": "que falei" },
+        { "hebraico": "אֲלֵיהֶ֔ם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "שָׁמֵֽעוּ׃", "transliteral": "šā-mê-ʿû", "traducao_palavra": "ouviram" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "Tomou, pois, Jeremias outro rolo, e deu-o a Baruque, filho de Nerias, o escriba; o qual escreveu nele, da boca de Jeremias, todas as palavras do livro que Jeoaquim, rei de Judá, tinha queimado no fogo; e ainda se lhes acrescentaram muitas palavras semelhantes.",
+      "palavras": [
+        { "hebraico": "וְיִרְמְיָ֜הוּ", "transliteral": "wə-yir-mə-yā-hû", "traducao_palavra": "e Jeremias" },
+        { "hebraico": "לָקַ֣ח", "transliteral": "lā-qaḥ", "traducao_palavra": "tomou" },
+        { "hebraico": "מְגִלָּ֣ה", "transliteral": "mə-ḡil-lā", "traducao_palavra": "um rolo" },
+        { "hebraico": "אַחֶ֗רֶת", "transliteral": "ʾa-ḥe-reṯ", "traducao_palavra": "outro" },
+        { "hebraico": "וַֽיִּתְּנָהּ֮", "transliteral": "way-yit-tə-nāh", "traducao_palavra": "e o deu" },
+        { "hebraico": "אֶל־בָּר֣וּךְ", "transliteral": "ʾel-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "בֶּן־נֵרִיָּ֣הוּ", "transliteral": "ben-nê-rî-yā-hû", "traducao_palavra": "filho de Nerias" },
+        { "hebraico": "הַסֹּפֵר֒", "transliteral": "has-sō-p̄êr", "traducao_palavra": "o escriba" },
+        { "hebraico": "וַיִּכְתֹּ֣ב", "transliteral": "way-yik-tōḇ", "traducao_palavra": "e escreveu" },
+        { "hebraico": "עָלֶיהָ֮", "transliteral": "ʿā-le-hā", "traducao_palavra": "nele" },
+        { "hebraico": "מִפִּ֣י", "transliteral": "mip-pî", "traducao_palavra": "da boca de" },
+        { "hebraico": "יִרְמְיָהוּ֮", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־דִּבְרֵ֣י", "transliteral": "kāl-diḇ-rê", "traducao_palavra": "todas as palavras de" },
+        { "hebraico": "הַסֵּפֶר֮", "transliteral": "has-sê-p̄er", "traducao_palavra": "o livro" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "שָׂרַ֛ף", "transliteral": "śā-rap̄", "traducao_palavra": "queimou" },
+        { "hebraico": "יְהֹויָקִ֥ים", "transliteral": "yə-hô-yā-qîm", "traducao_palavra": "Jeoaquim" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָ֖ה", "transliteral": "me-leḵ-yə-hû-ḏā", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "בָּאֵ֑שׁ", "transliteral": "bā-ʾêš", "traducao_palavra": "no fogo" },
+        { "hebraico": "וְעֹ֨וד", "transliteral": "wə-ʿôḏ", "traducao_palavra": "e ainda" },
+        { "hebraico": "נֹוסַ֤ף", "transliteral": "nô-sap̄", "traducao_palavra": "foram acrescentadas" },
+        { "hebraico": "עֲלֵיהֶם֙", "transliteral": "ʿă-lê-hem", "traducao_palavra": "sobre elas" },
+        { "hebraico": "דְּבָרִ֥ים", "transliteral": "də-ḇā-rîm", "traducao_palavra": "palavras" },
+        { "hebraico": "רַבִּ֖ים", "transliteral": "rab-bîm", "traducao_palavra": "muitas" },
+        { "hebraico": "כָּהֵֽמָּה׃", "transliteral": "kā-hêm-mā", "traducao_palavra": "como aquelas" }
+      ]
+    }
+  }
 }
