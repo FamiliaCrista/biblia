@@ -1,6 +1,357 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
+  "livro": "Jeremias - יִרְמְיָ֫הוּ - Yirmeyahu",
   "capítulo": 52,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Era Zedequias de vinte e um anos de idade quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.",
+      "palavras": [
+        { "hebraico": "בֶּן־עֶשְׂרִים", "transliteral": "ben-ʿeś-rîm", "traducao_palavra": "filho de vinte" },
+        { "hebraico": "וְאַחַת", "transliteral": "wə-ʾa-ḥaṯ", "traducao_palavra": "e um [ano]" },
+        { "hebraico": "שָׁנָה", "transliteral": "šā-nā", "traducao_palavra": "ano" },
+        { "hebraico": "צִדְקִיָּהוּ", "transliteral": "ṣiḏ-qi-yā-hû", "traducao_palavra": "Zedequias" },
+        { "hebraico": "בְּמָלְכֹו", "transliteral": "bə-māl-ḵô", "traducao_palavra": "ao reinar ele" },
+        { "hebraico": "וְאַחַת עֶשְׂרֵה", "transliteral": "wə-ʾa-ḥaṯ ʿeś-rēh", "traducao_palavra": "e onze" },
+        { "hebraico": "שָׁנָה", "transliteral": "šā-nā", "traducao_palavra": "anos" },
+        { "hebraico": "מָלַךְ", "transliteral": "mā-laḵ", "traducao_palavra": "reinou" },
+        { "hebraico": "בִּירוּשָׁלִָם", "transliteral": "bî-rû-šā-la-yim", "traducao_palavra": "em Jerusalém" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Fez ele o que era mau aos olhos de YHWH, conforme tudo o que fizera Jeoaquim.",
+      "palavras": [
+        { "hebraico": "וַיַּעַשׂ", "transliteral": "way-ya-ʿaś", "traducao_palavra": "e fez" },
+        { "hebraico": "הָרַע", "transliteral": "hā-rāʿ", "traducao_palavra": "o mal" },
+        { "hebraico": "בְּעֵינֵי", "transliteral": "bə-ʿê-nê", "traducao_palavra": "aos olhos de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "כְּכֹל", "transliteral": "kə-ḵōl", "traducao_palavra": "conforme tudo" },
+        { "hebraico": "אֲשֶׁר־עָשָׂה", "transliteral": "ʾă-šer-ʿā-śā", "traducao_palavra": "que fez" },
+        { "hebraico": "יְהֹויָקִים", "transliteral": "yə-hô-yā-qîm", "traducao_palavra": "Jeoaquim" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Porque assim sucedeu por causa da ira de YHWH contra Jerusalém e contra Judá, até que os lançou da sua presença; e Zedequias se rebelou contra o rei da Babilônia.",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "עַל־אַ֨ף", "transliteral": "ʿal-ʾap̄", "traducao_palavra": "pela ira de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הָיְתָה", "transliteral": "hā-yə-ṯā", "traducao_palavra": "sucedeu/foi" },
+        { "hebraico": "עַל־יְרוּשָׁלִַם", "transliteral": "ʿal-yə-rû-šā-la-yim", "traducao_palavra": "sobre Jerusalém" },
+        { "hebraico": "וִיהוּדָה", "transliteral": "wî-hû-ḏā", "traducao_palavra": "e Judá" },
+        { "hebraico": "עַד־הִשְׁלִיכֹו", "transliteral": "ʿaḏ-hiš-lî-ḵô", "traducao_palavra": "até que os lançou" },
+        { "hebraico": "אֹתָם", "transliteral": "ʾō-ṯām", "traducao_palavra": "deles" },
+        { "hebraico": "מֵעַל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "פָּנָיו", "transliteral": "pā-nāyw", "traducao_palavra": "sua face" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E sucedeu que, no nono ano do seu reinado, no décimo mês, aos dez do mês, veio Nabucodonosor, rei da Babilônia, ele e todo o seu exército contra Jerusalém, e acamparam contra ela, e levantaram contra ela torres em redor.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בַּשָּׁנָ֣ה", "transliteral": "baš-šā-nā", "traducao_palavra": "no ano" },
+        { "hebraico": "הַתְּשִׁעִית", "transliteral": "hat-tə-ši-ʿîṯ", "traducao_palavra": "nono" },
+        { "hebraico": "בַּחֹ֣דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הָעֲשִׂירִי", "transliteral": "hā-ʿă-śî-rî", "traducao_palavra": "décimo" },
+        { "hebraico": "בַּעֲשֹׂרָה", "transliteral": "ba-ʿă-śō-rā", "traducao_palavra": "aos dez" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "בָּא", "transliteral": "bā", "traducao_palavra": "veio" },
+        { "hebraico": "נְבוּכַדְרֶאצַּר", "transliteral": "nə-ḇû-ḵaḏ-reṣ-ṣar", "traducao_palavra": "Nabucodonosor" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E a cidade foi sitiada até ao undécimo ano do rei Zedequias.",
+      "palavras": [
+        { "hebraico": "וַתָּבֹ֥א", "transliteral": "wat-tā-ḇô", "traducao_palavra": "e veio [foi]" },
+        { "hebraico": "הָעִיר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "בַּמָּצֹור", "transliteral": "bam-mā-ṣôr", "traducao_palavra": "no cerco" },
+        { "hebraico": "עַד־עַשְׁתֵּֽי", "transliteral": "ʿaḏ-ʿaš-tê", "traducao_palavra": "até o undécimo" },
+        { "hebraico": "עֶשְׂרֵה", "transliteral": "ʿeś-rēh", "traducao_palavra": "ano" },
+        { "hebraico": "שָׁנָה", "transliteral": "šā-nā", "traducao_palavra": "ano" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "No quarto mês, aos nove do mês, quando a fome prevalecia na cidade, de modo que não havia pão para o povo da terra,",
+      "palavras": [
+        { "hebraico": "בַּחֹ֣דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הָרְבִיעִי", "transliteral": "hā-rə-ḇî-ʿî", "traducao_palavra": "quarto" },
+        { "hebraico": "בְּתִשְׁעָה", "transliteral": "bə-ṯiš-ʿā", "traducao_palavra": "aos nove" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "וַיֶּחֱזַק", "transliteral": "way-ye-ḥĕ-zaq", "traducao_palavra": "prevalecia" },
+        { "hebraico": "הָרָעָב", "transliteral": "hā-rā-ʿāḇ", "traducao_palavra": "a fome" },
+        { "hebraico": "בָּעִיר", "transliteral": "bā-ʿîr", "traducao_palavra": "na cidade" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Então a cidade foi rompida, e todos os homens de guerra fugiram, e saíram da cidade de noite, pelo caminho da porta entre os dois muros, que estava junto ao jardim do rei (estando ainda os caldeus ao redor da cidade), e foram pelo caminho da planície.",
+      "palavras": [
+        { "hebraico": "וַתִּבָּקַ֣ע", "transliteral": "wat-tiḇ-bā-qaʿ", "traducao_palavra": "e foi rompida" },
+        { "hebraico": "הָעִ֔יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "וְכָל־אַנְשֵׁ֣י", "transliteral": "wə-ḵāl-ʾan-šê", "traducao_palavra": "e todos os homens de" },
+        { "hebraico": "הַמִּלְחָמָה", "transliteral": "ham-mil-ḥā-mā", "traducao_palavra": "guerra" },
+        { "hebraico": "יִבְרְח֥וּ", "transliteral": "yiḇ-rə-ḥû", "traducao_palavra": "fugiram" },
+        { "hebraico": "וַיֵּצְא֣וּ", "transliteral": "way-yê-ṣə-ʾû", "traducao_palavra": "e saíram" },
+        { "hebraico": "מִן־הָעִ֔יר", "transliteral": "min-hā-ʿîr", "traducao_palavra": "da cidade" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Mas o exército dos caldeus perseguiu o rei, e alcançou Zedequias nas planícies de Jericó; e todo o seu exército se dispersou de perto dele.",
+      "palavras": [
+        { "hebraico": "וַיִּרְדְּפ֨וּ", "transliteral": "way-yir-də-p̄û", "traducao_palavra": "e perseguiram" },
+        { "hebraico": "חֵיל־הַכַּשְׂדִּים", "transliteral": "ḥêl-hak-kaś-dîm", "traducao_palavra": "o exército dos caldeus" },
+        { "hebraico": "אֶת־הַמֶּלֶךְ", "transliteral": "ʾeṯ-ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וַיַּשִּׂ֣יגוּ", "transliteral": "way-yaś-śî-ḡû", "traducao_palavra": "e alcançaram" },
+        { "hebraico": "אֶת־צִדְקִיָּ֑הוּ", "transliteral": "ʾeṯ-ṣiḏ-qi-yā-hû", "traducao_palavra": "a Zedequias" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E prenderam o rei, e fizeram-no subir ao rei da Babilônia, a Ribla, na terra de Hamate; onde pronunciou sentenças contra ele.",
+      "palavras": [
+        { "hebraico": "וַיִּתְפְּשׂ֣וּ", "transliteral": "way-yiṯ-pə-śû", "traducao_palavra": "e prenderam" },
+        { "hebraico": "אֶת־הַמֶּ֔לֶךְ", "transliteral": "ʾeṯ-ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וַיַּעֲל֣וּ", "transliteral": "way-ya-ʿă-lû", "traducao_palavra": "e fizeram-no subir" },
+        { "hebraico": "אֹתֹו", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "אֶל־מֶ֥לֶךְ", "transliteral": "ʾel-me-leḵ", "traducao_palavra": "ao rei de" },
+        { "hebraico": "בָּבֶ֖ל", "transliteral": "bā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "רִבְלָ֑תָה", "transliteral": "riḇ-lā-ṯā", "traducao_palavra": "[a] Ribla" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "O rei da Babilônia matou os filhos de Zedequias diante dos seus olhos; e matou também todos os nobres de Judá em Ribla.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁחַ֣ט", "transliteral": "way-yiš-ḥaṭ", "traducao_palavra": "e matou" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "o rei da Babilônia" },
+        { "hebraico": "אֶת־בְּנֵ֥י", "transliteral": "ʾeṯ-bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "צִדְקִיָּ֖הוּ", "transliteral": "ṣiḏ-qi-yā-hû", "traducao_palavra": "Zedequias" },
+        { "hebraico": "לְעֵינָ֑יו", "transliteral": "lə-ʿê-nāyw", "traducao_palavra": "diante de seus olhos" },
+        { "hebraico": "וְאֵ֧ת", "transliteral": "wə-ʾēṯ", "traducao_palavra": "e [a]" },
+        { "hebraico": "כָּל־שָׂרֵ֥י", "transliteral": "kāl-śā-rê", "traducao_palavra": "todos os nobres de" },
+        { "hebraico": "יְהוּדָ֖ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "הָרַ֥ג", "transliteral": "hā-raḡ", "traducao_palavra": "matou" },
+        { "hebraico": "בְּרִבְלָֽה׃", "transliteral": "bə-riḇ-lā", "traducao_palavra": "em Ribla" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E cegou os olhos de Zedequias, e o atou com cadeias de bronze; e o rei da Babilônia o levou para a Babilônia, e o pôs na casa do cárcere, até ao dia da sua morte.",
+      "palavras": [
+        { "hebraico": "וְאֶת־עֵינֵ֥י", "transliteral": "wə-ʾeṯ-ʿê-nê", "traducao_palavra": "e os olhos de" },
+        { "hebraico": "צִדְקִיָּהוּ", "transliteral": "ṣiḏ-qi-yā-hû", "traducao_palavra": "Zedequias" },
+        { "hebraico": "עִוֵּר", "transliteral": "ʿiw-wēr", "traducao_palavra": "ele cegou" },
+        { "hebraico": "וַיַּאַסְרֵהוּ", "transliteral": "way-ya-ʾas-rê-hû", "traducao_palavra": "e o atou" },
+        { "hebraico": "בַנְחֻשְׁתַּיִם", "transliteral": "ḇan-ḥuš-tay-yim", "traducao_palavra": "com cadeias de bronze" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Ora, no quinto mês, no décimo dia do mês (este é o décimo nono ano do rei Nabucodonosor, rei da Babilônia), veio Nebuzaradã, capitão da guarda, o qual servia ao rei da Babilônia, a Jerusalém.",
+      "palavras": [
+        { "hebraico": "וּבַחֹ֨דֶשׁ", "transliteral": "ū-ḇa-ḥō-ḏeš", "traducao_palavra": "e no mês" },
+        { "hebraico": "הַחֲמִישִׁ֜י", "transliteral": "ha-ḥă-mî-šî", "traducao_palavra": "quinto" },
+        { "hebraico": "בַּעֲשֹׂרָ֣ה", "transliteral": "ba-ʿă-śō-rā", "traducao_palavra": "aos dez" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "בָּא", "transliteral": "bā", "traducao_palavra": "veio" },
+        { "hebraico": "נְבוּזַרְאֲדָן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E queimou a casa de YHWH, e a casa do rei, e todas as casas de Jerusalém; e todas as casas dos grandes, queimou-as no fogo.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׂרֹף", "transliteral": "way-yiś-rōp̄", "traducao_palavra": "e queimou" },
+        { "hebraico": "אֶת־בֵּית", "transliteral": "ʾeṯ-bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְאֶת־בֵּית", "transliteral": "wə-ʾeṯ-bêṯ", "traducao_palavra": "e a casa de" },
+        { "hebraico": "הַמֶּלֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E todo o exército dos caldeus, que estava com o capitão da guarda, derrubou todos os muros de Jerusalém ao redor.",
+      "palavras": [
+        { "hebraico": "וְאֶת־כָּל־חֹמֹות", "transliteral": "wə-ʾeṯ-kāl-ḥō-môṯ", "traducao_palavra": "e todos os muros de" },
+        { "hebraico": "יְרוּשָׁלִַם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "סָבִיב", "transliteral": "śā-ḇîḇ", "traducao_palavra": "ao redor" },
+        { "hebraico": "נָתְצוּ", "transliteral": "nā-ṯə-ṣû", "traducao_palavra": "derrubaram" },
+        { "hebraico": "כָּל־חֵיל", "transliteral": "kāl-ḥêl", "traducao_palavra": "todo o exército" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E o capitão da guarda levou cativos alguns dos mais pobres do povo, e o resto do povo que tinha ficado na cidade, e os desertores que se tinham passado para o rei da Babilônia, e o resto da multidão.",
+      "palavras": [
+        { "hebraico": "וּמִדַּלַּ֣ת", "transliteral": "ū-mid-dal-laṯ", "traducao_palavra": "e dos mais pobres de" },
+        { "hebraico": "הָעָם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "הִגְלָה", "transliteral": "hiḡ-lā", "traducao_palavra": "levou cativos" },
+        { "hebraico": "נְבוּזַרְאֲדָן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Mas, dos mais pobres da terra, deixou Nebuzaradã, capitão da guarda, ficar alguns para vinheiros e para lavradores.",
+      "palavras": [
+        { "hebraico": "וּמִדַּלַּ֣ת", "transliteral": "ū-mid-dal-laṯ", "traducao_palavra": "e dos mais pobres de" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "הִשְׁאִיר", "transliteral": "hiš-ʾîr", "traducao_palavra": "deixou" },
+        { "hebraico": "נְבוּזַרְאֲדָן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Também as colunas de bronze que estavam na casa de YHWH, e as bases, e o mar de bronze que estava na casa de YHWH, despedaçaram os caldeus, e levaram todo o bronze para a Babilônia.",
+      "palavras": [
+        { "hebraico": "וְאֶת־עַמּוּדֵי", "transliteral": "wə-ʾeṯ-ʿam-mû-ḏê", "traducao_palavra": "e as colunas de" },
+        { "hebraico": "הַנְּחֹשֶׁת", "transliteral": "han-nə-ḥō-šeṯ", "traducao_palavra": "bronze" },
+        { "hebraico": "אֲשֶׁר־בֵּית", "transliteral": "ʾă-šer-bêṯ", "traducao_palavra": "que [na] casa de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "שִׁבְּרוּ", "transliteral": "šib-bə-rû", "traducao_palavra": "despedaçaram" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Também tomaram as caldeiras, as pás, as tesouras, as bacias, as colheres e todos os utensílios de bronze com que se serviam.",
+      "palavras": [
+        { "hebraico": "וְאֶת־הַסִּירֹת", "transliteral": "wə-ʾeṯ-has-sî-rōṯ", "traducao_palavra": "e as caldeiras" },
+        { "hebraico": "וְאֶת־הַיָּעִים", "transliteral": "wə-ʾeṯ-hay-yā-ʿîm", "traducao_palavra": "e as pás" },
+        { "hebraico": "וְאֶת־הַמְזַמְּרֹות", "transliteral": "wə-ʾeṯ-ham-zam-mə-rōṯ", "traducao_palavra": "e as tesouras" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E o capitão da guarda tomou as taças, os braseiros, as bacias, as caldeiras, os castiçais, as colheres e as tigelas; o que era de ouro, de ouro, e o que era de prata, de prata.",
+      "palavras": [
+        { "hebraico": "וְאֶת־הַמִּזְרָקֹות", "transliteral": "wə-ʾeṯ-ham-miz-rā-qōṯ", "traducao_palavra": "e as bacias" },
+        { "hebraico": "וְאֶת־הַמַּחְתֹּות", "transliteral": "wə-ʾeṯ-ham-maḥ-tōṯ", "traducao_palavra": "e os braseiros" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "As duas colunas, o mar único, e os doze bois de bronze que estavam debaixo das bases, que o rei Salomão fizera para a casa de YHWH; não se pôde pesar o bronze de todos estes utensílios.",
+      "palavras": [
+        { "hebraico": "הָעַמּוּדִים", "transliteral": "hā-ʿam-mû-ḏîm", "traducao_palavra": "as colunas" },
+        { "hebraico": "שְׁנַיִם", "transliteral": "šə-na-yim", "traducao_palavra": "duas" },
+        { "hebraico": "וְהַיָּם", "transliteral": "wə-hay-yām", "traducao_palavra": "e o mar" },
+        { "hebraico": "הָאֶחָד", "transliteral": "hā-ʾe-ḥāḏ", "traducao_palavra": "único" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E quanto às colunas, a altura de uma coluna era de dezoito côvados, e um fio de doze côvados a cercava; e a sua espessura era de quatro dedos; era oca.",
+      "palavras": [
+        { "hebraico": "הָעַמּוּדִים", "transliteral": "hā-ʿam-mû-ḏîm", "traducao_palavra": "as colunas" },
+        { "hebraico": "שְׁמֹנֶה עֶשְׂרֵה", "transliteral": "šə-mō-neh ʿeś-rēh", "traducao_palavra": "dezoito" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-mā", "traducao_palavra": "côvados" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E sobre ela havia um capitel de bronze, cuja altura era de cinco côvados; e havia redes e romãs em redor do capitel, tudo de bronze; e semelhante a estas era a segunda coluna com as romãs.",
+      "palavras": [
+        { "hebraico": "וְכֹתֶרֶת", "transliteral": "wə-ḵō-ṯe-reṯ", "traducao_palavra": "e capitel" },
+        { "hebraico": "עָלֶיהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "sobre ela" },
+        { "hebraico": "חָמֵשׁ", "transliteral": "ḥă-mēš", "traducao_palavra": "cinco" },
+        { "hebraico": "אַמֹּות", "transliteral": "ʾam-môṯ", "traducao_palavra": "côvados" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E havia noventa e seis romãs em cada lado; todas as romãs eram cem, sobre a rede ao redor.",
+      "palavras": [
+        { "hebraico": "וַיִּהְיוּ", "transliteral": "way-yih-yû", "traducao_palavra": "e havia" },
+        { "hebraico": "תִּשְׁעִים", "transliteral": "tiš-ʿîm", "traducao_palavra": "noventa" },
+        { "hebraico": "וְשֵׁשׁ", "transliteral": "wə-šēš", "traducao_palavra": "e seis" },
+        { "hebraico": "רִמֹּונִים", "transliteral": "rim-mō-nîm", "traducao_palavra": "romãs" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "O capitão da guarda tomou também a Seraías, o sumo sacerdote, e a Sofonias, o segundo sacerdote, e aos três guardas da porta;",
+      "palavras": [
+        { "hebraico": "וַיִּקַּח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "e tomou" },
+        { "hebraico": "רַב־טַבָּחִים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "o capitão da guarda" },
+        { "hebraico": "אֶת־שְׂרָיָה", "transliteral": "ʾeṯ-śə-rā-yā", "traducao_palavra": "Seraías" },
+        { "hebraico": "הַכֹּהֵן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הָרֹאשׁ", "transliteral": "hā-rōš", "traducao_palavra": "chefe/sumo" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E da cidade tomou um eunuco, que era encarregado dos homens de guerra, e sete homens dos que viam a face do rei, que se acharam na cidade, e o escrivão-mor do exército, que alistava o povo da terra, e sessenta homens do povo da terra, que se acharam no meio da cidade.",
+      "palavras": [
+        { "hebraico": "וּמִן־הָעִיר", "transliteral": "ū-min-hā-ʿîr", "traducao_palavra": "e da cidade" },
+        { "hebraico": "לָקַח", "transliteral": "lā-qaḥ", "traducao_palavra": "tomou" },
+        { "hebraico": "סָרִיס", "transliteral": "śā-rîs", "traducao_palavra": "um eunuco" },
+        { "hebraico": "אֶחָד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "um" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "Estes, pois, tomou Nebuzaradã, capitão da guarda, e levou-os ao rei da Babilônia, a Ribla.",
+      "palavras": [
+        { "hebraico": "וַיִּקַּח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "e tomou" },
+        { "hebraico": "נְבוּזַרְאֲדָן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" },
+        { "hebraico": "אֹותָם", "transliteral": "ʾô-ṯām", "traducao_palavra": "eles" },
+        { "hebraico": "וַיֹּולֵךְ", "transliteral": "way-yô-lêḵ", "traducao_palavra": "e levou-os" },
+        { "hebraico": "אֶל־מֶלֶךְ", "transliteral": "ʾel-me-leḵ", "traducao_palavra": "ao rei de" },
+        { "hebraico": "בָּבֶל", "transliteral": "bā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "רִבְלָתָה", "transliteral": "riḇ-lā-ṯā", "traducao_palavra": "em Ribla" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "E o rei da Babilônia os feriu, e os matou em Ribla, na terra de Hamate; assim foi levado Judá cativo para fora da sua terra.",
+      "palavras": [
+        { "hebraico": "וַיַּכֵּם", "transliteral": "way-yak-kêm", "traducao_palavra": "e os feriu" },
+        { "hebraico": "מֶלֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "בָּבֶל", "transliteral": "bā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "וַיְמִיתֵם", "transliteral": "way-mî-ṯêm", "traducao_palavra": "e os matou" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Este é o povo que Nabucodonosor levou cativo: no sétimo ano, três mil e vinte e três judeus;",
+      "palavras": [
+        { "hebraico": "שְׁלֹשֶׁת", "transliteral": "šə-lō-šeṯ", "traducao_palavra": "três" },
+        { "hebraico": "אֲלָפִים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "mil" },
+        { "hebraico": "וְעֶשְׂרִים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "וּשְׁלֹשָׁה", "transliteral": "ū-šə-lō-šā", "traducao_palavra": "e três" },
+        { "hebraico": "יְהוּדִים", "transliteral": "yə-hû-ḏîm", "traducao_palavra": "judeus" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "No décimo oitavo ano de Nabucodonosor, levou cativos de Jerusalém oitocentas e trinta e duas pessoas.",
+      "palavras": [
+        { "hebraico": "בִּשְׁנַת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano" },
+        { "hebraico": "שְׁמֹנֶה עֶשְׂרֵה", "transliteral": "šə-mō-neh ʿeś-rēh", "traducao_palavra": "dezoito" },
+        { "hebraico": "שְׁמֹונֶה", "transliteral": "šə-mô-neh", "traducao_palavra": "oito" },
+        { "hebraico": "מֵאֹות", "transliteral": "mē-ʾôṯ", "traducao_palavra": "centenas" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "No vigésimo terceiro ano de Nabucodonosor, Nebuzaradã, capitão da guarda, levou cativos setecentas e quarenta e cinco pessoas dos judeus; todas as pessoas foram quatro mil e seiscentas.",
+      "palavras": [
+        { "hebraico": "שֶׁבַע", "transliteral": "še-ḇaʿ", "traducao_palavra": "sete" },
+        { "hebraico": "מֵאֹות", "transliteral": "mē-ʾôṯ", "traducao_palavra": "centenas" },
+        { "hebraico": "וְאַרְבָּעִים", "transliteral": "wə-ʾar-bā-ʿîm", "traducao_palavra": "e quarenta" },
+        { "hebraico": "וַחֲמִשָּׁה", "transliteral": "wa-ḥă-miš-šā", "traducao_palavra": "e cinco" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E aconteceu que, no trigésimo sétimo ano do cativeiro de Joaquim, rei de Judá, no décimo segundo mês, aos vinte e cinco dias do mês, Evil-Merodaque, rei da Babilônia, no ano em que começou a reinar, levantou a cabeça de Joaquim, rei de Judá, e o tirou da casa do cárcere.",
+      "palavras": [
+        { "hebraico": "בִּשְׁנַת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano" },
+        { "hebraico": "שְׁלֹשִׁים", "transliteral": "šə-lō-šîm", "traducao_palavra": "trinta" },
+        { "hebraico": "וְשֶׁבַע", "transliteral": "wə-še-ḇaʿ", "traducao_palavra": "e sete" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "E lhe falou benignamente, e pôs o seu trono acima do trono dos reis que estavam com ele na Babilônia,",
+      "palavras": [
+        { "hebraico": "וַיְדַבֵּר", "transliteral": "way-ḏab-bêr", "traducao_palavra": "e falou" },
+        { "hebraico": "אִתֹּו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "טֹובֹות", "transliteral": "ṭô-ḇôṯ", "traducao_palavra": "benignamente" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "E mudou as suas vestes de prisão, e ele comia pão sempre diante dele, todos os dias da sua vida.",
+      "palavras": [
+        { "hebraico": "וְשִׁנָּה", "transliteral": "wə-šin-nā", "traducao_palavra": "e mudou" },
+        { "hebraico": "אֵת", "transliteral": "ʾēṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "בִּגְדֵי", "transliteral": "biḡ-ḏê", "traducao_palavra": "vestes de" },
+        { "hebraico": "כִּלְאֹו", "transliteral": "kil-ʾô", "traducao_palavra": "prisão dele" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "E, quanto à sua subsistência, recebia uma subsistência contínua da parte do rei da Babilônia, a porção de cada dia, todos os dias da sua vida, até ao dia da sua morte.",
+      "palavras": [
+        { "hebraico": "וַאֲרֻחָתֹו", "transliteral": "wa-ʾă-ru-ḥā-ṯô", "traducao_palavra": "e quanto à subsistência dele" },
+        { "hebraico": "אֲרֻחַת", "transliteral": "ʾă-ru-ḥaṯ", "traducao_palavra": "uma subsistência" },
+        { "hebraico": "תָּמִיד", "transliteral": "tā-mîḏ", "traducao_palavra": "contínua" },
+        { "hebraico": "נִתְּנָה־לֹּו", "transliteral": "nit-tə-nā-lô", "traducao_palavra": "foi dada a ele" }
+      ]
+    }
+  }
 }

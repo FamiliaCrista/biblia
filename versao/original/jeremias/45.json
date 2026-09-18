@@ -1,6 +1,104 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
+  "livro": "Jeremias - יִרְמְיָ֫הוּ - Yirmeyahu",
   "capítulo": 45,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando este escrevia num livro estas palavras, da boca de Jeremias, no quarto ano de Jeoaquim, filho de Josias, rei de Judá, dizendo:",
+      "palavras": [
+        { "hebraico": "הַדָּבָ֞ר", "transliteral": "had-dā-ḇār", "traducao_palavra": "a palavra" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "דִּבֶּר֮", "transliteral": "dib-ber", "traducao_palavra": "falou" },
+        { "hebraico": "יִרְמְיָָ֣הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "הַנָּבִיא֮", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶל־בָּר֣וּךְ", "transliteral": "ʾel-bā-rûḵ", "traducao_palavra": "a Baruque" },
+        { "hebraico": "בֶּן־נֵרִיָּה֒", "transliteral": "ben-nê-ri-yā", "traducao_palavra": "filho de Nerias" },
+        { "hebraico": "בְּכָתְבֹו֩", "transliteral": "bə-ḵā-ṯə-ḇô", "traducao_palavra": "ao escrever ele" },
+        { "hebraico": "אֶת־הַדְּבָרִ֨ים", "transliteral": "ʾeṯ-had-də-ḇā-rîm", "traducao_palavra": "as palavras" },
+        { "hebraico": "הָאֵ֜לֶּה", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "עַל־סֵ֗פֶר", "transliteral": "ʿal-sê-p̄er", "traducao_palavra": "em um livro" },
+        { "hebraico": "מִפִּ֥י", "transliteral": "mip-pî", "traducao_palavra": "da boca de" },
+        { "hebraico": "יִרְמְיָָ֖הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "בַּשָּׁנָ֣ה", "transliteral": "baš-šā-nā", "traducao_palavra": "no ano" },
+        { "hebraico": "הָרְבִיעִ֗ית", "transliteral": "hā-rə-ḇî-ʿîṯ", "traducao_palavra": "quarto" },
+        { "hebraico": "לִיהֹויָקִ֧ים", "transliteral": "lî-hô-yā-qîm", "traducao_palavra": "de Jeoaquim" },
+        { "hebraico": "בֶּן־יֹאשִׁיָָּ֛הוּ", "transliteral": "ben-yō-šî-yā-hû", "traducao_palavra": "filho de Josias" },
+        { "hebraico": "מֶ֥לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "יְהוּדָ֖ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Assim diz YHWH, Deus de Israel, sobre ti, ó Baruque:",
+      "palavras": [
+        { "hebraico": "כֹּֽה־אָמַ֥ר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֱלֹהֵ֣י", "transliteral": "ĕ-lō-hê", "traducao_palavra": "Deus de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "עָלֶ֖יךָ", "transliteral": "ʿā-le-ḵā", "traducao_palavra": "sobre ti" },
+        { "hebraico": "בָּרֽוּךְ׃", "transliteral": "bā-rûḵ", "traducao_palavra": "Baruque" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Disseste: Ai de mim agora! Porque YHWH acrescentou tristeza à minha dor; estou cansado do meu gemer, e não acho descanso.",
+      "palavras": [
+        { "hebraico": "אָמַ֨רְתָּ֙", "transliteral": "ʾā-mar-tā", "traducao_palavra": "disseste" },
+        { "hebraico": "אֹוי־נָ֣א", "transliteral": "ʾôy-nā", "traducao_palavra": "ai agora" },
+        { "hebraico": "לִ֔י", "transliteral": "lî", "traducao_palavra": "de mim" },
+        { "hebraico": "כִּֽי־יָסַ֧ף", "transliteral": "kî-yā-sap̄", "traducao_palavra": "porque acrescentou" },
+        { "hebraico": "יְהוָ֛ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "יָגֹ֖ון", "transliteral": "yā-ḡôn", "traducao_palavra": "tristeza/sofrimento" },
+        { "hebraico": "עַל־מַכְאֹבִ֑י", "transliteral": "ʿal-maḵ-ʾō-ḇî", "traducao_palavra": "sobre minha dor" },
+        { "hebraico": "יָגַ֨עְתִּי֙", "transliteral": "yā-ḡaʿ-tî", "traducao_palavra": "cansei-me" },
+        { "hebraico": "בְּאַנְחָתִ֔י", "transliteral": "bə-ʾan-ḥā-ṯî", "traducao_palavra": "em meu gemido" },
+        { "hebraico": "וּמְנֹוחָ֖ה", "transliteral": "ū-mə-nû-ḥā", "traducao_palavra": "e descanso" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "מָצָֽאתִי׃", "transliteral": "mā-ṣā-ṯî", "traducao_palavra": "achei" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Assim lhe dirás: Assim diz YHWH: Eis que o que edifiquei eu derrubo, e o que plantei eu arranco, e isso em toda esta terra.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "תֹּאמַ֣ר", "transliteral": "tō-mar", "traducao_palavra": "dirás" },
+        { "hebraico": "אֵלָ֔יו", "transliteral": "ʾê-lāw", "traducao_palavra": "a ele" },
+        { "hebraico": "כֹּ֚ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הִנֵּ֤ה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "אֲשֶׁר־בָּנִ֨יתִי֙", "transliteral": "ʾă-šer-bā-nî-ṯî", "traducao_palavra": "o que edifiquei" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "הֹרֵ֔ס", "transliteral": "hō-rês", "traducao_palavra": "[estou] derrubando" },
+        { "hebraico": "וְאֵ֥ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e" },
+        { "hebraico": "אֲשֶׁר־נָטַ֖עְתִּי", "transliteral": "ʾă-šer-nā-ṭaʿ-tî", "traducao_palavra": "o que plantei" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "נֹתֵ֑שׁ", "transliteral": "nō-ṯêš", "traducao_palavra": "[estou] arrancando" },
+        { "hebraico": "וְאֶת־כָּל־הָאָ֖רֶץ", "transliteral": "wə-ʾeṯ-kāl-hā-ʾā-reṣ", "traducao_palavra": "e [em] toda a terra" },
+        { "hebraico": "הִֽיא׃", "transliteral": "hî", "traducao_palavra": "ela [mesma]" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E procuras tu grandezas para ti? Não as procures; porque eis que trarei mal sobre toda a carne, diz YHWH; porém te darei a tua vida por despojo, em todos os lugares para onde fores.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֧ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "תְּבַקֶּשׁ־לְךָ֧", "transliteral": "tə-ḇaq-qeš-lə-ḵā", "traducao_palavra": "procuras para ti" },
+        { "hebraico": "גְדֹלֹ֖ות", "transliteral": "ḡə-ḏō-lôṯ", "traducao_palavra": "grandezas" },
+        { "hebraico": "אַל־תְּבַקֵּ֑שׁ", "transliteral": "ʾal-tə-ḇaq-qêš", "traducao_palavra": "não procures" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הִנְנִי֩", "transliteral": "hin-nî", "traducao_palavra": "eis que eu" },
+        { "hebraico": "מֵבִ֨יא", "transliteral": "mê-ḇî", "traducao_palavra": "trazendo" },
+        { "hebraico": "רָעָ֤ה", "transliteral": "rā-ʿā", "traducao_palavra": "mal/desgraça" },
+        { "hebraico": "עַל־כָּל־בָּשָׂר֙", "transliteral": "ʿal-kāl-bā-śār", "traducao_palavra": "sobre toda carne" },
+        { "hebraico": "נְאֻם־יְהוָ֔ה", "transliteral": "nə-ʾum-YHWH", "traducao_palavra": "diz YHWH" },
+        { "hebraico": "וְנָתַתִּ֨י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e darei" },
+        { "hebraico": "לְךָ֧", "transliteral": "lə-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "אֶת־נַפְשְׁךָ֛", "transliteral": "ʾeṯ-nap̄-šə-ḵā", "traducao_palavra": "tua vida" },
+        { "hebraico": "לְשָׁלָ֖ל", "transliteral": "lə-šā-lāl", "traducao_palavra": "por despojo" },
+        { "hebraico": "עַ֥ל", "transliteral": "ʿal", "traducao_palavra": "em" },
+        { "hebraico": "כָּל־הַמְּקֹמֹ֖ות", "transliteral": "kāl-ham-mə-qō-môṯ", "traducao_palavra": "todos os lugares" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "תֵּֽלֶךְ־שָֽׁם׃", "transliteral": "tê-leḵ-šām", "traducao_palavra": "fores para lá" }
+      ]
+    }
+  }
 }

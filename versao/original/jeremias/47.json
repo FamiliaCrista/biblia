@@ -1,6 +1,130 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
+  "livro": "Jeremias - יִרְמְיָ֫הוּ - Yirmeyahu",
   "capítulo": 47,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "A palavra de YHWH que veio ao profeta Jeremias contra os filisteus, antes que Faraó ferisse Gaza.",
+      "palavras": [
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הָיָ֧ה", "transliteral": "hā-yā", "traducao_palavra": "veio/foi" },
+        { "hebraico": "דְבַר־יְהוָ֛ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־יִרְמְיָָ֥הוּ", "transliteral": "ʾel-yir-mə-yā-hû", "traducao_palavra": "a Jeremias" },
+        { "hebraico": "הַנָּבִ֖יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶל־פְּלִשְׁתִּ֑ים", "transliteral": "ʾel-pə-liš-tîm", "traducao_palavra": "contra os filisteus" },
+        { "hebraico": "בְּטֶ֛רֶם", "transliteral": "bə-ṭe-rem", "traducao_palavra": "antes que" },
+        { "hebraico": "יַכֶּ֥ה", "transliteral": "yak-keh", "traducao_palavra": "ferisse/golpeasse" },
+        { "hebraico": "פַרְעֹ֖ה", "transliteral": "p̄ar-ʿōh", "traducao_palavra": "Faraó" },
+        { "hebraico": "אֶת־עַזָּֽה׃", "transliteral": "ʾeṯ-ʿaz-zā", "traducao_palavra": "a Gaza" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Assim diz YHWH: Eis que do norte se levantam águas, e elas se tornarão em torrente transbordante, e inundarão a terra e a sua plenitude, a cidade e os seus habitantes; e os homens clamarão, e todos os moradores da terra uivarão.",
+      "palavras": [
+        { "hebraico": "כֹּ֣ה׀", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֗ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הִנֵּה־מַ֜יִם", "transliteral": "hin-nēh-ma-yim", "traducao_palavra": "eis que águas" },
+        { "hebraico": "עֹלִ֤ים", "transliteral": "ʿō-lîm", "traducao_palavra": "subindo/levantando" },
+        { "hebraico": "מִצָּפֹון֙", "transliteral": "miṣ-ṣā-p̄ôn", "traducao_palavra": "do norte" },
+        { "hebraico": "וְהָי֕וּ", "transliteral": "wə-hā-yû", "traducao_palavra": "e elas se tornarão" },
+        { "hebraico": "לְנַ֣חַל", "transliteral": "lə-na-ḥal", "traducao_palavra": "em uma torrente/rio" },
+        { "hebraico": "שֹׁוטֵ֔ף", "transliteral": "šô-ṭēp̄", "traducao_palavra": "transbordante" },
+        { "hebraico": "וְיִשְׁטְפ֥וּ", "transliteral": "wə-yiš-ṭə-p̄û", "traducao_palavra": "e inundarão" },
+        { "hebraico": "אֶ֨רֶץ", "transliteral": "ʾe-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "וּמְלֹואָ֔הּ", "transliteral": "ū-mə-lô-ʾāh", "traducao_palavra": "e a sua plenitude" },
+        { "hebraico": "עִ֖יר", "transliteral": "ʿîr", "traducao_palavra": "cidade" },
+        { "hebraico": "וְיֹ֣שְׁבֵי", "transliteral": "wə-yō-šə-ḇê", "traducao_palavra": "e os habitantes" },
+        { "hebraico": "בָ֑הּ", "transliteral": "bāh", "traducao_palavra": "nela" },
+        { "hebraico": "וְזָעֲק֣וּ", "transliteral": "wə-zā-ʿă-qû", "traducao_palavra": "e clamarão" },
+        { "hebraico": "הָֽאָדָ֔ם", "transliteral": "hā-ʾā-ḏām", "traducao_palavra": "os homens" },
+        { "hebraico": "וְהֵילֵ֖ל", "transliteral": "wə-hê-lêl", "traducao_palavra": "e uivarão" },
+        { "hebraico": "כֹּ֥ל", "transliteral": "kōl", "traducao_palavra": "cada" },
+        { "hebraico": "יֹושֵׁ֥ב", "transliteral": "yô-šēḇ", "traducao_palavra": "morador de" },
+        { "hebraico": "הָאָֽרֶץ׃", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Ao ruído do pátio das unhas dos seus cavalos valentes, ao estrondo dos seus carros, ao estrépito das suas rodas, os pais não olham para trás para os filhos, por causa da fraqueza das mãos;",
+      "palavras": [
+        { "hebraico": "מִקֹּול֙", "transliteral": "miq-qôl", "traducao_palavra": "ao som de/do ruído de" },
+        { "hebraico": "שַׁעֲטַ֣ת", "transliteral": "ša-ʿă-ṭaṯ", "traducao_palavra": "galope/pátio de" },
+        { "hebraico": "פַּרְסֹ֣ות", "transliteral": "par-śôṯ", "traducao_palavra": "unhas/cascos de" },
+        { "hebraico": "אַבִּירָ֔יו", "transliteral": "ʾab-bî-rāyw", "traducao_palavra": "seus cavalos valentes" },
+        { "hebraico": "מֵרַ֣עַשׁ", "transliteral": "mê-ra-ʿaš", "traducao_palavra": "do estrondo" },
+        { "hebraico": "לְרִכְבֹּ֔ו", "transliteral": "lə-riḵ-bô", "traducao_palavra": "de seu carro" },
+        { "hebraico": "הֲמֹ֖ון", "transliteral": "hă-môn", "traducao_palavra": "do ruído/estrépito de" },
+        { "hebraico": "גַּלְגִּלָּ֑יו", "transliteral": "gal-gil-lāyw", "traducao_palavra": "suas rodas" },
+        { "hebraico": "לֹֽא־הִפְנ֤וּ", "transliteral": "lō-hip̄-nû", "traducao_palavra": "não se voltaram/olharam" },
+        { "hebraico": "אָבֹות֙", "transliteral": "ʾā-ḇôṯ", "traducao_palavra": "pais" },
+        { "hebraico": "אֶל־בָּנִ֔ים", "transliteral": "ʾel-bā-nîm", "traducao_palavra": "para os filhos" },
+        { "hebraico": "מֵרִפְיֹ֖ון", "transliteral": "mê-rip̄-yôn", "traducao_palavra": "por causa da fraqueza de" },
+        { "hebraico": "יָדָֽיִם׃", "transliteral": "yā-ḏā-yim", "traducao_palavra": "mãos" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Por causa do dia que vem para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o resto que os ajudava; porque YHWH destruirá os filisteus, o remanescente da ilha de Caftor.",
+      "palavras": [
+        { "hebraico": "עַל־הַיֹּום֙", "transliteral": "ʿal-hay-yôm", "traducao_palavra": "por causa do dia" },
+        { "hebraico": "הַבָּ֔א", "transliteral": "hab-bā", "traducao_palavra": "que vem" },
+        { "hebraico": "לְשָׁדֹ֖וד", "transliteral": "lə-šā-ḏôḏ", "traducao_palavra": "para destruir" },
+        { "hebraico": "אֶת־כָּל־פְּלִשְׁתִּ֑ים", "transliteral": "ʾeṯ-kāl-pə-liš-tîm", "traducao_palavra": "a todos os filisteus" },
+        { "hebraico": "לְהַכְרִ֤ית", "transliteral": "lə-haḵ-rît", "traducao_palavra": "para cortar" },
+        { "hebraico": "לְצֹר֙", "transliteral": "lə-ṣōr", "traducao_palavra": "a Tiro" },
+        { "hebraico": "וּלְצִידֹ֔ון", "transliteral": "ū-lə-ṣî-ḏôn", "traducao_palavra": "e a Sidom" },
+        { "hebraico": "כֹּ֚ל", "transliteral": "kōl", "traducao_palavra": "todo" },
+        { "hebraico": "שָׂרִ֣יד", "transliteral": "śā-rîḏ", "traducao_palavra": "remanescente/resto" },
+        { "hebraico": "עֹזֵ֔ר", "transliteral": "ʿō-zēr", "traducao_palavra": "que ajudava" },
+        { "hebraico": "כִּֽי־שֹׁדֵ֤ד", "transliteral": "kî-šō-ḏēḏ", "traducao_palavra": "pois destruirá" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶת־פְּלִשְׁתִּ֔ים", "transliteral": "ʾeṯ-pə-liš-tîm", "traducao_palavra": "aos filisteus" },
+        { "hebraico": "שְׁאֵרִ֖ית", "transliteral": "šə-ʾē-rîṯ", "traducao_palavra": "o resto de" },
+        { "hebraico": "אִ֥י", "transliteral": "ʾî", "traducao_palavra": "ilha de" },
+        { "hebraico": "כַפְתֹּֽור׃", "transliteral": "ḵap̄-tôr", "traducao_palavra": "Caftor" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "A calvície veio sobre Gaza, Asquelom foi exterminada, com o resto do seu vale; até quando te retalharás?",
+      "palavras": [
+        { "hebraico": "בָּ֤אָה", "transliteral": "bā-ʾā", "traducao_palavra": "veio" },
+        { "hebraico": "קָרְחָה֙", "transliteral": "qār-ḥā", "traducao_palavra": "calvície" },
+        { "hebraico": "אֶל־עַזָּ֔ה", "transliteral": "ʾel-ʿaz-zā", "traducao_palavra": "sobre Gaza" },
+        { "hebraico": "נִדְמְתָ֥ה", "transliteral": "niḏ-mə-ṯā", "traducao_palavra": "foi silenciada/exterminada" },
+        { "hebraico": "אַשְׁקְלֹ֖ון", "transliteral": "ʾaš-qə-lôn", "traducao_palavra": "Asquelom" },
+        { "hebraico": "שְׁאֵרִ֣ית", "transliteral": "šə-ʾē-rîṯ", "traducao_palavra": "o resto de" },
+        { "hebraico": "עִמְקָ֑ם", "transliteral": "ʿim-qām", "traducao_palavra": "vale deles" },
+        { "hebraico": "עַד־מָתַ֖י", "transliteral": "ʿaḏ-mā-ṯay", "traducao_palavra": "até quando" },
+        { "hebraico": "תִּתְגֹּודָדִֽי׃", "transliteral": "tiṯ-gô-ḏā-ḏî", "traducao_palavra": "te retalharás?" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Ah, espada de YHWH! Até quando não descansarás? Recolhe-te à tua bainha, repousa e aquieta-te.",
+      "palavras": [
+        { "hebraico": "הֹ֗וי", "transliteral": "hôy", "traducao_palavra": "ah/ai" },
+        { "hebraico": "חֶ֚רֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "espada" },
+        { "hebraico": "לַֽיהוָ֔ה", "transliteral": "la-YHWH", "traducao_palavra": "de YHWH" },
+        { "hebraico": "עַד־אָ֖נָה", "transliteral": "ʿaḏ-ʾā-nā", "traducao_palavra": "até quando?" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תִשְׁקֹ֑טִי", "transliteral": "tiš-qō-ṭî", "traducao_palavra": "descansarás/aquietarás" },
+        { "hebraico": "הֵאָסְפִ֥י", "transliteral": "hê-ʾā-śə-p̄î", "traducao_palavra": "recolhe-te" },
+        { "hebraico": "אֶל־תַּעְרֵ֖ךְ", "transliteral": "ʾel-ta-ʿə-rêḵ", "traducao_palavra": "à tua bainha" },
+        { "hebraico": "הֵרָגְעִ֥י", "transliteral": "hê-rā-ḡə-ʿî", "traducao_palavra": "repousa" },
+        { "hebraico": "וָדֹֽמִּי׃", "transliteral": "wā-ḏōm-mî", "traducao_palavra": "e aquieta-te/fica imóvel" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Como podes estar quieta, se YHWH lhe deu ordem? Contra Asquelom e contra a costa do mar, ali ele a designou.",
+      "palavras": [
+        { "hebraico": "אֵ֣יךְ", "transliteral": "ʾêḵ", "traducao_palavra": "como" },
+        { "hebraico": "תִּשְׁקֹ֔טִי", "transliteral": "tiš-qō-ṭî", "traducao_palavra": "podes estar quieta?" },
+        { "hebraico": "וַֽיהוָ֖ה", "transliteral": "wa-YHWH", "traducao_palavra": "se YHWH" },
+        { "hebraico": "צִוָּה־לָ֑הּ", "transliteral": "ṣiw-wā-lāh", "traducao_palavra": "lhe deu ordem" },
+        { "hebraico": "אֶל־אַשְׁקְלֹון֙", "transliteral": "ʾel-ʾaš-qə-lôn", "traducao_palavra": "contra Asquelom" },
+        { "hebraico": "וְאֶל־חֹ֣וף", "transliteral": "wə-ʾel-ḥôp̄", "traducao_palavra": "e contra a costa de" },
+        { "hebraico": "הַיָּ֔ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "שָׁ֖ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "יְעָדָֽהּ׃", "transliteral": "yə-ʿā-ḏāh", "traducao_palavra": "designou-a/marcou-a" }
+      ]
+    }
+  }
 }

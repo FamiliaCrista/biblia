@@ -2,5 +2,237 @@
   "livro": "Lamentações - אֵיכָה - Eikhah",
   "capítulo": 2,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Como o Senhor na sua ira obscureceu a filha de Sião! Lançou do céu para a terra a glória de Israel, e não se lembrou do estrado dos seus pés no dia da sua ira.",
+      "palavras": [
+        { "hebraico": "אֵיכָ֗ה", "transliteral": "ʾê-ḵā", "traducao_palavra": "como" },
+        { "hebraico": "יָעִיב", "transliteral": "yā-ʿîḇ", "traducao_palavra": "obscureceu" },
+        { "hebraico": "בְּאַפֹּו", "transliteral": "bə-ʾap-pô", "traducao_palavra": "na sua ira" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "אֵת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "בַּת־צִיֹּון", "transliteral": "baṯ-ṣi-yôn", "traducao_palavra": "a filha de Sião" },
+        { "hebraico": "הִשְׁלִ֣יךְ", "transliteral": "hiš-lîḵ", "traducao_palavra": "lançou" },
+        { "hebraico": "מִשָּׁמַ֣יִם", "transliteral": "miš-šā-ma-yim", "traducao_palavra": "do céu" },
+        { "hebraico": "אֶרֶץ", "transliteral": "ʾe-reṣ", "traducao_palavra": "[para a] terra" },
+        { "hebraico": "תִּפְאֶ֣רֶת", "transliteral": "tip-ʾe-reṯ", "traducao_palavra": "a glória de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וְלֹא־זָכַר", "transliteral": "wə-lō-zā-ḵar", "traducao_palavra": "e não se lembrou" },
+        { "hebraico": "הֲדֹם־רַגְלָ֖יו", "transliteral": "hă-ḏom-raḡ-lāyw", "traducao_palavra": "do estrado de seus pés" },
+        { "hebraico": "בְּיֹום", "transliteral": "bə-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "אַפֹּֽו׃", "transliteral": "ʾap-pô", "traducao_palavra": "da sua ira" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "O Senhor devorou todas as habitações de Jacó, e não se apiedou; derrubou no seu furor as fortalezas da filha de Judá e abateu-as até à terra; profanou o reino e os seus príncipes.",
+      "palavras": [
+        { "hebraico": "בִּלַּ֨ע", "transliteral": "bil-laʿ", "traducao_palavra": "devorou" },
+        { "hebraico": "אֲדֹנָ֜י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "חָמַ֗ל", "transliteral": "ḥā-mal", "traducao_palavra": "se apiedou" },
+        { "hebraico": "אֵ֚ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־נְאֹ֣ות", "transliteral": "kāl-nə-ʾôṯ", "traducao_palavra": "todas as habitações de" },
+        { "hebraico": "יַעֲקֹ֔ב", "transliteral": "ya-ʿă-qōḇ", "traducao_palavra": "Jacó" },
+        { "hebraico": "הָרַ֤ס", "transliteral": "hā-raś", "traducao_palavra": "derrubou" },
+        { "hebraico": "בְּעֶבְרָתֹו֙", "transliteral": "bə-ʿeḇ-rā-ṯô", "traducao_palavra": "no seu furor" },
+        { "hebraico": "מִבְצְרֵ֣י", "transliteral": "miḇ-ṣə-rê", "traducao_palavra": "as fortalezas da" },
+        { "hebraico": "בַת־יְהוּדָ֔ה", "transliteral": "ḇaṯ-yə-hû-ḏā", "traducao_palavra": "filha de Judá" },
+        { "hebraico": "הִגִּיעַ", "transliteral": "hig-gî-aʿ", "traducao_palavra": "abateu/fez chegar" },
+        { "hebraico": "לָאָ֖רֶץ", "transliteral": "lā-ʾā-reṣ", "traducao_palavra": "até a terra" },
+        { "hebraico": "חִלֵּ֥ל", "transliteral": "ḥil-lēl", "traducao_palavra": "profanou" },
+        { "hebraico": "מַמְלָכָ֖ה", "transliteral": "mam-lā-ḵā", "traducao_palavra": "o reino" },
+        { "hebraico": "וְשָׂרָֽיו׃", "transliteral": "wə-śā-rāyw", "traducao_palavra": "e seus príncipes" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Cortou, no furor da sua ira, todo o poder de Israel; retirou a sua destra de diante do inimigo, e acendeu em Jacó como um fogo flamejante, que consome tudo ao redor.",
+      "palavras": [
+        { "hebraico": "גָּדַ֤ע", "transliteral": "ḡā-ḏaʿ", "traducao_palavra": "cortou" },
+        { "hebraico": "בָּחֳרִ֣י", "transliteral": "bā-ḥŏ-rî", "traducao_palavra": "no furor de" },
+        { "hebraico": "אַ֔ף", "transliteral": "ʾap̄", "traducao_palavra": "sua ira" },
+        { "hebraico": "כֹּ֖ל", "transliteral": "kōl", "traducao_palavra": "todo" },
+        { "hebraico": "קֶ֣רֶן", "transliteral": "qe-ren", "traducao_palavra": "poder/chifre de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "הֵשִׁ֤יב", "transliteral": "hê-šîḇ", "traducao_palavra": "retirou" },
+        { "hebraico": "אָחֹור֙", "transliteral": "ʾā-ḥôr", "traducao_palavra": "para trás" },
+        { "hebraico": "יְמִינֹ֔ו", "transliteral": "yə-mî-nô", "traducao_palavra": "sua destra" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Armou o seu arco como inimigo, firmou a sua destra como adversário, e matou tudo o que era formoso à vista; na tenda da filha de Sião derramou o seu furor como fogo.",
+      "palavras": [
+        { "hebraico": "דָּרַ֤ךְ", "transliteral": "dā-raḵ", "traducao_palavra": "armou" },
+        { "hebraico": "קַשְׁתֹּו֙", "transliteral": "qaš-tô", "traducao_palavra": "seu arco" },
+        { "hebraico": "כְּאֹויֵ֔ב", "transliteral": "kə-ʾô-yêḇ", "traducao_palavra": "como inimigo" },
+        { "hebraico": "נִצַּ֧ב", "transliteral": "niṣ-ṣaḇ", "traducao_palavra": "firmou" },
+        { "hebraico": "יְמִינֹ֛ו", "transliteral": "yə-mî-nô", "traducao_palavra": "sua destra" },
+        { "hebraico": "כְּצָ֖ר", "transliteral": "kə-ṣār", "traducao_palavra": "como adversário" },
+        { "hebraico": "וַיַּהֲרֹג", "transliteral": "way-ya-hă-rōḡ", "traducao_palavra": "e matou" },
+        { "hebraico": "כֹּ֣ל", "transliteral": "kōl", "traducao_palavra": "tudo" },
+        { "hebraico": "מַחְמַדֵּי־עָ֑יִן", "transliteral": "ma-ḥă-mad-dê-ʿā-yin", "traducao_palavra": "formoso à vista" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Tornou-se o Senhor como inimigo; devorou a Israel, devorou todos os seus palácios, destruiu as suas fortalezas, e multiplicou na filha de Judá o lamento e o pranto.",
+      "palavras": [
+        { "hebraico": "הָיָ֧ה", "transliteral": "hā-yā", "traducao_palavra": "tornou-se" },
+        { "hebraico": "אֲדֹנָ֛י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "כְּאֹויֵ֖ב", "transliteral": "kə-ʾô-yêḇ", "traducao_palavra": "como inimigo" },
+        { "hebraico": "בִּלַּ֣ע", "transliteral": "bil-laʿ", "traducao_palavra": "devorou" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E derrubou com violência o seu tabernáculo como o de uma horta, destruiu o lugar da sua assembleia; YHWH, em Sião, fez esquecer a festa solene e o sábado, e na indignação da sua ira rejeitou o rei e o sacerdote.",
+      "palavras": [
+        { "hebraico": "וַיַּחְמֹ֧ס", "transliteral": "way-ya-ḥă-mōs", "traducao_palavra": "e derrubou com violência" },
+        { "hebraico": "כַּגַּ֣ן", "transliteral": "kaḡ-gan", "traducao_palavra": "como o de uma horta" },
+        { "hebraico": "שֻׂכֹּ֔ו", "transliteral": "śuk-kô", "traducao_palavra": "seu tabernáculo" },
+        { "hebraico": "שִׁחֵ֖ת", "transliteral": "ši-ḥêṯ", "traducao_palavra": "destruiu" },
+        { "hebraico": "מֹועֲדֹ֑ו", "transliteral": "mô-ʿă-ḏô", "traducao_palavra": "seu lugar de assembleia" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Rejeitou o Senhor o seu altar, detestou o seu santuário; entregou na mão do inimigo os muros dos seus palácios; deram um brado na casa de YHWH, como em dia de festa solene.",
+      "palavras": [
+        { "hebraico": "זָנַ֤ח", "transliteral": "zā-naḥ", "traducao_palavra": "rejeitou" },
+        { "hebraico": "אֲדֹנָי֙", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "מִזְבְּחֹ֔ו", "transliteral": "miz-bə-ḥô", "traducao_palavra": "seu altar" },
+        { "hebraico": "נִאֵ֖ר", "transliteral": "ni-ʾēr", "traducao_palavra": "detestou/desprezou" },
+        { "hebraico": "מִקְדָּשֹׁ֑ו", "transliteral": "miq-dā-šô", "traducao_palavra": "seu santuário" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "YHWH intentou destruir o muro da filha de Sião; estendeu o cordel, não retirou a sua mão de destruir; por isso fez gemer o antemuro e o muro; ambos se desfaleceram juntamente.",
+      "palavras": [
+        { "hebraico": "חָשַׁ֣ב", "transliteral": "ḥā-šaḇ", "traducao_palavra": "intentou" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לְהַשְׁחִ֣ית", "transliteral": "lə-haš-ḥîṯ", "traducao_palavra": "destruir" },
+        { "hebraico": "חֹומַ֣ת", "transliteral": "ḥô-maṯ", "traducao_palavra": "o muro de" },
+        { "hebraico": "בַּת־צִיֹּ֔ון", "transliteral": "baṯ-ṣi-yôn", "traducao_palavra": "filha de Sião" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "As suas portas estão enterradas nas ruínas; ele destruiu e quebrou os seus ferrolhos; o seu rei e os seus príncipes estão entre as nações, onde não há lei; e também os seus profetas não acham visão alguma de YHWH.",
+      "palavras": [
+        { "hebraico": "טָבְע֣וּ", "transliteral": "ṭā-ḇə-ʿû", "traducao_palavra": "estão enterradas/afundadas" },
+        { "hebraico": "בָאָ֔רֶץ", "transliteral": "ḇā-ʾā-reṣ", "traducao_palavra": "na terra" },
+        { "hebraico": "שְׁעָרֶ֖יהָ", "transliteral": "še-ʿā-re-hā", "traducao_palavra": "as portas dela" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Assentam-se na terra, silenciosos, os anciãos da filha de Sião; lançam pó sobre as suas cabeças, cinguem-se de sacos; as virgens de Jerusalém abaixam a cabeça até à terra.",
+      "palavras": [
+        { "hebraico": "יָשְׁב֣וּ", "transliteral": "yā-šə-ḇû", "traducao_palavra": "assentam-se" },
+        { "hebraico": "לָאָ֨רֶץ֙", "transliteral": "lā-ʾā-reṣ", "traducao_palavra": "na terra" },
+        { "hebraico": "יִדְּמ֔וּ", "transliteral": "yiḏ-də-mû", "traducao_palavra": "silenciosos" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Os meus olhos se acabam de lágrimas, o meu coração está transtornado, o meu fígado se derrama pela destruição da filha do meu povo, porquanto desfalecem os meninos e as crianças de peito nas praças da cidade.",
+      "palavras": [
+        { "hebraico": "כָּל֨וּ", "transliteral": "kā-lû", "traducao_palavra": "acabam-se" },
+        { "hebraico": "בַדְּמָעֹ֤ות", "transliteral": "ḇad-də-mā-ʿôṯ", "traducao_palavra": "de lágrimas" },
+        { "hebraico": "עֵינַי֙", "transliteral": "ʿê-nay", "traducao_palavra": "meus olhos" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Às suas mães dizem: Onde está o trigo e o vinho? Quando desfalecem como feridos nas praças da cidade, quando derramam a sua alma no regaço de suas mães.",
+      "palavras": [
+        { "hebraico": "לְאִמֹּתָם֙", "transliteral": "lə-ʾim-mō-ṯām", "traducao_palavra": "às suas mães" },
+        { "hebraico": "יֹאמְר֔וּ", "transliteral": "yō-mə-rû", "traducao_palavra": "dizem" },
+        { "hebraico": "אַיֵּ֖ה", "transliteral": "ʾay-yēh", "traducao_palavra": "onde" },
+        { "hebraico": "דָּגָ֣ן", "transliteral": "dā-ḡān", "traducao_palavra": "trigo" },
+        { "hebraico": "וָיָ֑יִן", "transliteral": "wā-yā-yin", "traducao_palavra": "e vinho" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Que testemunho te trarei? A que te compararei, ó filha de Jerusalém? A quem te assemelharei, para te consolar, ó virgem filha de Sião? Porque a tua ferida é grande como o mar; quem te curará?",
+      "palavras": [
+        { "hebraico": "מָָה־אֲעִידֵ֞ךְ", "transliteral": "mā-ʾă-ʿî-ḏêḵ", "traducao_palavra": "que testemunho te trarei" },
+        { "hebraico": "מָה־אֲדַמֶּה־לָּךְ", "transliteral": "māh-ʾă-ḏam-meh-lāḵ", "traducao_palavra": "a que te assemelharei" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Os teus profetas viram para ti visões vãs e loucas; e não manifestaram a tua iniquidade, para mudarem o teu cativeiro; mas viram para ti revelações vãs e causas de expulsão.",
+      "palavras": [
+        { "hebraico": "נְבִיאַיִךְ", "transliteral": "nə-ḇî-ʾa-yiḵ", "traducao_palavra": "teus profetas" },
+        { "hebraico": "חָזוּ", "transliteral": "ḥā-zû", "traducao_palavra": "viram" },
+        { "hebraico": "לָךְ", "transliteral": "lāḵ", "traducao_palavra": "para ti" },
+        { "hebraico": "שָׁוְא", "transliteral": "šā-wə", "traducao_palavra": "visões vãs" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Todos os que passam pelo caminho batem palmas contra ti; assobiam e meneiam a cabeça contra a filha de Jerusalém, dizendo: É esta a cidade que chamavam a perfeição da formosura, o gozo de toda a terra?",
+      "palavras": [
+        { "hebraico": "סָפְק֤וּ", "transliteral": "śā-p̄ə-qû", "traducao_palavra": "batem palmas" },
+        { "hebraico": "עָלַ֨יִךְ֙", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "contra ti" },
+        { "hebraico": "כָּל־עֹ֣בְרֵי", "transliteral": "kāl-ʿō-ḇə-rê", "traducao_palavra": "todos os que passam" },
+        { "hebraico": "דֶּ֔רֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "pelo caminho" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Todos os teus inimigos abrem a boca contra ti, assobiam e rangem os dentes; dizem: Nós a devoramos; certamente este é o dia que esperávamos; achamo-lo, vimo-lo.",
+      "palavras": [
+        { "hebraico": "פָּצ֣וּ", "transliteral": "pā-ṣû", "traducao_palavra": "abrem" },
+        { "hebraico": "עָלַ֤יִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "contra ti" },
+        { "hebraico": "פִּיהֶם֙", "transliteral": "pî-hem", "traducao_palavra": "a boca deles" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "YHWH fez o que intentou; executou a sua palavra, que ordenou desde os dias antigos; derrubou e não se compadeceu; fez com que o inimigo se alegrasse por tua causa, exaltou o poder dos teus adversários.",
+      "palavras": [
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "fez" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "זָמָ֔ם", "transliteral": "zā-mām", "traducao_palavra": "intentou" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "O seu coração clamou ao Senhor; ó muro da filha de Sião, corram lágrimas como um ribeiro, de dia e de noite; não te dês descanso, não pare a menina dos teus olhos.",
+      "palavras": [
+        { "hebraico": "צָעַ֤ק", "transliteral": "ṣā-ʿaq", "traducao_palavra": "clamou" },
+        { "hebraico": "לִבָּם֙", "transliteral": "lib-bām", "traducao_palavra": "o coração deles" },
+        { "hebraico": "אֶל־אֲדֹנָ֔י", "transliteral": "ʾel-ʾă-ḏō-nāy", "traducao_palavra": "ao Senhor" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Levanta-te, clama de noite, no princípio das vigílias; derrama o teu coração como águas diante da face do Senhor; levanta a ele as tuas mãos, pela vida de teus filhinhos, que desfaleceram de fome às entradas de todas as ruas.",
+      "palavras": [
+        { "hebraico": "קוּמִ֨י", "transliteral": "qû-mî", "traducao_palavra": "levanta-te" },
+        { "hebraico": "רֹנִּ֤י", "transliteral": "rōn-nî", "traducao_palavra": "clama" },
+        { "hebraico": "בַלַּ֙יְלָה֙", "transliteral": "ḇal-lay-lā", "traducao_palavra": "de noite" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Vê, ó YHWH, e contempla a quem fizeste assim! Porventura comerão as mulheres o seu fruto, as crianças que trazem ao colo? Matar-se-ão no santuário do Senhor o sacerdote e o profeta?",
+      "palavras": [
+        { "hebraico": "רְאֵ֨ה", "transliteral": "rə-ʾēh", "traducao_palavra": "vê" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְהַבִּ֣יטָה", "transliteral": "wə-hab-bî-ṭā", "traducao_palavra": "e contempla" },
+        { "hebraico": "לְמִ֣י", "transliteral": "lə-mî", "traducao_palavra": "a quem" },
+        { "hebraico": "עֹולַ֣לְתָּ", "transliteral": "ʿô-lal-tā", "traducao_palavra": "fizeste" },
+        { "hebraico": "כֹּ֔ה", "transliteral": "kō", "traducao_palavra": "assim" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Jazem por terra nas ruas o moço e o velho; as minhas virgens e os meus jovens caíram à espada; tu os mataste no dia da tua ira; mataste-os, não te compadeceste.",
+      "palavras": [
+        { "hebraico": "שָׁכְב֚וּ", "transliteral": "šā-ḵə-ḇû", "traducao_palavra": "jazem" },
+        { "hebraico": "לָאָ֨רֶץ֙", "transliteral": "lā-ʾā-reṣ", "traducao_palavra": "por terra" },
+        { "hebraico": "בַּחוּצֹ֔ות", "transliteral": "ba-ḥû-ṣôṯ", "traducao_palavra": "nas ruas" },
+        { "hebraico": "נַעַר", "transliteral": "na-ʿar", "traducao_palavra": "o moço" },
+        { "hebraico": "וְזָקֵ֔ן", "transliteral": "wə-zā-qên", "traducao_palavra": "e o velho" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Como um dia de festa convocaste os meus terrores de toda a parte, e no dia da ira de YHWH ninguém escapou, nem ficou; os que trouxe ao colo, e que criei, o meu inimigo os consumiu.",
+      "palavras": [
+        { "hebraico": "תִּקְרָא֙", "transliteral": "tiq-rā", "traducao_palavra": "convocaste" },
+        { "hebraico": "כְּיֹ֣ום", "transliteral": "kə-yôm", "traducao_palavra": "como dia" },
+        { "hebraico": "מֹועֵ֔ד", "transliteral": "mô-ʿēḏ", "traducao_palavra": "de festa" },
+        { "hebraico": "מְגוּרַ֖י", "transliteral": "mə-ḡû-rāy", "traducao_palavra": "meus terrores" }
+      ]
+    }
+  }
 }

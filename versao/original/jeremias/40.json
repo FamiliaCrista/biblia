@@ -1,4 +1,200 @@
 {
+  "livro": "Jeremias - יִרְמְיָ֫הוּ - Yirmeyahu",
+  "capítulo": 40,
+  "titulos": {},
+  "versiculos": {
+    "1": {
+      "traducao_completa": "A palavra que veio a Jeremias da parte de YHWH, depois que Nebuzaradã, capitão da guarda, o deixou ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os cativos de Jerusalém e de Judá, que eram levados cativos para a Babilônia.",
+      "palavras": [
+        { "hebraico": "הַדָּבָ֞ר", "transliteral": "had-dā-ḇār", "traducao_palavra": "a palavra" },
+        { "hebraico": "אֲשֶׁר־הָיָ֧ה", "transliteral": "ʾă-šer-hā-yā", "traducao_palavra": "que veio/foi" },
+        { "hebraico": "אֶל־יִרְמְיָָ֛הוּ", "transliteral": "ʾel-yir-mə-yā-hû", "traducao_palavra": "a Jeremias" },
+        { "hebraico": "מֵאֵ֥ת", "transliteral": "mê-ʾēṯ", "traducao_palavra": "da parte de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אַחַ֣ר", "transliteral": "ʾa-ḥar", "traducao_palavra": "depois" },
+        { "hebraico": "שַׁלַּ֣ח", "transliteral": "šal-laḥ", "traducao_palavra": "deixar ir/enviar" },
+        { "hebraico": "אֹתֹו֩", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "נְבוּזַרְאֲדָ֨ן", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִ֜ים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" },
+        { "hebraico": "מִן־הָרָמָ֗ה", "transliteral": "min-hā-rā-mā", "traducao_palavra": "de Ramá" },
+        { "hebraico": "בְּקַחְתֹּ֣ו", "transliteral": "bə-qaḥ-tô", "traducao_palavra": "quando o tomou" },
+        { "hebraico": "אֹתֹו֮", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "וְהֽוּא־אָס֧וּר", "transliteral": "wə-hû-ʾā-śûr", "traducao_palavra": "e ele [estava] atado" },
+        { "hebraico": "בָּאזִקִּים", "transliteral": "bā-ʾziq-qîm", "traducao_palavra": "em cadeias/algemas" },
+        { "hebraico": "בְּתֹ֨וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "כָּל־גָּל֥וּת", "transliteral": "kāl-gā-lûṯ", "traducao_palavra": "todos os cativos/exílio de" },
+        { "hebraico": "יְרוּשָׁלִַ֖ם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "וִיהוּדָ֑ה", "transliteral": "wî-hû-ḏā", "traducao_palavra": "e Judá" },
+        { "hebraico": "הַמֻּגְלִ֖ים", "transliteral": "ham-muḡ-lîm", "traducao_palavra": "os que foram exilados" },
+        { "hebraico": "בָּבֶֽלָה׃", "transliteral": "bā-ḇe-lā", "traducao_palavra": "[para] Babilônia" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "O capitão da guarda tomou a Jeremias e lhe disse: YHWH teu Deus pronunciou este mal contra este lugar.",
+      "palavras": [
+        { "hebraico": "וַיִּקַּ֥ח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "e tomou" },
+        { "hebraico": "רַב־טַבָּחִ֖ים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "o capitão da guarda" },
+        { "hebraico": "לְיִרְמְיָָ֑הוּ", "transliteral": "lə-yir-mə-yā-hû", "traducao_palavra": "a Jeremias" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלָ֔יו", "transliteral": "ʾê-lāw", "traducao_palavra": "a ele" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֱלֹהֶ֔יךָ", "transliteral": "ʾĕ-lō-he-ḵā", "traducao_palavra": "teu Deus" },
+        { "hebraico": "דִּבֶּר֙", "transliteral": "dib-ber", "traducao_palavra": "falou/pronunciou" },
+        { "hebraico": "אֶת־הָרָעָ֥ה", "transliteral": "ʾeṯ-hā-rā-ʿā", "traducao_palavra": "o mal" },
+        { "hebraico": "הַזֹּ֖את", "transliteral": "haz-zōṯ", "traducao_palavra": "este" },
+        { "hebraico": "אֶל־הַמָּקֹ֥ום", "transliteral": "ʾel-ham-mā-qôm", "traducao_palavra": "contra o lugar" },
+        { "hebraico": "הַזֶּֽה׃", "transliteral": "haz-zeh", "traducao_palavra": "este" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E YHWH o trouxe e fez como havia dito; porquanto pecastes contra YHWH, e não ouvistes a sua voz, por isso vos sucedeu isto.",
+      "palavras": [
+        { "hebraico": "וַיָּבֵ֧א", "transliteral": "way-yā-ḇē", "traducao_palavra": "e trouxe" },
+        { "hebraico": "וַיַּ֣עַשׂ", "transliteral": "way-ya-ʿaś", "traducao_palavra": "e fez" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "כַּאֲשֶׁ֖ר", "transliteral": "ka-ʾă-šer", "traducao_palavra": "conforme" },
+        { "hebraico": "דִּבֵּ֑ר", "transliteral": "dib-bêr", "traducao_palavra": "ele falou" },
+        { "hebraico": "כִּֽי־חֲטָאתֶ֤ם", "transliteral": "kî-ḥă-ṭā-ṯem", "traducao_palavra": "porque pecastes" },
+        { "hebraico": "לַֽיהוָה֙", "transliteral": "la-YHWH", "traducao_palavra": "contra YHWH" },
+        { "hebraico": "וְלֹא־שְׁמַעְתֶּ֣ם", "transliteral": "wə-lō-šə-maʿ-tem", "traducao_palavra": "e não ouvistes" },
+        { "hebraico": "בְּקֹולֹ֔ו", "transliteral": "bə-qô-lô", "traducao_palavra": "em sua voz" },
+        { "hebraico": "וְהָיָ֥ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "לָכֶ֛ם", "transliteral": "lā-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "הַדָּבָ֥ר", "transliteral": "had-dā-ḇār", "traducao_palavra": "a coisa/evento" },
+        { "hebraico": "הַזֶּֽה׃", "transliteral": "haz-zeh", "traducao_palavra": "esta" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Agora, pois, eis que te soltei hoje das cadeias que estavam sobre as tuas mãos. Se te parece bem ir comigo para a Babilônia, vem, e eu porei os meus olhos sobre ti; mas, se te parece mal ir comigo para a Babilônia, deixa de ir. Olha, toda a terra está diante de ti; para onde parecer bom e reto aos teus olhos ir, para ali vai.",
+      "palavras": [
+        { "hebraico": "וְעַתָּ֗ה", "transliteral": "wə-ʿat-tā", "traducao_palavra": "e agora" },
+        { "hebraico": "הִנֵּ֧ה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "פִתַּחְתִּ֣יךָ", "transliteral": "p̄it-taḥ-tî-ḵā", "traducao_palavra": "te soltei/abri" },
+        { "hebraico": "הַיֹּום֮", "transliteral": "hay-yôm", "traducao_palavra": "hoje" },
+        { "hebraico": "מִן־הָאזִקִּים֮", "transliteral": "min-hā-ʾziq-qîm", "traducao_palavra": "das cadeias" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "עַל־יָדֶךָ֒", "transliteral": "ʿal-yā-ḏe-ḵā", "traducao_palavra": "sobre tua mão/braço" },
+        { "hebraico": "אִם־טֹוב֩", "transliteral": "ʾim-ṭôḇ", "traducao_palavra": "se [parece] bom" },
+        { "hebraico": "בְּעֵינֶ֨יךָ֙", "transliteral": "bə-ʿê-ne-ḵā", "traducao_palavra": "em teus olhos" },
+        { "hebraico": "לָבֹ֨וא", "transliteral": "lā-ḇô", "traducao_palavra": "ir/vir" },
+        { "hebraico": "אִתִּ֧י", "transliteral": "ʾit-tî", "traducao_palavra": "comigo" },
+        { "hebraico": "בָבֶ֛ל", "transliteral": "bā-ḇel", "traducao_palavra": "[para] Babilônia" },
+        { "hebraico": "בֹּ֖א", "transliteral": "bō", "traducao_palavra": "vem" },
+        { "hebraico": "וְאָשִׂ֤ים", "transliteral": "wə-ʾā-śîm", "traducao_palavra": "e eu porei" },
+        { "hebraico": "אֶת־עֵינִי֙", "transliteral": "ʾeṯ-ʿê-nî", "traducao_palavra": "meu olho" },
+        { "hebraico": "עָלֶ֔יךָ", "transliteral": "ʿā-le-ḵā", "traducao_palavra": "sobre ti" },
+        { "hebraico": "וְאִם־רַ֧ע", "transliteral": "wə-ʾim-raʿ", "traducao_palavra": "e se [parece] mal" },
+        { "hebraico": "בְּעֵינֶ֛יךָ", "transliteral": "bə-ʿê-ne-ḵā", "traducao_palavra": "em teus olhos" },
+        { "hebraico": "לָבֹוא־אִתִּ֥י", "transliteral": "lā-ḇô-ʾit-tî", "traducao_palavra": "ir/vir comigo" },
+        { "hebraico": "בָבֶ֖ל", "transliteral": "bā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "חֲדָ֑ל", "transliteral": "ḥă-ḏāl", "traducao_palavra": "cessa/deixa" },
+        { "hebraico": "רְאֵה֙", "transliteral": "rə-ʾēh", "traducao_palavra": "olha/vê" },
+        { "hebraico": "כָּל־הָאָ֣רֶץ", "transliteral": "kāl-hā-ʾā-reṣ", "traducao_palavra": "toda a terra" },
+        { "hebraico": "לְפָנֶ֔יךָ", "transliteral": "lə-p̄ā-ne-ḵā", "traducao_palavra": "diante de ti" },
+        { "hebraico": "אֶל־טֹ֨וב", "transliteral": "ʾel-ṭôḇ", "traducao_palavra": "para onde [é] bom" },
+        { "hebraico": "וְאֶל־הַיָּשָׁ֧ר", "transliteral": "wə-ʾel-hay-yā-šār", "traducao_palavra": "e para o que [é] reto" },
+        { "hebraico": "בְּעֵינֶ֛יךָ", "transliteral": "bə-ʿê-ne-ḵā", "traducao_palavra": "em teus olhos" },
+        { "hebraico": "לָלֶ֖כֶת", "transliteral": "lā-le-ḵeṯ", "traducao_palavra": "para ir" },
+        { "hebraico": "שָׁ֥מָּה", "transliteral": "šām-mā", "traducao_palavra": "ali" },
+        { "hebraico": "לֵֽךְ׃", "transliteral": "lēḵ", "traducao_palavra": "vai" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E, como ele ainda não voltava, disse-lhe: Volta, pois, a Gedalias, filho de Aicão, filho de Safã, a quem o rei da Babilônia pôs sobre as cidades de Judá, e habita com ele no meio do povo; ou vai para onde parecer reto aos teus olhos ir. E deu-lhe o capitão da guarda mantimento e um presente, e o deixou ir.",
+      "palavras": [
+        { "hebraico": "וְעֹודֶ֣נּוּ", "transliteral": "wə-ʿô-ḏen-nû", "traducao_palavra": "e ele ainda" },
+        { "hebraico": "לֹֽא־יָשׁ֗וּב", "transliteral": "lō-yā-šûḇ", "traducao_palavra": "não voltando" },
+        { "hebraico": "וְשֻׁ֣ב", "transliteral": "wə-šuḇ", "traducao_palavra": "e volta" },
+        { "hebraico": "אֶל־גְּדַלְיָ֨ה", "transliteral": "ʾel-gə-ḏal-yā", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָ֜ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "בֶּן־שָׁפָ֗ן", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "אֲשֶׁר֩", "transliteral": "ʾă-šer", "traducao_palavra": "a quem" },
+        { "hebraico": "הִפְקִ֨יד", "transliteral": "hip̄-qîḏ", "traducao_palavra": "pôs/encarregou" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶל֮", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "o rei da Babilônia" },
+        { "hebraico": "בְּעָרֵ֣י", "transliteral": "bə-ʿā-rê", "traducao_palavra": "nas cidades de" },
+        { "hebraico": "יְהוּדָה֒", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וְשֵׁ֤ב", "transliteral": "wə-šêḇ", "traducao_palavra": "e habita" },
+        { "hebraico": "אִתֹּו֙", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "בְּתֹ֣וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הָעָ֔ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "אֹ֧ו", "transliteral": "ʾô", "traducao_palavra": "ou" },
+        { "hebraico": "אֶל־כָּל־הַיָּשָׁ֥ר", "transliteral": "ʾel-kāl-hay-yā-šār", "traducao_palavra": "para tudo o que reto" },
+        { "hebraico": "בְּעֵינֶ֖יךָ", "transliteral": "bə-ʿê-ne-ḵā", "traducao_palavra": "em teus olhos" },
+        { "hebraico": "לָלֶ֥כֶת", "transliteral": "lā-le-ḵeṯ", "traducao_palavra": "para ir" },
+        { "hebraico": "לֵ֑ךְ", "transliteral": "lēḵ", "traducao_palavra": "vai" },
+        { "hebraico": "וַיִּתֶּן־לֹ֧ו", "transliteral": "way-yit-ten-lô", "traducao_palavra": "e deu a ele" },
+        { "hebraico": "רַב־טַבָּחִ֛ים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "o capitão da guarda" },
+        { "hebraico": "אֲרֻחָ֥ה", "transliteral": "ʾă-ru-ḥā", "traducao_palavra": "mantimento/ração" },
+        { "hebraico": "וּמַשְׂאֵ֖ת", "transliteral": "ū-maś-ʾêṯ", "traducao_palavra": "e um presente" },
+        { "hebraico": "וַֽיְשַׁלְּחֵֽהוּ׃", "transliteral": "way-šal-lə-ḥê-hû", "traducao_palavra": "e o deixou ir" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Foi, pois, Jeremias a Gedalias, filho de Aicão, a Mispa; e habitou com ele no meio do povo que ficara na terra.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹ֧א", "transliteral": "way-yā-ḇō", "traducao_palavra": "e veio/foi" },
+        { "hebraico": "יִרְמְיָָ֛הוּ", "transliteral": "yir-mə-yā-hû", "traducao_palavra": "Jeremias" },
+        { "hebraico": "אֶל־גְּדַלְיָ֥ה", "transliteral": "ʾel-gə-ḏal-yā", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָ֖ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "הַמִּצְפָּ֑תָה", "transliteral": "ham-miṣ-pā-ṯā", "traducao_palavra": "[a] Mispa" },
+        { "hebraico": "וַיֵּ֧שֶׁב", "transliteral": "way-yê-šeḇ", "traducao_palavra": "e habitou" },
+        { "hebraico": "אִתֹּ֛ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "בְּתֹ֥וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הָעָ֖ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "הַנִּשְׁאָרִ֥ים", "transliteral": "han-niš-ʾā-rîm", "traducao_palavra": "os restantes" },
+        { "hebraico": "בָּאָֽרֶץ׃", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "na terra" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Ouvindo, pois, todos os capitães dos exércitos que estavam no campo, eles e os seus homens, que o rei da Babilônia pusera a Gedalias, filho de Aicão, sobre a terra, e que lhe confiara homens, mulheres e crianças, e dos pobres da terra, que não foram levados cativos para a Babilônia,",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁמְעוּ֩", "transliteral": "way-yiš-mə-ʿû", "traducao_palavra": "e ouviram" },
+        { "hebraico": "כָל־שָׂרֵ֨י", "transliteral": "ḵāl-śā-rê", "traducao_palavra": "todos os capitães de" },
+        { "hebraico": "הַחֲיָלִ֜ים", "transliteral": "ha-ḥă-yā-lîm", "traducao_palavra": "os exércitos" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "בַּשָּׂדֶה֮", "transliteral": "baś-śā-ḏeh", "traducao_palavra": "no campo" },
+        { "hebraico": "הֵ֣מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "וְאַנְשֵׁיהֶם֒", "transliteral": "wə-ʾan-šê-hem", "traducao_palavra": "e seus homens" },
+        { "hebraico": "כִּֽי־הִפְקִ֨יד", "transliteral": "kî-hip̄-qîḏ", "traducao_palavra": "que pôs/encarregou" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֜ל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "o rei da Babilônia" },
+        { "hebraico": "אֶל־גְּדַלְיָ֣הוּ", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָם֮", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "בָּאָרֶץ֒", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "na terra" },
+        { "hebraico": "וְכִ֡י", "transliteral": "wə-ḵî", "traducao_palavra": "e que" },
+        { "hebraico": "הִפְקִ֣יד", "transliteral": "hip̄-qîḏ", "traducao_palavra": "confiou" },
+        { "hebraico": "אִתֹּ֗ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "אֲנָשִׁ֤ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "וְנָשִׁים֙", "transliteral": "wə-nā-šîm", "traducao_palavra": "e mulheres" },
+        { "hebraico": "וָטָ֔ף", "transliteral": "wā-ṭāp̄", "traducao_palavra": "e crianças" },
+        { "hebraico": "וּמִדַּלַּ֣ת", "transliteral": "ū-mid-dal-laṯ", "traducao_palavra": "e dos pobres de" },
+        { "hebraico": "הָאָ֔רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "מֵאֲשֶׁ֥ר", "transliteral": "mê-ʾă-šer", "traducao_palavra": "[daqueles] que" },
+        { "hebraico": "לֹֽא־הָגְל֖וּ", "transliteral": "lō-hā-ḡə-lû", "traducao_palavra": "não foram exilados" },
+        { "hebraico": "בָּבֶֽלָה׃", "transliteral": "bā-ḇe-lā", "traducao_palavra": "[para] Babilônia" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Vieram, pois, a Gedalias, a Mispa: Ismael, filho de Netanias, e Joanã e Jonatas, filhos de Careá, e Seraías, filho de Taneumete, e os filhos de Efai, o netofatita, e Jezanias, filho de um maacatita, eles e os seus homens.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹ֥אוּ", "transliteral": "way-yā-ḇō-ʾû", "traducao_palavra": "e vieram" },
+        { "hebraico": "אֶל־גְּדַלְיָ֖ה", "transliteral": "ʾel-gə-ḏal-yā", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "הַמִּצְפָּ֑תָה", "transliteral": "ham-miṣ-pā-ṯā", "traducao_palavra": "[a] Mispa" },
+        { "hebraico": "וְיִשְׁמָעֵ֣אל", "transliteral": "wə-yiš-mā-ʿēl", "traducao_palavra": "e Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֡ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "וְיֹוחָ֠נָן", "transliteral": "wə-yô-ḥā-nān", "traducao_palavra": "e Joanã" },
+        { "hebraico": "וְיֹונָתָ֨ן", "transliteral": "wə-yô-nā-ṯān", "traducao_palavra": "e Jonatas" },
+        { "hebraico": "בְּנֵֽי־קָרֵ֜חַ", "transliteral": "bə-nê-qā-rê-aḥ", "traducao_palavra": "filhos de Careá" },
+        { "hebraico": "וּשְׂרָיָ֣ה", "transliteral": "ū-śə-rā-yā", "traducao_palavra": "e Seraías" },
+        { "hebraico": "בֶן־תַּנְחֻ֗מֶת", "transliteral": "ben-tan-ḥu-meṯ", "traducao_palavra": "filho de Taneumete" },
+        { "hebraico": "וּבְנֵי֙", "transliteral": "ū-ḇə-nê", "traducao_palavra": "e os filhos de" },
+        { "hebraico": "עֵופַ֣י", "transliteral": "ʿê-p̄ay", "traducao_palavra": "Efai" },
+        { "hebraico": "הַנְּטֹפָתִ֔י", "transliteral": "han-nə-ṭō-p̄ā-ṯî", "traducao_palavra": "o netofatita" },
+        { "hebraico": "וְיֶזַנְיָ֙הוּ֙", "transliteral": "wə-ye-zan-yā-hû", "traducao_palavra": "e Jezanias" },
+        { "hebraico": "בֶּן־הַמַּעֲכָתִ֔י", "transliteral": "ben-ham-ma-ʿă-ḵā-ṯî", "traducao_palavra": "filho do maacatita" },
+        { "hebraico": "הֵ֖מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "וְאַנְשֵׁיהֶֽם׃", "transliteral": "wə-ʾan-šê-hem", "traducao_palavra": "e seus homens" }
+      ]
+    },
     "9": {
       "traducao_completa": "E jurou-lhes Gedalias, filho de Aicão, filho de Safã, e aos seus homens, dizendo: Não temais servir aos caldeus; habitai na terra, e servi ao rei da Babilônia, e bem vos irá.",
       "palavras": [
@@ -170,4 +366,5 @@
         { "hebraico": "אֶל־יִשְׁמָעֵֽאל׃", "transliteral": "ʾel-yiš-mā-ʿēl", "traducao_palavra": "de/sobre Ismael" }
       ]
     }
+  }
 }

@@ -2,5 +2,257 @@
   "livro": "Lamentações - אֵיכָה - Eikhah",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Como está sentada solitária a cidade que era cheia de povo! A que era grande entre as nações tornou-se como viúva; a que era princesa entre as províncias tornou-se tributária!",
+      "palavras": [
+        { "hebraico": "אֵיכָ֣ה", "transliteral": "ʾê-ḵā", "traducao_palavra": "como" },
+        { "hebraico": "יָשְׁבָ֣ה", "transliteral": "yā-šə-ḇā", "traducao_palavra": "está sentada" },
+        { "hebraico": "בָדָ֗ד", "transliteral": "ḇā-ḏāḏ", "traducao_palavra": "solitária" },
+        { "hebraico": "הָעִיר֙", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "רַבָּ֣תִי", "transliteral": "rab-bā-ṯî", "traducao_palavra": "cheia de" },
+        { "hebraico": "עָ֔ם", "transliteral": "ʿām", "traducao_palavra": "povo" },
+        { "hebraico": "הָיְתָה֙", "transliteral": "hā-yə-ṯā", "traducao_palavra": "era/tornou-se" },
+        { "hebraico": "כְּאַלְמָנָ֔ה", "transliteral": "kə-ʾal-mā-nā", "traducao_palavra": "como viúva" },
+        { "hebraico": "רַבָּתִ֣י", "transliteral": "rab-bā-ṯî", "traducao_palavra": "a que era grande" },
+        { "hebraico": "בַגֹּויִ֔ם", "transliteral": "ḇag-gô-yim", "traducao_palavra": "entre as nações" },
+        { "hebraico": "שָׂרָתִי֙", "transliteral": "śā-rā-ṯî", "traducao_palavra": "a que era princesa" },
+        { "hebraico": "בַּמְּדִינֹ֔ות", "transliteral": "bam-mə-ḏî-nôṯ", "traducao_palavra": "entre as províncias" },
+        { "hebraico": "הָיְתָ֖ה", "transliteral": "hā-yə-ṯā", "traducao_palavra": "tornou-se" },
+        { "hebraico": "לָמַֽס׃", "transliteral": "lā-mas", "traducao_palavra": "tributária" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Amargamente chora de noite, e as suas lágrimas correm pelas suas faces; não tem quem a console de todos os seus amados; todos os seus amigos se houveram aleivosamente com ela, tornaram-se seus inimigos.",
+      "palavras": [
+        { "hebraico": "בָּכֹ֤ו", "transliteral": "bā-ḵô", "traducao_palavra": "chorando" },
+        { "hebraico": "תִבְכֶּה֙", "transliteral": "ṯiḇ-keh", "traducao_palavra": "chora" },
+        { "hebraico": "בַּלַּ֔יְלָה", "transliteral": "bal-lay-lā", "traducao_palavra": "de noite" },
+        { "hebraico": "וְדִמְעָתָ֖הּ", "transliteral": "wə-ḏim-ʿā-ṯāh", "traducao_palavra": "e suas lágrimas" },
+        { "hebraico": "עַל־לֶֽחֱיָ֑הּ", "transliteral": "ʿal-le-ḥĕ-yāh", "traducao_palavra": "pelas suas faces" },
+        { "hebraico": "אֵין־לָ֤הּ", "transliteral": "ʾên-lāh", "traducao_palavra": "não tem" },
+        { "hebraico": "מְנַחֵם֙", "transliteral": "mə-na-ḥēm", "traducao_palavra": "quem console" },
+        { "hebraico": "מִכָּל־אֹהֲבֶ֔יהָ", "transliteral": "mik-kāl-ʾō-hă-ḇe-hā", "traducao_palavra": "de todos os seus amados" },
+        { "hebraico": "כָּל־רֵעֶ֙יהָ֙", "transliteral": "kāl-rē-ʿe-hā", "traducao_palavra": "todos os seus amigos" },
+        { "hebraico": "בָּגְד֣וּ", "transliteral": "bā-ḡə-ḏû", "traducao_palavra": "se houveram aleivosamente" },
+        { "hebraico": "בָ֔הּ", "transliteral": "ḇāh", "traducao_palavra": "com ela" },
+        { "hebraico": "הָי֥וּ", "transliteral": "hā-yû", "traducao_palavra": "tornaram-se" },
+        { "hebraico": "לָ֖הּ", "transliteral": "lāh", "traducao_palavra": "para ela" },
+        { "hebraico": "לְאֹיְבִֽים׃", "transliteral": "lə-ʾō-yə-ḇîm", "traducao_palavra": "inimigos" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Judá foi levada ao cativeiro por causa da aflição e da grande servidão; habita entre as nações, não acha descanso; todos os seus perseguidores a alcançaram entre as suas angústias.",
+      "palavras": [
+        { "hebraico": "גָּלְתָ֨ה", "transliteral": "ḡā-lə-ṯā", "traducao_palavra": "foi levada ao cativeiro" },
+        { "hebraico": "יְהוּדָ֧ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "מֵעֹ֖נִי", "transliteral": "mê-ʿō-nî", "traducao_palavra": "por causa da aflição" },
+        { "hebraico": "וּמֵרֹ֣ב", "transliteral": "ū-mê-rōḇ", "traducao_palavra": "e da grande" },
+        { "hebraico": "עֲבֹדָ֑ה", "transliteral": "ʿă-ḇō-ḏā", "traducao_palavra": "servidão" },
+        { "hebraico": "הִיא֙", "transliteral": "hî", "traducao_palavra": "ela" },
+        { "hebraico": "יָשְׁבָ֣ה", "transliteral": "yā-šə-ḇā", "traducao_palavra": "habita" },
+        { "hebraico": "בַגֹּויִ֔ם", "transliteral": "ḇag-gô-yim", "traducao_palavra": "entre as nações" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "מָצְאָ֖ה", "transliteral": "mā-ṣə-ʾā", "traducao_palavra": "acha" },
+        { "hebraico": "מָנֹ֑וחַ", "transliteral": "mā-nô-aḥ", "traducao_palavra": "descanso" },
+        { "hebraico": "כָּל־רֹדְפֶ֥יהָ", "transliteral": "kāl-rō-ḏə-p̄e-hā", "traducao_palavra": "todos os seus perseguidores" },
+        { "hebraico": "הִשִּׂיג֖וּהָ", "transliteral": "hiś-śî-ḡû-hā", "traducao_palavra": "a alcançaram" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "הַמְּצָרִֽים׃", "transliteral": "ham-mə-ṣā-rîm", "traducao_palavra": "angústias" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "As veredas de Sião estão tristes, porque não há quem venha à festa solene; todas as suas portas estão desoladas; os seus sacerdotes gemem; as suas virgens estão aflitas, e ela mesma está em amargura.",
+      "palavras": [
+        { "hebraico": "דַּרְכֵ֨י", "transliteral": "dar-ḵê", "traducao_palavra": "as veredas de" },
+        { "hebraico": "צִיֹּ֜ון", "transliteral": "ṣi-yôn", "traducao_palavra": "Sião" },
+        { "hebraico": "אֲבֵלֹ֗ות", "transliteral": "ʾă-ḇē-lôṯ", "traducao_palavra": "estão tristes" },
+        { "hebraico": "מִבְּלִי֙", "transliteral": "mib-bə-lî", "traducao_palavra": "porque não há" },
+        { "hebraico": "בָּאֵ֣י", "transliteral": "bā-ʾê", "traducao_palavra": "quem venha" },
+        { "hebraico": "מֹועֵ֔ד", "transliteral": "mô-ʿēḏ", "traducao_palavra": "à festa solene" },
+        { "hebraico": "כָּל־שְׁעָרֶ֙יהָ֙", "transliteral": "kāl-še-ʿā-re-hā", "traducao_palavra": "todas as suas portas" },
+        { "hebraico": "שֹׁומֵ֔ם", "transliteral": "šô-mēm", "traducao_palavra": "estão desoladas" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Os seus adversários foram feitos chefes, os seus inimigos prosperam; porque YHWH a afligiu por causa da multidão das suas transgressões; os seus filhinhos foram em cativeiro diante do adversário.",
+      "palavras": [
+        { "hebraico": "הָי֨וּ", "transliteral": "hā-yû", "traducao_palavra": "foram feitos" },
+        { "hebraico": "צָרֶ֤יהָ֙", "transliteral": "ṣā-re-hā", "traducao_palavra": "seus adversários" },
+        { "hebraico": "לְרֹאשׁ֙", "transliteral": "lə-rōš", "traducao_palavra": "chefes" },
+        { "hebraico": "אֹויְבֶ֣יהָ", "transliteral": "ʾō-yə-ḇe-hā", "traducao_palavra": "seus inimigos" },
+        { "hebraico": "שָׁל֔וּ", "transliteral": "šā-lû", "traducao_palavra": "prosperam" },
+        { "hebraico": "כִּֽי־יְהוָה֙", "transliteral": "kî-YHWH", "traducao_palavra": "porque YHWH" },
+        { "hebraico": "הֹוגָהּ֙", "transliteral": "hô-ḡāh", "traducao_palavra": "a afligiu" },
+        { "hebraico": "עַל־רֹ֣ב", "transliteral": "ʿal-rōḇ", "traducao_palavra": "por causa da multidão" },
+        { "hebraico": "פְּשָׁעֶ֔יהָ", "transliteral": "pə-šā-ʿe-hā", "traducao_palavra": "de suas transgressões" },
+        { "hebraico": "עֹולָלֶ֧יהָ", "transliteral": "ʿô-lā-le-hā", "traducao_palavra": "seus filhinhos" },
+        { "hebraico": "הָלְכ֥וּ", "transliteral": "hā-lə-ḵû", "traducao_palavra": "foram" },
+        { "hebraico": "שְׁבִ֖י", "transliteral": "še-ḇî", "traducao_palavra": "em cativeiro" },
+        { "hebraico": "לִפְנֵ֥י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "צָֽר׃", "transliteral": "ṣār", "traducao_palavra": "o adversário" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Da filha de Sião retirou-se toda a sua glória; os seus príncipes tornaram-se como cervos que não acham pasto, e caminham sem força diante do perseguidor.",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵ֥א", "transliteral": "way-yê-ṣê", "traducao_palavra": "e retirou-se" },
+        { "hebraico": "מִבַּ֣ת", "transliteral": "mib-baṯ", "traducao_palavra": "da filha de" },
+        { "hebraico": "צִיֹּ֔ון", "transliteral": "ṣi-yôn", "traducao_palavra": "Sião" },
+        { "hebraico": "כָּל־הֲדָרָ֑הּ", "transliteral": "kāl-hă-ḏā-rāh", "traducao_palavra": "toda a sua glória" },
+        { "hebraico": "הָי֣וּ", "transliteral": "hā-yû", "traducao_palavra": "tornaram-se" },
+        { "hebraico": "שָׂרֶ֗יהָ", "transliteral": "śā-re-hā", "traducao_palavra": "seus príncipes" },
+        { "hebraico": "כְּאַיָּלִים֙", "transliteral": "kə-ʾay-yā-lîm", "traducao_palavra": "como cervos" },
+        { "hebraico": "לֹא־מָצְא֣וּ", "transliteral": "lō-mā-ṣə-ʾû", "traducao_palavra": "não acharam" },
+        { "hebraico": "מִרְעֶ֔ה", "transliteral": "mir-ʿeh", "traducao_palavra": "pasto" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Nos dias da sua aflição e da sua miséria, Jerusalém se lembra de todas as coisas preciosas que teve desde os dias antigos; quando o seu povo caiu na mão do opressor, e não havia quem a socorresse, os adversários viram-na, e zombaram das suas ruínas.",
+      "palavras": [
+        { "hebraico": "זָכְרָ֣ה", "transliteral": "zā-ḵə-rā", "traducao_palavra": "lembrou-se" },
+        { "hebraico": "יְרוּשָׁלִַם֮", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "בִּימֵ֣י", "transliteral": "bî-mê", "traducao_palavra": "nos dias de" },
+        { "hebraico": "עָנְיָהּ֮", "transliteral": "ʿā-nə-yāh", "traducao_palavra": "sua aflição" },
+        { "hebraico": "וּמְרוּדֶהָ֒", "transliteral": "ū-mə-rû-ḏe-hā", "traducao_palavra": "e sua miséria" },
+        { "hebraico": "כֹּל֙", "transliteral": "kōl", "traducao_palavra": "todas as" },
+        { "hebraico": "מַחֲמַדֶּ֔יהָ", "transliteral": "ma-ḥă-mad-de-hā", "traducao_palavra": "coisas preciosas dela" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Jerusalém gravemente pecou; por isso se tornou em impureza; todos os que a honravam a desprezam, porque viram a sua nudez; ela também suspira e volta para trás.",
+      "palavras": [
+        { "hebraico": "חֵטְא", "transliteral": "ḥēṭʾ", "traducao_palavra": "pecado" },
+        { "hebraico": "חָטְאָה", "transliteral": "ḥā-ṭə-ʾā", "traducao_palavra": "pecou" },
+        { "hebraico": "יְרוּשָׁלִַם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "עַל־כֵּן", "transliteral": "ʿal-kên", "traducao_palavra": "por isso" },
+        { "hebraico": "לְנִדָּה", "transliteral": "lə-nid-dā", "traducao_palavra": "em impureza" },
+        { "hebraico": "הָיְתָה", "transliteral": "hā-yə-ṯā", "traducao_palavra": "tornou-se" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "A sua imundícia está nas suas saias, não se lembrou do seu fim; por isso caiu maravilhosamente, não há quem a console. Vê, ó YHWH, a minha aflição, porque o inimigo se engrandece.",
+      "palavras": [
+        { "hebraico": "טֻמְאָתָהּ", "transliteral": "ṭum-ʾā-ṯāh", "traducao_palavra": "imundícia dela" },
+        { "hebraico": "בְּשׁוּלֶיהָ", "transliteral": "bə-šû-le-hā", "traducao_palavra": "nas saias dela" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "זָכְרָה", "transliteral": "zā-ḵə-rā", "traducao_palavra": "lembrou-se" },
+        { "hebraico": "אַחֲרִיתָהּ", "transliteral": "ʾa-ḥă-rî-ṯāh", "traducao_palavra": "do seu fim" },
+        { "hebraico": "וַתֵּרֶד", "transliteral": "wat-tê-reḏ", "traducao_palavra": "e caiu/desceu" },
+        { "hebraico": "פְּלָאִים", "transliteral": "pə-lā-ʾîm", "traducao_palavra": "maravilhosamente" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "O inimigo estendeu a mão a todas as coisas preciosas dela; porque viu as nações entrarem no seu santuário, as quais tu ordenaste que não entrassem na tua congregação.",
+      "palavras": [
+        { "hebraico": "יָדוֹ", "transliteral": "yā-ḏô", "traducao_palavra": "sua mão" },
+        { "hebraico": "פָּרַשׂ", "transliteral": "pā-raś", "traducao_palavra": "estendeu" },
+        { "hebraico": "צָר", "transliteral": "ṣār", "traducao_palavra": "o inimigo" },
+        { "hebraico": "עַל", "transliteral": "ʿal", "traducao_palavra": "sobre" },
+        { "hebraico": "כָּל־מַחֲמַדֶּיהָ", "transliteral": "kāl-ma-ḥă-mad-de-hā", "traducao_palavra": "todas as coisas preciosas dela" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Todo o seu povo suspira, buscando o pão; deram as suas coisas preciosas por mantimento, para restaurar a vida. Vê, ó YHWH, e contempla, pois me tenho tornado desprezível.",
+      "palavras": [
+        { "hebraico": "כָּל־עַמָּהּ", "transliteral": "kāl-ʿam-māh", "traducao_palavra": "todo o povo dela" },
+        { "hebraico": "נֶאֱנָחִים", "transliteral": "ne-ʾĕ-nā-ḥîm", "traducao_palavra": "suspiram" },
+        { "hebraico": "מְבַקְשִׁים", "transliteral": "mə-ḇaq-šîm", "traducao_palavra": "buscando" },
+        { "hebraico": "לֶחֶם", "transliteral": "le-ḥem", "traducao_palavra": "pão" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Não vos comove isso, ó vós todos que passais pelo caminho? Olhai, e vede se há dor como a minha dor, que me sobreveio, com que YHWH me afligiu no dia do furor da sua ira.",
+      "palavras": [
+        { "hebraico": "לֹוא", "transliteral": "lô", "traducao_palavra": "não?" },
+        { "hebraico": "אֲלֵיכֶם", "transliteral": "ʾă-lê-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "כָּל־עֹבְרֵי", "transliteral": "kāl-ʿō-ḇə-rê", "traducao_palavra": "todos os que passais" },
+        { "hebraico": "דָּרֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "pelo caminho" },
+        { "hebraico": "הַבִּיט֣וּ", "transliteral": "hab-bî-ṭû", "traducao_palavra": "olhai" },
+        { "hebraico": "וּרְא֗וּ", "transliteral": "ū-rə-ʾû", "traducao_palavra": "e vede" },
+        { "hebraico": "אִם־יֵשׁ־מַכְאֹוב", "transliteral": "ʾim-yēš-maḵ-ʾôḇ", "traducao_palavra": "se há dor" },
+        { "hebraico": "כְּמַכְאֹבִי", "transliteral": "kə-maḵ-ʾō-ḇî", "traducao_palavra": "como a minha dor" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Desde o alto enviou fogo aos meus ossos, o qual se assenhoreou deles; estendeu uma rede aos meus pés, fez-me voltar para trás, deixou-me assolada e enferma todo o dia.",
+      "palavras": [
+        { "hebraico": "מִמָּרֹום", "transliteral": "mim-mā-rôm", "traducao_palavra": "do alto" },
+        { "hebraico": "שָׁלַח־אֵשׁ", "transliteral": "šā-laḥ-ʾēš", "traducao_palavra": "enviou fogo" },
+        { "hebraico": "בְּעַצְמֹתַי", "transliteral": "bə-ʿaṣ-mō-ṯay", "traducao_palavra": "aos meus ossos" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "O jugo das minhas transgressões está atado pela sua mão; elas estão entretecidas, subiram sobre o meu pescoço, e ele abateu a minha força; o Senhor entregou-me nas mãos daqueles contra quem não posso levantar-me.",
+      "palavras": [
+        { "hebraico": "נִשְׂקַד", "transliteral": "niś-qaḏ", "traducao_palavra": "está atado/vigiado" },
+        { "hebraico": "עֹל", "transliteral": "ʿōl", "traducao_palavra": "o jugo" },
+        { "hebraico": "פְּשָׁעַי", "transliteral": "pə-šā-ʿay", "traducao_palavra": "das minhas transgressões" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "O Senhor desprezou todos os meus valentes no meio de mim; apregoou contra mim um ajuntamento para quebrantar os meus jovens; o Senhor pisou o lagar da virgem filha de Judá.",
+      "palavras": [
+        { "hebraico": "סִלָּה", "transliteral": "sil-lā", "traducao_palavra": "desprezou/pôs de lado" },
+        { "hebraico": "כָּל־אַבִּירַי", "transliteral": "kāl-ʾab-bî-ray", "traducao_palavra": "todos os meus valentes" },
+        { "hebraico": "בְּקִרְבִּי", "transliteral": "bə-qir-bî", "traducao_palavra": "no meio de mim" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Por estas coisas eu choro; os meus olhos, os meus olhos derramam águas, porque se afastou de mim o consolador que devia restaurar a minha alma; os meus filhos estão assolados, porque prevaleceu o inimigo.",
+      "palavras": [
+        { "hebraico": "עַל־אֵלֶּה", "transliteral": "ʿal-ʾēl-leh", "traducao_palavra": "por estas coisas" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "בֹכִיָּה", "transliteral": "ḇō-ḵî-yā", "traducao_palavra": "choro" },
+        { "hebraico": "עֵינִ֣י", "transliteral": "ʿê-nî", "traducao_palavra": "meu olho" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Sião estende as suas mãos, não há quem a console; YHWH ordenou acerca de Jacó que os seus vizinhos fossem os seus adversários; Jerusalém tornou-se em impureza entre eles.",
+      "palavras": [
+        { "hebraico": "פֵּרְשָׂ֨ה", "transliteral": "pêr-śā", "traducao_palavra": "estende" },
+        { "hebraico": "צִיֹּ֣ון", "transliteral": "ṣi-yôn", "traducao_palavra": "Sião" },
+        { "hebraico": "בְּיָדֶ֔יהָ", "transliteral": "bə-yā-ḏe-hā", "traducao_palavra": "suas mãos" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Justo é YHWH, pois me revoltei contra o seu mandado; ouvi, peço-vos, todos os povos, e vede a minha dor; as minhas virgens e os meus jovens foram para o cativeiro.",
+      "palavras": [
+        { "hebraico": "צַדִּ֥יק", "transliteral": "ṣad-dîq", "traducao_palavra": "justo" },
+        { "hebraico": "הוּא", "transliteral": "hû", "traducao_palavra": "[é] ele" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Chamei os meus amados, mas eles me enganaram; os meus sacerdotes e os meus anciãos expiraram na cidade, enquanto buscavam mantimento para restaurarem a sua alma.",
+      "palavras": [
+        { "hebraico": "קָרָ֤אתִי", "transliteral": "qā-rā-ṯî", "traducao_palavra": "chamei" },
+        { "hebraico": "לַֽאֲהָבַי֙", "transliteral": "la-ʾă-hā-ḇay", "traducao_palavra": "meus amados" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Vê, ó YHWH, porque estou angustiada; a minha alma está perturbada, o meu coração está transtornado no meu interior, porque gravemente me rebelei; fora a espada mata, em casa é como a morte.",
+      "palavras": [
+        { "hebraico": "רְאֵ֤ה", "transliteral": "rə-ʾēh", "traducao_palavra": "vê" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "כִּֽי־צַ֣ר", "transliteral": "kî-ṣar", "traducao_palavra": "porque estou angustiada" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Ouviram que eu suspiro, mas não tenho consolador; todos os meus inimigos ouviram o meu mal, e alegram-se de que tu o fizeste; tu farás vir o dia que apregoaste, e eles serão como eu.",
+      "palavras": [
+        { "hebraico": "שָׁמְע֞וּ", "transliteral": "šā-mə-ʿû", "traducao_palavra": "ouviram" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "que" },
+        { "hebraico": "אֲנָאנְחִתִי", "transliteral": "ʾă-na-ḥī-ṯî", "traducao_palavra": "eu suspiro" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Venha toda a sua maldade perante ti, e faze-lhes como fizeste a mim por causa de todas as minhas transgressões; porque os meus suspiros são muitos, e o meu coração está desfalecido.",
+      "palavras": [
+        { "hebraico": "תָּבֹ֤א", "transliteral": "tā-ḇō", "traducao_palavra": "venha" },
+        { "hebraico": "כָל־רָעָתָם֙", "transliteral": "ḵāl-rā-ʿā-ṯām", "traducao_palavra": "toda a maldade deles" },
+        { "hebraico": "לְפָנֶ֔יךָ", "transliteral": "lə-p̄ā-ne-ḵā", "traducao_palavra": "perante ti" }
+      ]
+    }
+  }
 }

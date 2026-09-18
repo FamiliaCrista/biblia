@@ -1,6 +1,378 @@
 {
-  "livro": "Jeremias - יִרְמְיָהוּ - Yirmeyahu",
+  "livro": "Jeremias - יִרְמְיָ֫הוּ - Yirmeyahu",
   "capítulo": 41,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E sucedeu no sétimo mês que Ismael, filho de Netanias, filho de Elisama, de linhagem real, e os nobres do rei, e dez homens com ele, vieram a Gedalias, filho de Aicão, em Mispa; e ali comeram pão juntos em Mispa.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בַּחֹ֣דֶשׁ", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הַשְּׁבִיעִ֡י", "transliteral": "haš-šə-ḇî-ʿî", "traducao_palavra": "sétimo" },
+        { "hebraico": "בָּ֣א", "transliteral": "bā", "traducao_palavra": "veio" },
+        { "hebraico": "יִשְׁמָעֵ֣אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֣ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "בֶן־אֱלִישָׁמָ֣ע", "transliteral": "ben-ʾĕ-lî-šā-māʿ", "traducao_palavra": "filho de Elisama" },
+        { "hebraico": "מִזֶּ֣רַע", "transliteral": "miz-ze-raʿ", "traducao_palavra": "da semente/linhagem" },
+        { "hebraico": "הַמְּלוּכָה֙", "transliteral": "ham-mə-lû-ḵā", "traducao_palavra": "real/do reino" },
+        { "hebraico": "וְרַבֵּ֣י", "transliteral": "wə-rab-bê", "traducao_palavra": "e os nobres de" },
+        { "hebraico": "הַמֶּ֔לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וַעֲשָׂרָ֥ה", "transliteral": "wa-ʿă-śā-rā", "traducao_palavra": "e dez" },
+        { "hebraico": "אֲנָשִׁ֖ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "אִתֹּ֑ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "אֶל־גְּדַלְיָ֧הוּ", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָ֛ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "הַמִּצְפָּ֖תָה", "transliteral": "ham-miṣ-pā-ṯā", "traducao_palavra": "[a] Mispa" },
+        { "hebraico": "וַיֹּאכְלוּ־שָׁ֥ם", "transliteral": "way-yō-ḵə-lû-šām", "traducao_palavra": "e comeram ali" },
+        { "hebraico": "לֶ֖חֶם", "transliteral": "le-ḥem", "traducao_palavra": "pão" },
+        { "hebraico": "יַחְדָּ֥ו", "transliteral": "yaḥ-dāw", "traducao_palavra": "juntos" },
+        { "hebraico": "בַּמִּצְפָּֽה׃", "transliteral": "bam-miṣ-pā", "traducao_palavra": "em Mispa" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E Ismael, filho de Netanias, e os dez homens que estavam com ele, levantaram-se e feriram a Gedalias, filho de Aicão, filho de Safã, à espada, matando aquele a quem o rei da Babilônia pusera sobre a terra.",
+      "palavras": [
+        { "hebraico": "וַיָּקָם֩", "transliteral": "way-yā-qām", "traducao_palavra": "e levantou-se" },
+        { "hebraico": "יִשְׁמָעֵ֨אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֜ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "וַעֲשֶׂ֨רֶת", "transliteral": "wa-ʿă-śe-reṯ", "traducao_palavra": "e os dez" },
+        { "hebraico": "הָאֲנָשִׁ֥ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "אֲשֶׁר־הָי֧וּ", "transliteral": "ʾă-šer-hā-yû", "traducao_palavra": "que estavam" },
+        { "hebraico": "אִתֹּ֗ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "וַיַּכּ֨וּ", "transliteral": "way-yak-kû", "traducao_palavra": "e feriram" },
+        { "hebraico": "אֶת־גְּדַלְיָ֧הוּ", "transliteral": "ʾeṯ-gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָ֛ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "בֶּן־שָׁפָ֖ן", "transliteral": "ben-šā-p̄ān", "traducao_palavra": "filho de Safã" },
+        { "hebraico": "בַּחֶ֑רֶב", "transliteral": "ba-ḥe-reḇ", "traducao_palavra": "com a espada" },
+        { "hebraico": "וַיָּ֣מֶת", "transliteral": "way-yā-meṯ", "traducao_palavra": "e [ele] matou" },
+        { "hebraico": "אֹתֹ֔ו", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "אֲשֶׁר־הִפְקִ֥יד", "transliteral": "ʾă-šer-hip̄-qîḏ", "traducao_palavra": "a quem pôs/encarregou" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֖ל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "o rei da Babilônia" },
+        { "hebraico": "בָּאָֽרֶץ׃", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "na terra" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Ismael matou também todos os judeus que estavam com ele, com Gedalias, em Mispa, e os caldeus, homens de guerra, que se achavam ali.",
+      "palavras": [
+        { "hebraico": "וְאֵ֨ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e" },
+        { "hebraico": "כָּל־הַיְּהוּדִ֜ים", "transliteral": "kāl-hay-yə-hû-ḏîm", "traducao_palavra": "todos os judeus" },
+        { "hebraico": "אֲשֶׁר־הָי֧וּ", "transliteral": "ʾă-šer-hā-yû", "traducao_palavra": "que estavam" },
+        { "hebraico": "אִתֹּ֣ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "אֶת־גְּדַלְיָהוּ֮", "transliteral": "ʾeṯ-gə-ḏal-yā-hû", "traducao_palavra": "[com] Gedalias" },
+        { "hebraico": "בַּמִּצְפָּה֒", "transliteral": "bam-miṣ-pā", "traducao_palavra": "em Mispa" },
+        { "hebraico": "וְאֶת־הַכַּשְׂדִּים֙", "transliteral": "wə-ʾeṯ-hak-kaś-dîm", "traducao_palavra": "e os caldeus" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "נִמְצְאוּ־שָׁ֔ם", "transliteral": "nim-ṣə-ʾû-šām", "traducao_palavra": "foram achados ali" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "אַנְשֵׁ֧ي", "transliteral": "ʾan-šê", "traducao_palavra": "homens de" },
+        { "hebraico": "הַמִּלְחָמָ֖ה", "transliteral": "ham-mil-ḥā-mā", "traducao_palavra": "a guerra" },
+        { "hebraico": "הִכָּ֥ה", "transliteral": "hik-kā", "traducao_palavra": "[ele] feriu/matou" },
+        { "hebraico": "יִשְׁמָעֵֽאל׃", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E sucedeu que, no segundo dia depois que ele matara a Gedalias, sem que ninguém o soubesse,",
+      "palavras": [
+        { "hebraico": "וַיְהִ֕י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בַּיֹּ֥ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַשֵּׁנִ֖י", "transliteral": "haš-šê-nî", "traducao_palavra": "segundo" },
+        { "hebraico": "לְהָמִ֣ית", "transliteral": "lə-hā-mîṯ", "traducao_palavra": "depois de matar" },
+        { "hebraico": "אֶת־גְּדַלְיָ֑הוּ", "transliteral": "ʾeṯ-gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "וְאִ֖ישׁ", "transliteral": "wə-ʾîš", "traducao_palavra": "e ninguém [homem]" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָדָֽע׃", "transliteral": "yā-ḏāʿ", "traducao_palavra": "soube" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Vieram uns homens de Siquém, de Siló e de Samaria, oitenta homens, com a barba rapada, as vestes rasgadas e o corpo retalhado, trazendo ofertas e incenso nas mãos para os levarem à casa de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹ֣אוּ", "transliteral": "way-yā-ḇō-ʾû", "traducao_palavra": "e vieram" },
+        { "hebraico": "אֲנָשִׁ֣ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "מִשְּׁכֶ֡ם", "transliteral": "miš-šə-ḵem", "traducao_palavra": "de Siquém" },
+        { "hebraico": "מִשִּׁלֹ֣ו", "transliteral": "miš-ši-lô", "traducao_palavra": "de Siló" },
+        { "hebraico": "וּמִשֹּׁמְרֹון֮", "transliteral": "ū-miš-šō-mə-rôn", "traducao_palavra": "e de Samaria" },
+        { "hebraico": "שְׁמֹנִ֣ים", "transliteral": "šə-mō-nîm", "traducao_palavra": "oitenta" },
+        { "hebraico": "אִ֑ישׁ", "transliteral": "ʾîš", "traducao_palavra": "homem" },
+        { "hebraico": "מְגֻלְּחֵ֨י", "transliteral": "mə-ḡul-lə-ḥê", "traducao_palavra": "[com] rapadas" },
+        { "hebraico": "זָקָ֜ן", "transliteral": "zā-qān", "traducao_palavra": "barba" },
+        { "hebraico": "וּקְרֻעֵ֣י", "transliteral": "ū-qə-ru-ʿê", "traducao_palavra": "e rasgadas" },
+        { "hebraico": "בְגָדִ֗ים", "transliteral": "ḇə-ḡā-ḏîm", "traducao_palavra": "vestes" },
+        { "hebraico": "וּמִתְגֹּֽדְדִים֙", "transliteral": "ū-miṯ-ḡō-ḏə-ḏîm", "traducao_palavra": "e retalhados" },
+        { "hebraico": "וּמִנְחָ֧ה", "transliteral": "ū-min-ḥā", "traducao_palavra": "e oferta de manjares" },
+        { "hebraico": "וּלְבֹונָ֣ה", "transliteral": "ū-lə-ḇô-nā", "traducao_palavra": "e incenso" },
+        { "hebraico": "בְּיָדָ֔ם", "transliteral": "bə-yā-ḏām", "traducao_palavra": "em sua mão" },
+        { "hebraico": "לְהָבִ֖יא", "transliteral": "lə-hā-ḇî", "traducao_palavra": "para trazer" },
+        { "hebraico": "בֵּ֥ית", "transliteral": "bêṯ", "traducao_palavra": "[à] casa de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E Ismael, filho de Netanias, saindo de Mispa ao encontro deles, ia chorando enquanto caminhava; e sucedeu que, encontrando-os, disse-lhes: Vinde a Gedalias, filho de Aicão.",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵ֨א", "transliteral": "way-yê-ṣê", "traducao_palavra": "e saiu" },
+        { "hebraico": "יִשְׁמָעֵ֧אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֛ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "לִקְרָאתָם֙", "transliteral": "liq-rā-ṯām", "traducao_palavra": "ao encontro deles" },
+        { "hebraico": "מִן־הַמִּצְפָּ֔ה", "transliteral": "min-ham-miṣ-pā", "traducao_palavra": "de Mispa" },
+        { "hebraico": "הֹלֵ֥ךְ", "transliteral": "hō-lêḵ", "traducao_palavra": "indo" },
+        { "hebraico": "הָלֹ֖ךְ", "transliteral": "hā-lōḵ", "traducao_palavra": "caminhando" },
+        { "hebraico": "וּבֹכֶ֑ה", "transliteral": "ū-ḇō-ḵeh", "traducao_palavra": "e chorando" },
+        { "hebraico": "וַיְהִי֙", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כִּפְגֹ֣שׁ", "transliteral": "kip̄-ḡōš", "traducao_palavra": "ao encontrar" },
+        { "hebraico": "אֹתָ֔ם", "transliteral": "ʾō-ṯām", "traducao_palavra": "eles" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֲלֵיהֶ֔ם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "בֹּ֖אוּ", "transliteral": "bō-ʾû", "traducao_palavra": "vinde" },
+        { "hebraico": "אֶל־גְּדַלְיָ֥ה", "transliteral": "ʾel-gə-ḏal-yā", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶן־אֲחִיקָֽם׃", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E sucedeu que, entrando eles no meio da cidade, Ismael, filho de Netanias, os degolou e os lançou no meio da cisterna, ele e os homens que estavam com ele.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֕י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כְּבֹואָ֖ם", "transliteral": "kə-ḇô-ʾām", "traducao_palavra": "ao entrarem eles" },
+        { "hebraico": "אֶל־תֹּ֣ות", "transliteral": "ʾel-tôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הָעִ֑יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "וַיִּשְׁחָטֵ֤ם", "transliteral": "way-yiš-ḥā-ṭêm", "traducao_palavra": "e degolou-os" },
+        { "hebraico": "יִשְׁמָעֵאל֙", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֔ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "אֶל־תֹּ֣וךְ", "transliteral": "ʾel-tôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הַבֹּ֔ור", "transliteral": "hab-bôr", "traducao_palavra": "a cisterna" },
+        { "hebraico": "ה֖וּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "וְהָאֲנָשִׁ֥ים", "transliteral": "wə-hā-ʾă-nā-šîm", "traducao_palavra": "e os homens" },
+        { "hebraico": "אֲשֶׁר־אִתֹּֽו׃", "transliteral": "ʾă-šer-ʾit-tô", "traducao_palavra": "que [estavam] com ele" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Mas dez homens se acharam entre eles, que disseram a Ismael: Não nos mates, porque temos depósitos escondidos no campo, de trigo, cevada, azeite e mel. E ele parou, e não os matou entre os seus irmãos.",
+      "palavras": [
+        { "hebraico": "וַעֲשָׂרָ֨ה", "transliteral": "wa-ʿă-śā-rā", "traducao_palavra": "e dez" },
+        { "hebraico": "אֲנָשִׁ֜ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "נִמְצְאוּ־בָ֗ם", "transliteral": "nim-ṣə-ʾû-ḇām", "traducao_palavra": "acharam-se entre eles" },
+        { "hebraico": "וַיֹּאמְר֤וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אֶל־יִשְׁמָעֵאל֙", "transliteral": "ʾel-yiš-mā-ʿēl", "traducao_palavra": "a Ismael" },
+        { "hebraico": "אַל־תְּמִיתֵ֔נוּ", "transliteral": "ʾal-tə-mî-ṯê-nû", "traducao_palavra": "não nos mates" },
+        { "hebraico": "כִּֽי־יֶשׁ־לָ֤נוּ", "transliteral": "kî-yeš-lā-nû", "traducao_palavra": "porque há para nós" },
+        { "hebraico": "מַטְמֹנִים֙", "transliteral": "maṭ-mō-nîm", "traducao_palavra": "tesouros/depósitos" },
+        { "hebraico": "בַּשָּׂדֶ֔ה", "transliteral": "baś-śā-ḏeh", "traducao_palavra": "no campo" },
+        { "hebraico": "חִטִּ֥ים", "transliteral": "ḥiṭ-ṭîm", "traducao_palavra": "trigos" },
+        { "hebraico": "וּשְׂעֹרִ֖ים", "transliteral": "ū-śə-ʿō-rîm", "traducao_palavra": "e cevadas" },
+        { "hebraico": "וְשֶׁ֣מֶן", "transliteral": "wə-še-men", "traducao_palavra": "e azeite" },
+        { "hebraico": "וּדְבָ֑שׁ", "transliteral": "ū-ḏə-ḇāš", "traducao_palavra": "e mel" },
+        { "hebraico": "וַיֶּחְדַּ֕ל", "transliteral": "way-yeḥ-dal", "traducao_palavra": "e ele cessou" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "הֱמִיתָ֖ם", "transliteral": "hĕ-mî-ṯām", "traducao_palavra": "matou-os" },
+        { "hebraico": "בְּתֹ֥וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "אֲחֵיהֶֽם׃", "transliteral": "ʾă-ḥê-hem", "traducao_palavra": "seus irmãos" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Ora, a cisterna em que Ismael lançou todos os cadáveres dos homens que matara por causa de Gedalias era a mesma que o rei Asa fizera por causa de Baasa, rei de Israel; Ismael, filho de Netanias, encheu-a de mortos.",
+      "palavras": [
+        { "hebraico": "וְהַבֹּ֗ור", "transliteral": "wə-hab-bôr", "traducao_palavra": "e a cisterna" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הִשְׁלִ֣יךְ", "transliteral": "hiš-lîḵ", "traducao_palavra": "lançou" },
+        { "hebraico": "שָׁ֣ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "יִשְׁמָעֵאל֮", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־פִּגְרֵ֣י", "transliteral": "kāl-piḡ-rê", "traducao_palavra": "todos os cadáveres de" },
+        { "hebraico": "הָאֲנָשִׁים֮", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הִכָּ֣ה", "transliteral": "hik-kā", "traducao_palavra": "matou" },
+        { "hebraico": "בְּיַ֣ד־גְּדַלְיָהוּ֒", "transliteral": "bə-yaḏ-gə-ḏal-yā-hû", "traducao_palavra": "por causa de Gedalias" },
+        { "hebraico": "ה֗וּא", "transliteral": "hû", "traducao_palavra": "ela [era]" },
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂה֙", "transliteral": "ʿā-śā", "traducao_palavra": "fez" },
+        { "hebraico": "הַמֶּ֣לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "אָסָ֔א", "transliteral": "ʾā-śā", "traducao_palavra": "Asa" },
+        { "hebraico": "מִפְּנֵ֖י", "transliteral": "mip-pə-nê", "traducao_palavra": "por causa de" },
+        { "hebraico": "בַּעְשָׁ֣א", "transliteral": "ba-ʿə-šā", "traducao_palavra": "Baasa" },
+        { "hebraico": "מֶֽלֶךְ־יִשְׂרָאֵ֑ל", "transliteral": "me-leḵ-yiś-rā-ʾēl", "traducao_palavra": "rei de Israel" },
+        { "hebraico": "אֹתֹ֞ו", "transliteral": "ʾō-ṯô", "traducao_palavra": "ela [objeto]" },
+        { "hebraico": "מִלֵּ֣א", "transliteral": "mil-lē", "traducao_palavra": "encheu" },
+        { "hebraico": "יִשְׁמָעֵאל֮", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָה֮", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "חֲלָלִֽים׃", "transliteral": "ḥă-lā-lîm", "traducao_palavra": "mortos" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Ismael levou cativo todo o resto do povo que estava em Mispa, as filhas do rei e todo o povo que ficara em Mispa, que Nebuzaradã, capitão da guarda, confiara a Gedalias, filho de Aicão; e levou-os cativos Ismael, filho de Netanias, e partiu para ir aos filhos de Amom.",
+      "palavras": [
+        { "hebraico": "וַיִּ֣שְׁבְּ", "transliteral": "way-yiš-be", "traducao_palavra": "e levou cativo" },
+        { "hebraico": "יִשְׁמָעֵאל֩", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "אֶת־כָּל־שְׁאֵרִ֨ית", "transliteral": "ʾeṯ-kāl-šə-ʾē-rîṯ", "traducao_palavra": "todo o resto de" },
+        { "hebraico": "הָעָ֜ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estava]" },
+        { "hebraico": "בַּמִּצְפָּ֗ה", "transliteral": "bam-miṣ-pā", "traducao_palavra": "em Mispa" },
+        { "hebraico": "אֶת־בְּנֹ֣ות", "transliteral": "ʾeṯ-bə-nôṯ", "traducao_palavra": "as filhas de" },
+        { "hebraico": "הַמֶּלֶךְ֮", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וְאֶת־כָּל־הָעָם֮", "transliteral": "wə-ʾeṯ-kāl-hā-ʿām", "traducao_palavra": "e todo o povo" },
+        { "hebraico": "הַנִּשְׁאָרִ֣ים", "transliteral": "han-niš-ʾā-rîm", "traducao_palavra": "os restantes" },
+        { "hebraico": "בַּמִּצְפָּה֒", "transliteral": "bam-miṣ-pā", "traducao_palavra": "em Mispa" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הִפְקִ֗יד", "transliteral": "hip̄-qîḏ", "traducao_palavra": "confiara" },
+        { "hebraico": "נְבוּזַרְאֲדָן֙", "transliteral": "nə-ḇû-zar-ʾă-ḏān", "traducao_palavra": "Nebuzaradã" },
+        { "hebraico": "רַב־טַבָּחִ֔ים", "transliteral": "raḇ-ṭab-bā-ḥîm", "traducao_palavra": "capitão da guarda" },
+        { "hebraico": "אֶל־גְּדַלְיָ֖הוּ", "transliteral": "ʾel-gə-ḏal-yā-hû", "traducao_palavra": "a Gedalias" },
+        { "hebraico": "בֶּן־אֲחִיקָ֑ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "וַיִּשְׁבֵּם֙", "transliteral": "way-yiš-bêm", "traducao_palavra": "e levou-os presos" },
+        { "hebraico": "יִשְׁמָעֵ֣אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֔ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "וַיֵּ֕לֶךְ", "transliteral": "way-yê-leḵ", "traducao_palavra": "e partiu" },
+        { "hebraico": "לַעֲבֹ֖ר", "transliteral": "la-ʿă-ḇōr", "traducao_palavra": "para passar/ir" },
+        { "hebraico": "אֶל־בְּנֵ֥י", "transliteral": "ʾel-bə-nê", "traducao_palavra": "aos filhos de" },
+        { "hebraico": "עַמֹּֽון׃", "transliteral": "ʿam-môn", "traducao_palavra": "Amom" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Ouvindo, porém, Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, todo o mal que fizera Ismael, filho de Netanias,",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁמַע֙", "transliteral": "way-yiš-maʿ", "traducao_palavra": "e ouviu" },
+        { "hebraico": "יֹוחָנָ֣ן", "transliteral": "yô-ḥā-nān", "traducao_palavra": "Joanã" },
+        { "hebraico": "בֶּן־קָרֵ֔חַ", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" },
+        { "hebraico": "וְכָל־שָׂרֵ֥י", "transliteral": "wə-ḵāl-śā-rê", "traducao_palavra": "e todos os capitães de" },
+        { "hebraico": "הַחֲיָלִ֖ים", "transliteral": "ha-ḥă-yā-lîm", "traducao_palavra": "os exércitos" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "אִתֹּ֑ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הָרָעָ֔ה", "transliteral": "kāl-hā-rā-ʿā", "traducao_palavra": "todo o mal" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂ֔ה", "transliteral": "ʿā-śā", "traducao_palavra": "fizera" },
+        { "hebraico": "יִשְׁמָעֵ֖אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָֽה׃", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Tomaram todos os seus homens e foram pelejar contra Ismael, filho de Netanias; e acharam-no junto às águas grandes que há em Gibeão.",
+      "palavras": [
+        { "hebraico": "וַיִּקְחוּ֙", "transliteral": "way-yiq-ḥû", "traducao_palavra": "e tomaram" },
+        { "hebraico": "אֶת־כָּל־הָ֣אֲנָשִׁ֔ים", "transliteral": "ʾeṯ-kāl-hā-ʾă-nā-šîm", "traducao_palavra": "todos os homens" },
+        { "hebraico": "וַיֵּ֣לְכ֔וּ", "transliteral": "way-yê-lə-ḵû", "traducao_palavra": "e foram" },
+        { "hebraico": "לְהִלָּחֵ֖ם", "transliteral": "lə-hil-lā-ḥêm", "traducao_palavra": "para pelejar" },
+        { "hebraico": "עִם־יִשְׁמָעֵ֣אל", "transliteral": "ʿim-yiš-mā-ʿēl", "traducao_palavra": "com Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֑ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "וַיִּמְצְא֣וּ", "transliteral": "way-yim-ṣə-ʾû", "traducao_palavra": "e acharam-no" },
+        { "hebraico": "אֹתֹ֔ו", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "אֶל־מַ֥יִם", "transliteral": "ʾel-ma-yim", "traducao_palavra": "junto a águas" },
+        { "hebraico": "רַבִּ֖ים", "transliteral": "rab-bîm", "traducao_palavra": "grandes" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estão]" },
+        { "hebraico": "בְּגִבְעֹֽון׃", "transliteral": "bə-ḡiḇ-ʿôn", "traducao_palavra": "em Gibeão" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E sucedeu que, vendo todo o povo que estava com Ismael a Joanã, filho de Careá, e a todos os capitães dos exércitos que vinham com ele, alegraram-se.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֗י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כִּרְאֹ֣ות", "transliteral": "kir-ʾôṯ", "traducao_palavra": "ao ver" },
+        { "hebraico": "כָּל־הָעָם֮", "transliteral": "kāl-hā-ʿām", "traducao_palavra": "todo o povo" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estava]" },
+        { "hebraico": "אֶת־יִשְׁמָעֵאל֒", "transliteral": "ʾeṯ-yiš-mā-ʿēl", "traducao_palavra": "com Ismael" },
+        { "hebraico": "אֶת־יֹוחָנָן֙", "transliteral": "ʾeṯ-yô-ḥā-nān", "traducao_palavra": "a Joanã" },
+        { "hebraico": "בֶּן־קָרֵ֔חַ", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" },
+        { "hebraico": "וְאֵת֙", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e" },
+        { "hebraico": "כָּל־שָׂרֵ֣י", "transliteral": "kāl-śā-rê", "traducao_palavra": "todos os capitães de" },
+        { "hebraico": "הַחֲיָלִ֖ים", "transliteral": "ha-ḥă-yā-lîm", "traducao_palavra": "exércitos" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "אִתֹּ֑ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "וַיִּשְׂמָֽחוּ׃", "transliteral": "way-yiś-mā-ḥû", "traducao_palavra": "e alegraram-se" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E todo o povo que Ismael levara cativo de Mispa voltou, e passou para o lado de Joanã, filho de Careá.",
+      "palavras": [
+        { "hebraico": "וַיָּסֹ֙בּוּ֙", "transliteral": "way-yā-śōb-bû", "traducao_palavra": "e voltaram/deram volta" },
+        { "hebraico": "כָּל־הָעָ֔ם", "transliteral": "kāl-hā-ʿām", "traducao_palavra": "todo o povo" },
+        { "hebraico": "אֲשֶׁר־שָׁבָ֥ה", "transliteral": "ʾă-šer-šā-ḇā", "traducao_palavra": "que levara cativo" },
+        { "hebraico": "יִשְׁמָעֵ֖אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "מִן־הַמִּצְפָּ֑ה", "transliteral": "min-ham-miṣ-pā", "traducao_palavra": "de Mispa" },
+        { "hebraico": "וַיָּשֻׁ֣בוּ", "transliteral": "way-yā-šu-ḇû", "traducao_palavra": "e voltaram" },
+        { "hebraico": "וַיֵּלְכ֔וּ", "transliteral": "way-yê-lə-ḵû", "traducao_palavra": "e foram" },
+        { "hebraico": "אֶל־יֹוחָנָ֖ן", "transliteral": "ʾel-yô-ḥā-nān", "traducao_palavra": "a Joanã" },
+        { "hebraico": "בֶּן־קָרֵֽחַ׃", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Ismael, porém, filho de Netanias, escapou de Joanã com oito homens, e foi para os filhos de Amom.",
+      "palavras": [
+        { "hebraico": "וְיִשְׁמָעֵ֣אל", "transliteral": "wə-yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֗ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "נִמְלַט֙", "transliteral": "nim-laṭ", "traducao_palavra": "escapou" },
+        { "hebraico": "בִּשְׁמֹנָ֣ה", "transliteral": "biš-mō-nā", "traducao_palavra": "com oito" },
+        { "hebraico": "אֲנָשִׁ֔ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "מִפְּנֵ֖י", "transliteral": "mip-pə-nê", "traducao_palavra": "de diante de" },
+        { "hebraico": "יֹוחָנָ֑ן", "transliteral": "yô-ḥā-nān", "traducao_palavra": "Joanã" },
+        { "hebraico": "וַיֵּ֕לֶךְ", "transliteral": "way-yê-leḵ", "traducao_palavra": "e foi" },
+        { "hebraico": "אֶל־בְּנֵ֥י", "transliteral": "ʾel-bə-nê", "traducao_palavra": "aos filhos de" },
+        { "hebraico": "עַמֹּֽון׃", "transliteral": "ʿam-môn", "traducao_palavra": "Amom" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Então Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, tomaram todo o resto do povo que Ismael, filho de Netanias, levara cativo de Mispa, depois de haver morto a Gedalias, filho de Aicão; os homens de guerra, as mulheres, as crianças e os eunucos que fizera voltar de Gibeão.",
+      "palavras": [
+        { "hebraico": "וַיִּקַּח֩", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "e tomou" },
+        { "hebraico": "יֹוחָנָ֨ן", "transliteral": "yô-ḥā-nān", "traducao_palavra": "Joanã" },
+        { "hebraico": "בֶּן־קָרֵ֜חַ", "transliteral": "ben-qā-rê-aḥ", "traducao_palavra": "filho de Careá" },
+        { "hebraico": "וְכָל־שָׂרֵ֨י", "transliteral": "wə-ḵāl-śā-rê", "traducao_palavra": "e todos os capitães de" },
+        { "hebraico": "הַחֲיָלִ֜ים", "transliteral": "ha-ḥă-yā-lîm", "traducao_palavra": "os exércitos" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "אִתֹּ֗ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־שְׁאֵרִ֣ית", "transliteral": "kāl-šə-ʾē-rîṯ", "traducao_palavra": "todo o resto de" },
+        { "hebraico": "הָעָם֮", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הֵשִׁ֣יב", "transliteral": "hê-šîḇ", "traducao_palavra": "trouxera de volta" },
+        { "hebraico": "מֵאֵ֣ת", "transliteral": "mê-ʾēṯ", "traducao_palavra": "de" },
+        { "hebraico": "יִשְׁמָעֵ֣אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָה֮", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "מִן־הַמִּצְפָּה֒", "transliteral": "min-ham-miṣ-pā", "traducao_palavra": "de Mispa" },
+        { "hebraico": "אַחַ֣ר", "transliteral": "ʾa-ḥar", "traducao_palavra": "depois de" },
+        { "hebraico": "הִכָּ֔ה", "transliteral": "hik-kā", "traducao_palavra": "haver matado" },
+        { "hebraico": "אֶת־גְּדַלְיָ֖ה", "transliteral": "ʾeṯ-gə-ḏal-yā", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶּן־אֲחִיקָ֑ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "גְּבָרִ֞ים", "transliteral": "gə-ḇā-rîm", "traducao_palavra": "homens" },
+        { "hebraico": "אַנְשֵׁ֣י", "transliteral": "ʾan-šê", "traducao_palavra": "homens de" },
+        { "hebraico": "הַמִּלְḥָמָ֗ה", "transliteral": "ham-mil-ḥā-mā", "traducao_palavra": "a guerra" },
+        { "hebraico": "וְנָשִׁ֤ים", "transliteral": "wə-nā-šîm", "traducao_palavra": "e mulheres" },
+        { "hebraico": "וְטַף֙", "transliteral": "wə-ṭap̄", "traducao_palavra": "e crianças" },
+        { "hebraico": "וְסָרִיסִ֔ים", "transliteral": "wə-śā-rî-śîm", "traducao_palavra": "e eunucos" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הֵשִׁ֖יב", "transliteral": "hê-šîḇ", "traducao_palavra": "fizera voltar" },
+        { "hebraico": "מִגִּבְעֹֽון׃", "transliteral": "miḡ-giḇ-ʿôn", "traducao_palavra": "de Gibeão" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E foram, e pararam em Gerute-Quimã, que está junto a Belém, para dali seguirem ao Egito,",
+      "palavras": [
+        { "hebraico": "וַיֵּלְכ֗וּ", "transliteral": "way-yê-lə-ḵû", "traducao_palavra": "e foram" },
+        { "hebraico": "וַיֵּשְׁב֚וּ", "transliteral": "way-yê-šə-ḇû", "traducao_palavra": "e pararam/habitaram" },
+        { "hebraico": "בְּגֵר֣וּת", "transliteral": "bə-ḡê-rûṯ", "traducao_palavra": "em Gerute-" },
+        { "hebraico": "כמוהם", "transliteral": "kim-hām", "traducao_palavra": "Quimã" },
+        { "hebraico": "אֲשֶׁר־אֵ֖צֶל", "transliteral": "ʾă-šer-ʾê-ṣel", "traducao_palavra": "que [está] junto a" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "לָ֑חֶם", "transliteral": "lā-ḥem", "traducao_palavra": "Pão [Belém]" },
+        { "hebraico": "לָלֶ֖כֶת", "transliteral": "lā-le-ḵeṯ", "traducao_palavra": "para ir" },
+        { "hebraico": "לָבֹ֥וא", "transliteral": "lā-ḇô", "traducao_palavra": "para entrar" },
+        { "hebraico": "מִצְרָָֽיִם׃", "transliteral": "miṣ-rā-yim", "traducao_palavra": "[no] Egito" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Por causa dos caldeus; porque os temiam, porquanto Ismael, filho de Netanias, matara a Gedalias, filho de Aicão, a quem o rei da Babilônia pusera sobre a terra.",
+      "palavras": [
+        { "hebraico": "מִפְּנֵי֙", "transliteral": "mip-pə-nê", "traducao_palavra": "por causa de/diante de" },
+        { "hebraico": "הַכַּשְׂדִּ֔ים", "transliteral": "hak-kaś-dîm", "traducao_palavra": "os caldeus" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "יָרְא֖וּ", "transliteral": "yā-rə-ʾû", "traducao_palavra": "temiam" },
+        { "hebraico": "מִפְּנֵיהֶ֑ם", "transliteral": "mip-pə-nê-hem", "traducao_palavra": "por causa deles" },
+        { "hebraico": "כִּי־הִכָּ֞ה", "transliteral": "kî-hik-kā", "traducao_palavra": "porque matara" },
+        { "hebraico": "יִשְׁמָעֵ֣אל", "transliteral": "yiš-mā-ʿēl", "traducao_palavra": "Ismael" },
+        { "hebraico": "בֶּן־נְתַנְיָ֗ה", "transliteral": "ben-nə-ṯan-yā", "traducao_palavra": "filho de Netanias" },
+        { "hebraico": "אֶת־גְּדַלְיָ֙הוּ֙", "transliteral": "ʾeṯ-gə-ḏal-yā-hû", "traducao_palavra": "Gedalias" },
+        { "hebraico": "בֶּן־אֲחִיקָ֔ם", "transliteral": "ben-ʾă-ḥî-qām", "traducao_palavra": "filho de Aicão" },
+        { "hebraico": "אֲשֶׁר־הִפְקִ֥יד", "transliteral": "ʾă-šer-hip̄-qîḏ", "traducao_palavra": "a quem pôs/encarregou" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֖ל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "o rei da Babilônia" },
+        { "hebraico": "בָּאָֽרֶץ׃", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "na terra" }
+      ]
+    }
+  }
 }
