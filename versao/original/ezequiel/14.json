@@ -2,5 +2,215 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 14,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Então vieram a mim alguns dos anciãos de Israel e se assentaram diante de mim.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹ֥אוּ", "transliteral": "way-yā-ḇō-ʾû", "traducao_palavra": "e vieram" },
+        { "hebraico": "אֵלַ֛י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "אֲנָשִׁ֥ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "alguns homens/anciãos" },
+        { "hebraico": "מִזִּקְנֵ֖י", "transliteral": "miz-ziq-nê", "traducao_palavra": "dos anciãos de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וַיֵּשְׁב֖וּ", "transliteral": "way-yê-šə-ḇû", "traducao_palavra": "e assentaram-se" },
+        { "hebraico": "לְפָנָֽי׃", "transliteral": "lə-p̄ā-nāy", "traducao_palavra": "diante de mim" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Filho do homem, estes homens levantaram os seus ídolos no seu coração, e o tropeço da sua iniquidade puseram diante da sua face; devo eu ser de alguma maneira interrogado por eles?",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָ֗ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "הָאֲנָשִׁ֤ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "estes homens" },
+        { "hebraico": "הָאֵ֨לֶּה֙", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estes" },
+        { "hebraico": "הֶעֱל֣וּ", "transliteral": "he-ʿĕ-lû", "traducao_palavra": "levantaram" },
+        { "hebraico": "גִּלּוּלֵיהֶם֮", "transliteral": "gil-lû-lê-hem", "traducao_palavra": "seus ídolos" },
+        { "hebraico": "עַל־לִבָּם֒", "transliteral": "ʿal-lib-bām", "traducao_palavra": "sobre o seu coração" },
+        { "hebraico": "וּמִכְשֹׁ֣ול", "transliteral": "ū-miḵ-šôl", "traducao_palavra": "e o tropeço de" },
+        { "hebraico": "עֲוֹנָ֗ם", "transliteral": "ʿă-wō-nām", "traducao_palavra": "sua iniquidade" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Portanto, fala com eles, e dize-lhes: Assim diz o Senhor YHWH: Qualquer homem da casa de Israel que levantar os seus ídolos no seu coração, e puser o tropeço da sua iniquidade diante da sua face, e vier ao profeta, eu, YHWH, responderei a esse conforme a multidão dos seus ídolos;",
+      "palavras": [
+        { "hebraico": "לָכֵן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "דַּבֵּר־אִתָּם", "transliteral": "dab-bēr-ʾit-tām", "traducao_palavra": "fala com eles" },
+        { "hebraico": "וְאָמַרְתָּ", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dize" },
+        { "hebraico": "אֲלֵהֶם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Para que eu possa alcançar a casa de Israel no seu coração, porquanto todos eles se têm apartado de mim para seguirem os seus ídolos.",
+      "palavras": [
+        { "hebraico": "לְמַ֣עַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "תְּפֹ֣שׂ", "transliteral": "tə-p̄ōś", "traducao_palavra": "eu alcance/prenda" },
+        { "hebraico": "אֶת־בֵּ֣ית", "transliteral": "ʾeṯ-bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "בְּלִבָּ֑ם", "transliteral": "bə-lib-bām", "traducao_palavra": "no seu coração" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Portanto, dize à casa de Israel: Assim diz o Senhor YHWH: Convertei-vos, e apartai-vos dos vossos ídolos; e desviai os vossos rostos de todas as vossas abominações.",
+      "palavras": [
+        { "hebraico": "לָכֵן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "אֱמֹר", "transliteral": "ʾĕ-môr", "traducao_palavra": "dize" },
+        { "hebraico": "לְבֵ֣ית", "transliteral": "lə-bêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "שׁוּבוּ", "transliteral": "šû-ḇû", "traducao_palavra": "convertei-vos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Porque qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam em Israel, que se apartar de mim, e levantar os seus ídolos no seu coração, e puser o tropeço da sua iniquidade diante da sua face, e vier ao profeta, para me consultar por meio dele, eu, YHWH, lhe responderei por mim mesmo.",
+      "palavras": [
+        { "hebraico": "כִּ֣י׀", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "qualquer homem" },
+        { "hebraico": "מִבֵּ֣ית", "transliteral": "mib-bêṯ", "traducao_palavra": "da casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E porei o meu rosto contra esse homem, e fá-lo-ei um sinal e provérbios, e arrancá-lo-ei do meio do meu povo; e sabereis que eu sou YHWH.",
+      "palavras": [
+        { "hebraico": "וְשַׂמְתִּ֤י", "transliteral": "wə-śam-tî", "traducao_palavra": "e porei" },
+        { "hebraico": "אֶת־פָּנַי", "transliteral": "ʾeṯ-pā-nay", "traducao_palavra": "minha face" },
+        { "hebraico": "בָּאִ֣ישׁ", "transliteral": "bā-ʾîš", "traducao_palavra": "contra [aquele] homem" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E se o profeta for enganado, e falar alguma coisa, eu, YHWH, enganei a esse profeta; e estenderei a minha mão sobre ele, e destruí-lo-ei do meio do meu povo de Israel.",
+      "palavras": [
+        { "hebraico": "וְהַנָּבִיא", "transliteral": "wə-han-nā-ḇî", "traducao_palavra": "e o profeta" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "quando" },
+        { "hebraico": "יְפֻתֶּ֗ה", "transliteral": "yə-p̄ut-teh", "traducao_palavra": "for enganado" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E levarão a sua iniquidade; a iniquidade do profeta será como a iniquidade daquele que o consulta;",
+      "palavras": [
+        { "hebraico": "וְנָשְׂא֖וּ", "transliteral": "wə-nā-śə-ʾû", "traducao_palavra": "e levarão" },
+        { "hebraico": "עֲוֹנָ֑ם", "transliteral": "ʿă-wō-nām", "traducao_palavra": "a iniquidade deles" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Para que a casa de Israel não se desvie mais de mim, nem se contamine mais com todas as suas transgressões; e eles me serão por povo, e eu lhes serei por Deus, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "לְמַעַן֩", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "לֹא־יִתְע֣וּ", "transliteral": "lō-yiṯ-ʿû", "traducao_palavra": "não se desvie" },
+        { "hebraico": "עֹוד", "transliteral": "ʿôḏ", "traducao_palavra": "mais" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "דְּבַר־יְהוָ֥ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֖י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Filho do homem, quando uma terra pecar contra mim, rebelando-se gravemente, eu estenderei a minha mão sobre ela, e quebrarei o báculo do seu pão, e enviarei nela fome, e arrancarei dela homens e animais.",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אֶרֶץ", "transliteral": "ʾe-reṣ", "traducao_palavra": "uma terra" },
+        { "hebraico": "כִּֽי־תֶחֱטָא־לִ֖י", "transliteral": "kî-ṯe-ḥĕ-ṭā-lî", "traducao_palavra": "quando [ela] pecar contra mim" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Ainda que estivessem no meio dela estes três homens, Noé, Daniel e Jó, eles, pela sua justiça, livrariam apenas as suas almas, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְהָי֞וּ", "transliteral": "wə-hā-yû", "traducao_palavra": "ainda que estivessem" },
+        { "hebraico": "שְׁלֹשֶׁת", "transliteral": "šə-lō-šeṯ", "traducao_palavra": "três" },
+        { "hebraico": "הָאֲנָשִׁים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "הָאֵ֗לֶּה", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estes" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Se eu fizesse passar pela terra feras, e elas a assolassem, de modo que ficasse desolada, que ninguém pudesse passar por ela por causa das feras,",
+      "palavras": [
+        { "hebraico": "אִוְּחַיָּה", "transliteral": "ʾiw-wə-ḥay-yā", "traducao_palavra": "se feras" },
+        { "hebraico": "רָעָה", "transliteral": "rā-ʿā", "traducao_palavra": "más" },
+        { "hebraico": "אַעֲבִיר", "transliteral": "ʾa-ʿă-ḇîr", "traducao_palavra": "eu fizesse passar" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Ainda que estivessem no meio dela estes três homens, vivo eu, diz o Senhor YHWH, que nem filhos nem filhas livrariam, mas eles sós seriam livrados, e a terra ficaria desolada.",
+      "palavras": [
+        { "hebraico": "שְׁלֹשֶׁת", "transliteral": "šə-lō-šeṯ", "traducao_palavra": "três" },
+        { "hebraico": "הָאֲנָשִׁים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "חַי־אָנִי", "transliteral": "ḥay-ʾā-nî", "traducao_palavra": "vivo eu" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Ou, se eu trouxesse a espada sobre aquela terra, e dissesse: Espada, passa pela terra; de modo que eu arrancasse dela homens e animais,",
+      "palavras": [
+        { "hebraico": "אֹ֣ו", "transliteral": "ʾô", "traducao_palavra": "ou" },
+        { "hebraico": "חֶ֧רֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "espada" },
+        { "hebraico": "אָבִ֛יא", "transliteral": "ʾā-ḇî", "traducao_palavra": "eu trouxesse" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Ainda que estivessem no meio dela estes três homens, vivo eu, diz o Senhor YHWH, que não livrariam nem filhos nem filhas, mas eles sós seriam livrados.",
+      "palavras": [
+        { "hebraico": "שְׁלֹשֶׁת", "transliteral": "šə-lō-šeṯ", "traducao_palavra": "três" },
+        { "hebraico": "הָאֲנָשִׁים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "חַי־אָנִי", "transliteral": "ḥay-ʾā-nî", "traducao_palavra": "vivo eu" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Ou, se eu enviasse a peste sobre aquela terra, e derramasse o meu furor sobre ela em sangue, para arrancar dela homens e animais,",
+      "palavras": [
+        { "hebraico": "אֹ֧ו", "transliteral": "ʾô", "traducao_palavra": "ou" },
+        { "hebraico": "דֶּ֣בֶר", "transliteral": "de-ḇer", "traducao_palavra": "peste" },
+        { "hebraico": "אֲשַׁלַּ֤ח", "transliteral": "ʾă-šal-laḥ", "traducao_palavra": "enviasse" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Ainda que Noé, Daniel e Jó estivessem no meio dela, vivo eu, diz o Senhor YHWH, que não livrariam nem filho nem filha; eles, pela sua justiça, livrariam apenas as suas almas.",
+      "palavras": [
+        { "hebraico": "נֹ֧חַ", "transliteral": "nō-aḥ", "traducao_palavra": "Noé" },
+        { "hebraico": "דָּנִיֵּאל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "וְאִיֹּוב", "transliteral": "wə-ʾi-yôḇ", "traducao_palavra": "e Jó" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Porque assim diz o Senhor YHWH: Quanto mais, se eu enviar sobre Jerusalém os meus quatro maus juízos, a espada, a fome, a peste e as feras, para arrancar dela homens e animais?",
+      "palavras": [
+        { "hebraico": "כִּ֠י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Mas, eis que nela restará um resto, que será levado para fora, filhos e filhas; eis que eles sairão a vós, e vereis o seu caminho e as suas obras, e sereis consolados do mal que eu trouxe sobre Jerusalém, sobre tudo o que eu trouxe sobre ela.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "נֹותְרָה־בָּ֣הּ", "transliteral": "nô-ṯə-rā-bāh", "traducao_palavra": "restará nela" },
+        { "hebraico": "פְּלֵיטָ֔ה", "transliteral": "pə-lê-ṭā", "traducao_palavra": "um resto" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E eles vos consolarão, quando virdes o seu caminho e as suas obras; e sabereis que não fiz sem causa tudo o que nela fiz, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְנִחֲמ֣וּ", "transliteral": "wə-ni-ḥă-mû", "traducao_palavra": "e vos consolarão" },
+        { "hebraico": "אֶתְכֶ֔ם", "transliteral": "ʾeṯ-ḵem", "traducao_palavra": "vós" },
+        { "hebraico": "כִּֽי־חִנָּ֥ם", "transliteral": "kî-ḥin-nām", "traducao_palavra": "pois não sem causa" },
+        { "hebraico": "עָשִׂ֛יתִי", "transliteral": "ʿā-śî-ṯî", "traducao_palavra": "fiz" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾēṯ", "traducao_palavra": "[o que]" },
+        { "hebraico": "כָּל־אֲשֶׁר־עָשִׂ֥יתִי", "transliteral": "kāl-ʾă-šer-ʿā-śî-ṯî", "traducao_palavra": "tudo quanto fiz" },
+        { "hebraico": "בָּ֖הּ", "transliteral": "bāh", "traducao_palavra": "nela" },
+        { "hebraico": "נְאֻם־אֲדֹנָ֥י", "transliteral": "nə-ʾum-ʾă-ḏō-nāy", "traducao_palavra": "diz o Senhor" },
+        { "hebraico": "יְהוִה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }

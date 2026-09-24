@@ -2,5 +2,179 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 5,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Tu, pois, ó filho do homem, toma uma espada afiada; toma-a por navalha de barbeiro, e faze-a passar pela tua cabeça e pela tua barba; depois toma uma balança de pesar, e reparte o cabelo.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֣ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "קַח־לְךָ֞", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "חֶ֣רֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "uma espada" },
+        { "hebraico": "חַדָּ֗ה", "transliteral": "ḥad-dā", "traducao_palavra": "afiada" },
+        { "hebraico": "תַּ֧עַר", "transliteral": "ta-ʿar", "traducao_palavra": "[como] navalha" },
+        { "hebraico": "הַגַּלָּבִים", "transliteral": "haḡ-gal-lā-ḇîm", "traducao_palavra": "de barbeiro" },
+        { "hebraico": "תִּקָּחֶ֣נָּה", "transliteral": "tiq-qā-ḥen-nā", "traducao_palavra": "tomá-la-ás" },
+        { "hebraico": "לָ֔ךְ", "transliteral": "lāḵ", "traducao_palavra": "para ti" },
+        { "hebraico": "וְהַעֲבַרְתָּ֥הּ", "transliteral": "wə-ha-ʿă-ḇar-tāh", "traducao_palavra": "e a farás passar" },
+        { "hebraico": "עַל־רֹאשְׁךָ֖", "transliteral": "ʿal-rō-šə-ḵā", "traducao_palavra": "sobre tua cabeça" },
+        { "hebraico": "וְעַל־זְקָנֶ֑ךָ", "transliteral": "wə-ʿal-zə-qā-ne-ḵā", "traducao_palavra": "e sobre tua barba" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Uma terça parte queimarás no fogo no meio da cidade, quando se cumprirem os dias do cerco; e tomarás uma terça parte, e a ferirás com a espada em redor dela; e uma terça parte espalharás ao vento, e eu desembainharei a espada atrás deles.",
+      "palavras": [
+        { "hebraico": "שְׁלִשִׁית", "transliteral": "šə-lî-šîṯ", "traducao_palavra": "uma terça parte" },
+        { "hebraico": "בָּאֵ֣שׁ", "transliteral": "bā-ʾêš", "traducao_palavra": "no fogo" },
+        { "hebraico": "תַּבְעִיר", "transliteral": "taḇ-ʿîr", "traducao_palavra": "queimarás" },
+        { "hebraico": "בְּקֹ֣ורֶב", "transliteral": "bə-qō-reḇ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הָעִ֔יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E tomarás dali um pouco em número, e atá-lo-ás nas abas da tua capa.",
+      "palavras": [
+        { "hebraico": "וְלָקַחְתָּ֣ה", "transliteral": "wə-lā-qaḥ-tāh", "traducao_palavra": "e tomarás dali" },
+        { "hebraico": "מִשָּׁ֗ם", "transliteral": "miš-šām", "traducao_palavra": "dali" },
+        { "hebraico": "מְעַט", "transliteral": "mə-ʿaṭ", "traducao_palavra": "um pouco" },
+        { "hebraico": "בְּמִסְפָּ֑ר", "transliteral": "bə-mis-pār", "traducao_palavra": "em número" },
+        { "hebraico": "וְצַרְתָּ֥ה", "transliteral": "wə-ṣar-tāh", "traducao_palavra": "e atá-lo-ás" },
+        { "hebraico": "אֹותָ֖ם", "transliteral": "ʾô-ṯām", "traducao_palavra": "eles" },
+        { "hebraico": "בִּכְנָפֶֽיךָ׃", "transliteral": "biḵ-nā-p̄e-yḵā", "traducao_palavra": "nas abas da tua capa" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E destes ainda tomarás, e lançarás no meio do fogo, e no fogo os queimarás; dali sairá um fogo contra toda a casa de Israel.",
+      "palavras": [
+        { "hebraico": "וּמֵהֶם", "transliteral": "ū-mē-hem", "traducao_palavra": "e deles" },
+        { "hebraico": "עֹוד", "transliteral": "ʿôḏ", "traducao_palavra": "ainda" },
+        { "hebraico": "תִּקָּ֑ח", "transliteral": "tiq-qāḥ", "traducao_palavra": "tomarás" },
+        { "hebraico": "וְהִשְׁלַכְתָּ֤ה", "transliteral": "wə-hiš-laḵ-tāh", "traducao_palavra": "e lançarás" },
+        { "hebraico": "אֹותָם֙", "transliteral": "ʾô-ṯām", "traducao_palavra": "eles" },
+        { "hebraico": "אֶל־תֹּ֣וךְ", "transliteral": "ʾel-tôḵ", "traducao_palavra": "para o meio de" },
+        { "hebraico": "אֵ֔שׁ", "transliteral": "ʾēš", "traducao_palavra": "fogo" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Assim diz o Senhor YHWH: Esta é Jerusalém; coloquei-a no meio das nações e das terras que estão ao redor dela.",
+      "palavras": [
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר֙", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "זֹ֖את", "transliteral": "zōṯ", "traducao_palavra": "esta" },
+        { "hebraico": "יְרוּשָׁלִָ֑ם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "בְּתֹ֤וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הַגֹּויִם", "transliteral": "hag-gô-yim", "traducao_palavra": "as nações" },
+        { "hebraico": "שַׂמְתִּיהָ", "transliteral": "śam-tî-hā", "traducao_palavra": "coloquei-a" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Mas ela se rebelou contra os meus juízos, tornando-os mais ímpios que as nações, e contra os meus estatutos, mais do que as terras que estão ao redor dela; porque rejeitaram os meus juízos e não andaram nos meus estatutos.",
+      "palavras": [
+        { "hebraico": "וַתֶּ֤מֶר", "transliteral": "wat-te-mer", "traducao_palavra": "e rebelou-se" },
+        { "hebraico": "אֶת־מִשְׁפָּטַי", "transliteral": "ʾeṯ-miš-pā-ṭay", "traducao_palavra": "contra os meus juízos" },
+        { "hebraico": "לְרִשְׁעָה", "transliteral": "lə-riš-ʿā", "traducao_palavra": "em impiedade" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Como vos multiplicastes mais do que as nações que estão ao vosso redor, e não andastes nos meus estatutos, nem cumpristes os meus juízos, nem fizestes segundo os juízos das nações que estão ao vosso redor;",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Eis que eu, sim, eu estou contra ti; e executarei juízos no meio de ti, à vista das nações.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E farei em ti o que nunca fiz, e o que nunca mais farei, por causa de todas as tuas abominações.",
+      "palavras": [
+        { "hebraico": "וְעָשִׂ֥יתִי", "transliteral": "wə-ʿā-śî-ṯî", "traducao_palavra": "e farei" },
+        { "hebraico": "בָּךְ", "transliteral": "bāḵ", "traducao_palavra": "em ti" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾēṯ", "traducao_palavra": "[o que]" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹא־עָשִׂ֔יתִי", "transliteral": "lō-ʿā-śî-ṯî", "traducao_palavra": "não fiz" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Portanto, os pais comerão os filhos no meio de ti, e os filhos comerão a seus pais; e executarei em ti juízos, e espalharei todo o teu resto a todos os ventos.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "אָבֹות", "transliteral": "ʾā-ḇôṯ", "traducao_palavra": "os pais" },
+        { "hebraico": "יֹאכְל֣וּ", "transliteral": "yō-ḵə-lû", "traducao_palavra": "comerão" },
+        { "hebraico": "בָנִים", "transliteral": "ḇā-nîm", "traducao_palavra": "filhos" },
+        { "hebraico": "בְּתֹוכֵ֔יךְ", "transliteral": "bə-ṯô-ḵêḵ", "traducao_palavra": "no meio de ti" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Portanto, vivo eu, diz o Senhor YHWH, que, pois que contaminaste o meu santuário com todas as tuas coisas detestáveis e com todas as tuas abominações, também eu te diminuirei, e o meu olho não perdoará, e eu também não terei piedade.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "חַי־אָנִי", "transliteral": "ḥay-ʾā-nî", "traducao_palavra": "vivo eu" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Uma terça parte de ti morrerá de peste, e pela fome será consumida no meio de ti; e uma terça parte cairá à espada em redor de ti; e uma terça parte espalharei a todos os ventos, e desembainharei a espada atrás deles.",
+      "palavras": [
+        { "hebraico": "שְׁלִשִׁתֵ֣יךְ", "transliteral": "šə-lî-šî-ṯêḵ", "traducao_palavra": "uma terça parte de ti" },
+        { "hebraico": "בַּדֶּבֶר", "transliteral": "bad-de-ḇer", "traducao_palavra": "pela peste" },
+        { "hebraico": "יָמֻ֔תוּ", "transliteral": "yā-mu-ṯû", "traducao_palavra": "morrerão" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Assim se cumprirá a minha ira, e satisfarei o meu furor neles, e me vingarei; e saberão que eu, YHWH, falei no meu zelo, quando cumprir neles o meu furor.",
+      "palavras": [
+        { "hebraico": "וְכָלָ֧ה", "transliteral": "wə-ḵā-lāh", "traducao_palavra": "e se cumprirá" },
+        { "hebraico": "אַפִּ֛י", "transliteral": "ʾap-pî", "traducao_palavra": "minha ira" },
+        { "hebraico": "וַהֲנִחֹ֥ותִי", "transliteral": "wa-hă-ni-ḥô-ṯî", "traducao_palavra": "e satisfarei" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E farei de ti uma desolação e opróbrio entre as nações que estão ao redor, à vista de todos os que passam.",
+      "palavras": [
+        { "hebraico": "וְאֶתְּנֵ֥ךְ", "transliteral": "wə-ʾet-tə-nêḵ", "traducao_palavra": "e farei de ti" },
+        { "hebraico": "לְחָרְבָּה", "transliteral": "lə-ḥā-rə-bā", "traducao_palavra": "em desolação" },
+        { "hebraico": "וּלְחֶרְפָּ֖ה", "transliteral": "ū-lə-ḥer-pā", "traducao_palavra": "e em opróbrio" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E serás opróbrio e ludíbrio, uma advertência e um espanto às nações que estão ao teu redor, quando eu executar em ti juízos com ira e com furor, e com repreensões furiosas; eu, YHWH, o disse.",
+      "palavras": [
+        { "hebraico": "וְהָיְתָה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e serás" },
+        { "hebraico": "חֶרְפָּה", "transliteral": "ḥer-pā", "traducao_palavra": "opróbrio" },
+        { "hebraico": "וּגְדוּפָה", "transliteral": "ū-ḡə-ḏû-p̄ā", "traducao_palavra": "e ludíbrio" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Quando eu enviar contra eles as setas malignas da fome, que serão para destruição, as quais enviarei para vos destruir, também aumentarei a fome sobre vós, e quebrarei o báculo do pão.",
+      "palavras": [
+        { "hebraico": "בְּשַׁלְּחִ֞י", "transliteral": "bə-šal-lə-ḥî", "traducao_palavra": "quando eu enviar" },
+        { "hebraico": "אֶת־חִצֵּי", "transliteral": "ʾeṯ-ḥiṣ-ṣê", "traducao_palavra": "as setas de" },
+        { "hebraico": "הָרָעָב", "transliteral": "hā-rā-ʿāḇ", "traducao_palavra": "fome" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Enviarei, pois, sobre vós a fome e feras, que te desfilharão; e a peste e o sangue passarão por ti; e trarei a espada sobre ti; eu, YHWH, o disse.",
+      "palavras": [
+        { "hebraico": "וְשִׁלַּחְתִּ֨י", "transliteral": "wə-šil-laḥ-tî", "traducao_palavra": "e enviarei" },
+        { "hebraico": "עֲלֵיכֶ֧ם", "transliteral": "ʿă-lê-ḵem", "traducao_palavra": "sobre vós" },
+        { "hebraico": "רָעָ֛ב", "transliteral": "rā-ʿāḇ", "traducao_palavra": "fome" },
+        { "hebraico": "וְחַיָּ֥ה", "transliteral": "wə-ḥay-yā", "traducao_palavra": "e feras" },
+        { "hebraico": "רָעָ֖ה", "transliteral": "rā-ʿā", "traducao_palavra": "malignas" }
+      ]
+    }
+  }
 }

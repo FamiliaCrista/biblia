@@ -2,5 +2,209 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 13,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Filho do homem, profetiza contra os profetas de Israel que profetizam, e dize aos que profetizam de seu próprio coração: Ouvi a palavra de YHWH:",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָ֗ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "הִנָּבֵא", "transliteral": "hin-nā-ḇē", "traducao_palavra": "profetiza" },
+        { "hebraico": "אֶל־נְבִיאֵ֣י", "transliteral": "ʾel-nə-ḇî-ʾê", "traducao_palavra": "contra os profetas de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Assim diz o Senhor YHWH: Ai dos profetas insensatos, que seguem o seu próprio espírito e coisas que não viram!",
+      "palavras": [
+        { "hebraico": "כֹּה־אָמַר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הֹ֚וי", "transliteral": "hôy", "traducao_palavra": "ai de" },
+        { "hebraico": "עַל־הַנְּבִיאִים", "transliteral": "ʿal-han-nə-ḇî-ʾîm", "traducao_palavra": "os profetas" },
+        { "hebraico": "הַנְּבָלִים", "transliteral": "han-nə-ḇā-lîm", "traducao_palavra": "insensatos" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הֹלְכִ֖ים", "transliteral": "hō-lə-ḵîm", "traducao_palavra": "seguem/andam" },
+        { "hebraico": "אַחַ֥ר", "transliteral": "ʾa-ḥar", "traducao_palavra": "após" },
+        { "hebraico": "רוּחָ֑ם", "transliteral": "rû-ḥām", "traducao_palavra": "o espírito deles" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Os teus profetas, ó Israel, são como raposas nos desertos.",
+      "palavras": [
+        { "hebraico": "כְּשֻׁעָלִ֥ים", "transliteral": "kə-šu-ʿā-lîm", "traducao_palavra": "como raposas" },
+        { "hebraico": "בָּחֳרָבֹ֖ות", "transliteral": "bā-ḥŏ-rā-ḇôṯ", "traducao_palavra": "nos desertos" },
+        { "hebraico": "נְבִיאֶ֥יךָ", "transliteral": "nə-ḇî-ʾe-ḵā", "traducao_palavra": "os teus profetas" },
+        { "hebraico": "יִשְׂרָאֵֽל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Não subistes às brechas, nem fizestes uma sebe em torno da casa de Israel, para estardes firmes na peleja no dia de YHWH.",
+      "palavras": [
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "עֲלִיתֶ֖ם", "transliteral": "ʿă-lî-ṯem", "traducao_palavra": "subistes" },
+        { "hebraico": "בַּפְּרָצֹ֑ות", "transliteral": "bap-pə-rā-ṣôṯ", "traducao_palavra": "às brechas" },
+        { "hebraico": "וַתִּגְדְּר֥וּ", "transliteral": "wat-tiḡ-də-rû", "traducao_palavra": "nem fizestes uma sebe" },
+        { "hebraico": "גָדֵ֖ר", "transliteral": "ḡā-ḏēr", "traducao_palavra": "sebe" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Viram vaidade e adivinhação mentirosa os que dizem: YHWH diz; sendo que YHWH os não enviou; e fazem que se espere o cumprimento da palavra.",
+      "palavras": [
+        { "hebraico": "חָ֣זוּ", "transliteral": "ḥā-zû", "traducao_palavra": "viram" },
+        { "hebraico": "שָׁ֔וְא", "transliteral": "šā-wə", "traducao_palavra": "vaidade" },
+        { "hebraico": "וְקֶ֥סֶם", "transliteral": "wə-qe-sem", "traducao_palavra": "e adivinhação" },
+        { "hebraico": "כָּזָ֖ב", "transliteral": "kā-zāḇ", "traducao_palavra": "mentirosa" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Não vistes vós visão de vaidade, e não falastes adivinhação mentirosa, quando dissestes: YHWH diz, sendo que eu não falei?",
+      "palavras": [
+        { "hebraico": "הֲלֹ֤וא", "transliteral": "hă-lô", "traducao_palavra": "porventura não" },
+        { "hebraico": "מַחֲזֵה", "transliteral": "ma-ḥă-zēh", "traducao_palavra": "visão" },
+        { "hebraico": "שָׁוְא", "transliteral": "šā-wə", "traducao_palavra": "vã" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Porque falastes vaidade e vistes mentira, por isso, eis que eu sou contra vós, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "A minha mão será contra os profetas que vêem vaidade e adivinham mentira; não estarão na assembleia do meu povo, nem nos registros da casa de Israel serão inscritos, nem entrarão na terra de Israel; e sabereis que eu sou o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְהָיְתָ֣ה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e será" },
+        { "hebraico": "יָדִ֗י", "transliteral": "yā-ḏî", "traducao_palavra": "minha mão" },
+        { "hebraico": "עַל־הַנְּבִיאִים", "transliteral": "ʿal-han-nə-ḇî-ʾîm", "traducao_palavra": "contra os profetas" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Sim, porque, porque fizeram errar o meu povo, dizendo: Paz, não havendo paz; e, quando se edifica uma parede, eis que a rebocam com argamassa fraca,",
+      "palavras": [
+        { "hebraico": "יַ֣עַן", "transliteral": "ya-ʿan", "traducao_palavra": "porque" },
+        { "hebraico": "וּבְיַעַן", "transliteral": "ū-ḇə-ya-ʿan", "traducao_palavra": "e porque" },
+        { "hebraico": "הִתְעוּ", "transliteral": "hiṯ-ʿû", "traducao_palavra": "fizeram errar" },
+        { "hebraico": "אֶת־עַמִּ֣י", "transliteral": "ʾeṯ-ʿam-mî", "traducao_palavra": "o meu povo" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Dize aos que a rebocam com argamassa fraca que ela cairá; haverá uma chuva inundante, e vós, ó grandes pedras de saraiva, caireis, e o vento tempestuoso a fenderá.",
+      "palavras": [
+        { "hebraico": "אֱמֹ֨ר", "transliteral": "ʾĕ-môr", "traducao_palavra": "dize" },
+        { "hebraico": "אֶל־טָחֵ֥י", "transliteral": "ʾel-ṭā-ḥê", "traducao_palavra": "aos que rebocam" },
+        { "hebraico": "תָּפֵל", "transliteral": "tā-p̄ēl", "traducao_palavra": "com argamassa fraca" },
+        { "hebraico": "וְיִפֹּ֑ל", "transliteral": "wə-yip-pōl", "traducao_palavra": "e cairá" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Eis que, caindo a parede, não vos dirão: Onde está a argamassa com que a rebocastes?",
+      "palavras": [
+        { "hebraico": "וְהִנֵּ֥ה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "נָפַ֖ל", "transliteral": "nā-p̄al", "traducao_palavra": "caindo" },
+        { "hebraico": "הַקִּ֑יר", "transliteral": "haq-qîr", "traducao_palavra": "a parede" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Fendê-la-ei com vento tempestuoso no meu furor, e haverá uma chuva inundante na minha ira, e grandes pedras de saraiva na minha indignação, para a destruir.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּה־אָמַר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E derrubarei a parede que vós rebocastes com argamassa fraca, e a darei por terra, e o seu fundamento será descoberto; ela cairá, e vós sereis consumidos no meio dela; e sabereis que eu sou YHWH.",
+      "palavras": [
+        { "hebraico": "וְהָרַסְתִּ֤י", "transliteral": "wə-hā-ras-tî", "traducao_palavra": "e derrubarei" },
+        { "hebraico": "אֶת־הַקִּיר֙", "transliteral": "ʾeṯ-haq-qîr", "traducao_palavra": "a parede" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "טַחְתֶּ֣ם", "transliteral": "ṭaḥ-tem", "traducao_palavra": "rebocastes" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Assim cumprirei o meu furor na parede, e nos que a rebocaram com argamassa fraca; e vos direi: Já não existe a parede, nem os que a rebocaram,",
+      "palavras": [
+        { "hebraico": "וְכִלֵּיתִ֧י", "transliteral": "wə-ḵil-lê-ṯî", "traducao_palavra": "e cumprirei" },
+        { "hebraico": "אֶת־חֲמָתִ֛י", "transliteral": "ʾeṯ-ḥă-mā-ṯî", "traducao_palavra": "o meu furor" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Os profetas de Israel que profetizam acerca de Jerusalém, e que veem para ela visão de paz, não havendo paz, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וּנְבִיאֵ֣י", "transliteral": "ū-nə-ḇî-ʾê", "traducao_palavra": "e os profetas de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E tu, ó filho do homem, vira o teu rosto contra as filhas do teu povo, que profetizam de seu próprio coração; e profetiza contra elas,",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֣ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָ֗ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "שִׂ֥ים", "transliteral": "śîm", "traducao_palavra": "vira" },
+        { "hebraico": "פָּנֶ֨יךָ֙", "transliteral": "pā-ne-ḵā", "traducao_palavra": "teu rosto" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E dize: Assim diz o Senhor YHWH: Ai das que cosem almofadas para todas as axilas, e que fazem véus para a cabeça de pessoas de toda estatura, para caçarem almas! Porventura caçareis as almas do meu povo, e salvareis a vida dos que vêm a vós?",
+      "palavras": [
+        { "hebraico": "וְאָמַרְתָּ֞", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "כֹּה־אָמַ֣ר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E me profanais entre o meu povo, por punhados de cevada e por pedaços de pão, para matardes as almas que não haviam de morrer, e para guardardes em vida as almas que não haviam de viver, mentindo ao meu povo que escuta a mentira.",
+      "palavras": [
+        { "hebraico": "וַתְּחַלְּל֣וּ", "transliteral": "wat-tə-ḥal-lə-lû", "traducao_palavra": "e me profanais" },
+        { "hebraico": "אֹתִי֮", "transliteral": "ʾō-ṯî", "traducao_palavra": "a mim" },
+        { "hebraico": "אֶל־עַמִּי֒", "transliteral": "ʾel-ʿam-mî", "traducao_palavra": "contra o meu povo" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Eis que eu sou contra as vossas almofadas, com que vós ali caçais as almas como se fossem aves, e as arrancarei de vossos braços, e soltarei as almas que vós caçais como se fossem aves.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Também rasgarei os vossos véus, e livrarei o meu povo da vossa mão, e nunca mais estarão nas vossas mãos para serem caçadas; e sabereis que eu sou YHWH.",
+      "palavras": [
+        { "hebraico": "וְקָרַעְתִּ֞י", "transliteral": "wə-qā-raʿ-tî", "traducao_palavra": "e rasgarei" },
+        { "hebraico": "אֶת־מִסְפְּרֹתֵיכֶם", "transliteral": "ʾeṯ-mis-pə-rō-ṯê-ḵem", "traducao_palavra": "os vossos véus" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Porquanto com mentiras entristecestes o coração do justo, não o querendo eu entristecer, e fortalecestes as mãos do ímpio, para que não se desviasse do seu mau caminho, a fim de salvar a sua vida.",
+      "palavras": [
+        { "hebraico": "יַ֣עַן", "transliteral": "ya-ʿan", "traducao_palavra": "porquanto" },
+        { "hebraico": "הַכְאֹות", "transliteral": "haḵ-ʾôṯ", "traducao_palavra": "entristecestes" },
+        { "hebraico": "לֵב־צַדִּ֖יק", "transliteral": "lēḇ-ṣad-dîq", "traducao_palavra": "o coração do justo" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "Portanto, não vereis mais vaidade, nem fareis mais adivinhações; e livrarei o meu povo da vossa mão; e sabereis que eu sou YHWH.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "שָׁוְא", "transliteral": "šā-wə", "traducao_palavra": "vaidade" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תֶחֱזֶ֖ינָה", "transliteral": "ṯe-ḥĕ-ze-nā", "traducao_palavra": "vereis" }
+      ]
+    }
+  }
 }

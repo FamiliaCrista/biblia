@@ -2,5 +2,185 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 8,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Sucedeu no sexto ano, no mês sexto, aos cinco do mês, estando eu assentado em minha casa, e os anciãos de Judá assentados diante de mim, que ali a mão do Senhor YHWH caiu sobre mim.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֞י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בְּשִׁשִּׁ֣ית", "transliteral": "biš-šiš-šîṯ", "traducao_palavra": "no sexto [ano]" },
+        { "hebraico": "בַּשִּׁשִּׁ֗י", "transliteral": "baš-šiš-šî", "traducao_palavra": "no sexto [mês]" },
+        { "hebraico": "בַּחֲמִשָּׁ֣ה", "transliteral": "ba-ḥă-miš-šā", "traducao_palavra": "aos cinco" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "אֲנִי֙", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "יֹשֵׁ֣ב", "transliteral": "yô-šêḇ", "traducao_palavra": "assentado" },
+        { "hebraico": "בְּבֵיתִ֔י", "transliteral": "bə-ḇê-ṯî", "traducao_palavra": "em minha casa" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E olhei, e eis uma semelhança como aparência de fogo; desde a aparência dos seus lombos e para baixo, era fogo; e dos seus lombos e para cima, como a aparência de resplendor, como a cor de âmbar.",
+      "palavras": [
+        { "hebraico": "וָאֶרְאֶה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis" },
+        { "hebraico": "דְמוּת", "transliteral": "də-mûṯ", "traducao_palavra": "uma semelhança" },
+        { "hebraico": "כְּמַרְאֵה", "transliteral": "kə-mar-ʾēh", "traducao_palavra": "como aparência de" },
+        { "hebraico": "אֵשׁ", "transliteral": "ʾēš", "traducao_palavra": "fogo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E estendeu uma forma de mão, e me pegou pelos cabelos da minha cabeça; e o espírito me levantou entre a terra e o céu, e me levou em visões de Deus a Jerusalém, à porta do átrio de dentro, que dá para o norte, onde estava o assento da imagem do ciúme, que provoca ciúme.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁלַח", "transliteral": "way-yiš-laḥ", "traducao_palavra": "e estendeu" },
+        { "hebraico": "תַּבְנִ֣ית", "transliteral": "ṯaḇ-nîṯ", "traducao_palavra": "forma/semelhança de" },
+        { "hebraico": "יָד", "transliteral": "yāḏ", "traducao_palavra": "mão" },
+        { "hebraico": "וַיִּקָּחֵ֖נִי", "transliteral": "way-yiq-qā-ḥê-nî", "traducao_palavra": "e pegou-me" },
+        { "hebraico": "בְּצִיצִ֣ת", "transliteral": "bə-ṣî-ṣiṯ", "traducao_palavra": "pelos cabelos de" },
+        { "hebraico": "רֹאשִׁ֑י", "transliteral": "rō-šî", "traducao_palavra": "minha cabeça" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E eis que ali estava a glória do Deus de Israel, conforme a visão que eu tinha visto no vale.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה־שָׁ֣ם", "transliteral": "wə-hin-nēh-šām", "traducao_palavra": "e eis que ali" },
+        { "hebraico": "כְּבֹ֗וד", "transliteral": "kə-ḇôḏ", "traducao_palavra": "a glória de" },
+        { "hebraico": "אֱלֹהֵ֣י", "transliteral": "ʾĕ-lō-hê", "traducao_palavra": "Deus de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E disse-me: Filho do homem, levanta agora os teus olhos para o norte. Levantei, pois, os meus olhos para o norte, e eis que havia uma imagem do ciúme ao norte da porta do altar, na entrada.",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "שָׂא־נָ֨א", "transliteral": "śāʾ-nā", "traducao_palavra": "levanta agora" },
+        { "hebraico": "עֵינֶ֜יךָ", "transliteral": "ʿê-ne-ḵā", "traducao_palavra": "teus olhos" },
+        { "hebraico": "דֶּ֣רֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "o caminho de/para o" },
+        { "hebraico": "צָפֹ֗ון", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "norte" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Disse-me ainda: Filho do homem, vês tu o que eles fazem? As grandes abominações que a casa de Israel faz aqui, para que eu me afaste do meu santuário? Mas verás ainda abominações maiores.",
+      "palavras": [
+        { "hebraico": "הֲרֹאֶ֣ה", "transliteral": "hă-rō-ʾeh", "traducao_palavra": "vês tu" },
+        { "hebraico": "אַתָּה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "מָ֣ה", "transliteral": "māh", "traducao_palavra": "o que" },
+        { "hebraico": "הֵ֔ם", "transliteral": "hêm", "traducao_palavra": "eles" },
+        { "hebraico": "עֹשִׂ֖ים", "transliteral": "ʿō-śîm", "traducao_palavra": "fazem" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E levou-me à porta do átrio; e olhei, e eis um buraco na parede.",
+      "palavras": [
+        { "hebraico": "וַיָּבִא", "transliteral": "way-yā-ḇi", "traducao_palavra": "e levou-me" },
+        { "hebraico": "אֹתִ֖י", "transliteral": "ʾō-ṯî", "traducao_palavra": "a mim" },
+        { "hebraico": "אֶל־פֶּ֣תַח", "transliteral": "ʾel-pe-ṯaḥ", "traducao_palavra": "à porta de" },
+        { "hebraico": "הֶחָצֵ֑ר", "transliteral": "he-ḥā-ṣēr", "traducao_palavra": "o átrio" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Disse-me: Filho do homem, cava agora na parede. E cavei na parede, e eis que havia uma porta.",
+      "palavras": [
+        { "hebraico": "חֲתֹר־נָ֣א", "transliteral": "ḥă-ṯōr-nā", "traducao_palavra": "cava agora" },
+        { "hebraico": "בַקִּ֔יר", "transliteral": "ḇaq-qîr", "traducao_palavra": "na parede" },
+        { "hebraico": "וָאֶחְתֹּ֖ר", "transliteral": "wā-ʾeḥ-tōr", "traducao_palavra": "e cavei" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E disse-me: Entra, e vê as terríveis abominações que eles fazem aqui.",
+      "palavras": [
+        { "hebraico": "בֹּ֖א", "transliteral": "bō", "traducao_palavra": "entra" },
+        { "hebraico": "וּרְאֵ֣ה", "transliteral": "ū-rə-ʾēh", "traducao_palavra": "e vê" },
+        { "hebraico": "אֶת־הַתֹּועֵבֹ֣ות", "transliteral": "ʾeṯ-hat-tô-ʿê-ḇôṯ", "traducao_palavra": "as abominações" },
+        { "hebraico": "הָרָעֹ֔ות", "transliteral": "hā-rā-ʿôṯ", "traducao_palavra": "terríveis/más" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Entrei, pois, e olhei, e eis que havia toda a sorte de figuras de répteis e de animais detestáveis, e de todos os ídolos da casa de Israel, pintados na parede ao redor.",
+      "palavras": [
+        { "hebraico": "וָאָבֹ֖וא", "transliteral": "wā-ʾā-ḇô", "traducao_palavra": "e entrei" },
+        { "hebraico": "וָאֶרְאֶ֑ה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "כָל־תַּבְנִ֧ית", "transliteral": "ḵāl-ṯaḇ-nîṯ", "traducao_palavra": "toda forma de" },
+        { "hebraico": "רֶ֣מֶשׂ", "transliteral": "re-meś", "traducao_palavra": "répteis" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E setenta homens dos anciãos da casa de Israel, com Jaazanias, filho de Safã, que estava em pé no meio deles, estavam ali em pé diante das figuras; e cada um tinha o seu incensário na mão, e subia um espesso fumo de incenso.",
+      "palavras": [
+        { "hebraico": "וְשִׁבְעִ֣ים", "transliteral": "wə-šiḇ-ʿîm", "traducao_palavra": "e setenta" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "homens" },
+        { "hebraico": "מִזִּקְנֵ֣י", "transliteral": "miz-ziq-nê", "traducao_palavra": "dos anciãos de" },
+        { "hebraico": "בֵּית־יִשְׂרָאֵל", "transliteral": "bêṯ-yiś-rā-ʾēl", "traducao_palavra": "casa de Israel" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Então me disse: Viste, filho do homem, o que os anciãos da casa de Israel fazem nas trevas, cada um nas suas câmaras pintadas? Porque dizem: YHWH não nos vê, YHWH desamparou a terra.",
+      "palavras": [
+        { "hebraico": "הֲרָאִ֣יתָ", "transliteral": "hă-rā-ʾî-ṯā", "traducao_palavra": "viste" },
+        { "hebraico": "בֶן־אָדָ֗ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "o que" },
+        { "hebraico": "זִקְנֵי", "transliteral": "ziq-nê", "traducao_palavra": "os anciãos de" },
+        { "hebraico": "בֵּית־יִשְׂרָאֵל", "transliteral": "bêṯ-yiś-rā-ʾēl", "traducao_palavra": "casa de Israel" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Disse-me ainda: Verás ainda maiores abominações que eles fazem.",
+      "palavras": [
+        { "hebraico": "תָּשׁוּב", "transliteral": "tā-šûḇ", "traducao_palavra": "verás ainda" },
+        { "hebraico": "תִּרְאֶה", "transliteral": "tir-ʾeh", "traducao_palavra": "verás" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E levou-me à entrada da porta da casa de YHWH, que dá para o norte, e eis que estavam ali mulheres assentadas chorando a Tamuz.",
+      "palavras": [
+        { "hebraico": "וַיָּבִיא", "transliteral": "way-yā-ḇî", "traducao_palavra": "e levou-me" },
+        { "hebraico": "אֹתִי", "transliteral": "ʾō-ṯî", "traducao_palavra": "a mim" },
+        { "hebraico": "אֶל־פֶּתַח", "transliteral": "ʾel-pe-ṯaḥ", "traducao_palavra": "à porta de" },
+        { "hebraico": "שַׁעַר", "transliteral": "ša-ʿar", "traducao_palavra": "porta" },
+        { "hebraico": "בֵּית־יְהוָה", "transliteral": "bêṯ-YHWH", "traducao_palavra": "casa de YHWH" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Disse-me: Vês isto, filho do homem? Verás ainda abominações maiores do que estas.",
+      "palavras": [
+        { "hebraico": "הֲרָאִיתָ", "transliteral": "hă-rā-ʾî-ṯā", "traducao_palavra": "vês tu" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "תָּשׁוּב", "transliteral": "tā-šûḇ", "traducao_palavra": "verás" },
+        { "hebraico": "תִּרְאֶה", "transliteral": "tir-ʾeh", "traducao_palavra": "ainda" },
+        { "hebraico": "תֹּועֵבֹות", "transliteral": "tô-ʿê-ḇôṯ", "traducao_palavra": "abominações" },
+        { "hebraico": "גְּדֹלֹות", "transliteral": "gə-ḏō-lôṯ", "traducao_palavra": "maiores" },
+        { "hebraico": "מֵאֵלֶּה", "transliteral": "mē-ʾēl-leh", "traducao_palavra": "do que estas" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "E levou-me para o átrio interior da casa de YHWH, e eis que estavam à entrada do templo de YHWH, entre o pórtico e o altar, cerca de vinte e cinco homens, de costas para o templo de YHWH, e com os rostos para o oriente; e eles adoravam o sol, virados para o oriente.",
+      "palavras": [
+        { "hebraico": "וַיָּבֵא", "transliteral": "way-yā-ḇē", "traducao_palavra": "e levou-me" },
+        { "hebraico": "אֹתִי", "transliteral": "ʾō-ṯî", "traducao_palavra": "a mim" },
+        { "hebraico": "אֶל־חֲצַר", "transliteral": "ʾel-ḥă-ṣar", "traducao_palavra": "ao átrio de" },
+        { "hebraico": "בֵּית־יְהוָה", "transliteral": "bêṯ-YHWH", "traducao_palavra": "casa de YHWH" },
+        { "hebraico": "הַפְּנִימִית", "transliteral": "hap-pə-nî-mîṯ", "traducao_palavra": "interior" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Disse-me: Vês isto, filho do homem? Porventura é coisa leve para a casa de Judá fazerem tais abominações, que aqui fazem, que encheram a terra de violência e tornam a irritar-me; e eis que chegam o ramo ao seu nariz.",
+      "palavras": [
+        { "hebraico": "הֲנָקֵ֣ל", "transliteral": "hă-nā-qēl", "traducao_palavra": "acaso é coisa leve" },
+        { "hebraico": "לְבֵ֣ית", "transliteral": "lə-ḇêṯ", "traducao_palavra": "para a casa de" },
+        { "hebraico": "יְהוּדָ֔ה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "עֲשֹׂות", "transliteral": "ʿă-śôṯ", "traducao_palavra": "fazerem" },
+        { "hebraico": "אֶת־הַתֹּועֵבֹ֖ות", "transliteral": "ʾeṯ-hat-tô-ʿê-ḇôṯ", "traducao_palavra": "tais abominações" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Por isso eu também procederei com furor; o meu olho não poupará, nem terei piedade; ainda que me gritem aos ouvidos com grande voz, contudo não os ouvirei.",
+      "palavras": [
+        { "hebraico": "וְגַם־אֲנִ֕י", "transliteral": "wə-ḡam-ʾă-nî", "traducao_palavra": "e eu também" },
+        { "hebraico": "אֶעֱשֶׂ֖ה", "transliteral": "ʾe-ʿĕ-śeh", "traducao_palavra": "procederei/farei" },
+        { "hebraico": "בְּחֵמָ֑ה", "transliteral": "bə-ḥê-mā", "traducao_palavra": "com furor" },
+        { "hebraico": "לֹא־תָחֹ֥וס", "transliteral": "lō-ṯā-ḥôs", "traducao_palavra": "não poupará" },
+        { "hebraico": "עֵינִ֖י", "transliteral": "ʿê-nî", "traducao_palavra": "meu olho" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "אֶחְמֹֽל׃", "transliteral": "ʾeḥ-môl", "traducao_palavra": "terei piedade" }
+      ]
+    }
+  }
 }

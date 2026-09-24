@@ -2,5 +2,277 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 3,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E disse-me: Filho do homem, come o que achares; come este rolo, e vai, fala à casa de Israel.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אֵת", "transliteral": "ʾēṯ", "traducao_palavra": "[o que]" },
+        { "hebraico": "אֲשֶׁר־תִּמְצָא", "transliteral": "ʾă-šer-tim-ṣā", "traducao_palavra": "que achares" },
+        { "hebraico": "אֱכֹול", "transliteral": "ʾĕ-ḵôl", "traducao_palavra": "come" },
+        { "hebraico": "אֱכֹול", "transliteral": "ʾĕ-ḵôl", "traducao_palavra": "come" },
+        { "hebraico": "אֶת־הַמְּגִלָּה", "transliteral": "ʾeṯ-ham-mə-ḡil-lā", "traducao_palavra": "o rolo" },
+        { "hebraico": "הַזֹּאת", "transliteral": "haz-zōṯ", "traducao_palavra": "este" },
+        { "hebraico": "וְלֵךְ", "transliteral": "wə-lēḵ", "traducao_palavra": "e vai" },
+        { "hebraico": "דַּבֵּר", "transliteral": "dab-bēr", "traducao_palavra": "fala" },
+        { "hebraico": "אֶל־בֵּית", "transliteral": "ʾel-bêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Abri, pois, a boca, e ele me fez comer aquele rolo.",
+      "palavras": [
+        { "hebraico": "וָאֶפְתַּח", "transliteral": "wā-ʾep̄-taḥ", "traducao_palavra": "e abri" },
+        { "hebraico": "אֶת־פִּ֕י", "transliteral": "ʾeṯ-pî", "traducao_palavra": "minha boca" },
+        { "hebraico": "וַיַּאֲכִילֵ֖נִי", "transliteral": "way-ya-ʾă-ḵî-lê-nî", "traducao_palavra": "e ele me fez comer" },
+        { "hebraico": "אֵ֥ת", "transliteral": "ʾêṯ", "traducao_palavra": "[o] rolo" },
+        { "hebraico": "הַמְּגִלָּ֥ה", "transliteral": "ham-mə-ḡil-lā", "traducao_palavra": "aquele" },
+        { "hebraico": "הַזֹּֽאת", "transliteral": "haz-zōṯ", "traducao_palavra": "este" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E disse-me: Filho do homem, dá de comer ao teu ventre, e enche as tuas entranhas deste rolo que eu te dou. Então o comi, e era na minha boca doce como o mel.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "בִּטְנְךָ֞", "transliteral": "biṭ-nə-ḵā", "traducao_palavra": "teu ventre" },
+        { "hebraico": "תַּאֲכִיל", "transliteral": "ta-ʾă-ḵîl", "traducao_palavra": "dá de comer" },
+        { "hebraico": "וּמֵעֶיךָ", "transliteral": "ū-mē-ʿe-yāḵ", "traducao_palavra": "e tuas entranhas" },
+        { "hebraico": "תְּמַלֵּא", "transliteral": "tə-mal-lē", "traducao_palavra": "enche" },
+        { "hebraico": "וָאֹכְלָה", "transliteral": "wā-ʾō-ḵə-lā", "traducao_palavra": "e eu comi" },
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e ele era" },
+        { "hebraico": "בְּפִ֣י", "transliteral": "bə-pî", "traducao_palavra": "na minha boca" },
+        { "hebraico": "כִּדְבַ֥שׁ", "transliteral": "kiḏ-ḇaš", "traducao_palavra": "como mel" },
+        { "hebraico": "לְמָתֹֽוק", "transliteral": "lə-mā-ṯôq", "traducao_palavra": "doce" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Disse-me ainda: Filho do homem, vai, entra na casa de Israel, e fala as minhas palavras a eles.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "לֵךְ", "transliteral": "lēḵ", "traducao_palavra": "vai" },
+        { "hebraico": "בֹּוא", "transliteral": "bô", "traducao_palavra": "entra" },
+        { "hebraico": "אֶל־בֵּית", "transliteral": "ʾel-bêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Porque tu não és enviado a um povo de estranha fala e de língua difícil, mas à casa de Israel;",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לֹ֤א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֶל־עַם", "transliteral": "ʾel-ʿam", "traducao_palavra": "a um povo" },
+        { "hebraico": "עִמְקֵי־שָׂפָה", "transliteral": "ʿim-qê-śā-p̄ā", "traducao_palavra": "de fala profunda/estranha" },
+        { "hebraico": "וְכִבְדֵי", "transliteral": "wə-ḵiḇ-ḏê", "traducao_palavra": "e de língua difícil" },
+        { "hebraico": "לָשֹׁון", "transliteral": "lā-šôn", "traducao_palavra": "língua" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Não a muitos povos de estranha fala e de língua difícil, cujas palavras não possas entender; se eu aos tais te enviara, eles certamente te ouviriam.",
+      "palavras": [
+        { "hebraico": "לֹ֚א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֶל־עַמִּים", "transliteral": "ʾel-ʿam-mîm", "traducao_palavra": "a muitos povos" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Mas a casa de Israel não te quererá ouvir, porque não me querem ouvir a mim; porque toda a casa de Israel é de fronte obstinada e dura de coração.",
+      "palavras": [
+        { "hebraico": "וּבֵ֣ית", "transliteral": "ū-ḇêṯ", "traducao_palavra": "mas a casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יֹאב֣וּ", "transliteral": "yō-ḇû", "traducao_palavra": "quererão" },
+        { "hebraico": "לִשְׁמֹ֤עַ", "transliteral": "liš-mō-aʿ", "traducao_palavra": "ouvir" },
+        { "hebraico": "אֵלֶ֙יךָ֙", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Eis que fiz o teu rosto duro contra o rosto deles, e a tua fronte dura contra a fronte deles.",
+      "palavras": [
+        { "hebraico": "הִנֵּה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "נָתַ֤תִּי", "transliteral": "nā-ṯat-tî", "traducao_palavra": "fiz/pus" },
+        { "hebraico": "אֶת־פָּנֶ֨יךָ֙", "transliteral": "ʾeṯ-pā-ne-ḵā", "traducao_palavra": "teu rosto" },
+        { "hebraico": "חֲזָקָ֖ה", "transliteral": "ḥă-zā-qā", "traducao_palavra": "duro" },
+        { "hebraico": "לְעֻמַּ֣ת", "transliteral": "lə-ʿum-maṯ", "traducao_palavra": "contra" },
+        { "hebraico": "פְּנֵיהֶ֑ם", "transliteral": "pə-nê-hem", "traducao_palavra": "o rosto deles" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Fiz a tua fronte como diamante, mais duro do que a pederneira; não os temas, pois, nem te assustes com o seu semblante, ainda que sejam casa rebelde.",
+      "palavras": [
+        { "hebraico": "כְּשָׁמִיר", "transliteral": "kə-šā-mîr", "traducao_palavra": "como diamante" },
+        { "hebraico": "מִצֹּר", "transliteral": "miṣ-ṣōr", "traducao_palavra": "mais do que pederneira" },
+        { "hebraico": "חָזָ֥ק", "transliteral": "ḥā-zāq", "traducao_palavra": "mais duro" },
+        { "hebraico": "מִצֹּ֖ר", "transliteral": "miṣ-ṣōr", "traducao_palavra": "pederneira" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Disse-me mais: Filho do homem, todas as minhas palavras que te hei de dizer, recebe-as no teu coração e ouve-as com os teus ouvidos.",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "כָּל־דְּבָרַי", "transliteral": "kāl-də-ḇā-ray", "traducao_palavra": "todas as minhas palavras" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אֲדַבֵּ֖ר", "transliteral": "ʾă-ḏab-bēr", "traducao_palavra": "falarei" },
+        { "hebraico": "אֵלֶ֣יךָ", "transliteral": "ʾē-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "קַ֥ח", "transliteral": "qaḥ", "traducao_palavra": "recebe-as" },
+        { "hebraico": "בִּלְבָבֶ֖ךָ", "transliteral": "bil-ḇā-ḇe-ḵā", "traducao_palavra": "no teu coração" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Vai, pois, aos do cativeiro, aos filhos do teu povo, e lhes falarás, e lhes dirás: Assim diz o Senhor YHWH, quer ouçam, quer deixem de ouvir.",
+      "palavras": [
+        { "hebraico": "וּלֵ֧ךְ", "transliteral": "ū-lēḵ", "traducao_palavra": "e vai" },
+        { "hebraico": "בֹּ֣וא", "transliteral": "bō", "traducao_palavra": "entra" },
+        { "hebraico": "אֶל־הַגֹּולָ֗ה", "transliteral": "ʾel-hag-gô-lā", "traducao_palavra": "aos do cativeiro" },
+        { "hebraico": "אֶל־בְּנֵ֥י", "transliteral": "ʾel-bə-nê", "traducao_palavra": "aos filhos de" },
+        { "hebraico": "עַמֶּֽךָ", "transliteral": "ʿam-me-ḵā", "traducao_palavra": "teu povo" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Então o espírito me levantou, e ouvi atrás de mim uma voz de um grande estrondo, que dizia: Bendita seja a glória de YHWH desde o seu lugar.",
+      "palavras": [
+        { "hebraico": "וַתִּשָּׂאֵ֣נִי", "transliteral": "wat-tiś-śā-ʾē-nî", "traducao_palavra": "e levantou-me" },
+        { "hebraico": "רוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o espírito" },
+        { "hebraico": "וָאֶשְׁמַע", "transliteral": "wā-ʾeš-maʿ", "traducao_palavra": "e ouvi" },
+        { "hebraico": "אַחֲרַי", "transliteral": "ʾa-ḥă-ray", "traducao_palavra": "atrás de mim" },
+        { "hebraico": "קֹול", "transliteral": "qôl", "traducao_palavra": "uma voz" },
+        { "hebraico": "רַעַשׁ", "transliteral": "ra-ʿaš", "traducao_palavra": "estrondo" },
+        { "hebraico": "גָּדֹול", "transliteral": "gā-ḏôl", "traducao_palavra": "grande" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E ouvi o ruído das asas dos seres viventes, que tocavam uma na outra, e o ruído das rodas ao lado deles, e o som de um grande estrondo.",
+      "palavras": [
+        { "hebraico": "וְקֹול", "transliteral": "wə-qôl", "traducao_palavra": "e o ruído de" },
+        { "hebraico": "כַּנְפֵ֣י", "transliteral": "kan-p̄ê", "traducao_palavra": "asas de" },
+        { "hebraico": "הַחַיֹּות", "transliteral": "ha-ḥay-yôṯ", "traducao_palavra": "seres viventes" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Então o espírito me levantou e me levou; e eu fui em amargura, no calor do meu espírito; e a mão de YHWH era forte sobre mim.",
+      "palavras": [
+        { "hebraico": "וְרוּחַ", "transliteral": "wə-rû-aḥ", "traducao_palavra": "e o espírito" },
+        { "hebraico": "נְשָׂאַ֣נִי", "transliteral": "nə-śā-ʾă-nî", "traducao_palavra": "me levantou" },
+        { "hebraico": "וַתִּקָּחֵ֑נִי", "transliteral": "wat-tiq-qā-ḥê-nî", "traducao_palavra": "e me levou" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E vim aos cativos em Tel-Abibe, que habitavam junto ao rio Quebar, e assentei-me onde eles assentavam, e fiquei ali pasmado no meio deles por sete dias.",
+      "palavras": [
+        { "hebraico": "וָאָבֹ֣וא", "transliteral": "wā-ʾā-ḇô", "traducao_palavra": "e vim" },
+        { "hebraico": "אֶל־הַגֹּולָה", "transliteral": "ʾel-hag-gô-lā", "traducao_palavra": "aos cativos" },
+        { "hebraico": "בְּתֵל־אָבִ֖יב", "transliteral": "bə-ṯēl-ʾā-ḇîḇ", "traducao_palavra": "em Tel-Abibe" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "E sucedeu, ao fim de sete dias, que veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֕י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "מִקְצֵ֖ה", "transliteral": "miq-ṣēh", "traducao_palavra": "ao fim de" },
+        { "hebraico": "שִׁבְעַ֥ת", "transliteral": "šiḇ-ʿaṯ", "traducao_palavra": "sete" },
+        { "hebraico": "יָמִֽים׃", "transliteral": "yā-mîm", "traducao_palavra": "dias" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Filho do homem, eu te pus por atalaia sobre a casa de Israel; e tu ouvirás a palavra da minha boca, e os avisarás da minha parte.",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "צֹפֶה", "transliteral": "ṣō-p̄eh", "traducao_palavra": "atalaia" },
+        { "hebraico": "נְתַתִּ֖יךָ", "transliteral": "nə-ṯat-tî-ḵā", "traducao_palavra": "eu te pus" },
+        { "hebraico": "לְבֵ֥ית", "transliteral": "lə-ḇêṯ", "traducao_palavra": "para a casa de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Quando eu disser ao ímpio: Certamente morrerás; e tu não o avisares, nem falares para avisar o ímpio acerca do seu mau caminho, para salvar a sua vida, aquele ímpio morrerá na sua iniquidade, mas o seu sangue da tua mão o requererei.",
+      "palavras": [
+        { "hebraico": "בְּאָמְרִ֣י", "transliteral": "bə-ʾā-mə-rî", "traducao_palavra": "quando eu disser" },
+        { "hebraico": "לָרָשָׁ֗ע", "transliteral": "lā-rā-šāʿ", "traducao_palavra": "ao ímpio" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Mas, se tu avisares o ímpio, e ele não se converter da sua impiedade e do seu mau caminho, ele morrerá na sua iniquidade, mas tu livraste a tua alma.",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "mas tu" },
+        { "hebraico": "כִּֽי־הִזְהַרְתָּ", "transliteral": "kî-hiz-har-tā", "traducao_palavra": "se avisares" },
+        { "hebraico": "רָשָׁע", "transliteral": "rā-šāʿ", "traducao_palavra": "o ímpio" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Semelhantemente, quando o justo se desviar da sua justiça, e fizer mal, e eu puser diante dele um tropeço, ele morrerá; porque tu não o avisaste, na sua iniquidade morrerá, e a sua justiça, que tiver feito, não será lembrada; mas o seu sangue da tua mão o requererei.",
+      "palavras": [
+        { "hebraico": "וּבְשׁוּב", "transliteral": "ū-ḇə-šûḇ", "traducao_palavra": "e quando se desviar" },
+        { "hebraico": "צַדִּיק", "transliteral": "ṣad-dîq", "traducao_palavra": "o justo" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Mas, se tu avisares o justo, para que não peque, e ele não pecar, certamente viverá, porque foi avisado; e tu livraste a tua alma.",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "mas tu" },
+        { "hebraico": "כִּֽי", "transliteral": "kî", "traducao_palavra": "quando" },
+        { "hebraico": "הִזְהַרְתֹּו", "transliteral": "hiz-har-tô", "traducao_palavra": "avisares" },
+        { "hebraico": "צַדִּיק", "transliteral": "ṣad-dîq", "traducao_palavra": "o justo" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E a mão de YHWH esteve ali sobre mim, e ele me disse: Levanta-te, e sai ao vale, e ali falarei contigo.",
+      "palavras": [
+        { "hebraico": "וַתְּהִ֥י", "transliteral": "wat-tə-hî", "traducao_palavra": "e esteve" },
+        { "hebraico": "עָלַ֥י", "transliteral": "ʿā-lay", "traducao_palavra": "sobre mim" },
+        { "hebraico": "שָׁ֖ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "יַ֣ד", "transliteral": "yaḏ", "traducao_palavra": "a mão de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "Levantei-me, e saí ao vale; e eis que a glória de YHWH ali estava, como a glória que vi junto ao rio Quebar; e caí com o rosto em terra.",
+      "palavras": [
+        { "hebraico": "וָאָקוּם", "transliteral": "wā-ʾā-qûm", "traducao_palavra": "e levantei-me" },
+        { "hebraico": "וָאֵצֵא", "transliteral": "wā-ʾē-ṣê", "traducao_palavra": "e saí" },
+        { "hebraico": "אֶל־הַבִּקְעָה", "transliteral": "ʾel-hab-biq-ʿā", "traducao_palavra": "ao vale" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Então o espírito entrou em mim, e me pôs em pé, e falou comigo, e me disse: Entra, e encerra-te dentro da tua casa.",
+      "palavras": [
+        { "hebraico": "וַתָּבֹא", "transliteral": "wat-tā-ḇô", "traducao_palavra": "e entrou" },
+        { "hebraico": "בִּ֣י", "transliteral": "bî", "traducao_palavra": "em mim" },
+        { "hebraico": "רוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o espírito" },
+        { "hebraico": "וַתַּעֲמִידֵנִי", "transliteral": "wat-ta-ʿă-mî-ḏê-nî", "traducao_palavra": "e me pôs em pé" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E quanto a ti, ó filho do homem, eis que porão cordas sobre ti, e te ligarão com elas, e não sairás do meio deles.",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "הִנֵּה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "נָתְנ֚וּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "porão" },
+        { "hebraico": "עָלֶיךָ", "transliteral": "ʿā-le-ḵā", "traducao_palavra": "sobre ti" },
+        { "hebraico": "עֲבֹתִים", "transliteral": "ʿă-ḇō-ṯîm", "traducao_palavra": "cordas" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E farei a tua língua pegar-se ao teu palato, e ficarás mudo, e não serás para eles varão que repreenda; porque são casa rebelde.",
+      "palavras": [
+        { "hebraico": "לְשֹׁונְךָ֞", "transliteral": "lə-šô-nə-ḵā", "traducao_palavra": "tua língua" },
+        { "hebraico": "אַדְבִּ֣יק", "transliteral": "ʾaḏ-bîq", "traducao_palavra": "farei pegar" },
+        { "hebraico": "אֶל־חִכֶּ֑ךָ", "transliteral": "ʾel-ḥik-ke-ḵā", "traducao_palavra": "ao teu palato" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Mas, quando eu te falar, abrirei a tua boca, e lhes dirás: Assim diz o Senhor YHWH: Quem ouvir, ouça, e quem deixar de ouvir, deixe; porque são casa rebelde.",
+      "palavras": [
+        { "hebraico": "וּבְדַבְּרִ֣י", "transliteral": "ū-ḇə-ḏab-bə-rî", "traducao_palavra": "mas quando eu falar" },
+        { "hebraico": "אִתְּךָ", "transliteral": "ʾit-tə-ḵā", "traducao_palavra": "contigo" },
+        { "hebraico": "אֶפְתַּח", "transliteral": "ʾep̄-taḥ", "traducao_palavra": "abrirei" },
+        { "hebraico": "אֶת־פִּ֑יךָ", "transliteral": "ʾeṯ-pî-ḵā", "traducao_palavra": "tua boca" }
+      ]
+    }
+  }
 }

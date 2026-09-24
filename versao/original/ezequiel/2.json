@@ -2,5 +2,146 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 2,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E ele me disse: Filho do homem, põe-te em pé, e falarei contigo.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "עֲמֹד", "transliteral": "ʿă-mōḏ", "traducao_palavra": "põe-te em pé" },
+        { "hebraico": "עַל־רַגְלֶיךָ", "transliteral": "ʿal-raḡ-le-ḵā", "traducao_palavra": "sobre teus pés" },
+        { "hebraico": "וַאֲדַבֵּר", "transliteral": "wa-ʾă-ḏab-bēr", "traducao_palavra": "e falarei" },
+        { "hebraico": "אֹתָֽךְ", "transliteral": "ʾō-ṯāḵ", "traducao_palavra": "contigo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Então entrou em mim o espírito, quando ele me falou, e me pôs em pé, e ouvi o que me falava.",
+      "palavras": [
+        { "hebraico": "וַתָּבֹא", "transliteral": "wat-tā-ḇô", "traducao_palavra": "e entrou" },
+        { "hebraico": "בִּי", "transliteral": "bî", "traducao_palavra": "em mim" },
+        { "hebraico": "רוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o espírito" },
+        { "hebraico": "בְּדַבְּרֹו", "transliteral": "bə-ḏab-bə-rô", "traducao_palavra": "ao falar ele" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "וַתַּעֲמִידֵנִי", "transliteral": "wat-ta-ʿă-mî-ḏê-nî", "traducao_palavra": "e me pôs em pé" },
+        { "hebraico": "עַל־רַגְלָי", "transliteral": "ʿal-raḡ-lāy", "traducao_palavra": "sobre os pés" },
+        { "hebraico": "וָאֶשְׁמַע", "transliteral": "wā-ʾeš-maʿ", "traducao_palavra": "e ouvi" },
+        { "hebraico": "אֵת", "transliteral": "ʾēt", "traducao_palavra": "[o que]" },
+        { "hebraico": "הַדֹּבֵ֥ר", "transliteral": "had-dō-ḇēr", "traducao_palavra": "[o] que falava" },
+        { "hebraico": "אֵלָֽי", "transliteral": "ʾē-lāw", "traducao_palavra": "a mim" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E disse-me: Filho do homem, eu te envio aos filhos de Israel, às nações rebeldes que se rebelaram contra mim; eles e seus pais transgrediram contra mim, até o dia de hoje.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "שֹׁלֵֽחַ", "transliteral": "šō-lê-aḥ", "traducao_palavra": "enviando [eu]" },
+        { "hebraico": "אֹותְךָ", "transliteral": "ʾô-ṯə-ḵā", "traducao_palavra": "te" },
+        { "hebraico": "אֶל־בְּנֵי", "transliteral": "ʾel-bə-nê", "traducao_palavra": "aos filhos de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "אֶל־גֹּויִם", "transliteral": "ʾel-gô-yim", "traducao_palavra": "às nações" },
+        { "hebraico": "הַמֹּורְדִים", "transliteral": "ham-mō-rə-ḏîm", "traducao_palavra": "rebeldes" },
+        { "hebraico": "אֲשֶׁר־מָרְד֣וּ", "transliteral": "ʾă-šer-mā-rə-ḏû", "traducao_palavra": "que se rebelaram" },
+        { "hebraico": "בִּ֔י", "transliteral": "bî", "traducao_palavra": "contra mim" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E os filhos são de semblante duro e obstinados de coração; eu te envio a eles, e lhes dirás: Assim diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְהַבָּנִים", "transliteral": "wə-hab-bā-nîm", "traducao_palavra": "e os filhos" },
+        { "hebraico": "קְשֵׁי", "transliteral": "qə-šê", "traducao_palavra": "duros/rígidos" },
+        { "hebraico": "פָנִים", "transliteral": "p̄ā-nîm", "traducao_palavra": "de semblante" },
+        { "hebraico": "וְחִזְקֵי־לֵב", "transliteral": "wə-ḥiz-qê-lēḇ", "traducao_palavra": "e obstinados de coração" },
+        { "hebraico": "אָנֹכִי", "transliteral": "ʾā-nō-ḵî", "traducao_palavra": "eu" },
+        { "hebraico": "שֹׁלֵֽחַ", "transliteral": "šō-lê-aḥ", "traducao_palavra": "enviando" },
+        { "hebraico": "אֹותְךָ", "transliteral": "ʾô-ṯə-ḵā", "traducao_palavra": "te" },
+        { "hebraico": "אֲלֵיהֶם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "וְאָמַרְתָּ", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "אֲלֵהֶם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "כֹּה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Mas eles, quer ouçam, quer deixem de ouvir (porque são casa rebelde), hão de saber que houve no meio deles um profeta.",
+      "palavras": [
+        { "hebraico": "וְהֵ֜מָּה", "transliteral": "wə-hêm-mā", "traducao_palavra": "e eles" },
+        { "hebraico": "אִם־יִשְׁמְעוּ", "transliteral": "ʾim-yiš-mə-ʿû", "traducao_palavra": "quer ouçam" },
+        { "hebraico": "וְאִם־יֶחְדָּ֑לוּ", "transliteral": "wə-ʾim-yeḥ-dā-lû", "traducao_palavra": "quer deixem de ouvir" },
+        { "hebraico": "כִּי", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "casa" },
+        { "hebraico": "מְרִי", "transliteral": "mə-rî", "traducao_palavra": "rebelde" },
+        { "hebraico": "הֵ֔מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "וְיָדְע֖וּ", "transliteral": "wə-yā-ḏə-ʿû", "traducao_palavra": "e saberão" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "que" },
+        { "hebraico": "נָבִ֖יא", "transliteral": "nā-ḇî", "traducao_palavra": "um profeta" },
+        { "hebraico": "הָיָ֥ה", "transliteral": "hā-yā", "traducao_palavra": "houve" },
+        { "hebraico": "בְתֹוכָֽם׃", "transliteral": "ḇə-ṯô-ḵām", "traducao_palavra": "no meio deles" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E tu, filho do homem, não os temas, nem temas as suas palavras, ainda que haja sarças e espinhos contigo, e tu habites entre escorpiões; não temas as suas palavras, nem te assustes com o seu semblante, porque são casa rebelde.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֣ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אַל־תִּירָא", "transliteral": "ʾal-tî-rā", "traducao_palavra": "não temas" },
+        { "hebraico": "מֵהֶם", "transliteral": "mē-hem", "traducao_palavra": "deles" },
+        { "hebraico": "וּמִדִּבְרֵיהֶם", "transliteral": "ū-mid-diḇ-rê-hem", "traducao_palavra": "e das suas palavras" },
+        { "hebraico": "אַל־תִּירָא", "transliteral": "ʾal-tî-rā", "traducao_palavra": "não temas" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Mas tu lhes dirás as minhas palavras, quer ouçam, quer deixem de ouvir, pois são rebeldes.",
+      "palavras": [
+        { "hebraico": "וְדִבַּרְתָּ֧", "transliteral": "wə-ḏib-bar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "אֶת־דְּבָרַ֖י", "transliteral": "ʾeṯ-də-ḇā-ray", "traducao_palavra": "as minhas palavras" },
+        { "hebraico": "אֲלֵיהֶ֑ם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "אִם־יִשְׁמְעוּ", "transliteral": "ʾim-yiš-mə-ʿû", "traducao_palavra": "quer ouçam" },
+        { "hebraico": "וְאִם־יֶחְדָּ֔לוּ", "transliteral": "wə-ʾim-yeḥ-dā-lû", "traducao_palavra": "quer deixem de ouvir" },
+        { "hebraico": "כִּֽי", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "מְרִ֖י", "transliteral": "mə-rî", "traducao_palavra": "rebeldes" },
+        { "hebraico": "הֵֽמָּה׃", "transliteral": "hêm-mā", "traducao_palavra": "eles [são]" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Tu, pois, filho do homem, ouve o que eu te digo; não sejas rebelde como a casa rebelde; abre a tua boca e come o que eu te dou.",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "שְׁמַע", "transliteral": "šə-maʿ", "traducao_palavra": "ouve" },
+        { "hebraico": "אֵת", "transliteral": "ʾēt", "traducao_palavra": "[o que]" },
+        { "hebraico": "אֲשֶׁר־אֲנִי", "transliteral": "ʾă-šer-ʾă-nî", "traducao_palavra": "que eu" },
+        { "hebraico": "דֹּבֵר", "transliteral": "dō-ḇēr", "traducao_palavra": "digo" },
+        { "hebraico": "אֵלֶיךָ", "transliteral": "ʾē-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "אַל־תְּהִי־מֶרִי", "transliteral": "ʾal-tə-hî-me-rî", "traducao_palavra": "não sejas rebelde" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E quando olhei, eis que uma mão estava estendida para mim, e eis nela um rolo de um livro.",
+      "palavras": [
+        { "hebraico": "וָאֶרְאֶה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּה־יָד", "transliteral": "wə-hin-nēh-yāḏ", "traducao_palavra": "e eis uma mão" },
+        { "hebraico": "שְׁלוּחָה", "transliteral": "šə-lû-ḥā", "traducao_palavra": "estendida" },
+        { "hebraico": "אֵלָי", "transliteral": "ʾē-lāw", "traducao_palavra": "a mim" },
+        { "hebraico": "וְהִנֵּה־בָּהּ", "transliteral": "wə-hin-nēh-bāh", "traducao_palavra": "e eis nela" },
+        { "hebraico": "מְגִלַּת־סֵפֶר", "transliteral": "mə-ḡil-laṯ-sê-p̄er", "traducao_palavra": "um rolo de livro" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E estendeu-o diante de mim, e ele estava escrito por dentro e por fora; e nele estavam escritas lamentações, e suspiros, e ais.",
+      "palavras": [
+        { "hebraico": "וַיִּפְרֹשׂ", "transliteral": "way-yip̄-rōś", "traducao_palavra": "e estendeu-o" },
+        { "hebraico": "אֹותָהּ", "transliteral": "ʾô-ṯāh", "traducao_palavra": "ele" },
+        { "hebraico": "לְפָנַי", "transliteral": "lə-p̄ā-nay", "traducao_palavra": "diante de mim" },
+        { "hebraico": "וְהִיא", "transliteral": "wə-hî", "traducao_palavra": "e ele" },
+        { "hebraico": "כְתוּבָה", "transliteral": "ḵə-ṯû-ḇā", "traducao_palavra": "estava escrito" },
+        { "hebraico": "פָּנִים", "transliteral": "p̄ā-nîm", "traducao_palavra": "[por] dentro" },
+        { "hebraico": "וְאָחֹור", "transliteral": "wə-ʾā-ḥôr", "traducao_palavra": "e por fora" }
+      ]
+    }
+  }
 }

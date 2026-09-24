@@ -2,5 +2,218 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 17,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְּבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Filho do homem, propõe um enigma, e fala uma parábola à casa de Israel.",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָ֕ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "חֽוּד־חִידָה", "transliteral": "ḥûḏ-ḥî-ḏā", "traducao_palavra": "propõe um enigma" },
+        { "hebraico": "וּמְשֹׁל", "transliteral": "ū-mə-šōl", "traducao_palavra": "e fala uma parábola" },
+        { "hebraico": "מָשָׁל", "transliteral": "mā-šāl", "traducao_palavra": "parábola" },
+        { "hebraico": "אֶל־בֵּ֥ית", "transliteral": "ʾel-bêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E dize: Assim diz o Senhor YHWH: Uma grande águia, de grandes asas, de longas penas, cheia de penas de várias cores, veio ao Líbano, e tomou o mais alto ramo de um cedro.",
+      "palavras": [
+        { "hebraico": "וְאָמַרְתָּ", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dize" },
+        { "hebraico": "כֹּה־אָמַר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הַנֶּ֨שֶׁר הַגָּדֹ֜ול", "transliteral": "han-ne-šer hag-gā-ḏôl", "traducao_palavra": "a grande águia" },
+        { "hebraico": "גְּדַל־הַכְּנָפַיִם", "transliteral": "ḡə-ḏal-hak-kə-nā-p̄a-yim", "traducao_palavra": "de grandes asas" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Cortou a ponta dos seus renovos mais altos, e a levou à terra de Canaã; e pô-la numa cidade de mercadores.",
+      "palavras": [
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾēṯ", "traducao_palavra": "[o] topo de" },
+        { "hebraico": "צַמַּרְתֹּו", "transliteral": "ṣam-mar-tô", "traducao_palavra": "seus ramos mais altos" },
+        { "hebraico": "קָטָף", "transliteral": "qā-ṭāp̄", "traducao_palavra": "cortou" },
+        { "hebraico": "וַיְבִיאֶ֖הָ", "transliteral": "way-ḇî-ʾe-hā", "traducao_palavra": "e a levou" },
+        { "hebraico": "אֶל־אֶ֥רֶץ", "transliteral": "ʾel-ʾe-reṣ", "traducao_palavra": "à terra de" },
+        { "hebraico": "כְּנַעַן", "transliteral": "kə-na-ʿan", "traducao_palavra": "Canaã" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Tomou também da semente da terra, e a plantou em terra fértil; tirou-a das grandes águas; pô-la como um salgueiro.",
+      "palavras": [
+        { "hebraico": "וַיִּקַּח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "tomou também" },
+        { "hebraico": "מִזֶּרַע", "transliteral": "miz-ze-raʿ", "traducao_palavra": "da semente de" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "וַיִּתְּנֶ֣הָ", "transliteral": "way-yit-tə-neh", "traducao_palavra": "e a pôs" },
+        { "hebraico": "בִּשְׂדֵה־זָ֑רַע", "transliteral": "biś-ḏēh-zā-raʿ", "traducao_palavra": "em terra fértil" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E brotou, e tornou-se numa videira frondosa, de baixa estatura, para que os seus ramos se virassem para ele, e as suas raízes estivessem debaixo dele; e tornou-se em videira, e produziu ramos, e lançou renovos.",
+      "palavras": [
+        { "hebraico": "וַתִּצְמַח", "transliteral": "wat-tiṣ-maḥ", "traducao_palavra": "e brotou" },
+        { "hebraico": "וַתְּהִי", "transliteral": "wat-tə-hî", "traducao_palavra": "e tornou-se" },
+        { "hebraico": "לְגֶ֣פֶן", "transliteral": "lə-ge-p̄en", "traducao_palavra": "em videira" },
+        { "hebraico": "סָרַ֣חַת", "transliteral": "śā-ra-ḥaṯ", "traducao_palavra": "frondosa" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Houve também outra grande águia, de grandes asas e de muita plumagem; e eis que esta videira, dirigindo as suas raízes para ele, estendeu para ele os seus ramos desde as leiras da sua plantação, para que a regasse.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֞י", "transliteral": "way-hî", "traducao_palavra": "e houve" },
+        { "hebraico": "נֶשֶׁר", "transliteral": "ne-šer", "traducao_palavra": "uma águia" },
+        { "hebraico": "אֶחָ֣ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "outra/uma" },
+        { "hebraico": "גָּדֹול", "transliteral": "ḡā-ḏôl", "traducao_palavra": "grande" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Numa boa terra, junto a muitas águas, foi ela plantada, para que produzisse ramos, e desse fruto, para que fosse uma videira excelente.",
+      "palavras": [
+        { "hebraico": "אֶל־שָׂדֶ֥ה", "transliteral": "ʾel-śā-ḏeh", "traducao_palavra": "em [uma] terra" },
+        { "hebraico": "טֹובָה", "transliteral": "ṭô-ḇā", "traducao_palavra": "boa" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Dize: Assim diz o Senhor YHWH: Acaso prosperará? Não lhe arrancará ele as suas raízes, e cortará o seu fruto, para que se sequem todas as folhas do seu renovo? E isso sem grande força, nem muita gente para a arrancar.",
+      "palavras": [
+        { "hebraico": "אֱמֹ֗ר", "transliteral": "ʾĕ-môr", "traducao_palavra": "dize" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Eis que, estando plantada, prosperará? Porventura, tocando-lhe o vento oriental, não se secará de todo? Nas leiras da sua plantação se secará.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "שְׁתוּלָה", "transliteral": "šə-ṯû-lā", "traducao_palavra": "plantada" },
+        { "hebraico": "הֲתִצְלָח", "transliteral": "hă-tiṣ-lāḥ", "traducao_palavra": "prosperará?" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "A palavra de YHWH veio a mim, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְּבַר־יְהוָה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Dize agora à casa rebelde: Não sabeis o que significam estas coisas? Dize: Eis que o rei da Babilônia veio a Jerusalém, e tomou o seu rei e os seus príncipes, e os levou consigo para Babilônia.",
+      "palavras": [
+        { "hebraico": "אֱמָר־נָא", "transliteral": "ʾĕ-mār-nā", "traducao_palavra": "dize agora" },
+        { "hebraico": "לְבֵית", "transliteral": "lə-ḇêṯ", "traducao_palavra": "à casa" },
+        { "hebraico": "הַמֶּרִי", "transliteral": "ham-me-rî", "traducao_palavra": "rebelde" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Tomou da semente real, e fez aliança com ele, e fê-lo jurar; também tomou os poderosos da terra,",
+      "palavras": [
+        { "hebraico": "וַיִּקַּח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "tomou" },
+        { "hebraico": "מִזֶּרַע", "transliteral": "miz-ze-raʿ", "traducao_palavra": "da semente" },
+        { "hebraico": "הַמְּלוּכָה", "transliteral": "ham-mə-lû-ḵā", "traducao_palavra": "real" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Para que o reino fosse humilde, e não se levantasse, mas que guardando a sua aliança, ela subsistisse.",
+      "palavras": [
+        { "hebraico": "לִהְיֹות", "transliteral": "lih-yôṯ", "traducao_palavra": "para ser" },
+        { "hebraico": "מַמְלָכָה", "transliteral": "mam-lā-ḵā", "traducao_palavra": "reino" },
+        { "hebraico": "שְׁפָלָה", "transliteral": "šə-p̄ā-lā", "traducao_palavra": "humilde" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Mas ele se rebelou contra ele, enviando os seus embaixadores ao Egito, para que lhe desse cavalos e muita gente. Porventura prosperará o que faz tais coisas? E poderá escapar o que viola a aliança?",
+      "palavras": [
+        { "hebraico": "וַיִּמְרָד־בֹּו", "transliteral": "way-yim-rāḏ-bô", "traducao_palavra": "e rebelou-se contra ele" },
+        { "hebraico": "בִּשְׁלֹחֹו", "transliteral": "biš-lō-ḥô", "traducao_palavra": "enviando" },
+        { "hebraico": "מַלְאָכָיו", "transliteral": "mal-ʾā-ḵāyw", "traducao_palavra": "seus embaixadores" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Vivo eu, diz o Senhor YHWH, que no lugar onde habita o rei que o fez reinar, cujo juramento desprezou, e cuja aliança quebrou, sim, com ele, no meio da Babilônia, ele morrerá.",
+      "palavras": [
+        { "hebraico": "חַי־אָנִי", "transliteral": "ḥay-ʾā-nî", "traducao_palavra": "vivo eu" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Nem com grande exército, nem com muita gente, Faraó fará coisa alguma na peleja, levantando baluartes e edificando torres de cerco, para destruir muitas almas.",
+      "palavras": [
+        { "hebraico": "וְלֹא", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "בְחַיִל", "transliteral": "ḇə-ḥa-yil", "traducao_palavra": "com exército" },
+        { "hebraico": "גָּדֹול", "transliteral": "gā-ḏôl", "traducao_palavra": "grande" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Porquanto desprezou o juramento, rompendo a aliança, visto que deu a sua mão, e fez todas estas coisas; ele não escapará.",
+      "palavras": [
+        { "hebraico": "וַיָּבֶז", "transliteral": "way-yā-ḇez", "traducao_palavra": "e desprezou" },
+        { "hebraico": "אָלָה", "transliteral": "ʾā-lā", "traducao_palavra": "o juramento" },
+        { "hebraico": "לְהָפֵר", "transliteral": "lə-hā-p̄ēr", "traducao_palavra": "rompendo" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Vivo eu, que o meu juramento que desprezou, e a minha aliança que quebrou, eu o farei recair sobre a sua cabeça.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֚ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E estenderei sobre ele a minha rede, e ele será apanhado no meu laço; e o levarei a Babilônia, e ali entrarei em juízo com ele, pela transgressão que cometeu contra mim.",
+      "palavras": [
+        { "hebraico": "וּפָרַשְׂתִּ֤י", "transliteral": "ū-p̄ā-raś-tî", "traducao_palavra": "e estenderei" },
+        { "hebraico": "עָלָיו", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele" },
+        { "hebraico": "רִשְׁתִּ֗י", "transliteral": "riš-tî", "traducao_palavra": "minha rede" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E todos os seus fugitivos, com todas as suas tropas, cairão à espada, e os que restarem serão espalhados a todos os ventos; e sabereis que eu, YHWH, falei.",
+      "palavras": [
+        { "hebraico": "וְאֵ֧ת", "transliteral": "wə-ʾēṯ", "traducao_palavra": "e" },
+        { "hebraico": "כָּל־מִבְרָחָ֛יו", "transliteral": "kāl-miḇ-rā-ḥāw", "traducao_palavra": "todos os seus fugitivos" },
+        { "hebraico": "בְּכָל־אֲגַפָּ֖יו", "transliteral": "bə-ḵāl-ʾă-ḡap-pāw", "traducao_palavra": "com todas as suas tropas" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Assim diz o Senhor YHWH: Também eu tomarei do mais alto ramo do cedro alto, e o plantarei; arrancarei do topo dos seus ramos um tenro, e o plantarei num monte alto e sublime.",
+      "palavras": [
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "No monte alto de Israel o plantarei, e produzirá ramos, e dará fruto, e se fará um cedro magnífico; e habitarão debaixo dele todas as aves de toda a espécie, à sombra dos seus ramos habitarão.",
+      "palavras": [
+        { "hebraico": "בְּהַ֨ר֙", "transliteral": "bə-har", "traducao_palavra": "no monte" },
+        { "hebraico": "מְרֹ֣ום", "transliteral": "mə-rôm", "traducao_palavra": "alto de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E saberão todas as árvores do campo que eu, YHWH, abati a árvore alta, elevei a árvore baixa, sequei a árvore verde, e fiz florescer a árvore seca; eu, YHWH, o disse, e o farei.",
+      "palavras": [
+        { "hebraico": "וְיָדְע֞וּ", "transliteral": "wî-ḏā-ʿû", "traducao_palavra": "e saberão" },
+        { "hebraico": "כָּל־עֲצֵ֣י", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "כִּֽי", "transliteral": "kî", "traducao_palavra": "que" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }

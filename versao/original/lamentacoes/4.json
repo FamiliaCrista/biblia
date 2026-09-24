@@ -2,5 +2,255 @@
   "livro": "Lamentações - אֵיכָה - Eikhah",
   "capítulo": 4,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Como se escureceu o ouro, e mudou-se o ouro puro! As pedras do santuário estão espalhadas pelas esquinas de todas as ruas.",
+      "palavras": [
+        { "hebraico": "אֵיכָה", "transliteral": "ʾê-ḵā", "traducao_palavra": "como" },
+        { "hebraico": "יוּעַם", "transliteral": "yû-ʿam", "traducao_palavra": "se escureceu" },
+        { "hebraico": "זָהָב", "transliteral": "zā-hāḇ", "traducao_palavra": "o ouro" },
+        { "hebraico": "יִשְׁנֶא", "transliteral": "yiš-neh", "traducao_palavra": "mudou-se" },
+        { "hebraico": "הַכֶּתֶם", "transliteral": "hak-ke-ṯem", "traducao_palavra": "o ouro puro" },
+        { "hebraico": "הַטֹּוב", "transliteral": "haṭ-ṭôḇ", "traducao_palavra": "bom/puro" },
+        { "hebraico": "תִּשְׁתַּפֵּכְנָה", "transliteral": "tiš-tap-pēḵ-nā", "traducao_palavra": "estão espalhadas" },
+        { "hebraico": "אַבְנֵי־קֹדֶשׁ", "transliteral": "ʾaḇ-nê-qō-ḏeš", "traducao_palavra": "pedras do santuário" },
+        { "hebraico": "בְּרֹאשׁ", "transliteral": "bə-rōš", "traducao_palavra": "nas esquinas de" },
+        { "hebraico": "כָּל־חוּצֹות", "transliteral": "kāl-ḥû-ṣôṯ", "traducao_palavra": "todas as ruas" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Os preciosos filhos de Sião, estimados como ouro fino, como são reputados por vasos de barro, obra das mãos do oleiro!",
+      "palavras": [
+        { "hebraico": "בְּנֵי", "transliteral": "bə-nê", "traducao_palavra": "filhos de" },
+        { "hebraico": "צִיֹּון", "transliteral": "ṣi-yôn", "traducao_palavra": "Sião" },
+        { "hebraico": "הַיְקָרִים", "transliteral": "hay-yə-qā-rîm", "traducao_palavra": "preciosos" },
+        { "hebraico": "הַמְסֻלָּאִים", "transliteral": "ham-su-lā-ʾîm", "traducao_palavra": "estimados" },
+        { "hebraico": "בַּפָּז", "transliteral": "bap-pāz", "traducao_palavra": "como ouro fino" },
+        { "hebraico": "אֵיכָה", "transliteral": "ʾê-ḵā", "traducao_palavra": "como" },
+        { "hebraico": "נֶחְשְׁבוּ", "transliteral": "neḥ-šə-ḇû", "traducao_palavra": "são reputados" },
+        { "hebraico": "לְנִבְלֵי־חֶרֶשׂ", "transliteral": "lə-niḇ-lê-ḥe-reś", "traducao_palavra": "por vasos de barro" },
+        { "hebraico": "מַעֲשֵׂה", "transliteral": "ma-ʿă-śēh", "traducao_palavra": "obra de" },
+        { "hebraico": "יְדֵי", "transliteral": "yə-ḏê", "traducao_palavra": "mãos de" },
+        { "hebraico": "יֹוצֵר", "transliteral": "yô-ṣēr", "traducao_palavra": "oleiro" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Até os chacais dão o peito, amamentam os seus filhos; mas a filha do meu povo tornou-se cruel, como os avestruzes no deserto.",
+      "palavras": [
+        { "hebraico": "גַּם־תַּנִּים", "transliteral": "gam-tan-nîm", "traducao_palavra": "também chacais" },
+        { "hebraico": "חָלְצ֣וּ", "transliteral": "ḥā-lə-ṣû", "traducao_palavra": "dão o peito" },
+        { "hebraico": "שַׁד", "transliteral": "šaḏ", "traducao_palavra": "peito" },
+        { "hebraico": "הֵינִ֣יקוּ", "transliteral": "hê-nî-qû", "traducao_palavra": "amamentam" },
+        { "hebraico": "גּוּרֵיהֶ֑ן", "transliteral": "gû-rê-hen", "traducao_palavra": "seus filhos/filhotes" },
+        { "hebraico": "בַּת־עַמִּ֣י", "transliteral": "baṯ-ʿam-mî", "traducao_palavra": "filha do meu povo" },
+        { "hebraico": "לְאַכְזָר", "transliteral": "lə-ʾaḵ-zār", "traducao_palavra": "cruel" },
+        { "hebraico": "כַּיְּעֵנִ֣ים", "transliteral": "kay-yə-ʿē-nîm", "traducao_palavra": "como avestruzes" },
+        { "hebraico": "בַּמִּדְבָּר׃", "transliteral": "bam-miḏ-bār", "traducao_palavra": "no deserto" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "A língua do que mama pega-se ao seu palato, de sede; os meninos pedem pão, e ninguém lho reparte.",
+      "palavras": [
+        { "hebraico": "דָּבַ֣ק", "transliteral": "ḏā-ḇaq", "traducao_palavra": "pega-se" },
+        { "hebraico": "לְשֹׁ֥ון", "transliteral": "lə-šôn", "traducao_palavra": "a língua de" },
+        { "hebraico": "יֹונֵ֖ק", "transliteral": "yô-nēq", "traducao_palavra": "quem mama" },
+        { "hebraico": "אֶל־חִכֹּ֣ו", "transliteral": "ʾel-ḥik-kô", "traducao_palavra": "ao seu palato" },
+        { "hebraico": "בַּצָּמָ֑א", "transliteral": "baṣ-ṣā-mā", "traducao_palavra": "de sede" },
+        { "hebraico": "עֹולָלִים", "transliteral": "ʿô-lā-lîm", "traducao_palavra": "meninos" },
+        { "hebraico": "שָׁאֲלוּ־לֶ֖חֶם", "transliteral": "šā-ʾă-lû-le-ḥem", "traducao_palavra": "pedem pão" },
+        { "hebraico": "פֹּרֵ֥שׂ", "transliteral": "pō-rēś", "traducao_palavra": "quem reparte" },
+        { "hebraico": "אֵ֖ין", "transliteral": "ʾên", "traducao_palavra": "não há" },
+        { "hebraico": "לָהֶֽם׃", "transliteral": "lā-hem", "traducao_palavra": "para eles" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Os que comiam iguarias desfalecem nas ruas; os que eram criados em carmesim abraçam monturos.",
+      "palavras": [
+        { "hebraico": "הָאֹכְלִים", "transliteral": "hā-ʾō-ḵə-lîm", "traducao_palavra": "os que comiam" },
+        { "hebraico": "לְמַעֲדַנִּים", "transliteral": "lə-ma-ʿă-ḏan-nîm", "traducao_palavra": "iguarias" },
+        { "hebraico": "נָשַׁ֖מּוּ", "transliteral": "nā-šam-mû", "traducao_palavra": "desfalecem" },
+        { "hebraico": "בַּחוּצֹות", "transliteral": "ba-ḥû-ṣôṯ", "traducao_palavra": "nas ruas" },
+        { "hebraico": "הָאֱמֻנִים", "transliteral": "hā-ʾĕ-mu-nîm", "traducao_palavra": "os que eram criados" },
+        { "hebraico": "עֲלֵי", "transliteral": "ʿă-lê", "traducao_palavra": "em" },
+        { "hebraico": "תֹּולָ֑ע", "transliteral": "tô-lāʿ", "traducao_palavra": "carmesim" },
+        { "hebraico": "חָבְק֖וּ", "transliteral": "ḥā-ḇə-qû", "traducao_palavra": "abraçam" },
+        { "hebraico": "אַשְׁפַּתֹּֽות׃", "transliteral": "ʾaš-pat-tôṯ", "traducao_palavra": "monturos" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Porque maior é a iniquidade da filha do meu povo do que o pecado de Sodoma, que foi subvertida num momento, sem que mãos lhe tocassem.",
+      "palavras": [
+        { "hebraico": "וַיִּגְדַּ֞ל", "transliteral": "way-yiḡ-dal", "traducao_palavra": "e tornou-se maior" },
+        { "hebraico": "עֲוֹ֥ן", "transliteral": "ʿă-wōn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "בַּת־עַמִּ֖י", "transliteral": "baṯ-ʿam-mî", "traducao_palavra": "filha do meu povo" },
+        { "hebraico": "מֵחַטַּ֣את", "transliteral": "mē-ḥaṭ-ṭaʾṯ", "traducao_palavra": "do pecado de" },
+        { "hebraico": "סְדֹ֑ם", "transliteral": "sə-ḏōm", "traducao_palavra": "Sodoma" },
+        { "hebraico": "הַֽהֲפוּכָה", "transliteral": "ha-ha-p̄û-ḵā", "traducao_palavra": "que foi subvertida" },
+        { "hebraico": "כְמָרֶ֖גַע", "transliteral": "ḵə-mā-re-ḡaʿ", "traducao_palavra": "num momento" },
+        { "hebraico": "וְלֹא־חָ֥לוּ", "transliteral": "wə-lō-ḥā-lû", "traducao_palavra": "e não se aplicaram/tocaram" },
+        { "hebraico": "בָ֖הּ", "transliteral": "ḇāh", "traducao_palavra": "nela" },
+        { "hebraico": "יָדָֽיִם׃", "transliteral": "yā-ḏā-yim", "traducao_palavra": "mãos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Os seus nobres eram mais alvos do que a neve, eram mais brancos do que o leite; tinham o corpo mais rosado do que o coral, e a sua polidez era como a da safira.",
+      "palavras": [
+        { "hebraico": "זַכּ֤וּ", "transliteral": "zak-kû", "traducao_palavra": "eram mais alvos" },
+        { "hebraico": "נְזִירֶ֙יהָ֙", "transliteral": "nə-zî-re-hā", "traducao_palavra": "seus nobres/consagrados" },
+        { "hebraico": "מִשֶּׁ֔לֶג", "transliteral": "miš-še-leḡ", "traducao_palavra": "do que a neve" },
+        { "hebraico": "צַח֖וּ", "transliteral": "ṣa-ḥû", "traducao_palavra": "eram mais brancos" },
+        { "hebraico": "מֵחָלָ֑ב", "transliteral": "mē-ḥā-lāḇ", "traducao_palavra": "do que o leite" },
+        { "hebraico": "אָדְמ֧וּ", "transliteral": "ʾā-ḏə-mû", "traducao_palavra": "eram mais rosados" },
+        { "hebraico": "עֶצֶם", "transliteral": "ʿe-ṣem", "traducao_palavra": "corpo/osso" },
+        { "hebraico": "מִפְּנִינִ֔ים", "transliteral": "mip-pə-nî-nîm", "traducao_palavra": "do que o coral" },
+        { "hebraico": "סַפִּ֖יר", "transliteral": "sap-pîr", "traducao_palavra": "safira" },
+        { "hebraico": "גִּזְרָתָֽם׃", "transliteral": "giz-rā-ṯām", "traducao_palavra": "a sua polidez/forma" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Mas agora é mais escuro que o negrume o seu aspecto; não são conhecidos nas ruas; a sua pele está pegada aos seus ossos, secou-se, tornou-se como um pau.",
+      "palavras": [
+        { "hebraico": "חָשַׁ֤ךְ", "transliteral": "ḥā-šaḵ", "traducao_palavra": "escureceu-se" },
+        { "hebraico": "מִשְּׁחֹור", "transliteral": "miš-šə-ḥôr", "traducao_palavra": "do que o negrume" },
+        { "hebraico": "תָּאֳרָם", "transliteral": "tā-ʾŏ-rām", "traducao_palavra": "o aspecto deles" },
+        { "hebraico": "לֹא־נִכְּר֖וּ", "transliteral": "lō-niк-kə-rû", "traducao_palavra": "não são conhecidos" },
+        { "hebraico": "בַּחוּצֹ֑ות", "transliteral": "ba-ḥû-ṣôṯ", "traducao_palavra": "nas ruas" },
+        { "hebraico": "צָפַ֤ד", "transliteral": "ṣā-p̄aḏ", "traducao_palavra": "pegou-se" },
+        { "hebraico": "עֹורָם֙", "transliteral": "ʿô-rām", "traducao_palavra": "a pele deles" },
+        { "hebraico": "עַל־עַצְמָ֔ם", "transliteral": "ʿal-ʿaṣ-mām", "traducao_palavra": "aos seus ossos" },
+        { "hebraico": "יָבֵ֖שׁ", "transliteral": "yā-ḇēš", "traducao_palavra": "secou-se" },
+        { "hebraico": "הָיָ֥ה", "transliteral": "hā-yā", "traducao_palavra": "tornou-se" },
+        { "hebraico": "כָעֵֽץ׃", "transliteral": "ḵā-ʿēṣ", "traducao_palavra": "como um pau" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Mais felizes foram os mortos à espada do que os mortos pela fome; porque estes se consomem, traspassados pela falta dos frutos do campo.",
+      "palavras": [
+        { "hebraico": "טֹובִ֣ים", "transliteral": "ṭô-ḇîm", "traducao_palavra": "mais felizes/bons" },
+        { "hebraico": "הָי֞וּ", "transliteral": "hā-yû", "traducao_palavra": "foram" },
+        { "hebraico": "חַלְלֵי־חֶ֗רֶב", "transliteral": "ḥal-lê-ḥe-reḇ", "traducao_palavra": "os mortos à espada" },
+        { "hebraico": "מֵחַלְלֵ֣י", "transliteral": "mē-ḥal-lê", "traducao_palavra": "do que os mortos de" },
+        { "hebraico": "רָעָ֔ב", "transliteral": "rā-ʿāḇ", "traducao_palavra": "fome" },
+        { "hebraico": "שֶׁיָּמֹ֙בּוּ֙", "transliteral": "še-yā-mû-bû", "traducao_palavra": "que se consomem" },
+        { "hebraico": "מְדֻקָּרִ֔ים", "transliteral": "mə-ḏuq-qā-rîm", "traducao_palavra": "traspassados" },
+        { "hebraico": "מִתְּנוּבַ֖ת", "transliteral": "mit-tə-nû-ḇaṯ", "traducao_palavra": "pela falta de frutos" },
+        { "hebraico": "שָׂדָֽי׃", "transliteral": "śā-ḏāy", "traducao_palavra": "do campo" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "As mãos das mulheres ternas cozinharam os seus próprios filhos; serviram-lhes de mantimento na destruição da filha do meu povo.",
+      "palavras": [
+        { "hebraico": "יְדֵ֤י", "transliteral": "yə-ḏê", "traducao_palavra": "as mãos de" },
+        { "hebraico": "נָשִׁים֙", "transliteral": "nā-šîm", "traducao_palavra": "mulheres" },
+        { "hebraico": "רַחֲמָנִיֹּ֔ות", "transliteral": "ra-ḥă-mā-nî-yôṯ", "traducao_palavra": "ternas" },
+        { "hebraico": "בִּשְּׁל֖וּ", "transliteral": "biš-šə-lû", "traducao_palavra": "cozinharam" },
+        { "hebraico": "יַלְדֵיהֶ֑ן", "transliteral": "yal-ḏê-hen", "traducao_palavra": "os filhos delas" },
+        { "hebraico": "הָי֧וּ", "transliteral": "hā-yû", "traducao_palavra": "serviram" },
+        { "hebraico": "לְבָרֹ֛ות", "transliteral": "lə-ḇā-rôṯ", "traducao_palavra": "de mantimento" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "YHWH consumou o seu furor, derramou a sua ira ardente; acendeu um fogo em Sião, que consumiu os seus fundamentos.",
+      "palavras": [
+        { "hebraico": "כִּלָּ֤ה", "transliteral": "kil-lāh", "traducao_palavra": "consumou" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶת־חֲמָתֹ֔ו", "transliteral": "ʾeṯ-ḥă-mā-ṯô", "traducao_palavra": "o seu furor" },
+        { "hebraico": "שָׁפַ֖ךְ", "transliteral": "šā-p̄aḵ", "traducao_palavra": "derramou" },
+        { "hebraico": "חֲרֹ֣ון", "transliteral": "ḥă-rôn", "traducao_palavra": "ira ardente" },
+        { "hebraico": "אַפֹּ֑ו", "transliteral": "ʾap-pô", "traducao_palavra": "sua ira" },
+        { "hebraico": "וַיַּצֶּת־אֵשׁ֙", "transliteral": "way-yaṣ-ṣeṯ-ʾēš", "traducao_palavra": "e acendeu um fogo" },
+        { "hebraico": "בְּצִיֹּ֔ון", "transliteral": "bə-ṣi-yôn", "traducao_palavra": "em Sião" },
+        { "hebraico": "וַתֹּ֖אכַל", "transliteral": "wat-tō-ḵal", "traducao_palavra": "e consumiu" },
+        { "hebraico": "יְסֹדֹתֶֽיהָ׃", "transliteral": "yə-śō-ḏō-ṯe-hā", "traducao_palavra": "os seus fundamentos" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Não creram os reis da terra, nem todos os moradores do mundo, que o adversário e o inimigo entrassem pelas portas de Jerusalém.",
+      "palavras": [
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "הֶאֱמִ֣ינוּ", "transliteral": "he-ʾĕ-mî-nû", "traducao_palavra": "creram" },
+        { "hebraico": "מַלְכֵי־אֶ֔רֶץ", "transliteral": "mal-ḵê-ʾe-reṣ", "traducao_palavra": "os reis da terra" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Por causa dos pecados dos seus profetas, das iniquidades dos seus sacerdotes, que derramaram no meio dela o sangue dos justos.",
+      "palavras": [
+        { "hebraico": "מֵחַטֹּ֣אות", "transliteral": "mē-ḥaṭ-ṭō-ʾāṯ", "traducao_palavra": "por causa dos pecados" },
+        { "hebraico": "נְבִיאֶ֔יהָ", "transliteral": "nə-ḇî-ʾe-hā", "traducao_palavra": "de seus profetas" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Vagueiam como cegos pelas ruas, contaminados de sangue, de modo que não podem tocar nas suas vestes.",
+      "palavras": [
+        { "hebraico": "נָע֧וּ", "transliteral": "nā-ʿû", "traducao_palavra": "vagueiam" },
+        { "hebraico": "עִוְרִ֣ים", "transliteral": "ʿiw-rîm", "traducao_palavra": "como cegos" },
+        { "hebraico": "בַּחוּצֹ֗ות", "transliteral": "ba-ḥû-ṣôṯ", "traducao_palavra": "nas ruas" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Apartai-vos! Imundo! gritavam-lhes; apartai-vos, apartai-vos, não toqueis! Quando fugiram e vaguearam, diziam entre as nações: Nunca mais habitarão aqui.",
+      "palavras": [
+        { "hebraico": "ס֣וּרוּ", "transliteral": "śû-rû", "traducao_palavra": "apartai-vos" },
+        { "hebraico": "טָמֵא", "transliteral": "ṭā-mē", "traducao_palavra": "imundo" },
+        { "hebraico": "קָרְא֣וּ", "transliteral": "qā-rə-ʾû", "traducao_palavra": "gritavam" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "A face de YHWH os dividiu, ele não os olhará mais; não respeitarão a face dos sacerdotes, nem se compadecerão dos anciãos.",
+      "palavras": [
+        { "hebraico": "פְּנֵי", "transliteral": "pə-nê", "traducao_palavra": "a face de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "חִלְּקָם", "transliteral": "ḥil-lə-qām", "traducao_palavra": "os dividiu/espalhou" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Quanto a nós, os nossos olhos desfaleciam, esperando em vão o nosso socorro; na nossa vigília, esperamos por uma nação que não salva.",
+      "palavras": [
+        { "hebraico": "עֹודֵ֗ינוּ", "transliteral": "ʿô-ḏê-nû", "traducao_palavra": "ainda" },
+        { "hebraico": "תִּכְלֶ֣ינָה", "transliteral": "tiḵ-le-nā", "traducao_palavra": "desfaleciam" },
+        { "hebraico": "עֵינֵ֔ינוּ", "transliteral": "ʿê-nê-nû", "traducao_palavra": "nossos olhos" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Caçam os nossos passos para que não andemos nas nossas praças; o nosso fim está perto, os nossos dias são cumpridos, porque o nosso fim é chegado.",
+      "palavras": [
+        { "hebraico": "צָד֣וּ", "transliteral": "ṣā-ḏû", "traducao_palavra": "caçam" },
+        { "hebraico": "צְעָדֵ֔ינוּ", "transliteral": "ṣə-ʿā-ḏê-nû", "traducao_palavra": "nossos passos" },
+        { "hebraico": "מִלֶּ֖כֶת", "transliteral": "mil-le-ḵeṯ", "traducao_palavra": "para que não andemos" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Os nossos perseguidores foram mais ligeiros do que as águias do céu; perseguiram-nos sobre os montes, puseram-nos ciladas no deserto.",
+      "palavras": [
+        { "hebraico": "קַלִּ֥ים", "transliteral": "qal-lîm", "traducao_palavra": "mais ligeiros" },
+        { "hebraico": "הָי֧וּ", "transliteral": "hā-yû", "traducao_palavra": "foram" },
+        { "hebraico": "רֹדְפֵ֖ינוּ", "transliteral": "rō-ḏə-p̄ê-nû", "traducao_palavra": "nossos perseguidores" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "O fôlego das nossas narinas, o ungido de YHWH, foi preso nas suas covas; aquele de quem dizíamos: À sua sombra viveremos entre as nações.",
+      "palavras": [
+        { "hebraico": "ר֣וּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o fôlego" },
+        { "hebraico": "אַפֵּ֗ינוּ", "transliteral": "ʾap-pê-nû", "traducao_palavra": "nossas narinas" },
+        { "hebraico": "מְשִׁ֣יחַ", "transliteral": "mə-šî-aḥ", "traducao_palavra": "o ungido de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Regozija-te e alegra-te, ó filha de Edom, que habitas na terra de Uz; também a ti passará o cálice, e te embriagarás, e te desnudarás.",
+      "palavras": [
+        { "hebraico": "שִׂ֧ישִׂי", "transliteral": "śîś-î", "traducao_palavra": "regozija-te" },
+        { "hebraico": "וְשִׂמְחִ֖י", "transliteral": "wə-śim-ḥî", "traducao_palavra": "e alegra-te" },
+        { "hebraico": "בַּת־אֱדֹ֑ום", "transliteral": "baṯ-ʾĕ-ḏôm", "traducao_palavra": "filha de Edom" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "A tua iniquidade está acabada, ó filha de Sião; ele não te levará mais ao cativeiro; ele visitará a tua iniquidade, ó filha de Edom, descobrirá os teus pecados.",
+      "palavras": [
+        { "hebraico": "תַּ֧ם", "transliteral": "tam", "traducao_palavra": "está acabada" },
+        { "hebraico": "עֲוֹנֵךְ", "transliteral": "ʿă-wô-nêḵ", "traducao_palavra": "a tua iniquidade" },
+        { "hebraico": "בַּת־צִיֹּ֑ון", "transliteral": "baṯ-ṣi-yôn", "traducao_palavra": "filha de Sião" }
+      ]
+    }
+  }
 }

@@ -2,5 +2,278 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E sucedeu no trigésimo ano, no quarto mês, aos cinco do mês, estando eu no meio dos cativos, junto ao rio Quebar, que os céus se abriram, e eu vi visões de Deus.",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בִּשְׁלֹשִׁים", "transliteral": "biš-lō-šîm", "traducao_palavra": "no trigésimo" },
+        { "hebraico": "שָׁנָה", "transliteral": "šā-nā", "traducao_palavra": "ano" },
+        { "hebraico": "בָּרְבִיעִית", "transliteral": "bā-rə-ḇî-ʿîṯ", "traducao_palavra": "no quarto [mês]" },
+        { "hebraico": "בַּחֲמִשָּׁה", "transliteral": "ba-ḥă-miš-šā", "traducao_palavra": "aos cinco" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "וַאֲנִי", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu [estava]" },
+        { "hebraico": "בְּתֹוךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הַגֹּולָה", "transliteral": "hag-gô-lā", "traducao_palavra": "os cativos" },
+        { "hebraico": "עַל־נְהַר־כְּבָר", "transliteral": "ʿal-nə-har-kə-ḇār", "traducao_palavra": "junto ao rio Quebar" },
+        { "hebraico": "נִפְתְּח֣וּ", "transliteral": "nip-tə-ḥû", "traducao_palavra": "se abriram" },
+        { "hebraico": "הַשָּׁמַ֑יִם", "transliteral": "haš-šā-ma-yim", "traducao_palavra": "os céus" },
+        { "hebraico": "וָאֶרְאֶ֖ה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e eu vi" },
+        { "hebraico": "מַרְאֹ֥ות", "transliteral": "mar-ʾôṯ", "traducao_palavra": "visões de" },
+        { "hebraico": "אֱלֹהִֽים׃", "transliteral": "ʾĕ-lō-hîm", "traducao_palavra": "Deus" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "No quinto dia do mês (era o quinto ano do cativeiro do rei Joaquim),",
+      "palavras": [
+        { "hebraico": "בַּחֲמִשָּׁה", "transliteral": "ba-ḥă-miš-šā", "traducao_palavra": "aos cinco" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "הִיא", "transliteral": "hî", "traducao_palavra": "este [era]" },
+        { "hebraico": "הַשָּׁנָה", "transliteral": "haš-šā-nā", "traducao_palavra": "o ano" },
+        { "hebraico": "הַחֲמִשִׁית", "transliteral": "ha-ḥă-mî-šîṯ", "traducao_palavra": "quinto" },
+        { "hebraico": "לְגָל֥וּת", "transliteral": "lə-ḡā-lûṯ", "traducao_palavra": "do cativeiro de" },
+        { "hebraico": "הַמֶּ֖לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "יְהֹויָכִֽין׃", "transliteral": "yə-hô-yā-ḵîn", "traducao_palavra": "Joaquim" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Veio expressamente a palavra de YHWH a Ezequiel, filho de Buzi, o sacerdote, na terra dos caldeus, junto ao rio Quebar, e ali esteve sobre ele a mão de YHWH.",
+      "palavras": [
+        { "hebraico": "הָיֹ֣ה", "transliteral": "hā-yōh", "traducao_palavra": "veio expressamente" },
+        { "hebraico": "הָיָה", "transliteral": "hā-yā", "traducao_palavra": "veio" },
+        { "hebraico": "דְבַר־יְהוָה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־יְחֶזְקֵאל", "transliteral": "ʾel-yə-ḥez-qêl", "traducao_palavra": "a Ezequiel" },
+        { "hebraico": "בֶּן־בּוּזִי", "transliteral": "ben-bû-zî", "traducao_palavra": "filho de Buzi" },
+        { "hebraico": "הַכֹּהֵן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "בְּאֶרֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra de" },
+        { "hebraico": "כַּשְׂדִּים", "transliteral": "kaś-dîm", "traducao_palavra": "caldeus" },
+        { "hebraico": "עַל־נְהַר־כְּבָר", "transliteral": "ʿal-nə-har-kə-ḇār", "traducao_palavra": "junto ao rio Quebar" },
+        { "hebraico": "וַתְּהִ֥י", "transliteral": "wat-tə-hî", "traducao_palavra": "e esteve" },
+        { "hebraico": "עָלָ֥יו", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele" },
+        { "hebraico": "שָׁ֖ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "יַד־יְהוָֽה׃", "transliteral": "yaḏ-YHWH", "traducao_palavra": "a mão de YHWH" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E olhei, e eis que um vento tempestuoso vinha do norte, uma grande nuvem, com um fogo revolvendo-se, e um resplendor ao redor dela; e no meio dela havia uma coisa como cor de âmbar, que saía do meio do fogo.",
+      "palavras": [
+        { "hebraico": "וָאֵרֶא", "transliteral": "wā-ʾē-reh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "רוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "um vento" },
+        { "hebraico": "סְעָרָה", "transliteral": "śə-ʿā-rā", "traducao_palavra": "tempestuoso" },
+        { "hebraico": "בָּאָה", "transliteral": "bā-ʾā", "traducao_palavra": "vinha" },
+        { "hebraico": "מִן־הַצָּפֹון", "transliteral": "miṣ-ṣā-p̄ôn", "traducao_palavra": "do norte" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E do meio dela saía a semelhança de quatro seres viventes. E esta era a sua aparência: tinham a semelhança de homem.",
+      "palavras": [
+        { "hebraico": "וּמִתֹּוכָהּ", "transliteral": "ū-mit-tô-ḵāh", "traducao_palavra": "e do meio dela" },
+        { "hebraico": "דְּמוּת", "transliteral": "də-mûṯ", "traducao_palavra": "a semelhança" },
+        { "hebraico": "אַרְבַּ֣ע", "transliteral": "ʾar-baʿ", "traducao_palavra": "quatro" },
+        { "hebraico": "חַיֹּות", "transliteral": "ḥay-yôṯ", "traducao_palavra": "seres viventes" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Cada um tinha quatro rostos, e cada um deles quatro asas.",
+      "palavras": [
+        { "hebraico": "וְאַרְבָּעָ֥ה", "transliteral": "wə-ʾar-bā-ʿā", "traducao_palavra": "e quatro" },
+        { "hebraico": "פָנִים", "transliteral": "p̄ā-nîm", "traducao_palavra": "rostos" },
+        { "hebraico": "לְאַחַ֖ת", "transliteral": "lə-ʾa-ḥaṯ", "traducao_palavra": "a cada um" },
+        { "hebraico": "וְאַרְבַּ֥ע", "transliteral": "wə-ʾar-baʿ", "traducao_palavra": "e quatro" },
+        { "hebraico": "כְּנָפַ֖יִם", "transliteral": "kə-nā-p̄a-yim", "traducao_palavra": "asas" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E os seus pés eram pés direitos; e as plantas dos seus pés eram como a planta do pé de um bezerro; e brilhavam como a cor de bronze polido.",
+      "palavras": [
+        { "hebraico": "וְרַגְלֵיהֶ֖ם", "transliteral": "wə-raḡ-lê-hem", "traducao_palavra": "e os pés deles" },
+        { "hebraico": "רֶ֥גֶל", "transliteral": "re-ḡel", "traducao_palavra": "pé" },
+        { "hebraico": "יְשָׁרָ֑ה", "transliteral": "yə-šā-rā", "traducao_palavra": "direito" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E tinham mãos de homem debaixo das suas asas, aos quatro lados; e todos os quatro tinham os seus rostos e as suas asas.",
+      "palavras": [
+        { "hebraico": "וִידֵ֣י", "transliteral": "wî-ḏê", "traducao_palavra": "e mãos de" },
+        { "hebraico": "אָדָ֗ם", "transliteral": "ʾā-ḏām", "traducao_palavra": "homem" },
+        { "hebraico": "מִתַּ֨חַת֙", "transliteral": "mit-ta-ḥaṯ", "traducao_palavra": "debaixo de" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Uniam-se as suas asas uma à outra; não se viravam quando andavam; cada qual andava para a frente.",
+      "palavras": [
+        { "hebraico": "חֹבְרֹ֥ות", "transliteral": "ḥō-ḇə-rôṯ", "traducao_palavra": "uniam-se" },
+        { "hebraico": "אִשָּׁ֖ה", "transliteral": "ʾiš-šā", "traducao_palavra": "uma [à]" },
+        { "hebraico": "אֶל־אֲחֹותָ֑הּ", "transliteral": "ʾel-ʾă-ḥô-ṯāh", "traducao_palavra": "outra" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E a semelhança dos seus rostos era o rosto de homem; e todas as quatro tinham rosto de leão à direita, e todas as quatro tinham rosto de boi à esquerda; e todas as quatro tinham rosto de águia.",
+      "palavras": [
+        { "hebraico": "דְּמ֣וּת", "transliteral": "də-mûṯ", "traducao_palavra": "a semelhança de" },
+        { "hebraico": "פְּנֵיהֶם", "transliteral": "pə-nê-hem", "traducao_palavra": "rostos deles" },
+        { "hebraico": "פְּנֵ֣י", "transliteral": "pə-nê", "traducao_palavra": "rosto de" },
+        { "hebraico": "אָדָם", "transliteral": "ʾā-ḏām", "traducao_palavra": "homem" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Assim eram os seus rostos. As suas asas eram estendidas para cima; cada uma tinha duas asas, que tocavam nas de outra, e duas cobriam os seus corpos.",
+      "palavras": [
+        { "hebraico": "וּפְנֵיהֶ֖ם", "transliteral": "ū-p̄ə-nê-hem", "traducao_palavra": "e os rostos deles" },
+        { "hebraico": "וְכַנְפֵיהֶ֣ם", "transliteral": "wə-ḵan-p̄ê-hem", "traducao_palavra": "e as asas deles" },
+        { "hebraico": "פְּרֻדֹ֣ות", "transliteral": "pə-ru-ḏôṯ", "traducao_palavra": "estendidas" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E cada qual andava para a frente; para onde o espírito queria ir, iam; não se viravam quando andavam.",
+      "palavras": [
+        { "hebraico": "אִ֥ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada qual" },
+        { "hebraico": "אֶל־עֵבֶ֥ר", "transliteral": "ʾel-ʿē-ḇer", "traducao_palavra": "para a direção de" },
+        { "hebraico": "פָּנָ֖יו", "transliteral": "pā-nāw", "traducao_palavra": "seu rosto" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Quanto à semelhança dos seres viventes, a sua aparência era como carvões de fogo acesos, como aparência de tochas; o fogo subia e descia por entre os seres viventes, e o fogo era resplandecente, e do fogo saíam relâmpagos.",
+      "palavras": [
+        { "hebraico": "וּדְמוּת", "transliteral": "ū-də-mûṯ", "traducao_palavra": "e a semelhança de" },
+        { "hebraico": "הַחַיֹּות", "transliteral": "ha-ḥay-yôṯ", "traducao_palavra": "os seres viventes" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E os seres viventes corriam e voltavam, como um relâmpago.",
+      "palavras": [
+        { "hebraico": "וְהַחַיֹּ֗ות", "transliteral": "wə-ha-ḥay-yôṯ", "traducao_palavra": "e os seres viventes" },
+        { "hebraico": "רָצִ֥ים", "transliteral": "rā-ṣîm", "traducao_palavra": "corriam" },
+        { "hebraico": "וְשָׁבִ֖ים", "transliteral": "wə-šā-ḇîm", "traducao_palavra": "e voltavam" },
+        { "hebraico": "כְּמַרְאֵ֥ה", "transliteral": "kə-mar-ʾēh", "traducao_palavra": "como aparência de" },
+        { "hebraico": "הַבָּזָֽק׃", "transliteral": "hab-bā-zāq", "traducao_palavra": "um relâmpago" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E, olhando eu para os seres viventes, eis que havia uma roda sobre a terra junto aos seres viventes, uma para cada um dos seus quatro rostos.",
+      "palavras": [
+        { "hebraico": "וָאֵרֶא", "transliteral": "wā-ʾē-reh", "traducao_palavra": "e olhei" },
+        { "hebraico": "אֶת־הַחַיֹּות", "transliteral": "ʾeṯ-ha-ḥay-yôṯ", "traducao_palavra": "para os seres viventes" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "אֹופַן", "transliteral": "ʾô-p̄an", "traducao_palavra": "uma roda" },
+        { "hebraico": "אֶחָ֣ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "בָּאָרֶץ", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "sobre a terra" },
+        { "hebraico": "אֵצֶל", "transliteral": "ʾē-ṣel", "traducao_palavra": "junto aos" },
+        { "hebraico": "הַחַיֹּות", "transliteral": "ha-ḥay-yôṯ", "traducao_palavra": "seres viventes" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "O aspecto das rodas e a sua obra eram como a cor de berilo; e as quatro tinham uma mesma semelhança; e o seu aspecto e a sua obra eram como se estivesse uma roda dentro de outra roda.",
+      "palavras": [
+        { "hebraico": "מַרְאֵה", "transliteral": "mar-ʾēh", "traducao_palavra": "o aspecto de" },
+        { "hebraico": "הָאֹופַנִּים", "transliteral": "hā-ʾô-p̄an-nîm", "traducao_palavra": "as rodas" },
+        { "hebraico": "וּמַעֲשֵׂיהֶם", "transliteral": "ū-ma-ʿă-śê-hem", "traducao_palavra": "e a obra delas" },
+        { "hebraico": "כְּעֵין", "transliteral": "kə-ʿên", "traducao_palavra": "como a cor de" },
+        { "hebraico": "תַּרְשִׁישׁ", "transliteral": "tar-šîš", "traducao_palavra": "berilo" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Andando elas, iam em qualquer das quatro direções; não se viravam quando andavam.",
+      "palavras": [
+        { "hebraico": "עַל־אַרְבַּע", "transliteral": "ʿal-ʾar-baʿ", "traducao_palavra": "para quatro" },
+        { "hebraico": "רִבְעֵיהֶן", "transliteral": "riḇ-ʿê-hen", "traducao_palavra": "direções/lados" },
+        { "hebraico": "בְּלֶכְתָּם", "transliteral": "bə-leḵ-tām", "traducao_palavra": "andando elas" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E as suas rodas tinham altura, e eram terríveis; e as quatro rodas estavam cheias de olhos ao redor.",
+      "palavras": [
+        { "hebraico": "וְגַבֹּתָם", "transliteral": "wə-ḡab-bō-ṯām", "traducao_palavra": "e as suas bordas/aros" },
+        { "hebraico": "וְגֹבַהּ", "transliteral": "wə-ḡō-ḇah", "traducao_palavra": "e a altura" },
+        { "hebraico": "לָהֶם", "transliteral": "lā-hem", "traducao_palavra": "para elas" },
+        { "hebraico": "וְיִרְאָה", "transliteral": "wə-yir-ʾā", "traducao_palavra": "e terríveis" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E, andando os seres viventes, andavam as rodas ao lado deles; e, quando os seres viventes se elevavam da terra, elevavam-se também as rodas.",
+      "palavras": [
+        { "hebraico": "וּבְלֶכֶת", "transliteral": "ū-ḇə-le-ḵeṯ", "traducao_palavra": "e ao andar" },
+        { "hebraico": "הַחַיֹּות", "transliteral": "ha-ḥay-yôṯ", "traducao_palavra": "os seres viventes" },
+        { "hebraico": "יֵלְכ֣וּ", "transliteral": "yê-lə-ḵû", "traducao_palavra": "andavam" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Para onde o espírito queria ir, iam; para onde o espírito queria ir, as rodas se elevavam juntamente com eles; porque o espírito do ser vivente estava nas rodas.",
+      "palavras": [
+        { "hebraico": "עַל־כָּל", "transliteral": "ʿal-kāl", "traducao_palavra": "para onde" },
+        { "hebraico": "אֲשֶׁר־יִהְיֶה", "transliteral": "ʾă-šer-yih-yeh", "traducao_palavra": "fosse" },
+        { "hebraico": "שָׁם", "transliteral": "šām", "traducao_palavra": "lá" },
+        { "hebraico": "הָרוּחַ", "transliteral": "hā-rû-aḥ", "traducao_palavra": "o espírito" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Quando aqueles andavam, andavam estas; e, quando aqueles paravam, paravam estas; e, quando aqueles se elevavam da terra, elevavam-se as rodas juntamente com eles; porque o espírito do ser vivente estava nas rodas.",
+      "palavras": [
+        { "hebraico": "בְּלֶכְתָּם", "transliteral": "bə-leḵ-tām", "traducao_palavra": "ao andarem eles" },
+        { "hebraico": "יֵלֵכוּ", "transliteral": "yê-lê-ḵû", "traducao_palavra": "andavam" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E sobre a cabeça dos seres viventes havia uma semelhança de firmamento, como a cor de cristal terrível, estendido por cima, sobre a sua cabeça.",
+      "palavras": [
+        { "hebraico": "וּדְמוּת", "transliteral": "ū-də-mûṯ", "traducao_palavra": "e uma semelhança" },
+        { "hebraico": "עַל־רָאשֵׁי", "transliteral": "ʿal-rā-šê", "traducao_palavra": "sobre a cabeça" },
+        { "hebraico": "הַחַיָּה", "transliteral": "ha-ḥay-yā", "traducao_palavra": "do ser vivente" },
+        { "hebraico": "רָקִ֣יעַ", "transliteral": "rā-qî-aʿ", "traducao_palavra": "firmamento" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E debaixo do firmamento estavam as suas asas direitas, uma para a outra; cada um tinha duas que cobriam de um lado e duas que cobriam do outro os seus corpos.",
+      "palavras": [
+        { "hebraico": "וְתַחַת", "transliteral": "wə-ta-ḥaṯ", "traducao_palavra": "e debaixo" },
+        { "hebraico": "הָרָקִ֖יעַ", "transliteral": "hā-rā-qî-aʿ", "traducao_palavra": "do firmamento" },
+        { "hebraico": "כְּנָפֵיהֶם", "transliteral": "kə-nā-p̄ê-hem", "traducao_palavra": "as asas deles" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E ouvi o som das suas asas, como o som de muitas águas, como a voz do Todo-Poderoso, quando andavam; som de tumulto, como o som de um exército; quando paravam, abaixavam as suas asas.",
+      "palavras": [
+        { "hebraico": "וָאֶשְׁמַע", "transliteral": "wā-ʾeš-maʿ", "traducao_palavra": "e ouvi" },
+        { "hebraico": "קוֹל", "transliteral": "qôl", "traducao_palavra": "a voz" },
+        { "hebraico": "כְּנָפֵיהֶם", "transliteral": "kə-nā-p̄ê-hem", "traducao_palavra": "das suas asas" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E ouviu-se uma voz de cima do firmamento que estava sobre a sua cabeça; quando paravam, abaixavam as suas asas.",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "קֹול", "transliteral": "qôl", "traducao_palavra": "uma voz" },
+        { "hebraico": "מֵעַל", "transliteral": "mê-ʿal", "traducao_palavra": "de cima de" },
+        { "hebraico": "לָרָקִ֖יעַ", "transliteral": "lā-rā-qî-aʿ", "traducao_palavra": "o firmamento" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E por cima do firmamento, que estava sobre a sua cabeça, havia algo como uma pedra de safira, como um trono; e sobre a semelhança do trono uma semelhança como a de um homem, assentada sobre ele no alto.",
+      "palavras": [
+        { "hebraico": "וּמִמַּעַל", "transliteral": "ū-mim-ma-ʿal", "traducao_palavra": "e por cima de" },
+        { "hebraico": "לָרָקִ֖יעַ", "transliteral": "lā-rā-qî-aʿ", "traducao_palavra": "o firmamento" },
+        { "hebraico": "כְּמַרְאֵ֣ה", "transliteral": "kə-mar-ʾēh", "traducao_palavra": "como aparência de" },
+        { "hebraico": "סַפִּ֣יר", "transliteral": "sap-pîr", "traducao_palavra": "safira" },
+        { "hebraico": "דְּמוּת", "transliteral": "də-mûṯ", "traducao_palavra": "semelhança" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "E vi uma cor como de âmbar, como a aparência de fogo ao redor dela, desde a aparência dos seus lombos e para cima; e desde a aparência dos seus lombos e para baixo, vi como a aparência de fogo, e um resplendor ao redor dele.",
+      "palavras": [
+        { "hebraico": "וָאֵרֶא", "transliteral": "wā-ʾē-reh", "traducao_palavra": "e vi" },
+        { "hebraico": "כְּעֵין", "transliteral": "kə-ʿên", "traducao_palavra": "como a cor" },
+        { "hebraico": "חַשְׁמַ֖ל", "transliteral": "ḥaš-mal", "traducao_palavra": "âmbar" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Como o aspecto do arco que aparece na nuvem no dia da chuva, assim era o aspecto do resplendor ao redor. Esta era a aparência da semelhança da glória de YHWH; e, vendo isto, caí com o rosto em terra, e ouvi uma voz de quem falava.",
+      "palavras": [
+        { "hebraico": "כְּמַרְאֵ֣ה", "transliteral": "kə-mar-ʾēh", "traducao_palavra": "como a aparência de" },
+        { "hebraico": "הַקֶּ֗שֶׁת", "transliteral": "haq-qe-šet", "traducao_palavra": "o arco" },
+        { "hebraico": "כְּבֹוד", "transliteral": "kə-ḇôḏ", "traducao_palavra": "glória de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }

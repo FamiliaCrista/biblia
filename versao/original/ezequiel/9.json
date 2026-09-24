@@ -2,5 +2,120 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 9,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Então me gritou aos ouvidos com grande voz, dizendo: Fazei chegar os que têm cargo sobre a cidade, cada um com a sua arma destruidora na mão.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרָ֥א", "transliteral": "way-yiq-rā", "traducao_palavra": "e gritou/chamou" },
+        { "hebraico": "בְּאָזְנַ֖י", "transliteral": "bə-ʾāz-nay", "traducao_palavra": "aos meus ouvidos" },
+        { "hebraico": "קֹ֣ול", "transliteral": "qôl", "traducao_palavra": "com voz" },
+        { "hebraico": "גָּדֹ֑ול", "transliteral": "ḡā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "קָרְב֧וּ", "transliteral": "qā-rə-ḇû", "traducao_palavra": "fazei chegar/aproximai-vos" },
+        { "hebraico": "פְּקֻדֹּ֣ות", "transliteral": "pə-qud-dôṯ", "traducao_palavra": "os que têm cargo" },
+        { "hebraico": "הָעִ֔יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "וְאִ֧ישׁ", "transliteral": "wə-ʾîš", "traducao_palavra": "e cada um" },
+        { "hebraico": "כְּלִ֣י", "transliteral": "kə-lî", "traducao_palavra": "arma/instrumento" },
+        { "hebraico": "מַשְׁחִתֹ֖ו", "transliteral": "maš-ḥi-ṯô", "traducao_palavra": "destruidora dele" },
+        { "hebraico": "בְּיָדֹֽו׃", "transliteral": "bə-yā-ḏô", "traducao_palavra": "na mão dele" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E eis que vinham seis homens pelo caminho da porta superior, que olha para o norte, cada um com a sua arma de destruição na mão, e entre eles um homem vestido de linho, com um tinteiro de escrivão à sua cintura; e entraram, e puseram-se junto ao altar de bronze.",
+      "palavras": [
+        { "hebraico": "וְהִנֵֵּה֙", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "שִׁשָּׁ֣ה", "transliteral": "šiš-šā", "traducao_palavra": "seis" },
+        { "hebraico": "אֲנָשִׁ֗ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "בָּאִים", "transliteral": "bā-ʾîm", "traducao_palavra": "vinham" },
+        { "hebraico": "מִדֶּ֨רֶךְ", "transliteral": "mid-de-reḵ", "traducao_palavra": "pelo caminho de" },
+        { "hebraico": "שַׁעַר", "transliteral": "ša-ʿar", "traducao_palavra": "porta" },
+        { "hebraico": "הָעֶלְיֹ֔ון", "transliteral": "hā-ʿel-yôn", "traducao_palavra": "superior" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E a glória do Deus de Israel se levantou de sobre o querubim, sobre o qual estava, em direção à entrada da casa; e chamou ao homem vestido de linho, que tinha o tinteiro de escrivão à sua cintura.",
+      "palavras": [
+        { "hebraico": "וַיַּ֗עַל", "transliteral": "way-ya-ʿal", "traducao_palavra": "e se levantou" },
+        { "hebraico": "כְּבֹוד", "transliteral": "kə-ḇôḏ", "traducao_palavra": "a glória de" },
+        { "hebraico": "אֱלֹהֵ֣י", "transliteral": "ĕ-lō-hê", "traducao_palavra": "Deus de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E disse-lhe YHWH: Passa pelo meio da cidade, pelo meio de Jerusalém, e marca com um sinal as testas dos homens que suspiram e que gemem por causa de todas as abominações que se cometem no meio dela.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "עֲבֹר", "transliteral": "ʿă-ḇōr", "traducao_palavra": "passa" },
+        { "hebraico": "בְּתֹ֣וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "pelo meio de" },
+        { "hebraico": "הָעִ֗יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "בְּתֹ֣וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "pelo meio de" },
+        { "hebraico": "יְרוּשָׁלִַם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "וְהִתְוִ֣יתָ", "transliteral": "wə-hiṯ-wî-ṯā", "traducao_palavra": "e marca com um sinal" },
+        { "hebraico": "תָּ֗ו", "transliteral": "tāw", "traducao_palavra": "um sinal/tau" },
+        { "hebraico": "עַל־מִצְחֹות", "transliteral": "ʿal-miṣ-ḥôṯ", "traducao_palavra": "sobre as testas" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E aos outros disse, ouvindo eu: Passai pela cidade após ele, e feri; o vosso olho não poupe, e não tenhais piedade.",
+      "palavras": [
+        { "hebraico": "וּלְאֵלֶּה", "transliteral": "ū-lə-ʾēl-leh", "traducao_palavra": "e aos outros" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "בְּאָזְנָ֑י", "transliteral": "bə-ʾāz-nay", "traducao_palavra": "aos meus ouvidos" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Matai velhos, jovens, virgens, crianças e mulheres, até exterminá-los; mas a todo homem que tiver o sinal não vos chegueis; e começai pelo meu santuário. E começaram pelos homens anciãos que estavam diante da casa.",
+      "palavras": [
+        { "hebraico": "זָקֵ֣ן", "transliteral": "zā-qên", "traducao_palavra": "velhos" },
+        { "hebraico": "בָּח֨וּר", "transliteral": "bā-ḥûr", "traducao_palavra": "jovens" },
+        { "hebraico": "וּבְתוּלָה", "transliteral": "ū-ḇə-ṯû-lā", "traducao_palavra": "e virgens" },
+        { "hebraico": "וְטַ֤ף", "transliteral": "wə-ṭap̄", "traducao_palavra": "e crianças" },
+        { "hebraico": "וְנָשִׁים֙", "transliteral": "wə-nā-šîm", "traducao_palavra": "e mulheres" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E disse-lhes: Contaminai a casa, e enchei os átrios de mortos; saí. E saíram, e feriram na cidade.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֲלֵהֶ֔ם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "טַמְּא֥וּ", "transliteral": "ṭam-mə-ʾû", "traducao_palavra": "contaminai" },
+        { "hebraico": "אֶת־הַבַּ֖יִת", "transliteral": "ʾeṯ-hab-ba-yiṯ", "traducao_palavra": "a casa" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E sucedeu que, enquanto eles feriam, e eu fiquei só, caí com o rosto em terra, e clamei, e disse: Ah! Senhor YHWH! destruirás toda a casa de Israel, derramando o teu furor sobre Jerusalém?",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כְּהַכֹּותָם", "transliteral": "kə-hak-kô-ṯām", "traducao_palavra": "enquanto feriam" },
+        { "hebraico": "וָאִוָּתֵ֣ר", "transliteral": "wā-ʾiw-wā-ṯēr", "traducao_palavra": "e fiquei só" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Então me disse: A iniquidade da casa de Israel e de Judá é mui grande e excessiva; a terra está cheia de sangue, e a cidade cheia de perversidade; porque dizem: YHWH desamparou a terra, e YHWH não vê.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "עֲוֹ֧ן", "transliteral": "ʿă-wōn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "בֵּית־יִשְׂרָאֵל", "transliteral": "bêṯ-yiś-rā-ʾēl", "traducao_palavra": "casa de Israel" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Também eu, o meu olho não poupará, nem terei piedade; o seu caminho farei cair sobre a sua cabeça.",
+      "palavras": [
+        { "hebraico": "וְגַם־אֲנִי", "transliteral": "wə-ḡam-ʾă-nî", "traducao_palavra": "e também eu" },
+        { "hebraico": "לֹא־תָחֹ֨וס", "transliteral": "lō-ṯā-ḥôs", "traducao_palavra": "não poupará" },
+        { "hebraico": "עֵינִי", "transliteral": "ʿê-nî", "traducao_palavra": "meu olho" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E eis que o homem vestido de linho, que tinha o tinteiro à sua cintura, tornou a responder, dizendo: Fiz conforme tudo o que me ordenaste.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "הָאִ֨ישׁ", "transliteral": "hā-ʾîš", "traducao_palavra": "o homem" },
+        { "hebraico": "לְבֻשׁ", "transliteral": "lə-ḇuš", "traducao_palavra": "vestido de" },
+        { "hebraico": "הַבַּדִּים", "transliteral": "hab-bad-dîm", "traducao_palavra": "linho" }
+      ]
+    }
+  }
 }

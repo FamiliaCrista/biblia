@@ -2,5 +2,85 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 15,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְּבַר־יְהוָה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Filho do homem, que vantagem tem a madeira da videira sobre qualquer outra madeira, ou o ramo que está entre as árvores do bosque?",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "מַה־יִּהְיֶה", "transliteral": "mah-yih-yeh", "traducao_palavra": "que vantagem [tem]" },
+        { "hebraico": "עֵץ־הַגֶּפֶן", "transliteral": "ʿēṣ-hag-ge-p̄en", "traducao_palavra": "madeira da videira" },
+        { "hebraico": "מִכָּל־עֵץ", "transliteral": "mik-kāl-ʿēṣ", "traducao_palavra": "sobre qualquer madeira" },
+        { "hebraico": "הַזְּמֹורָה", "transliteral": "haz-zə-mō-rā", "traducao_palavra": "o ramo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Toma-se dela madeira para fazer alguma obra? Ou toma-se dela uma estaca para nela pendurar algum objeto?",
+      "palavras": [
+        { "hebraico": "הֲיֻקַּ֤ח", "transliteral": "hă-yuq-qaḥ", "traducao_palavra": "toma-se" },
+        { "hebraico": "מִמֶּ֨נָּה֙", "transliteral": "mim-men-nāh", "traducao_palavra": "dela" },
+        { "hebraico": "עֵץ", "transliteral": "ʿēṣ", "traducao_palavra": "madeira" },
+        { "hebraico": "לַעֲשֹׂות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "para fazer" },
+        { "hebraico": "לִמְלָאכָ֑ה", "transliteral": "lim-lā-ḵā", "traducao_palavra": "alguma obra" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Eis que ela é lançada no fogo para ser consumida; o fogo consome as suas duas extremidades, e o meio dela se queima; será ela útil para alguma obra?",
+      "palavras": [
+        { "hebraico": "הִנֵּ֧ה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "לָאֵשׁ", "transliteral": "lā-ʾēš", "traducao_palavra": "no fogo" },
+        { "hebraico": "נִתְּנָ֣ה", "transliteral": "nit-tə-nāh", "traducao_palavra": "é lançada" },
+        { "hebraico": "לְאָכְלָ֑ה", "transliteral": "lə-ʾā-ḵə-lāh", "traducao_palavra": "para ser consumida" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Eis que, estando inteira, não servia para obra alguma; quanto menos, depois que o fogo a houver consumido e ela se houver queimado, servirá ela ainda para alguma obra?",
+      "palavras": [
+        { "hebraico": "הִנֵּ֞ה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "בִּהְיֹותָ֣הּ", "transliteral": "bih-yô-ṯāh", "traducao_palavra": "estando inteira" },
+        { "hebraico": "תְּמִימָה", "transliteral": "tə-mî-mā", "traducao_palavra": "inteira" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תֵּעָשֶׂ֣ה", "transliteral": "tē-ʿā-śeh", "traducao_palavra": "servirá/será feita" },
+        { "hebraico": "לִמְלָאכָ֑ה", "transliteral": "lim-lā-ḵā", "traducao_palavra": "para obra" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Como a madeira da videira entre as árvores do bosque, que entreguei ao fogo para ser consumida, assim farei aos moradores de Jerusalém.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E porei o meu rosto contra eles; sairão de um fogo, mas outro fogo os consumirá; e sabereis que eu sou YHWH, quando eu puser o meu rosto contra eles.",
+      "palavras": [
+        { "hebraico": "וְנָתַתִּ֤י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e porei" },
+        { "hebraico": "אֶת־פָּנַי", "transliteral": "ʾeṯ-pā-nay", "traducao_palavra": "o meu rosto" },
+        { "hebraico": "בָּהֶם", "transliteral": "bā-hem", "traducao_palavra": "contra eles" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E farei da terra uma desolação, porquanto transgrediram gravemente, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְנָתַתִּ֤י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e farei" },
+        { "hebraico": "אֶת־הָאָרֶץ", "transliteral": "ʾeṯ-hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "שְׁמָמָה", "transliteral": "šə-mā-mā", "traducao_palavra": "em desolação" },
+        { "hebraico": "עַל", "transliteral": "ʿal", "traducao_palavra": "porquanto" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "מָעֲל֖וּ", "transliteral": "mā-ʿă-lû", "traducao_palavra": "transgrediram" },
+        { "hebraico": "מַעַל", "transliteral": "ma-ʿal", "traducao_palavra": "gravemente" }
+      ]
+    }
+  }
 }

@@ -2,5 +2,519 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 16,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu/veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Filho do homem, faze conhecer a Jerusalém as suas abominações,",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָ֖ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "הֹודַ֖ע", "transliteral": "hô-ḏaʿ", "traducao_palavra": "faze conhecer" },
+        { "hebraico": "אֶת־יְרוּשָׁלִַ֑ם", "transliteral": "ʾeṯ-yə-rû-šā-la-yim", "traducao_palavra": "a Jerusalém" },
+        { "hebraico": "אֶת־תֹּועֲבֹתֶֽיהָ׃", "transliteral": "ʾeṯ-tô-ʿă-ḇō-ṯe-hā", "traducao_palavra": "as abominações dela" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E dize: Assim diz o Senhor YHWH a Jerusalém: A tua origem e o teu nascimento procedem da terra dos cananeus; teu pai era amorreu, e tua mãe heteia.",
+      "palavras": [
+        { "hebraico": "וְאָמַרְתָּ", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "כֹּה־אָמַר", "transliteral": "kō-ʾā-mar", "traducao_palavra": "assim disse" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לִירוּשָׁלִַם", "transliteral": "lî-rû-šā-la-yim", "traducao_palavra": "a Jerusalém" },
+        { "hebraico": "מְכֹרֹתַ֖יִךְ", "transliteral": "mə-ḵō-rō-ṯa-yiḵ", "traducao_palavra": "tua origem" },
+        { "hebraico": "וּמֹלְדֹתַ֖יִךְ", "transliteral": "ū-mō-lə-ḏō-ṯa-yiḵ", "traducao_palavra": "e teu nascimento" },
+        { "hebraico": "מֵאֶ֣רֶץ", "transliteral": "mê-ʾe-reṣ", "traducao_palavra": "da terra" },
+        { "hebraico": "הַכְּנַעֲנִ֑י", "transliteral": "hak-kə-na-ʿă-nî", "traducao_palavra": "[dos] cananeus" },
+        { "hebraico": "אָבִ֧יךְ", "transliteral": "ʾā-ḇîḵ", "traducao_palavra": "teu pai" },
+        { "hebraico": "הָאֱמֹרִ֛י", "transliteral": "hā-ʾĕ-mō-rî", "traducao_palavra": "[era] amorreu" },
+        { "hebraico": "וְאִמֵּ֖ךְ", "transliteral": "wə-ʾim-mēḵ", "traducao_palavra": "e tua mãe" },
+        { "hebraico": "חִתִּֽית׃", "transliteral": "ḥit-tîṯ", "traducao_palavra": "[era] heteia" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Quanto ao teu nascimento, no dia em que nasceste, não te foi cortado o umbigo, nem foste lavada com água para te limpar; nem foste de todo salgada, nem envolta em faixas.",
+      "palavras": [
+        { "hebraico": "וּמֹולְדֹותַיִךְ", "transliteral": "ū-mô-lə-ḏô-ṯa-yiḵ", "traducao_palavra": "quanto ao teu nascimento" },
+        { "hebraico": "בְּיֹום", "transliteral": "bə-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הוּלֶּדֶת", "transliteral": "hûl-le-ḏeṯ", "traducao_palavra": "em que nasceste" },
+        { "hebraico": "אֹתָךְ", "transliteral": "ʾō-ṯāḵ", "traducao_palavra": "tu" },
+        { "hebraico": "לֹא־כָרַ֥ת", "transliteral": "lō-ḵā-raṯ", "traducao_palavra": "não foi cortado" },
+        { "hebraico": "שָׁרֵּךְ", "transliteral": "šār-rēḵ", "traducao_palavra": "teu umbigo" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Não houve olho que se apiedasse de ti, para te fazer alguma destas coisas, compadecendo-se de ti; mas foste lançada no campo, no dia em que nasceste, pela nojeira que tinhas quanto à tua vida.",
+      "palavras": [
+        { "hebraico": "לֹא־חָסָ֤ה", "transliteral": "lō-ḥā-śā", "traducao_palavra": "não se apiedou" },
+        { "hebraico": "עָלַיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "sobre ti" },
+        { "hebraico": "עַיִן", "transliteral": "ʿa-yin", "traducao_palavra": "olho" },
+        { "hebraico": "לַעֲשֹׂ֣ות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "para fazer" },
+        { "hebraico": "לָךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "מֵאַחַת", "transliteral": "mē-ʾa-ḥaṯ", "traducao_palavra": "alguma destas [coisas]" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E passando eu por ti, vi-te ajeitada nos teus sangues, e te disse: Ainda que estejas nos teus sangues, vive; sim, disse-te: Ainda que estejas nos teus sangues, vive.",
+      "palavras": [
+        { "hebraico": "וָאֶעֱבֹר", "transliteral": "wā-ʾe-ʿĕ-ḇōr", "traducao_palavra": "e passando eu" },
+        { "hebraico": "עָלַיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "por ti" },
+        { "hebraico": "וָאֶרְאֵךְ", "transliteral": "wā-ʾer-ʾēḵ", "traducao_palavra": "e vi-te" },
+        { "hebraico": "מִתְבֹּוסֶ֥סֶת", "transliteral": "miṯ-bō-śe-seṯ", "traducao_palavra": "ajeitada/pisando" },
+        { "hebraico": "בְּדָמָ֑יִךְ", "transliteral": "bə-ḏā-mā-yiḵ", "traducao_palavra": "nos teus sangues" },
+        { "hebraico": "וָאֹמַ֤ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e te disse" },
+        { "hebraico": "לָךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "בְּדָמַ֖יִךְ", "transliteral": "bə-ḏā-ma-yiḵ", "traducao_palavra": "nos teus sangues" },
+        { "hebraico": "חֲיִֽי׃", "transliteral": "ḥă-yî", "traducao_palavra": "vive" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Fiz-te multiplicar como a erva do campo, e cresceste, e te engrandeceste, e chegaste a ter grande formosura; os teus seios formaram-se, e o teu cabelo cresceu; mas estavas nua e descoberta.",
+      "palavras": [
+        { "hebraico": "רְבָבָ֗ה", "transliteral": "rə-ḇā-ḇā", "traducao_palavra": "multipliquei-te" },
+        { "hebraico": "כְּצֶמַח", "transliteral": "kə-ṣe-maḥ", "traducao_palavra": "como a erva" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "do campo" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E passando eu por ti, vi-te, e eis que o teu tempo era tempo de amores; e estendi a minha orla sobre ti, e cobri a tua nudez; e dei-te juramento, e entrei em aliança contigo, diz o Senhor YHWH, e tu te tornaste minha.",
+      "palavras": [
+        { "hebraico": "וָאֶעֱבֹר", "transliteral": "wā-ʾe-ʿĕ-ḇōr", "traducao_palavra": "e passando eu" },
+        { "hebraico": "עָלַיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "por ti" },
+        { "hebraico": "וָאֶרְאֵךְ", "transliteral": "wā-ʾer-ʾēḵ", "traducao_palavra": "vi-te" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "עִתֵּ֥ךְ", "transliteral": "ʿit-tēḵ", "traducao_palavra": "teu tempo" },
+        { "hebraico": "עֵ֖ת", "transliteral": "ʿêṯ", "traducao_palavra": "tempo de" },
+        { "hebraico": "דֹּדִ֑ים", "transliteral": "dō-ḏîm", "traducao_palavra": "amores" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Então te lavei com água, e enxuguei de ti o teu sangue, e te ungi com óleo.",
+      "palavras": [
+        { "hebraico": "וָאֶרְחַ֥ץ", "transliteral": "wā-ʾer-ḥaṣ", "traducao_palavra": "e lavei-te" },
+        { "hebraico": "מַ֖יִם", "transliteral": "ma-yim", "traducao_palavra": "com água" },
+        { "hebraico": "וָאָסִ֥יר", "transliteral": "wā-ʾā-śîr", "traducao_palavra": "e enxuguei" },
+        { "hebraico": "דָּמַ֖יִךְ", "transliteral": "dā-ma-yiḵ", "traducao_palavra": "teu sangue" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Também te vesti de roupas bordadas, e te calcei com peles de texugo, e te cingi de linho fino, e te cobri de seda.",
+      "palavras": [
+        { "hebraico": "וָאַלְבִּישֵׁךְ", "transliteral": "wā-ʾal-bî-šēḵ", "traducao_palavra": "e te vesti" },
+        { "hebraico": "רִקְמָה", "transliteral": "riq-mā", "traducao_palavra": "de bordado/roupas bordadas" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Também te ornei de adornos, e te pus braceletes nas tuas mãos e um colar ao teu pescoço.",
+      "palavras": [
+        { "hebraico": "וָאֶעְדֵּ֥ךְ", "transliteral": "wā-ʾeʿ-dēḵ", "traducao_palavra": "e te ornei" },
+        { "hebraico": "עֶדְיֹ֖ו", "transliteral": "ʿeḏ-yô", "traducao_palavra": "com adornos" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E te pus um pendente no nariz, e arrecadas nas tuas orelhas, e uma formosa coroa na tua cabeça.",
+      "palavras": [
+        { "hebraico": "וָאֶתֵּ֤ן", "transliteral": "wā-ʾet-tēn", "traducao_palavra": "e te pus" },
+        { "hebraico": "נֶזֶם", "transliteral": "ne-zem", "traducao_palavra": "um pendente [nariz]" },
+        { "hebraico": "עַל־אַפֵּךְ", "transliteral": "ʿal-ʾap-pēḵ", "traducao_palavra": "sobre o nariz" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Assim foste ornada de ouro e de prata, e o teu vestido era de linho fino, e de seda, e de bordado; comeste flor de farinha, e mel, e azeite; e eras mui formosa, e chegaste a ser rainha.",
+      "palavras": [
+        { "hebraico": "וַתַּעְדִּ֖י", "transliteral": "wat-taʿ-dî", "traducao_palavra": "e foste ornada" },
+        { "hebraico": "זָהָ֣ב", "transliteral": "zā-hāḇ", "traducao_palavra": "ouro" },
+        { "hebraico": "וָכֶ֑סֶף", "transliteral": "wā-ḵe-sep̄", "traducao_palavra": "e prata" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E saiu a tua fama entre as nações, por tua formosura, porque era perfeita, graças à minha glória que eu tinha posto sobre ti, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵ֨א", "transliteral": "way-yê-ṣē", "traducao_palavra": "e saiu" },
+        { "hebraico": "שֵׁמֵךְ", "transliteral": "šē-mēḵ", "traducao_palavra": "tua fama" },
+        { "hebraico": "בַּגֹּויִם", "transliteral": "baḡ-gô-yim", "traducao_palavra": "entre as nações" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Mas confiaste na tua formosura, e te prostituíste por causa da tua fama, e derramaste as tuas prostituições a todo o que passava; ele as recebia.",
+      "palavras": [
+        { "hebraico": "וַתִּבְטְחִ֣י", "transliteral": "wat-tiḇ-ṭə-ḥî", "traducao_palavra": "mas confiaste" },
+        { "hebraico": "בְּיָפְיֵךְ", "transliteral": "bə-yā-p̄ə-yēḵ", "traducao_palavra": "na tua formosura" },
+        { "hebraico": "וַתִּזְנִ֖י", "transliteral": "wat-tiz-nî", "traducao_palavra": "e te prostituíste" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Também tomaste dos teus vestidos e fizeste para ti altos salpicados de várias cores, e te prostituíste neles; coisas semelhantes a estas não virão, nem acontecerão.",
+      "palavras": [
+        { "hebraico": "וַתִּקְחִי", "transliteral": "wat-tiq-ḥî", "traducao_palavra": "também tomaste" },
+        { "hebraico": "מִבְּגָדַיִךְ", "transliteral": "mib-bə-ḡā-ḏa-yiḵ", "traducao_palavra": "dos teus vestidos" },
+        { "hebraico": "וַתַּעֲשִׂי־לָךְ", "transliteral": "wat-ta-ʿă-śî-lāḵ", "traducao_palavra": "e fizeste para ti" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Também tomaste as tuas belas joias do meu ouro e da minha prata, que eu te tinha dado, e fizeste para ti imagens de homens, e te prostituíste com elas.",
+      "palavras": [
+        { "hebraico": "וַתִּקְחִי", "transliteral": "wat-tiq-ḥî", "traducao_palavra": "também tomaste" },
+        { "hebraico": "כְּלֵי־תִפְאַרְתֵּךְ", "transliteral": "kə-lê-ṯip-ʾar-tēḵ", "traducao_palavra": "belas joias" },
+        { "hebraico": "מִזְּהָבִי", "transliteral": "miz-zə-hā-ḇî", "traducao_palavra": "do meu ouro" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E tomaste os teus vestidos bordados e os cobriste; e puseste o meu azeite e o meu incenso diante delas.",
+      "palavras": [
+        { "hebraico": "וַתִּקְחִי", "transliteral": "wat-tiq-ḥî", "traducao_palavra": "e tomaste" },
+        { "hebraico": "אֶת־בִּגְדֵי", "transliteral": "ʾeṯ-biḡ-ḏê", "traducao_palavra": "os teus vestidos" },
+        { "hebraico": "רִקְמָתֵךְ", "transliteral": "riq-mā-ṯēḵ", "traducao_palavra": "bordados" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "O meu pão também, que eu te dera, a flor de farinha, e o azeite, e o mel com que te sustentei, tu os puseste diante delas por cheiro suave; e assim aconteceu, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְלַחְמִי", "transliteral": "wə-laḥ-mî", "traducao_palavra": "o meu pão" },
+        { "hebraico": "אֲשֶׁר־נָתַתִּ֤י", "transliteral": "ʾă-šer-nā-ṯat-tî", "traducao_palavra": "que eu te dera" },
+        { "hebraico": "לָךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Além disso, tomaste os teus filhos e as tuas filhas, que me tinhas dado, e os sacrificaste a elas, para serem consumidos. Eram pequenas as tuas prostituições?",
+      "palavras": [
+        { "hebraico": "וַתִּקְחִי", "transliteral": "wat-tiq-ḥî", "traducao_palavra": "além disso tomaste" },
+        { "hebraico": "אֶת־בָּנַיִךְ", "transliteral": "ʾeṯ-bā-na-yiḵ", "traducao_palavra": "teus filhos" },
+        { "hebraico": "וְאֶת־בְּנֹותַיִךְ", "transliteral": "wə-ʾeṯ-bə-nô-ṯa-yiḵ", "traducao_palavra": "e tuas filhas" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Que mataste os meus filhos, e os entregaste, fazendo-os passar pelo fogo para elas?",
+      "palavras": [
+        { "hebraico": "וַתִּשְׁחֲטִ֖י", "transliteral": "wat-tiš-ḥă-ṭî", "traducao_palavra": "que mataste" },
+        { "hebraico": "אֶת־בָּנָ֑י", "transliteral": "ʾeṯ-bā-nāy", "traducao_palavra": "os meus filhos" },
+        { "hebraico": "וַתִּתְּנִ֖ים", "transliteral": "wat-tit-tə-nîm", "traducao_palavra": "e os entregaste" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E, entre todas as tuas abominações e as tuas prostituições, não te lembraste dos dias da tua mocidade, quando estavas nua e descoberta, e estavas ajeitada nos teus sangues.",
+      "palavras": [
+        { "hebraico": "וּבְכָל־תֹּועֲבֹתַ֧יִךְ", "transliteral": "ū-ḇə-ḵāl-tô-ʿă-ḇō-ṯa-yiḵ", "traducao_palavra": "e em todas as tuas abominações" },
+        { "hebraico": "לֹא־זָכַ֖רְתְּ", "transliteral": "lō-zā-ḵar-tə", "traducao_palavra": "não te lembraste" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E sucedeu que, depois de toda a tua maldade (ai, ai de ti! diz o Senhor YHWH),",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e sucedeu" },
+        { "hebraico": "אַחֲרֵ֥י", "transliteral": "ʾa-ḥă-rê", "traducao_palavra": "depois de" },
+        { "hebraico": "כָּל־רָעָתֵ֖ךְ", "transliteral": "kāl-rā-ʿā-ṯêḵ", "traducao_palavra": "toda a tua maldade" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Edificaste para ti abóbadas, e fizeste para ti altares em todas as praças.",
+      "palavras": [
+        { "hebraico": "וַתִּבְנִי־לָךְ", "transliteral": "wat-tiḇ-nî-lāḵ", "traducao_palavra": "edificaste para ti" },
+        { "hebraico": "גַּב", "transliteral": "ḡaḇ", "traducao_palavra": "abóbada" },
+        { "hebraico": "וַתַּעֲשִׂי־לָךְ", "transliteral": "wat-ta-ʿă-śî-lāḵ", "traducao_palavra": "e fizeste para ti" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "Em cada saída do caminho edificaste os teus altares, e fizeste abominável a tua formosura, e espalhaste as tuas pernas a todo o que passava, e multiplicaste as tuas prostituições.",
+      "palavras": [
+        { "hebraico": "אֶל־כָּל־רֹאשׁ", "transliteral": "ʾel-kāl-rōš", "traducao_palavra": "em cada esquina/saída" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "do caminho" },
+        { "hebraico": "בָּנִ֥ית", "transliteral": "bā-nîṯ", "traducao_palavra": "edificaste" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E te prostituíste com os egípcios, teus vizinhos de grande carne, e multiplicaste a tua prostituição, para me provocares à ira.",
+      "palavras": [
+        { "hebraico": "וַתִּזְנִ֨י", "transliteral": "wat-tiz-nî", "traducao_palavra": "e te prostituíste" },
+        { "hebraico": "אֶל־בְּנֵ֥י", "transliteral": "ʾel-bə-nê", "traducao_palavra": "com os filhos de" },
+        { "hebraico": "מִצְרַ֖יִם", "transliteral": "miṣ-ra-yim", "traducao_palavra": "Egito" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Por isso, eis que estendi a minha mão sobre ti, e diminuí a tua porção, e te entreguei à vontade das que te odeiam, as filhas dos filisteus, que se envergonham do teu caminho infame.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "נָטִ֤יתִי", "transliteral": "nā-ṭî-ṯî", "traducao_palavra": "estendi" },
+        { "hebraico": "יָדִי", "transliteral": "yā-ḏî", "traducao_palavra": "minha mão" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Prostituíste-te também com os filhos da Assíria, por não estares farta; e, ainda que te prostituísse com eles, nem assim te fartaste.",
+      "palavras": [
+        { "hebraico": "וַתִּזְנִי", "transliteral": "wat-tiz-nî", "traducao_palavra": "e te prostituíste" },
+        { "hebraico": "עִם־בְּנֵ֣י", "transliteral": "ʿim-bə-nê", "traducao_palavra": "com os filhos de" },
+        { "hebraico": "אַשּׁוּר", "transliteral": "ʾaš-šûr", "traducao_palavra": "Assíria" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "Multiplicaste também a tua prostituição na terra de Canaã, até a Caldeia; e nem ainda com isto te fartaste.",
+      "palavras": [
+        { "hebraico": "וַתַּרְבִּי", "transliteral": "wat-tar-bî", "traducao_palavra": "multiplicaste" },
+        { "hebraico": "אֶת־זְנוּתֵךְ", "transliteral": "ʾeṯ-zə-nû-ṯêḵ", "traducao_palavra": "a tua prostituição" },
+        { "hebraico": "בְּאֶרֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra de" },
+        { "hebraico": "כְּנָעַן", "transliteral": "kə-nā-ʿan", "traducao_palavra": "Canaã" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "Quão fraco é o teu coração, diz o Senhor YHWH, fazendo tu todas estas coisas, obra de uma mulher prostituta e dominadora!",
+      "palavras": [
+        { "hebraico": "מָ֣ה", "transliteral": "māh", "traducao_palavra": "quão" },
+        { "hebraico": "אֲמֻלָ֣ה", "transliteral": "ʾă-mu-lā", "traducao_palavra": "fraco é" },
+        { "hebraico": "לִבֵּךְ", "transliteral": "lib-bēḵ", "traducao_palavra": "teu coração" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "Edificando tu as tuas abóbadas na cabeça de cada caminho, e fazendo os teus altares em todas as praças, não foste como a prostituta, pois desprezaste a paga.",
+      "palavras": [
+        { "hebraico": "בִּבְנֹותַיִךְ", "transliteral": "biḇ-nô-ṯa-yiḵ", "traducao_palavra": "edificando tu" },
+        { "hebraico": "גַּבֵּךְ", "transliteral": "gab-bēḵ", "traducao_palavra": "tua abóbada" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "Ó mulher adúltera, que em lugar de seu marido recebe os estranhos!",
+      "palavras": [
+        { "hebraico": "הָאִשָּׁה", "transliteral": "hā-ʾiš-šā", "traducao_palavra": "a mulher" },
+        { "hebraico": "הַמְנָאָפֶת", "transliteral": "ham-nā-ʾā-p̄eṯ", "traducao_palavra": "adúltera" },
+        { "hebraico": "תַּחַת", "transliteral": "ta-ḥaṯ", "traducao_palavra": "em lugar de" },
+        { "hebraico": "אִישָׁהּ", "transliteral": "ʾî-šāh", "traducao_palavra": "seu marido" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "A todas as prostitutas dão presentes, mas tu deste os teus presentes a todos os teus amantes; e os subornaste, para que viessem a ti de todas as partes, para te prostituíres com eles.",
+      "palavras": [
+        { "hebraico": "לְכָל־זֹונֹות", "transliteral": "lə-ḵāl-zô-nôṯ", "traducao_palavra": "a todas as prostitutas" },
+        { "hebraico": "יִתְּנוּ־נֵדֶה", "transliteral": "yit-tə-nû-nē-ḏeh", "traducao_palavra": "dão presentes" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "Assim, em ti aconteceu o contrário de outras mulheres nas tuas prostituições: a ti ninguém andou seguindo para se prostituir, e tu dás a paga, e não a recebes; por isso és o contrário.",
+      "palavras": [
+        { "hebraico": "וַיְהִי־בָ֤ךְ", "transliteral": "way-hî-ḇāḵ", "traducao_palavra": "e em ti aconteceu" },
+        { "hebraico": "הֶפֶךְ", "transliteral": "he-p̄eḵ", "traducao_palavra": "o contrário" },
+        { "hebraico": "מִן־הַנָּשִׁים", "transliteral": "min-han-nā-šîm", "traducao_palavra": "das mulheres" }
+      ]
+    },
+    "35": {
+      "traducao_completa": "Portanto, ó prostituta, ouve a palavra de YHWH:",
+      "palavras": [
+        { "hebraico": "לָכֵ֖ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "זֹונָה", "transliteral": "zô-nā", "traducao_palavra": "ó prostituta" },
+        { "hebraico": "שִׁמְעִ֖י", "transliteral": "šim-ʿî", "traducao_palavra": "ouve" },
+        { "hebraico": "דְּבַר־יְהוָֽה׃", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" }
+      ]
+    },
+    "36": {
+      "traducao_completa": "Assim diz o Senhor YHWH: Porquanto a tua imundícia foi derramada, e a tua nudez foi descoberta nas tuas prostituições com os teus amantes, e com todos os ídolos das tuas abominações, e pelo sangue dos teus filhos, que lhes deste,",
+      "palavras": [
+        { "hebraico": "בְּהִשָּׁפֵ֤ךְ", "transliteral": "bə-hiš-šā-p̄ēḵ", "traducao_palavra": "porquanto derramada" },
+        { "hebraico": "נְחֻשְׁתֵּךְ", "transliteral": "nə-ḥuš-tēḵ", "traducao_palavra": "tua imundícia" },
+        { "hebraico": "וְעֶרְוָתֵךְ", "transliteral": "wə-ʿer-wā-ṯēḵ", "traducao_palavra": "e tua nudez" }
+      ]
+    },
+    "37": {
+      "traducao_completa": "Eis que ajuntarei todos os teus amantes, com os quais te deleitaste, e todos os que amaste, com todos os que aborreceste; e ajuntá-los-ei contra ti de todas as partes, e descobrirei a tua nudez diante deles, para que vejam toda a tua nudez.",
+      "palavras": [
+        { "hebraico": "וְגִלִּיתִי", "transliteral": "wə-gil-lî-ṯî", "traducao_palavra": "e descobrirei" },
+        { "hebraico": "אֶת־עֶרְוָתֵךְ", "transliteral": "ʾeṯ-ʿer-wā-ṯēḵ", "traducao_palavra": "a tua nudez" }
+      ]
+    },
+    "38": {
+      "traducao_completa": "Julgar-te-ei como são julgadas as adúlteras e as derramadoras de sangue; e farei com que o sangue do furor e do ciúme caia sobre ti.",
+      "palavras": [
+        { "hebraico": "וּשְׁפַטְתִּ֖יךְ", "transliteral": "ū-šə-p̄aṭ-tîḵ", "traducao_palavra": "e julgar-te-ei" },
+        { "hebraico": "מִשְׁפְּטֵי", "transliteral": "miš-pə-ṭê", "traducao_palavra": "juízos de" },
+        { "hebraico": "נֹאֲפֹות", "transliteral": "nō-ʾă-p̄ôṯ", "traducao_palavra": "adúlteras" }
+      ]
+    },
+    "39": {
+      "traducao_completa": "Entregar-te-ei também na mão deles, e derrubarão a tua abóbada, e destruir-te-ão as tuas eminências; despir-te-ão dos teus vestidos, e tomarão as tuas belas joias, e deixar-te-ão nua e descoberta.",
+      "palavras": [
+        { "hebraico": "וְנָתַתִּ֤י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e entregarei" },
+        { "hebraico": "אֹותָךְ", "transliteral": "ʾô-ṯāḵ", "traducao_palavra": "te" }
+      ]
+    },
+    "40": {
+      "traducao_completa": "Também levantarão contra ti uma multidão, e te apedrejarão com pedras, e te traspassarão com as suas espadas.",
+      "palavras": [
+        { "hebraico": "וְהֶעֱל֤וּ", "transliteral": "wə-he-ʿĕ-lû", "traducao_palavra": "e levantarão" },
+        { "hebraico": "עָלַיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "contra ti" },
+        { "hebraico": "קָהָל", "transliteral": "qā-hāl", "traducao_palavra": "uma multidão" }
+      ]
+    },
+    "41": {
+      "traducao_completa": "E queimarão as tuas casas no fogo, e executarão juízos contra ti, à vista de muitas mulheres; farei cessar a tua prostituição, e já não darás paga.",
+      "palavras": [
+        { "hebraico": "וְשָׂרְפ֤וּ", "transliteral": "wə-śā-rə-p̄û", "traducao_palavra": "e queimarão" },
+        { "hebraico": "בָתַּיִךְ", "transliteral": "ḇāt-ta-yiḵ", "traducao_palavra": "tuas casas" }
+      ]
+    },
+    "42": {
+      "traducao_completa": "Assim satisfarei em ti o meu furor, e o meu ciúme se apartará de ti; e calar-me-ei, e não me irarei mais.",
+      "palavras": [
+        { "hebraico": "וַהֲנִיחֹותִי", "transliteral": "wa-hă-nî-ḥô-ṯî", "traducao_palavra": "e farei repousar/satisfarei" },
+        { "hebraico": "חֲמָתִ֖י", "transliteral": "ḥă-mā-ṯî", "traducao_palavra": "meu furor" }
+      ]
+    },
+    "43": {
+      "traducao_completa": "Porquanto não te lembraste dos dias da tua mocidade, mas me irritaste com todas estas coisas; eis que, pois, eu farei recair o teu caminho sobre a tua cabeça, diz o Senhor YHWH, e não cometerás mais esta maldade sobre todas as tuas abominações.",
+      "palavras": [
+        { "hebraico": "יַ֣עַן", "transliteral": "ya-ʿan", "traducao_palavra": "porquanto" },
+        { "hebraico": "לֹא־זָכַ֣רְתְּ", "transliteral": "lō-zā-ḵar-tə", "traducao_palavra": "não te lembraste" }
+      ]
+    },
+    "44": {
+      "traducao_completa": "Eis que todo o que usa provérbios dirá contra ti: Tal mãe, tal filha.",
+      "palavras": [
+        { "hebraico": "הִנֵּה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "כָּל־מֹשֵׁל", "transliteral": "kāl-mō-šēl", "traducao_palavra": "todo o que profere provérbios" }
+      ]
+    },
+    "45": {
+      "traducao_completa": "Tu és filha de tua mãe, que detestou a seu marido e a seus filhos; e tu és irmã de tuas irmãs, que detestaram a seus maridos e a seus filhos; vossa mãe foi heteia, e vosso pai, amorreu.",
+      "palavras": [
+        { "hebraico": "בַּת־אִמֵּךְ", "transliteral": "baṯ-ʾim-mēḵ", "traducao_palavra": "filha de tua mãe" }
+      ]
+    },
+    "46": {
+      "traducao_completa": "E a tua irmã mais velha é Samaria, que habita à esquerda de ti, ela e suas filhas; e a tua irmã mais nova, que habita à direita de ti, é Sodoma e suas filhas.",
+      "palavras": [
+        { "hebraico": "וַאֲחֹותֵ֤ךְ", "transliteral": "wa-ʾă-ḥô-ṯēḵ", "traducao_palavra": "e tua irmã" },
+        { "hebraico": "הַגְּדֹלָה", "transliteral": "haḡ-ḡə-ḏō-lā", "traducao_palavra": "a maior" }
+      ]
+    },
+    "47": {
+      "traducao_completa": "Mas não andaste somente nos seus caminhos, nem fizeste apenas segundo as suas abominações; antes, como se isso fosse pouco, te corrompeste mais do que elas em todos os teus caminhos.",
+      "palavras": [
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "בְּדַרְכֵיהֶן", "transliteral": "bə-ḏar-ḵê-hen", "traducao_palavra": "nos caminhos delas" }
+      ]
+    },
+    "48": {
+      "traducao_completa": "Vivo eu, diz o Senhor YHWH, que Sodoma, tua irmã, ela e as suas filhas, não fizeram como fizeste tu e as tuas filhas.",
+      "palavras": [
+        { "hebraico": "חַי־אָנִי", "transliteral": "ḥay-ʾā-nî", "traducao_palavra": "vivo eu" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" }
+      ]
+    },
+    "49": {
+      "traducao_completa": "Eis que esta foi a iniquidade de Sodoma: soberba, fartura de pão e abundância de ociosidade teve ela e suas filhas; mas não fortaleceu a mão do pobre e do necessitado.",
+      "palavras": [
+        { "hebraico": "הִנֵּה־זֶ֧ה", "transliteral": "hin-nēh-zeh", "traducao_palavra": "eis que esta" },
+        { "hebraico": "הָיָ֣ה", "transliteral": "hā-yā", "traducao_palavra": "foi" },
+        { "hebraico": "עֲוֹן", "transliteral": "ʿă-wōn", "traducao_palavra": "iniquidade de" }
+      ]
+    },
+    "50": {
+      "traducao_completa": "E foram soberbas, e fizeram abominações diante de mim; pelo que as tirei dali, quando vi isso.",
+      "palavras": [
+        { "hebraico": "וַתִּגְבַּ֧הְנָה", "transliteral": "wat-tiḡ-bah-nā", "traducao_palavra": "e foram soberbas" },
+        { "hebraico": "וַתַּעֲשֶׂ֥ינָה", "transliteral": "wat-ta-ʿă-śê-nā", "traducao_palavra": "e fizeram" }
+      ]
+    },
+    "51": {
+      "traducao_completa": "Nem Samaria pecou metade dos teus pecados, porque multiplicaste as tuas abominações mais do que elas, e justificaste as tuas irmãs com todas as abominações que fizeste.",
+      "palavras": [
+        { "hebraico": "וְשֹׁמְרֹ֗ון", "transliteral": "wə-šō-mə-rôn", "traducao_palavra": "e Samaria" },
+        { "hebraico": "כַּחֲצִי", "transliteral": "ka-ḥă-ṣî", "traducao_palavra": "a metade de" }
+      ]
+    },
+    "52": {
+      "traducao_completa": "Tu também, que julgaste as tuas irmãs, leva a tua vergonha pelos pecados que fizeste, mais abomináveis do que os delas; elas são mais justas do que tu; cora, pois, também tu, e leva a tua vergonha, porquanto justificaste as tuas irmãs.",
+      "palavras": [
+        { "hebraico": "גַּם־אַתְּ", "transliteral": "gam-ʾat", "traducao_palavra": "também tu" },
+        { "hebraico": "שְׂאִי", "transliteral": "śə-ʾî", "traducao_palavra": "leva" },
+        { "hebraico": "כְלִמָּתֵךְ", "transliteral": "ḵə-lim-mā-ṯēḵ", "traducao_palavra": "tua vergonha" }
+      ]
+    },
+    "53": {
+      "traducao_completa": "Mas eu farei voltar os seus cativos, o cativeiro de Sodoma e das suas filhas, e o cativeiro de Samaria e das suas filhas; e farei voltar os teus cativos no meio delas,",
+      "palavras": [
+        { "hebraico": "וְשַׁבְתִּי", "transliteral": "wə-šaḇ-tî", "traducao_palavra": "e farei voltar" },
+        { "hebraico": "אֶת־שְׁבִיתָן", "transliteral": "ʾeṯ-šə-ḇî-ṯān", "traducao_palavra": "o cativeiro delas" }
+      ]
+    },
+    "54": {
+      "traducao_completa": "Para que leves a tua vergonha e sejas envergonhada de tudo o que fizeste, servindo-lhes de consolo.",
+      "palavras": [
+        { "hebraico": "לְמַעַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "תִּשְׂאִי", "transliteral": "tiś-ʾî", "traducao_palavra": "leves" },
+        { "hebraico": "כְלִמָּתֵךְ", "transliteral": "ḵə-lim-mā-ṯēḵ", "traducao_palavra": "tua vergonha" }
+      ]
+    },
+    "55": {
+      "traducao_completa": "E as tuas irmãs, Sodoma e as suas filhas, tornarão ao seu estado anterior; e Samaria e as suas filhas tornarão ao seu estado anterior; e tu e as tuas filhas tornareis ao vosso estado anterior.",
+      "palavras": [
+        { "hebraico": "וַאֲחֹתַיִךְ", "transliteral": "wa-ʾă-ḥō-ṯa-yiḵ", "traducao_palavra": "e tuas irmãs" },
+        { "hebraico": "סְדֹם", "transliteral": "sə-ḏōm", "traducao_palavra": "Sodoma" }
+      ]
+    },
+    "56": {
+      "traducao_completa": "Não foi Sodoma, tua irmã, um objeto de escárnio na tua boca, no dia da tua soberba,",
+      "palavras": [
+        { "hebraico": "וְלֹֽא־הָיְתָה", "transliteral": "wə-lō-hā-yə-ṯā", "traducao_palavra": "e não foi" },
+        { "hebraico": "סְדֹם", "transliteral": "sə-ḏōm", "traducao_palavra": "Sodoma" }
+      ]
+    },
+    "57": {
+      "traducao_completa": "Antes que a tua maldade fosse descoberta, como no tempo do teu opróbrio, quando as filhas dos siros e todos os que estão ao redor dela, as filhas dos filisteus, que te desprezam de todas as partes, a atacaram?",
+      "palavras": [
+        { "hebraico": "בְּטֶרֶם", "transliteral": "bə-ṭe-rem", "traducao_palavra": "antes que" },
+        { "hebraico": "תִּגָּלֶה", "transliteral": "tiḡ-lêh", "traducao_palavra": "fosse descoberta" }
+      ]
+    },
+    "58": {
+      "traducao_completa": "Tu levarás a tua maldade e as tuas abominações, diz YHWH.",
+      "palavras": [
+        { "hebraico": "אֶת־זִמָּתֵךְ", "transliteral": "ʾeṯ-zim-mā-ṯēḵ", "traducao_palavra": "a tua maldade/lascívia" },
+        { "hebraico": "וְאֶת־תֹּועֲבֹתַיִךְ", "transliteral": "wə-ʾeṯ-tô-ʿă-ḇō-ṯa-yiḵ", "traducao_palavra": "e as tuas abominações" }
+      ]
+    },
+    "59": {
+      "traducao_completa": "Porque assim diz o Senhor YHWH: Eu te farei como tu fizeste, tu que desprezaste o juramento, rompendo a aliança.",
+      "palavras": [
+        { "hebraico": "וְעָשִׂ֥יתִי", "transliteral": "wə-ʿā-śî-ṯî", "traducao_palavra": "e farei" },
+        { "hebraico": "אֹותָךְ", "transliteral": "ʾō-ṯāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "כַּאֲשֶׁ֣ר", "transliteral": "ka-ʾă-šer", "traducao_palavra": "conforme" },
+        { "hebraico": "עָשִׂ֑ית", "transliteral": "ʿā-śîṯ", "traducao_palavra": "fizeste" }
+      ]
+    },
+    "60": {
+      "traducao_completa": "Contudo, eu me lembrarei da aliança que fiz contigo nos dias da tua mocidade; e estabelecerei contigo uma aliança eterna.",
+      "palavras": [
+        { "hebraico": "וְזָכַרְתִּ֣י", "transliteral": "wə-zā-ḵar-tî", "traducao_palavra": "e eu me lembrarei" },
+        { "hebraico": "אֲנִ֤י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "אֶת־בְּרִיתִי", "transliteral": "ʾeṯ-bə-rî-ṯî", "traducao_palavra": "a minha aliança" }
+      ]
+    },
+    "61": {
+      "traducao_completa": "Então te lembrarás dos teus caminhos, e te envergonharás, quando receberes as tuas irmãs, as mais velhas do que tu, com as mais novas do que tu; e mas darei a ti por filhas, mas não pela tua aliança.",
+      "palavras": [
+        { "hebraico": "וְזָכַ֣רְתְּ", "transliteral": "wə-zā-ḵar-tə", "traducao_palavra": "e te lembrarás" },
+        { "hebraico": "אֶת־דְּרָכַיִךְ", "transliteral": "ʾeṯ-də-rā-ḵa-yiḵ", "traducao_palavra": "dos teus caminhos" }
+      ]
+    },
+    "62": {
+      "traducao_completa": "E estabelecerei a minha aliança contigo, e saberás que eu sou YHWH,",
+      "palavras": [
+        { "hebraico": "וַהֲקִמֹותִ֥י", "transliteral": "wa-hă-qî-mô-ṯî", "traducao_palavra": "e estabelecerei" },
+        { "hebraico": "אֲנִ֧י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "אֶת־בְּרִיתִי", "transliteral": "ʾeṯ-bə-rî-ṯî", "traducao_palavra": "a minha aliança" }
+      ]
+    },
+    "63": {
+      "traducao_completa": "Para que te lembres, e te envergonhes, e nunca mais abras a tua boca, por causa da tua vergonha, quando eu te houver perdoado tudo o que fizeste, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "לְמַ֨עַן֙", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "תִּזְכְּרִ֔י", "transliteral": "ti-zə-kə-rî", "traducao_palavra": "te lembres" },
+        { "hebraico": "וּבֹשְׁתְּ", "transliteral": "ū-ḇō-šət", "traducao_palavra": "e te envergonhes" }
+      ]
+    }
+  }
 }

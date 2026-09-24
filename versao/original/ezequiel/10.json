@@ -2,5 +2,198 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 10,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Então olhei, e eis que no firmamento que estava sobre a cabeça dos querubins apareceu sobre eles como uma pedra de safira, como a aparência de uma semelhança de trono.",
+      "palavras": [
+        { "hebraico": "וָאֶרְאֶה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "עַל־הָרָקִ֗יעַ", "transliteral": "ʿal-hā-rā-qî-aʿ", "traducao_palavra": "sobre o firmamento" },
+        { "hebraico": "אֲשֶׁר֙", "transliteral": "ʾă-šer", "traducao_palavra": "que [estava]" },
+        { "hebraico": "עַל־רֹאשׁ֙", "transliteral": "ʿal-rōš", "traducao_palavra": "sobre a cabeça" },
+        { "hebraico": "הַכְּרֻבִ֔ים", "transliteral": "hak-kə-ru-ḇîm", "traducao_palavra": "dos querubins" },
+        { "hebraico": "כְּאֶבֶן", "transliteral": "kə-ʾe-ḇen", "traducao_palavra": "como [uma] pedra" },
+        { "hebraico": "סַפִּיר", "transliteral": "sap-pîr", "traducao_palavra": "de safira" },
+        { "hebraico": "כְּמַרְאֵה", "transliteral": "kə-mar-ʾēh", "traducao_palavra": "como a aparência de" },
+        { "hebraico": "דְּמוּת", "transliteral": "də-mûṯ", "traducao_palavra": "semelhança de" },
+        { "hebraico": "כִּסֵּא", "transliteral": "kis-śē", "traducao_palavra": "[um] trono" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E falou ao homem vestido de linho, e disse: Entra no meio das rodas, debaixo dos querubins, e enche as mãos de brasas de fogo de entre os querubins, e espalha-as sobre a cidade. E ele entrou à minha vista.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֶל־הָאִישׁ", "transliteral": "ʾel-hā-ʾîš", "traducao_palavra": "ao homem" },
+        { "hebraico": "לְבוּשׁ", "transliteral": "lə-ḇûš", "traducao_palavra": "vestido de" },
+        { "hebraico": "הַבַּדִּים", "transliteral": "hab-bad-dîm", "traducao_palavra": "linho" },
+        { "hebraico": "בֹּא", "transliteral": "bō", "traducao_palavra": "entra" },
+        { "hebraico": "אֶל־בֵּינֹות", "transliteral": "ʾel-bê-nôṯ", "traducao_palavra": "para o meio de" },
+        { "hebraico": "לַגַּלְגַּל", "transliteral": "laḡ-gal-gal", "traducao_palavra": "das rodas" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Os querubins estavam à direita da casa, quando o homem entrou; e a nuvem encheu o átrio interior.",
+      "palavras": [
+        { "hebraico": "וְהַכְּרֻבִים", "transliteral": "wə-hak-kə-ru-ḇîm", "traducao_palavra": "e os querubins" },
+        { "hebraico": "עֹמְדִים", "transliteral": "ʿō-mə-ḏîm", "traducao_palavra": "estavam em pé" },
+        { "hebraico": "מִימִין", "transliteral": "mî-mîn", "traducao_palavra": "à direita da" },
+        { "hebraico": "הַבָּיִת", "transliteral": "hab-bā-yiṯ", "traducao_palavra": "casa" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Então se levantou a glória de YHWH de sobre o querubim, para o limiar da casa; e a casa encheu-se da nuvem, e o átrio encheu-se do resplendor da glória de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיָּרָם", "transliteral": "way-yā-rām", "traducao_palavra": "e levantou-se" },
+        { "hebraico": "כְּבֹוד", "transliteral": "kə-ḇôḏ", "traducao_palavra": "a glória de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "מֵעַל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "הַכְּרוּב", "transliteral": "hak-kə-rûḇ", "traducao_palavra": "o querubim" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E o som das asas dos querubins ouviu-se até ao átrio exterior, como a voz do Deus Todo-Poderoso, quando fala.",
+      "palavras": [
+        { "hebraico": "וְקֹול", "transliteral": "wə-qôl", "traducao_palavra": "e o som/voz de" },
+        { "hebraico": "כַּנְפֵי", "transliteral": "kan-p̄ê", "traducao_palavra": "asas de" },
+        { "hebraico": "הַכְּרוּבִים", "transliteral": "hak-kə-ru-ḇîm", "traducao_palavra": "os querubins" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E sucedeu que, quando ele deu ordem ao homem vestido de linho, dizendo: Toma fogo de entre as rodas, de entre os querubins, ele entrou e pôs-se junto às rodas.",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בְּצַוֹּתוֹ", "transliteral": "bə-ṣaw-wə-ṯô", "traducao_palavra": "ao dar ordem ele" },
+        { "hebraico": "אֶת־הָאִישׁ", "transliteral": "ʾeṯ-hā-ʾîš", "traducao_palavra": "ao homem" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E um querubim estendeu a mão de entre os querubins para o fogo que estava entre os querubins, e tomou dele, e pô-lo nas mãos do que estava vestido de linho, o qual o tomou e saiu.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁלַח", "transliteral": "way-yiš-laḥ", "traducao_palavra": "e estendeu" },
+        { "hebraico": "הַכְּרוּב", "transliteral": "hak-kə-rûḇ", "traducao_palavra": "o querubim" },
+        { "hebraico": "יָדֹו", "transliteral": "yā-ḏô", "traducao_palavra": "sua mão" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E apareceu nos querubins uma semelhança de mão de homem debaixo das suas asas.",
+      "palavras": [
+        { "hebraico": "וַיֵּרָא", "transliteral": "way-yē-rā", "traducao_palavra": "e apareceu" },
+        { "hebraico": "בַּכְּרוּבִים", "transliteral": "baḵ-kə-ru-ḇîm", "traducao_palavra": "nos querubins" },
+        { "hebraico": "תַּבְנִית", "transliteral": "ṯaḇ-nîṯ", "traducao_palavra": "semelhança de" },
+        { "hebraico": "יַד־אָדָם", "transliteral": "yaḏ-ʾā-ḏām", "traducao_palavra": "mão de homem" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E olhei, e eis quatro rodas junto aos querubins, uma roda junto a um querubim, e outra roda junto a outro querubim; e o aspecto das rodas era como a cor de pedra de berilo.",
+      "palavras": [
+        { "hebraico": "וָאֶרְאֶה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "אַרְבָּעָה", "transliteral": "ʾar-bā-ʿā", "traducao_palavra": "quatro" },
+        { "hebraico": "אֹופַנִּים", "transliteral": "ʾô-p̄an-nîm", "traducao_palavra": "rodas" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E, quanto ao seu aspecto, as quatro tinham uma mesma semelhança, como se uma roda estivesse no meio de outra roda.",
+      "palavras": [
+        { "hebraico": "וּמַרְאֵיהֶן", "transliteral": "ū-mar-ʾê-hen", "traducao_palavra": "e a aparência delas" },
+        { "hebraico": "דְּמוּת", "transliteral": "də-mûṯ", "traducao_palavra": "semelhança" },
+        { "hebraico": "אֶחָת", "transliteral": "ʾe-ḥāṯ", "traducao_palavra": "uma" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Andando elas, iam em qualquer das suas quatro direções; não se viravam quando andavam, mas para o lugar para onde olhava a cabeça, seguiam-na; não se viravam quando andavam.",
+      "palavras": [
+        { "hebraico": "בְּלֶכְתָּם", "transliteral": "bə-leḵ-tām", "traducao_palavra": "ao andarem" },
+        { "hebraico": "עַל־אַרְבַּע", "transliteral": "ʿal-ʾar-baʿ", "traducao_palavra": "para quatro" },
+        { "hebraico": "רִבְעֵיהֶם", "transliteral": "riḇ-ʿê-hem", "traducao_palavra": "direções" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E todo o seu corpo, e as suas costas, e as suas mãos, e as suas asas, e as rodas estavam cheias de olhos ao redor; as rodas que os quatro tinham.",
+      "palavras": [
+        { "hebraico": "וְכָל־בְּשָׂרָם", "transliteral": "wə-ḵāl-bə-śā-rām", "traducao_palavra": "e todo o corpo deles" },
+        { "hebraico": "וְגַבֹּתָם", "transliteral": "wə-ḡab-bō-ṯām", "traducao_palavra": "e suas costas" },
+        { "hebraico": "עֵינַיִם", "transliteral": "ʿê-na-yim", "traducao_palavra": "olhos" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Às rodas, ouvi que se chamava: Roda.",
+      "palavras": [
+        { "hebraico": "לָאֹופַנִּים", "transliteral": "lā-ʾô-p̄an-nîm", "traducao_palavra": "às rodas" },
+        { "hebraico": "קָרָ֥א", "transliteral": "qā-rā", "traducao_palavra": "[se] chamava" },
+        { "hebraico": "הַגַּלְגַּֽל׃", "transliteral": "haḡ-gal-gal", "traducao_palavra": "Roda" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E cada um tinha quatro rostos: o primeiro era rosto de querubim, o segundo, rosto de homem, o terceiro, rosto de leão, e o quarto, rosto de águia.",
+      "palavras": [
+        { "hebraico": "אַרְבָּעָ֥ה", "transliteral": "ʾar-bā-ʿā", "traducao_palavra": "quatro" },
+        { "hebraico": "פָנִ֖ים", "transliteral": "p̄ā-nîm", "traducao_palavra": "rostos" },
+        { "hebraico": "לְאֶחָ֑ד", "transliteral": "lə-ʾe-ḥāḏ", "traducao_palavra": "a cada um" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E os querubins se elevaram; estes são os seres viventes que vi junto ao rio Quebar.",
+      "palavras": [
+        { "hebraico": "וַיֵּרֹ֣מּוּ", "transliteral": "way-yē-rōm-mû", "traducao_palavra": "e elevaram-se" },
+        { "hebraico": "הַכְּרוּבִ֔ים", "transliteral": "hak-kə-ru-ḇîm", "traducao_palavra": "os querubins" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Andando os querubins, andavam as rodas ao lado deles; e elevando os querubins as suas asas para se elevarem da terra, também as rodas não se apartavam de junto deles.",
+      "palavras": [
+        { "hebraico": "בְּלֶכֶת", "transliteral": "bə-le-ḵeṯ", "traducao_palavra": "ao andarem" },
+        { "hebraico": "הַכְּרוּבִים", "transliteral": "hak-kə-ru-ḇîm", "traducao_palavra": "os querubins" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Quando aqueles paravam, paravam estas; e, quando aqueles se elevavam, elevavam-se estas também; porque o espírito do ser vivente estava nelas.",
+      "palavras": [
+        { "hebraico": "בְּעָמְדָ֣ם", "transliteral": "bə-ʿām-ḏām", "traducao_palavra": "ao pararem eles" },
+        { "hebraico": "יַעֲמֹ֑דוּ", "transliteral": "ya-ʿă-mō-ḏû", "traducao_palavra": "paravam" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Então saiu a glória de YHWH de sobre o limiar da casa, e parou sobre os querubins.",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵא", "transliteral": "way-yê-ṣē", "traducao_palavra": "e saiu" },
+        { "hebraico": "כְּבֹוד", "transliteral": "kə-ḇôḏ", "traducao_palavra": "a glória de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E os querubins levantaram as suas asas, e se elevaram da terra diante dos meus olhos; quando saíram, as rodas os acompanhavam; e pararam à entrada da porta oriental da casa de YHWH, e a glória do Deus de Israel estava em cima sobre eles.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׂא֨וּ", "transliteral": "way-yiś-ʾû", "traducao_palavra": "e levantaram" },
+        { "hebraico": "הַכְּרוּבִ֜ים", "transliteral": "hak-kə-ru-ḇîm", "traducao_palavra": "os querubins" },
+        { "hebraico": "אֶת־כַּנְפֵיהֶם", "transliteral": "ʾeṯ-kan-p̄ê-hem", "traducao_palavra": "suas asas" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Estes são os seres viventes que vi debaixo do Deus de Israel junto ao rio Quebar; e soube que eram querubins.",
+      "palavras": [
+        { "hebraico": "הִיא", "transliteral": "hî", "traducao_palavra": "esta [é]" },
+        { "hebraico": "הַחַיָּה", "transliteral": "ha-ḥay-yā", "traducao_palavra": "a ser vivente" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "רָאִ֔יתִי", "transliteral": "rā-ʾî-ṯî", "traducao_palavra": "eu vi" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Cada um tinha quatro rostos, e cada um quatro asas; e a semelhança das mãos de homem estava debaixo das suas asas.",
+      "palavras": [
+        { "hebraico": "אַרְבָּעָ֥ה", "transliteral": "ʾar-bā-ʿā", "traducao_palavra": "quatro" },
+        { "hebraico": "פָנִ֖ים", "transliteral": "p̄ā-nîm", "traducao_palavra": "rostos" },
+        { "hebraico": "לְאֶחָ֑ד", "transliteral": "lə-ʾe-ḥāḏ", "traducao_palavra": "a cada um" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E a semelhança dos seus rostos era a mesma dos rostos que eu vi junto ao rio Quebar, conforme a sua aparência e a eles mesmos; cada um andava para a frente.",
+      "palavras": [
+        { "hebraico": "וּדְמ֣וּת", "transliteral": "ū-də-mûṯ", "traducao_palavra": "e a semelhança de" },
+        { "hebraico": "פְּנֵיהֶ֗ם", "transliteral": "pə-nê-hem", "traducao_palavra": "rostos deles" },
+        { "hebraico": "הֵ֚מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "הַפָּנִים", "transliteral": "hap-pā-nîm", "traducao_palavra": "os rostos" }
+      ]
+    }
+  }
 }

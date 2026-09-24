@@ -2,5 +2,251 @@
   "livro": "Lamentações - אֵיכָה - Eikhah",
   "capítulo": 5,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Lembra-te, ó YHWH, do que nos tem sucedido; considera e olha para o nosso opróbrio.",
+      "palavras": [
+        { "hebraico": "זְכֹ֥ר", "transliteral": "zə-ḵōr", "traducao_palavra": "lembra-te" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "מֶֽה־הָיָ֣ה", "transliteral": "meh-hā-yā", "traducao_palavra": "o que aconteceu" },
+        { "hebraico": "לָ֑נוּ", "transliteral": "lā-nû", "traducao_palavra": "a nós" },
+        { "hebraico": "הַבִּ֖יטָה", "transliteral": "hab-bî-ṭā", "traducao_palavra": "considera" },
+        { "hebraico": "וּרְאֵ֥ה", "transliteral": "ū-rə-ʾēh", "traducao_palavra": "e olha" },
+        { "hebraico": "אֶת־חֶרְפָּתֵֽנוּ׃", "transliteral": "ʾeṯ-ḥer-pā-ṯê-nû", "traducao_palavra": "o nosso opróbrio" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "A nossa herança passou a estranhos, as nossas casas a estrangeiros.",
+      "palavras": [
+        { "hebraico": "נַחֲלָתֵנוּ", "transliteral": "na-ḥă-lā-ṯê-nû", "traducao_palavra": "nossa herança" },
+        { "hebraico": "נֶהֶפְכָה", "transliteral": "ne-hep̄-ḵā", "traducao_palavra": "passou/mudou" },
+        { "hebraico": "לְזָרִים", "transliteral": "lə-zā-rîm", "traducao_palavra": "a estranhos" },
+        { "hebraico": "בָּתֵּ֖ינוּ", "transliteral": "ḇāt-tê-nû", "traducao_palavra": "nossas casas" },
+        { "hebraico": "לְנָכְרִֽים׃", "transliteral": "lə-nā-ḵə-rîm", "traducao_palavra": "a estrangeiros" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Órfãos somos, sem pai; as nossas mães são como viúvas.",
+      "palavras": [
+        { "hebraico": "יְתֹומִים", "transliteral": "yə-ṯô-mîm", "traducao_palavra": "órfãos" },
+        { "hebraico": "הָיִ֖ינוּ", "transliteral": "hā-yî-nû", "traducao_palavra": "somos" },
+        { "hebraico": "אֵ֣ין", "transliteral": "ʾên", "traducao_palavra": "sem" },
+        { "hebraico": "אָ֑ב", "transliteral": "ʾāḇ", "traducao_palavra": "pai" },
+        { "hebraico": "אִמֹּתֵ֖ינוּ", "transliteral": "ʾim-mō-ṯê-nû", "traducao_palavra": "nossas mães" },
+        { "hebraico": "כְּאַלְמָנֹֽות׃", "transliteral": "kə-ʾal-mā-nôṯ", "traducao_palavra": "como viúvas" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "A nossa água bebemos por dinheiro; a nossa lenha por preço a compramos.",
+      "palavras": [
+        { "hebraico": "מֵימֵ֖ינוּ", "transliteral": "mê-mê-nû", "traducao_palavra": "nossa água" },
+        { "hebraico": "בְּכֶ֣סֶף", "transliteral": "bə-ḵe-sep̄", "traducao_palavra": "por dinheiro" },
+        { "hebraico": "שָׁתִ֑ינוּ", "transliteral": "šā-ṯî-nû", "traducao_palavra": "bebemos" },
+        { "hebraico": "עֵצֵ֖ינוּ", "transliteral": "ʿē-ṣê-nû", "traducao_palavra": "nossa lenha" },
+        { "hebraico": "בִּמְחִ֥יר", "transliteral": "bim-ḥîr", "traducao_palavra": "por preço" },
+        { "hebraico": "יָבֹֽאוּ׃", "transliteral": "yā-ḇō-ʾû", "traducao_palavra": "a compramos [literal: entram]" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Os nossos perseguidores estão sobre os nossos pescoços; estamos cansados e não temos descanso.",
+      "palavras": [
+        { "hebraico": "עַל־צַוָּארֵ֖נוּ", "transliteral": "ʿal-ṣaw-wā-rê-nû", "traducao_palavra": "sobre nossos pescoços" },
+        { "hebraico": "נִרְדָּ֑פְנוּ", "transliteral": "nir-dā-p̄ə-nû", "traducao_palavra": "somos perseguidos" },
+        { "hebraico": "יָגַ֖עְנוּ", "transliteral": "yā-ḡaʿ-nû", "traducao_palavra": "estamos cansados" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "הוּנַֽח־לָֽנוּ׃", "transliteral": "hû-naḥ-lā-nû", "traducao_palavra": "não temos descanso" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Ao Egito demos a mão, e à Assíria, para nos fartarmos de pão.",
+      "palavras": [
+        { "hebraico": "מִצְרַיִם", "transliteral": "miṣ-ra-yim", "traducao_palavra": "Egito" },
+        { "hebraico": "נָתַ֣נּוּ", "transliteral": "nā-ṯan-nû", "traducao_palavra": "demos" },
+        { "hebraico": "יָ֑ד", "transliteral": "yāḏ", "traducao_palavra": "a mão" },
+        { "hebraico": "אַשּׁוּר", "transliteral": "ʾaš-šûr", "traducao_palavra": "Assíria" },
+        { "hebraico": "לִשְׂבֹּ֥עַ", "transliteral": "liš-bō-aʿ", "traducao_palavra": "para nos fartarmos" },
+        { "hebraico": "לָֽחֶם׃", "transliteral": "lā-ḥem", "traducao_palavra": "de pão" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Nossos pais pecaram, e já não existem; e nós levamos as suas iniquidades.",
+      "palavras": [
+        { "hebraico": "אֲבֹתֵ֥ינוּ", "transliteral": "ʾă-ḇô-ṯê-nû", "traducao_palavra": "nossos pais" },
+        { "hebraico": "חָטְא֖וּ", "transliteral": "ḥā-ṭə-ʾû", "traducao_palavra": "pecaram" },
+        { "hebraico": "אֵינָ֑ם", "transliteral": "ʾê-nām", "traducao_palavra": "já não existem" },
+        { "hebraico": "וַאֲנַ֖חְנוּ", "transliteral": "wa-ʾă-naḥ-nû", "traducao_palavra": "e nós" },
+        { "hebraico": "עֲוֹנֹתָ֥ם", "transliteral": "ʿă-wō-nō-ṯām", "traducao_palavra": "as iniquidades deles" },
+        { "hebraico": "סָבָֽלְנוּ׃", "transliteral": "śā-ḇā-lə-nû", "traducao_palavra": "levamos" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Escravos dominam sobre nós; não há quem nos livre da sua mão.",
+      "palavras": [
+        { "hebraico": "עֲבָדִים", "transliteral": "ʿă-ḇā-ḏîm", "traducao_palavra": "escravos" },
+        { "hebraico": "מָשְׁל֣וּ", "transliteral": "mā-šə-lû", "traducao_palavra": "dominam" },
+        { "hebraico": "בָ֑נוּ", "transliteral": "ḇā-nû", "traducao_palavra": "sobre nós" },
+        { "hebraico": "פֹּרֵ֖ק", "transliteral": "pō-rēq", "traducao_palavra": "livrador/quem resgate" },
+        { "hebraico": "אֵ֥ין", "transliteral": "ʾên", "traducao_palavra": "não há" },
+        { "hebraico": "מִיָּדָֽם׃", "transliteral": "miy-yā-ḏām", "traducao_palavra": "da mão deles" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Com perigo das nossas vidas trazemos o nosso pão, por causa da espada do deserto.",
+      "palavras": [
+        { "hebraico": "בְּנַפְשֵׁ֖נוּ", "transliteral": "bə-nap̄-šê-nû", "traducao_palavra": "com nossas vidas" },
+        { "hebraico": "נָבִ֣יא", "transliteral": "nā-ḇî", "traducao_palavra": "trazemos" },
+        { "hebraico": "לַחְמֵ֑נוּ", "transliteral": "laḥ-mē-nû", "traducao_palavra": "nosso pão" },
+        { "hebraico": "מִפְּנֵ֖י", "transliteral": "mip-pə-nê", "traducao_palavra": "por causa de" },
+        { "hebraico": "חֶ֥רֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "espada" },
+        { "hebraico": "הַמִּדְבָּֽר׃", "transliteral": "ham-miḏ-bār", "traducao_palavra": "do deserto" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "A nossa pele se enegreceu como um forno, por causa do ardor da fome.",
+      "palavras": [
+        { "hebraico": "עֹורֵ֔נוּ", "transliteral": "ʿô-rê-nû", "traducao_palavra": "nossa pele" },
+        { "hebraico": "כְּתַנּ֖וּר", "transliteral": "kə-ṯan-nûr", "traducao_palavra": "como um forno" },
+        { "hebraico": "נִכְמָ֑רוּ", "transliteral": "niḵ-mā-rû", "traducao_palavra": "enegreceu-se" },
+        { "hebraico": "מִפְּנֵ֖י", "transliteral": "mip-pə-nê", "traducao_palavra": "por causa de" },
+        { "hebraico": "זַלְעֲפֹ֥ות", "transliteral": "zal-ʿă-p̄ôṯ", "traducao_palavra": "ardor de" },
+        { "hebraico": "הָרָעָֽב׃", "transliteral": "hā-rā-ʿāḇ", "traducao_palavra": "fome" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Forçaram as mulheres em Sião, as virgens nas cidades de Judá.",
+      "palavras": [
+        { "hebraico": "נָשִׁים", "transliteral": "nā-šîm", "traducao_palavra": "mulheres" },
+        { "hebraico": "בְּצִיֹּ֣ון", "transliteral": "bə-ṣi-yôn", "traducao_palavra": "em Sião" },
+        { "hebraico": "עִנּ֔וּ", "transliteral": "ʿin-nû", "traducao_palavra": "forçaram/humilharam" },
+        { "hebraico": "בְּתֻלֹ֖ת", "transliteral": "bə-ṯu-lōṯ", "traducao_palavra": "virgens" },
+        { "hebraico": "בְּעָרֵ֥י", "transliteral": "bə-ʿā-rê", "traducao_palavra": "nas cidades de" },
+        { "hebraico": "יְהוּדָֽה׃", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Príncipes foram enforcados pelas suas mãos; os rostos dos anciãos não foram honrados.",
+      "palavras": [
+        { "hebraico": "שָׂרִים", "transliteral": "śā-rîm", "traducao_palavra": "príncipes" },
+        { "hebraico": "בְּיָדָ֣ם", "transliteral": "bə-yā-ḏām", "traducao_palavra": "pelas mãos deles" },
+        { "hebraico": "נִתְל֔וּ", "transliteral": "niṯ-lû", "traducao_palavra": "foram enforcados" },
+        { "hebraico": "פְּנֵ֥י", "transliteral": "pə-nê", "traducao_palavra": "rostos de" },
+        { "hebraico": "זְקֵנִ֖ים", "transliteral": "zə-qê-nîm", "traducao_palavra": "anciãos" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "נֶהְדָּֽרוּ׃", "transliteral": "ne-həd-dā-rû", "traducao_palavra": "foram honrados" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Os jovens levaram a mó, e os meninos tropeçaram debaixo da lenha.",
+      "palavras": [
+        { "hebraico": "בַּחוּרִים", "transliteral": "ba-ḥû-rîm", "traducao_palavra": "jovens" },
+        { "hebraico": "טְחֹ֣ון", "transliteral": "ṭə-ḥôn", "traducao_palavra": "a mó" },
+        { "hebraico": "נָשָׂ֔אוּ", "transliteral": "nā-śā-ʾû", "traducao_palavra": "levaram" },
+        { "hebraico": "וּנְעָרִ֖ים", "transliteral": "ū-nə-ʿā-rîm", "traducao_palavra": "e meninos" },
+        { "hebraico": "בָּעֵ֥ץ", "transliteral": "bā-ʿēṣ", "traducao_palavra": "na lenha" },
+        { "hebraico": "כָּשָֽׁלוּ׃", "transliteral": "kā-šā-lû", "traducao_palavra": "tropeçaram" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Os anciãos cessaram das portas, os jovens do seu canto.",
+      "palavras": [
+        { "hebraico": "זְקֵנִים", "transliteral": "zə-qê-nîm", "traducao_palavra": "anciãos" },
+        { "hebraico": "מִשַּׁ֣עַר", "transliteral": "miš-ša-ʿar", "traducao_palavra": "da porta" },
+        { "hebraico": "שָׁבָ֔תּוּ", "transliteral": "šā-ḇat-tû", "traducao_palavra": "cessaram" },
+        { "hebraico": "בַּחוּרִ֖ים", "transliteral": "ba-ḥû-rîm", "traducao_palavra": "jovens" },
+        { "hebraico": "מִנְּגִינָתָֽם׃", "transliteral": "min-nə-ḡî-nā-ṯām", "traducao_palavra": "do seu canto" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Cessou o gozo do nosso coração; a nossa dança tornou-se em lamento.",
+      "palavras": [
+        { "hebraico": "שָׁבַת", "transliteral": "šā-ḇaṯ", "traducao_palavra": "cessou" },
+        { "hebraico": "מְשֹׂ֥ושׂ", "transliteral": "mə-śôś", "traducao_palavra": "o gozo de" },
+        { "hebraico": "לִבֵּ֑נוּ", "transliteral": "lib-bê-nû", "traducao_palavra": "nosso coração" },
+        { "hebraico": "נֶהְפַּ֥ךְ", "transliteral": "ne-hep̄-ḵ", "traducao_palavra": "tornou-se" },
+        { "hebraico": "לְאֵ֖בֶל", "transliteral": "lə-ʾē-ḇel", "traducao_palavra": "em lamento" },
+        { "hebraico": "מְחֹלֵֽנוּ׃", "transliteral": "mə-ḥō-lê-nû", "traducao_palavra": "nossa dança" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Caiu a coroa da nossa cabeça; ai de nós, porque pecamos!",
+      "palavras": [
+        { "hebraico": "נָפְלָ֖ה", "transliteral": "nā-p̄ə-lā", "traducao_palavra": "caiu" },
+        { "hebraico": "עֲטֶ֣רֶת", "transliteral": "ʿă-ṭe-reṯ", "traducao_palavra": "a coroa de" },
+        { "hebraico": "רֹאשֵׁ֑נוּ", "transliteral": "rō-šê-nû", "traducao_palavra": "nossa cabeça" },
+        { "hebraico": "אֹוי־נָ֥א", "transliteral": "ʾôy-nā", "traducao_palavra": "ai de nós" },
+        { "hebraico": "לָ֖נוּ", "transliteral": "lā-nû", "traducao_palavra": "agora" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "חָטָֽאנוּ׃", "transliteral": "ḥā-ṭā-nû", "traducao_palavra": "pecamos" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Por isso está desfalecido o nosso coração; por estas coisas se escureceram os nossos olhos.",
+      "palavras": [
+        { "hebraico": "עַל־זֶה", "transliteral": "ʿal-zeh", "traducao_palavra": "por isso" },
+        { "hebraico": "הָיָ֣ה", "transliteral": "hā-yā", "traducao_palavra": "está" },
+        { "hebraico": "דַּוָּ֣י", "transliteral": "daw-wāy", "traducao_palavra": "desfalecido" },
+        { "hebraico": "לִבֵּ֔נוּ", "transliteral": "lib-bê-nû", "traducao_palavra": "nosso coração" },
+        { "hebraico": "עַל־אֵ֥לֶּה", "transliteral": "ʿal-ʾēl-leh", "traducao_palavra": "por estas coisas" },
+        { "hebraico": "חָשְׁכ֖וּ", "transliteral": "ḥā-šə-ḵû", "traducao_palavra": "escureceram-se" },
+        { "hebraico": "עֵינֵֽינוּ׃", "transliteral": "ʿê-nê-nû", "traducao_palavra": "nossos olhos" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Pelo monte de Sião, que está assolado, as raposas andam por ele.",
+      "palavras": [
+        { "hebraico": "עַל־הַר", "transliteral": "ʿal-har", "traducao_palavra": "pelo monte de" },
+        { "hebraico": "צִיֹּ֖ון", "transliteral": "ṣi-yôn", "traducao_palavra": "Sião" },
+        { "hebraico": "שֶׁשָּׁמֵ֑ם", "transliteral": "šeš-šā-mēm", "traducao_palavra": "que está assolado" },
+        { "hebraico": "שׁוּעָלִ֖ים", "transliteral": "šû-ʿā-lîm", "traducao_palavra": "raposas" },
+        { "hebraico": "הִלְּכ֥וּ", "transliteral": "hil-lə-ḵû", "traducao_palavra": "andam" },
+        { "hebraico": "בֹּֽו׃", "transliteral": "bô", "traducao_palavra": "por ele" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Tu, YHWH, permaneces para sempre; o teu trono subsiste de geração em geração.",
+      "palavras": [
+        { "hebraico": "אַתָּה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לְעֹולָ֣ם", "transliteral": "lə-ʿô-lām", "traducao_palavra": "para sempre" },
+        { "hebraico": "תֵּשֵׁ֑ב", "transliteral": "ṯē-šēḇ", "traducao_palavra": "permaneces/assentas" },
+        { "hebraico": "כִּסְאֲךָ֖", "transliteral": "kis-ʾă-ḵā", "traducao_palavra": "teu trono" },
+        { "hebraico": "לְדֹ֥ור", "transliteral": "lə-ḏôr", "traducao_palavra": "de geração" },
+        { "hebraico": "וָדֹֽור׃", "transliteral": "wā-ḏôr", "traducao_palavra": "a geração" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Por que te esquecerias de nós para sempre? Por que nos desampararias por tanto tempo?",
+      "palavras": [
+        { "hebraico": "לָמָּה", "transliteral": "lām-mā", "traducao_palavra": "por que" },
+        { "hebraico": "לָנֶ֣צַח", "transliteral": "lā-ne-ṣaḥ", "traducao_palavra": "para sempre" },
+        { "hebraico": "תִּשְׁכָּחֵ֑נוּ", "transliteral": "tiš-kā-ḥê-nû", "traducao_palavra": "te esquecerias de nós" },
+        { "hebraico": "תַּעַזְבֵ֖נוּ", "transliteral": "ta-ʿaz-ḇê-nû", "traducao_palavra": "nos desampararias" },
+        { "hebraico": "לְאֹ֥רֶךְ", "transliteral": "lə-ʾō-reḵ", "traducao_palavra": "por tanto tempo" },
+        { "hebraico": "יָמִֽים׃", "transliteral": "yā-mîm", "traducao_palavra": "dias" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Converte-nos, YHWH, a ti, e nos converteremos; renova os nossos dias como dantes.",
+      "palavras": [
+        { "hebraico": "הֲשִׁיבֵ֨נוּ", "transliteral": "hă-šî-ḇê-nû", "traducao_palavra": "converte-nos" },
+        { "hebraico": "יְהוָ֤ה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֵלֶ֨יךָ֙", "transliteral": "ʾē-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "וְנָשׁ֔וּבָה", "transliteral": "wə-nā-šû-ḇā", "traducao_palavra": "e nos converteremos" },
+        { "hebraico": "חַדֵּ֥שׁ", "transliteral": "ḥad-dēš", "traducao_palavra": "renova" },
+        { "hebraico": "יָמֵ֖ינוּ", "transliteral": "yā-mē-nû", "traducao_palavra": "nossos dias" },
+        { "hebraico": "כְּקֶֽדֶם׃", "transliteral": "kə-qe-ḏem", "traducao_palavra": "como dantes" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Porque, se já de todo nos rejeitaste, e contra nós te iraste grandemente,",
+      "palavras": [
+        { "hebraico": "כִּ֚י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אִם־מָאֹ֣ס", "transliteral": "ʾim-mā-ʾōs", "traducao_palavra": "se de todo rejeitaste" },
+        { "hebraico": "מְאַסְתָּ֔נוּ", "transliteral": "mə-ʾas-tā-nû", "traducao_palavra": "nos rejeitaste" },
+        { "hebraico": "קָצַ֥פְתָּ", "transliteral": "qā-ṣap̄-tā", "traducao_palavra": "te iraste" },
+        { "hebraico": "עָלֵ֖ינוּ", "transliteral": "ʿā-lê-nû", "traducao_palavra": "contra nós" },
+        { "hebraico": "עַד־מְאֹֽד׃", "transliteral": "ʿaḏ-mə-ʾōḏ", "traducao_palavra": "grandemente" }
+      ]
+    }
+  }
 }

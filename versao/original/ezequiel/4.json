@@ -2,5 +2,198 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 4,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Tu, pois, ó filho do homem, toma um tijolo, e põe-no diante de ti, e desenha nele a cidade de Jerusalém.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֣ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָ֔ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "קַח־לְךָ֖", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "לְבֵנָ֑ה", "transliteral": "lə-ḇē-nā", "traducao_palavra": "um tijolo" },
+        { "hebraico": "וְנָתַתָּ֥ה", "transliteral": "wə-nā-ṯat-tā", "traducao_palavra": "e põe-no" },
+        { "hebraico": "אֹותָ֖הּ", "transliteral": "ʾō-ṯāh", "traducao_palavra": "ele [objeto]" },
+        { "hebraico": "לְפָנֶ֑יךָ", "transliteral": "lə-p̄ā-ne-ḵā", "traducao_palavra": "diante de ti" },
+        { "hebraico": "וְחַקֹּותָ֥ה", "transliteral": "wə-ḥaq-qō-ṯāh", "traducao_palavra": "e desenha/grava nele" },
+        { "hebraico": "עָלֶ֖יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "sobre ele" },
+        { "hebraico": "עִיר", "transliteral": "ʿîr", "traducao_palavra": "a cidade de" },
+        { "hebraico": "אֶת־יְרוּשָׁלִָֽם׃", "transliteral": "ʾeṯ-yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E põe-te contra ela em cerco, e edifica contra ela torres, e levanta contra ela baluartes, e põe contra ela arraiais, e coloca contra ela aríetes ao redor.",
+      "palavras": [
+        { "hebraico": "וְצַרְתָּ֣", "transliteral": "wə-ṣar-tā", "traducao_palavra": "e põe-te em cerco" },
+        { "hebraico": "עָלֶ֗יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "contra ela" },
+        { "hebraico": "וּבָנִ֤יתָ", "transliteral": "ū-ḇā-nî-ṯā", "traducao_palavra": "e edifica" },
+        { "hebraico": "עָלֶ֙יהָ֙", "transliteral": "ʿā-le-hā", "traducao_palavra": "contra ela" },
+        { "hebraico": "דָּיֵ֔ק", "transliteral": "dā-yēq", "traducao_palavra": "torres de cerco" },
+        { "hebraico": "וּבָנִ֥יתָ", "transliteral": "ū-ḇā-nî-ṯā", "traducao_palavra": "e levanta" },
+        { "hebraico": "עָלֶ֖יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "contra ela" },
+        { "hebraico": "סֹלְלָ֑ה", "transliteral": "śō-lə-lā", "traducao_palavra": "baluartes/aterros" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Toma também para ti uma assadeira de ferro, e põe-na por parede de ferro entre ti e a cidade; e prepara o teu rosto contra ela, e ela será sitiada, e tu a cercarás; isto será um sinal à casa de Israel.",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "קַח־לְךָ", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "מַחֲבַת", "transliteral": "ma-ḥă-ḇaṯ", "traducao_palavra": "uma assadeira" },
+        { "hebraico": "בַּרְזֶל", "transliteral": "bar-zel", "traducao_palavra": "de ferro" },
+        { "hebraico": "וְנָתַתָּה", "transliteral": "wə-nā-ṯat-tā", "traducao_palavra": "e põe-na" },
+        { "hebraico": "אוֹתָהּ", "transliteral": "ʾô-ṯāh", "traducao_palavra": "ela" },
+        { "hebraico": "קִיר", "transliteral": "qîr", "traducao_palavra": "por parede" },
+        { "hebraico": "בַּרְזֶל", "transliteral": "bar-zel", "traducao_palavra": "de ferro" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Deita-te também sobre o teu lado esquerdo, e põe a iniquidade da casa de Israel sobre ele; conforme o número dos dias que te deitares sobre ele, levarás a sua iniquidade.",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "שְׁכַב", "transliteral": "šə-ḵaḇ", "traducao_palavra": "deita-te" },
+        { "hebraico": "עַל־צִדְּךָ", "transliteral": "ʿal-ṣid-də-ḵā", "traducao_palavra": "sobre teu lado" },
+        { "hebraico": "הַשְּׂמָאלִי", "transliteral": "haś-śə-mā-lî", "traducao_palavra": "esquerdo" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Porque eu te dei os anos da sua iniquidade, conforme o número dos dias, trezentos e noventa dias; assim levarás a iniquidade da casa de Israel.",
+      "palavras": [
+        { "hebraico": "שְׁלֹשׁ־מֵאֹות", "transliteral": "šə-lōš-mē-ʾôṯ", "traducao_palavra": "trezentos" },
+        { "hebraico": "וְתִשְׁעִים", "transliteral": "wə-ṯiš-ʿîm", "traducao_palavra": "e noventa" },
+        { "hebraico": "יֹום", "transliteral": "yôm", "traducao_palavra": "dias" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Quando tiveres cumprido estes, deitar-te-ás sobre o teu lado direito, a segunda vez, e levarás a iniquidade da casa de Judá quarenta dias; cada dia te dei por um ano.",
+      "palavras": [
+        { "hebraico": "וְכִלִּיתָ", "transliteral": "wə-ḵil-lî-ṯā", "traducao_palavra": "e tiveres cumprido" },
+        { "hebraico": "אֶת־אֵלֶּה", "transliteral": "ʾeṯ-ʾēl-leh", "traducao_palavra": "estes" },
+        { "hebraico": "וְשָׁכַבְתָּ", "transliteral": "wə-šā-ḵaḇ-tā", "traducao_palavra": "e deitar-te-ás" },
+        { "hebraico": "עַל־צִדְךָ", "transliteral": "ʿal-ṣiḏ-ḵā", "traducao_palavra": "sobre teu lado" },
+        { "hebraico": "הַיְמָנִי", "transliteral": "hay-yə-mā-nî", "traducao_palavra": "direito" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Portanto, voltarás o teu rosto para o cerco de Jerusalém, com o teu braço descoberto, e profetizarás contra ela.",
+      "palavras": [
+        { "hebraico": "וְאֶל־מְצֹור", "transliteral": "wə-ʾel-mə-ṣôr", "traducao_palavra": "e para o cerco de" },
+        { "hebraico": "יְרוּשָׁלִַם", "transliteral": "yə-rû-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "תָּכִ֥ין", "transliteral": "tā-ḵîn", "traducao_palavra": "dirigirás" },
+        { "hebraico": "פָּנֶ֨יךָ֙", "transliteral": "pā-ne-ḵā", "traducao_palavra": "teu rosto" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E eis que porei cordas sobre ti, e não te virarás de um lado para o outro, até que tenhas cumprido os dias do teu cerco.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "נָתַ֤תִּי", "transliteral": "nā-ṯat-tî", "traducao_palavra": "porei" },
+        { "hebraico": "עָלֶיךָ", "transliteral": "ʿā-le-ḵā", "traducao_palavra": "sobre ti" },
+        { "hebraico": "עֲבֹתִים", "transliteral": "ʿă-ḇō-ṯîm", "traducao_palavra": "cordas" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Toma também para ti trigo, e cevada, e favas, e lentilhas, e milho, e espelta, e mete-os numa vasilha, e faze disso pão para ti; conforme o número dos dias que te deitares sobre o teu lado, trezentos e noventa dias o comerás.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֣ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "קַח־לְךָ֤", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "חִטִּים֙", "transliteral": "ḥiṭ-ṭîm", "traducao_palavra": "trigo" },
+        { "hebraico": "וּשְׂעֹרִ֣ים", "transliteral": "ū-śə-ʿō-rîm", "traducao_palavra": "e cevada" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E a tua comida, que comeres, será de vinte siclos por dia; de tempo em tempo a comerás.",
+      "palavras": [
+        { "hebraico": "וּמַאֲכָלְךָ֙", "transliteral": "ū-ma-ʾă-ḵā-lə-ḵā", "traducao_palavra": "e tua comida" },
+        { "hebraico": "בְּמִשְׁקֹ֔ול", "transliteral": "bə-miš-qôl", "traducao_palavra": "em peso" },
+        { "hebraico": "עֶשְׂרִ֥ים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "שֶׁ֖קֶל", "transliteral": "še-qel", "traducao_palavra": "siclos" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Também beberás a água por medida, a sexta parte de um him; de tempo em tempo a beberás.",
+      "palavras": [
+        { "hebraico": "וּמַ֖יִם", "transliteral": "ū-ma-yim", "traducao_palavra": "e água" },
+        { "hebraico": "בִּמְשׂוּרָ֣ה", "transliteral": "bim-śû-rā", "traducao_palavra": "por medida" },
+        { "hebraico": "תִּשְׁתֶּ֑ה", "transliteral": "tiš-teh", "traducao_palavra": "beberás" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E a comerás como bolos de cevada, e a cozerás com o excremento humano à vista deles.",
+      "palavras": [
+        { "hebraico": "וְעֻגַ֣ת", "transliteral": "wə-ʿu-ḡaṯ", "traducao_palavra": "e como bolo de" },
+        { "hebraico": "שְׂעֹרִים", "transliteral": "śə-ʿō-rîm", "traducao_palavra": "cevada" },
+        { "hebraico": "תֹּאכְלֶ֔נָּה", "transliteral": "tō-ḵə-len-nā", "traducao_palavra": "a comerás" },
+        { "hebraico": "בְּגֶלְלֵי", "transliteral": "bə-ḡel-lê", "traducao_palavra": "com excremento" },
+        { "hebraico": "צֵאַת", "transliteral": "ṣē-ʾaṯ", "traducao_palavra": "humano" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E disse YHWH: Assim comerão os filhos de Israel o seu pão imundo entre as nações, para onde os lançarei.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "כָּ֣כָה", "transliteral": "kā-ḵā", "traducao_palavra": "assim" },
+        { "hebraico": "יֹאכְל֧וּ", "transliteral": "yō-ḵə-lû", "traducao_palavra": "comerão" },
+        { "hebraico": "בְּנֵֽי־יִשְׂרָאֵ֛ל", "transliteral": "ḇə-nê-yiś-rā-ʾēl", "traducao_palavra": "os filhos de Israel" },
+        { "hebraico": "אֶת־לַחְמָ֖ם", "transliteral": "ʾeṯ-laḥ-mām", "traducao_palavra": "seu pão" },
+        { "hebraico": "טָמֵ֑א", "transliteral": "ṭā-mē", "traducao_palavra": "imundo" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Então disse eu: Ah, Senhor YHWH! eis que a minha alma não foi contaminada; porque, desde a minha mocidade até agora, nunca comi animal que morresse por si mesmo, nem dilacerado por feras, nem entrou na minha boca carne abominável.",
+      "palavras": [
+        { "hebraico": "וָאֹמַ֞ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e eu disse" },
+        { "hebraico": "אֲהָהּ֮", "transliteral": "ʾă-hāh", "traducao_palavra": "ah" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "Senhor" },
+        { "hebraico": "יְהוִה֒", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הִנֵּ֥ה", "transliteral": "hin-nê", "traducao_palavra": "eis que" },
+        { "hebraico": "נַפְשִׁ֖י", "transliteral": "nap̄-šî", "traducao_palavra": "minha alma" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "מְטֻמָּאָה", "transliteral": "mə-ṭum-mā-ʾā", "traducao_palavra": "foi contaminada" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E disse-me: Eis que te dou esterco de vacas em lugar de excremento humano, e sobre ele prepararás o teu pão.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "רְאֵה", "transliteral": "rə-ʾēh", "traducao_palavra": "vê" },
+        { "hebraico": "נָתַ֤תִּי", "transliteral": "nā-ṯat-tî", "traducao_palavra": "dei/darei" },
+        { "hebraico": "לְךָ֙", "transliteral": "lə-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "אֶת־צְפִעֵ֣י", "transliteral": "ʾeṯ-ṣə-p̄î-ʿê", "traducao_palavra": "o esterco de" },
+        { "hebraico": "הַבָּקָ֔ר", "transliteral": "hab-bā-qār", "traducao_palavra": "vacas" },
+        { "hebraico": "תַּ֖חַת", "transliteral": "ta-ḥaṯ", "traducao_palavra": "em lugar de" },
+        { "hebraico": "פִּרְשֵׁ֣י", "transliteral": "pir-šê", "traducao_palavra": "excremento" },
+        { "hebraico": "הָאָדָ֑ם", "transliteral": "hā-ʾā-ḏām", "traducao_palavra": "humano" },
+        { "hebraico": "וְעָשִׂ֥יתָ", "transliteral": "wə-ʿā-śî-ṯā", "traducao_palavra": "e prepararás" },
+        { "hebraico": "אֶת־לַחְמְךָ֖", "transliteral": "ʾeṯ-laḥ-mə-ḵā", "traducao_palavra": "teu pão" },
+        { "hebraico": "עָלָֽיו׃", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Disse-me mais: Filho do homem, eis que eu quebrarei o báculo do pão em Jerusalém; e comerão o pão por peso, e com ansiedade; e beberão a água por medida, e com espanto,",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "הִנְנִ֨י", "transliteral": "hin-nî", "traducao_palavra": "eis que eu" },
+        { "hebraico": "שֹׁבֵ֤ר", "transliteral": "šō-ḇēr", "traducao_palavra": "quebrarei" },
+        { "hebraico": "מַטֵּה־לֶ֙חֶם֙", "transliteral": "maṭ-ṭēh-le-ḥem", "traducao_palavra": "o báculo do pão" },
+        { "hebraico": "בִּירוּשָׁלִַ֔ם", "transliteral": "bî-rû-šā-la-yim", "traducao_palavra": "em Jerusalém" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Para que, faltando o pão e a água, se espantem uns com os outros, e se consumam na sua iniquidade.",
+      "palavras": [
+        { "hebraico": "לְמַ֗עַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "יַחְסְר֞וּ", "transliteral": "yaḥ-sə-rû", "traducao_palavra": "falte" },
+        { "hebraico": "לֶ֣חֶם", "transliteral": "le-ḥem", "traducao_palavra": "pão" },
+        { "hebraico": "וָמַ֗יִם", "transliteral": "wā-ma-yim", "traducao_palavra": "e água" },
+        { "hebraico": "וְנָשַׁמּוּ", "transliteral": "wə-nā-šam-mû", "traducao_palavra": "e se espantem" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "uns [homens]" },
+        { "hebraico": "וְאָחִ֔יו", "transliteral": "wə-ʾā-ḥîw", "traducao_palavra": "com os outros" },
+        { "hebraico": "וְנָמַ֖סּוּ", "transliteral": "wə-nā-mas-sû", "traducao_palavra": "e se consumam" },
+        { "hebraico": "בַּעֲוֹנָֽם׃", "transliteral": "ba-ʿă-wō-nām", "traducao_palavra": "na sua iniquidade" }
+      ]
+    }
+  }
 }

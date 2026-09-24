@@ -2,5 +2,239 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 11,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Levantou-me o espírito, e me levou à porta oriental da casa de YHWH, que olha para o oriente; e eis que à entrada da porta estavam vinte e cinco homens, e vi no meio deles a Jaazanias, filho de Azur, e a Pelatias, filho de Benaia, príncipes do povo.",
+      "palavras": [
+        { "hebraico": "וַתִּשָּׂאֵ֣נִי", "transliteral": "wat-tiś-śā-ʾē-nî", "traducao_palavra": "e levantou-me" },
+        { "hebraico": "רוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o espírito" },
+        { "hebraico": "וַתְּבִיאֵ֗נִי", "transliteral": "wat-tə-ḇî-ʾē-nî", "traducao_palavra": "e levou-me" },
+        { "hebraico": "אֶל־שַׁ֨עַר֙", "transliteral": "ʾel-ša-ʿar", "traducao_palavra": "à porta de" },
+        { "hebraico": "בֵּית־יְהוָ֣ה", "transliteral": "bêṯ-YHWH", "traducao_palavra": "casa de YHWH" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E disse-me: Filho do homem, estes são os homens que maquinam a iniquidade e dão maus conselhos nesta cidade;",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בֶּן־אָדָ֔ם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אֵלֶּה֙", "transliteral": "ʾēl-leh", "traducao_palavra": "estes são" },
+        { "hebraico": "הָאֲנָשִׁ֣ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "הַחֹשְׁבִ֥ים", "transliteral": "ha-ḥō-šə-ḇîm", "traducao_palavra": "que maquinam" },
+        { "hebraico": "אָ֖וֶן", "transliteral": "ʾā-wen", "traducao_palavra": "a iniquidade" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Que dizem: Não é este o tempo de edificar casas; esta cidade é a panela, e nós a carne.",
+      "palavras": [
+        { "hebraico": "הָאֹמְרִ֔ים", "transliteral": "hā-ʾō-mə-rîm", "traducao_palavra": "que dizem" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "בְּקָרֹ֖וב", "transliteral": "bə-qā-rôḇ", "traducao_palavra": "perto/tempo" },
+        { "hebraico": "בְּנֹ֣ות", "transliteral": "bə-nôṯ", "traducao_palavra": "edificar" },
+        { "hebraico": "בָּתִּ֑ים", "transliteral": "bāṯ-tîm", "traducao_palavra": "casas" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Portanto, profetiza contra eles, profetiza, ó filho do homem.",
+      "palavras": [
+        { "hebraico": "לָכֵן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "הִנָּבֵ֥א", "transliteral": "hin-nā-ḇē", "traducao_palavra": "profetiza" },
+        { "hebraico": "עֲלֵיהֶ֖ם", "transliteral": "ʿă-lê-hem", "traducao_palavra": "contra eles" },
+        { "hebraico": "הִנָּבֵ֑א", "transliteral": "hin-nā-ḇē", "traducao_palavra": "profetiza" },
+        { "hebraico": "בֶּן־אָדָֽם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E caiu sobre mim o espírito de YHWH, e me disse: Fala: Assim diz YHWH: Assim haveis dito, ó casa de Israel; porque eu conheço as coisas que vos sobem ao espírito.",
+      "palavras": [
+        { "hebraico": "וַתִּפֹּ֨ל", "transliteral": "wat-tip-pōl", "traducao_palavra": "e caiu" },
+        { "hebraico": "עָלַי", "transliteral": "ʿā-lay", "traducao_palavra": "sobre mim" },
+        { "hebraico": "רוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o espírito" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "de YHWH" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Multiplicastes os vossos mortos nesta cidade, e enchestes as suas ruas de mortos.",
+      "palavras": [
+        { "hebraico": "הִרְבֵּיתֶ֥ם", "transliteral": "hir-bê-ṯem", "traducao_palavra": "multiplicastes" },
+        { "hebraico": "חַלְלֵיכֶ֖ם", "transliteral": "ḥal-lê-ḵem", "traducao_palavra": "vossos mortos" },
+        { "hebraico": "בָּעִ֣יר", "transliteral": "bā-ʿîr", "traducao_palavra": "nesta cidade" },
+        { "hebraico": "הַזֹּאת", "transliteral": "haz-zōṯ", "traducao_palavra": "esta" },
+        { "hebraico": "וּמִלֵּאתֶ֥ם", "transliteral": "ū-mil-lê-ṯem", "traducao_palavra": "e enchestes" },
+        { "hebraico": "חוּצֹתֶ֖יהָ", "transliteral": "ḥû-ṣō-ṯe-hā", "traducao_palavra": "as ruas dela" },
+        { "hebraico": "חָלָֽל", "transliteral": "ḥā-lāl", "traducao_palavra": "de mortos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Os vossos mortos, que vós pusestes no meio dela, estes são a carne, e ela é a panela; mas a vós vos farei sair do meio dela.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּ֤ה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "A espada temestes, e a espada trarei sobre vós, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "חֶרֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "a espada" },
+        { "hebraico": "יְרֵאתֶ֖ם", "transliteral": "yə-rê-ʾṯem", "traducao_palavra": "temestes" },
+        { "hebraico": "וְחֶ֥רֶב", "transliteral": "wə-ḥe-reḇ", "traducao_palavra": "e a espada" },
+        { "hebraico": "אָבִ֖יא", "transliteral": "ʾā-ḇî", "traducao_palavra": "trarei" },
+        { "hebraico": "עֲלֵיכֶ֑ם", "transliteral": "ʿă-lê-ḵem", "traducao_palavra": "sobre vós" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E vos tirarei do meio dela, e vos entregarei na mão de estrangeiros, e executarei juízos contra vós.",
+      "palavras": [
+        { "hebraico": "וְהֹוצֵאתִ֤י", "transliteral": "wə-hô-ṣê-ṯî", "traducao_palavra": "e vos tirarei" },
+        { "hebraico": "אֶתְכֶם֙", "transliteral": "ʾeṯ-ḵem", "traducao_palavra": "vós" },
+        { "hebraico": "מִתֹּוכָ֔הּ", "transliteral": "mit-tô-ḵāh", "traducao_palavra": "do meio dela" },
+        { "hebraico": "וְנָתַתִּ֥י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e vos entregarei" },
+        { "hebraico": "אֶתְכֶ֖ם", "transliteral": "ʾeṯ-ḵem", "traducao_palavra": "vós" },
+        { "hebraico": "בְּיַד", "transliteral": "bə-yaḏ", "traducao_palavra": "na mão de" },
+        { "hebraico": "זָרִ֑ים", "transliteral": "zā-rîm", "traducao_palavra": "estrangeiros" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "À espada caireis; no termo de Israel vos julgarei; e sabereis que eu sou YHWH.",
+      "palavras": [
+        { "hebraico": "בַּחֶ֖רֶב", "transliteral": "ba-ḥe-reḇ", "traducao_palavra": "pela espada" },
+        { "hebraico": "תִּפֹּ֑לוּ", "transliteral": "tip-pō-lû", "traducao_palavra": "caireis" },
+        { "hebraico": "עַל־גְּב֥וּל", "transliteral": "ʿal-ḡə-ḇûl", "traducao_palavra": "no termo/fronteira de" },
+        { "hebraico": "יִשְׂרָאֵ֖ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "אֶשְׁפֹּ֑וט", "transliteral": "ʾeš-pōwṭ", "traducao_palavra": "vos julgarei" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Esta não vos servirá de panela, nem vós sereis nela a carne; no termo de Israel vos julgarei.",
+      "palavras": [
+        { "hebraico": "הִיא", "transliteral": "hî", "traducao_palavra": "ela" },
+        { "hebraico": "לֹא־תִהְיֶ֥ה", "transliteral": "lō-ṯih-yeh", "traducao_palavra": "não será" },
+        { "hebraico": "לָכֶם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "לְסִיר", "transliteral": "lə-sîr", "traducao_palavra": "por panela" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E sabereis que eu sou YHWH; porque não andastes nos meus estatutos, nem executastes os meus juízos, antes fizestes segundo os juízos das nações que estão ao vosso redor.",
+      "palavras": [
+        { "hebraico": "וִידַעְתֶּ֕ם", "transliteral": "wî-ḏaʿ-tem", "traducao_palavra": "e sabereis" },
+        { "hebraico": "כִּֽי־אֲנִ֥י", "transliteral": "kî-ʾă-nî", "traducao_palavra": "que eu [sou]" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E aconteceu que, profetizando eu, morreu Pelatias, filho de Benaia; então caí com o rosto em terra, e clamei com grande voz, dizendo: Ah! Senhor YHWH! darás tu fim ao resto de Israel?",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כְּהִנָּבְאִ֗י", "transliteral": "kə-hin-nā-ḇə-ʾî", "traducao_palavra": "ao profetizar eu" },
+        { "hebraico": "וּפְלַטְיָ֧הוּ", "transliteral": "ū-p̄ə-laṭ-yā-hû", "traducao_palavra": "e Pelatias" },
+        { "hebraico": "בֶּן־בְּנָיָ֖הוּ", "transliteral": "ben-bə-nā-yā-hû", "traducao_palavra": "filho de Benaia" },
+        { "hebraico": "מֵ֑ת", "transliteral": "mēṯ", "traducao_palavra": "morreu" },
+        { "hebraico": "וָאֶפֹּ֨ל", "transliteral": "wā-ʾep-pōl", "traducao_palavra": "e caí" },
+        { "hebraico": "עַל־פָּנַי", "transliteral": "ʿal-pā-nay", "traducao_palavra": "sobre meu rosto" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "דְבַר־יְהוָה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Filho do homem, teus irmãos, teus irmãos, os homens de teu parentesco, e toda a casa de Israel, toda ela, são aqueles a quem os moradores de Jerusalém disseram: Apartai-vos para longe de YHWH; a nós nos foi dada esta terra em possessão.",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אַחֶ֗יךָ", "transliteral": "ʾa-ḥe-ḵā", "traducao_palavra": "teus irmãos" },
+        { "hebraico": "אַחֶ֨יךָ֙", "transliteral": "ʾa-ḥe-ḵā", "traducao_palavra": "teus irmãos" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Portanto dize: Assim diz o Senhor YHWH: Ainda que os lancei para longe entre as nações, e ainda que os espalhei pelas terras, todavia lhes serei por um pequeno santuário nas terras para onde foram.",
+      "palavras": [
+        { "hebraico": "לָכֵן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "אֱמֹר", "transliteral": "ʾĕ-mōr", "traducao_palavra": "dize" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Portanto dize: Assim diz o Senhor YHWH: Hei de ajuntá-los dos povos, e vos recolherei das terras nas quais fostes espalhados, e vos darei a terra de Israel.",
+      "palavras": [
+        { "hebraico": "לָכֵ֗ן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "אֱמֹר", "transliteral": "ʾĕ-mōr", "traducao_palavra": "dize" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E virão para lá, e tirarão dela todas as suas coisas detestáveis e todas as suas abominações.",
+      "palavras": [
+        { "hebraico": "וּבָ֣אוּ", "transliteral": "ū-ḇā-ʾû", "traducao_palavra": "e virão" },
+        { "hebraico": "שָׁ֔מָּה", "transliteral": "šām-mā", "traducao_palavra": "para lá" },
+        { "hebraico": "וְהֵסִ֧ירוּ", "transliteral": "wə-hê-śî-rû", "traducao_palavra": "e tirarão" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E lhes darei um só coração, e um espírito novo porei dentro deles; e tirarei da sua carne o coração de pedra, e lhes darei um coração de carne;",
+      "palavras": [
+        { "hebraico": "וְנָתַתִּ֤י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e darei" },
+        { "hebraico": "לָהֶם֙", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "לֵ֣ב", "transliteral": "lēḇ", "traducao_palavra": "um coração" },
+        { "hebraico": "אֶחָ֔ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "só" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Para que andem nos meus estatutos, e guardem os meus juízos, e os pratiquem; e eles me serão por povo, e eu lhes serei por Deus.",
+      "palavras": [
+        { "hebraico": "לְמַ֗עַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "בְּחֻקֹּותַי", "transliteral": "bə-ḥuq-qō-ṯay", "traducao_palavra": "nos meus estatutos" },
+        { "hebraico": "יֵלֵ֔כוּ", "transliteral": "yê-lê-ḵû", "traducao_palavra": "andem" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Mas, quanto àqueles cujo coração anda seguindo as suas coisas detestáveis e as suas abominações, farei recair o seu caminho sobre a sua cabeça, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְאֶל־לֵב", "transliteral": "wə-ʾel-lēḇ", "traducao_palavra": "mas quanto ao coração" },
+        { "hebraico": "שִׁקּוּצֵיהֶם", "transliteral": "šiq-qû-ṣê-hem", "traducao_palavra": "das suas coisas detestáveis" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Então levantaram os querubins as suas asas, e as rodas os acompanhavam; e a glória do Deus de Israel estava em cima, sobre eles.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׂא֨וּ", "transliteral": "way-yiś-ʾû", "traducao_palavra": "e levantaram" },
+        { "hebraico": "הַכְּרוּבִ֜ים", "transliteral": "hak-kə-ru-ḇîm", "traducao_palavra": "os querubins" },
+        { "hebraico": "אֶת־כַּנְפֵיהֶ֗ם", "transliteral": "ʾeṯ-kan-p̄ê-hem", "traducao_palavra": "suas asas" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E a glória de YHWH se alçou de sobre o meio da cidade, e parou sobre o monte que está ao oriente da cidade.",
+      "palavras": [
+        { "hebraico": "וַיַּ֙עַל֙", "transliteral": "way-ya-ʿal", "traducao_palavra": "e se alçou" },
+        { "hebraico": "כְּבֹ֣וד", "transliteral": "kə-ḇôḏ", "traducao_palavra": "a glória de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "מֵעַ֖ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "עִיר", "transliteral": "ʿîr", "traducao_palavra": "a cidade" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E o espírito me levantou, e me levou em visão, pelo espírito de Deus, para a Caldeia, aos que foram levados cativos; e subiu de sobre mim a visão que eu tinha visto.",
+      "palavras": [
+        { "hebraico": "וְרוּחַ", "transliteral": "wə-rû-aḥ", "traducao_palavra": "e o espírito" },
+        { "hebraico": "נְשָׂאַ֣נִי", "transliteral": "nə-śā-ʾă-nî", "traducao_palavra": "me levantou" },
+        { "hebraico": "וַתְּבִיאֵנִי", "transliteral": "wat-tə-ḇî-ʾē-nî", "traducao_palavra": "e me levou" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E falei aos que foram levados cativos todas as palavras de YHWH, que ele me tinha mostrado.",
+      "palavras": [
+        { "hebraico": "וָאֲדַבֵּר", "transliteral": "wā-ʾă-ḏab-bēr", "traducao_palavra": "e falei" },
+        { "hebraico": "אֶל־הַגֹּולָה", "transliteral": "ʾel-hag-gô-lā", "traducao_palavra": "aos cativos" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾēṯ", "traducao_palavra": "[o que]" },
+        { "hebraico": "כָּל־דִּבְרֵי", "transliteral": "kāl-diḇ-rê", "traducao_palavra": "todas as palavras de" },
+        { "hebraico": "יְהוָה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }
