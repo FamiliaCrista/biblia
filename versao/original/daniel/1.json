@@ -1,6 +1,378 @@
 {
-  "livro": "Daniel - דָּנִיֵּאל - Daniyyel",
+  "livro": "Daniel - דָּנִיֵּאל - Dāniyyēʾl",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "No terceiro ano do reinado de Jeoaquim, rei de Judá, veio Nabucodonosor, rei da Babilônia, a Jerusalém e a sitiou.",
+      "palavras": [
+        { "hebraico": "בִּשְׁנַ֣ת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano de" },
+        { "hebraico": "שָׁלֹ֔ושׁ", "transliteral": "šā-lôš", "traducao_palavra": "três [terceiro]" },
+        { "hebraico": "לְמַלְכ֖וּת", "transliteral": "lə-mal-ḵūṯ", "traducao_palavra": "do reinado de" },
+        { "hebraico": "יְהֹויָקִ֣ים", "transliteral": "yə-hô-yā-qîm", "traducao_palavra": "Jeoaquim" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָ֑ה", "transliteral": "me-leḵ-yə-hū-ḏā", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "בָּ֠א", "transliteral": "bā", "traducao_palavra": "veio" },
+        { "hebraico": "נְבוּכַדְנֶאצַּ֧ר", "transliteral": "nə-ḇū-ḵaḏ-ne-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מֶֽלֶךְ־בָּבֶ֛ל", "transliteral": "me-leḵ-bā-ḇel", "traducao_palavra": "rei da Babilônia" },
+        { "hebraico": "יְרוּשָׁלִַ֖ם", "transliteral": "yə-rū-šā-lim", "traducao_palavra": "a Jerusalém" },
+        { "hebraico": "וַיָּ֥צַר", "transliteral": "way-yā-ṣar", "traducao_palavra": "e a sitiou" },
+        { "hebraico": "עָלֶֽיהָ׃", "transliteral": "ʿā-le-hā", "traducao_palavra": "contra ela" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E o Senhor entregou nas suas mãos a Jeoaquim, rei de Judá, e uma parte dos utensílios da casa de Deus; e ele os levou para a terra de Sinear, para a casa do seu deus, e pôs os utensílios na casa do tesouro do seu deus.",
+      "palavras": [
+        { "hebraico": "וַיִּתֵּן֩", "transliteral": "way-yit-tên", "traducao_palavra": "e entregou" },
+        { "hebraico": "אֲדֹנָ֨י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "בְּיָדֹ֜ו", "transliteral": "bə-yā-ḏô", "traducao_palavra": "na sua mão" },
+        { "hebraico": "אֶת־יְהֹויָקִ֣ים", "transliteral": "ʾeṯ-yə-hô-yā-qîm", "traducao_palavra": "Jeoaquim" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָ֗ה", "transliteral": "me-leḵ-yə-hū-ḏā", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "וּמִקְצָת֙", "transliteral": "ū-miq-ṣāṯ", "traducao_palavra": "e uma parte de" },
+        { "hebraico": "כְּלֵ֣י", "transliteral": "kə-lê", "traducao_palavra": "os utensílios de" },
+        { "hebraico": "בֵית־הָֽאֱלֹהִ֔ים", "transliteral": "bêṯ-hā-ʾĕ-lō-hîm", "traducao_palavra": "a casa de Deus" },
+        { "hebraico": "וַיְבִיאֵ֥ם", "transliteral": "way-ḇî-ʾêm", "traducao_palavra": "e levou-os" },
+        { "hebraico": "אֶֽרֶץ־שִׁנְעָ֖ר", "transliteral": "ʾe-reṣ-šin-ʿār", "traducao_palavra": "para a terra de Sinear" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "אֱלֹהָ֑יו", "transliteral": "ʾĕ-lō-hāyw", "traducao_palavra": "seu deus" },
+        { "hebraico": "וְאֶת־הַכֵּלִים֙", "transliteral": "wə-ʾeṯ-hak-kê-lîm", "traducao_palavra": "e os utensílios" },
+        { "hebraico": "הֵבִ֔יא", "transliteral": "hê-ḇî", "traducao_palavra": "ele trouxe" },
+        { "hebraico": "בֵּ֖ית", "transliteral": "bêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "אֹוצַ֥ר", "transliteral": "ʾô-ṣar", "traducao_palavra": "o tesouro de" },
+        { "hebraico": "אֱלֹהָֽיו׃", "transliteral": "ʾĕ-lō-hāyw", "traducao_palavra": "seu deus" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E disse o rei a Aspenaz, chefe dos seus eunucos, que trouxesse alguns dos filhos de Israel, tanto da linhagem real como dos nobres,",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "הַמֶּ֔לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "לְאַשְׁפְּנַ֖ז", "transliteral": "lə-ʾaš-pə-naz", "traducao_palavra": "a Aspenaz" },
+        { "hebraico": "רַ֣ב", "transliteral": "raḇ", "traducao_palavra": "chefe de" },
+        { "hebraico": "סָרִיסָ֑יו", "transliteral": "sā-rî-sāyw", "traducao_palavra": "seus eunucos" },
+        { "hebraico": "לְהָבִ֞יא", "transliteral": "lə-hā-ḇî", "traducao_palavra": "para trazer" },
+        { "hebraico": "מִבְּנֵ֧י", "transliteral": "mib-bə-nê", "traducao_palavra": "de entre os filhos de" },
+        { "hebraico": "יִשְׂרָאֵ֛ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וּמִזֶּ֥רַע", "transliteral": "ū-miz-ze-raʿ", "traducao_palavra": "e da descendência de" },
+        { "hebraico": "הַמְּלוּכָ֖ה", "transliteral": "ham-mə-lū-ḵā", "traducao_palavra": "a realeza" },
+        { "hebraico": "וּמִן־הַפַּרְתְּמִֽים׃", "transliteral": "ū-min-hap-par-tə-mîm", "traducao_palavra": "e dentre os nobres" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Jovens em quem não houvesse defeito algum, de boa aparência, instruídos em toda a sabedoria, doutos em ciência, entendidos em conhecimento e que tivessem capacidade para assistir no palácio do rei; e que lhes ensinasse as letras e a língua dos caldeus.",
+      "palavras": [
+        { "hebraico": "יְלָדִ֡ים", "transliteral": "yə-lā-ḏîm", "traducao_palavra": "jovens" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אֵֽין־בָּהֶ֣ם", "transliteral": "ʾên-bā-hem", "traducao_palavra": "não houvesse neles" },
+        { "hebraico": "כָּל־מ֠אוּם", "transliteral": "kāl-mūm", "traducao_palavra": "defeito algum" },
+        { "hebraico": "וְטֹובֵ֨י", "transliteral": "wə-ṭô-ḇê", "traducao_palavra": "e bons de" },
+        { "hebraico": "מַרְאֶ֜ה", "transliteral": "mar-ʾeh", "traducao_palavra": "aparência" },
+        { "hebraico": "וּמַשְׂכִּילִ֣ים", "transliteral": "ū-maś-kî-lîm", "traducao_palavra": "e instruídos" },
+        { "hebraico": "בְּכָל־חָכְמָ֗ה", "transliteral": "bə-ḵāl-ḥāḵ-mā", "traducao_palavra": "em toda sabedoria" },
+        { "hebraico": "וְיֹ֤דְעֵי", "transliteral": "wə-yō-ḏə-ʿê", "traducao_palavra": "e conhecedores de" },
+        { "hebraico": "דַ֙עַת֙", "transliteral": "da-ʿaṯ", "traducao_palavra": "ciência" },
+        { "hebraico": "וּמְבִינֵ֣י", "transliteral": "ū-mə-ḇî-nê", "traducao_palavra": "e entendidos em" },
+        { "hebraico": "מַדָּ֔ע", "transliteral": "mad-dāʿ", "traducao_palavra": "conhecimento" },
+        { "hebraico": "וַאֲשֶׁ֨ר", "transliteral": "wa-ʾă-šer", "traducao_palavra": "e que tivessem" },
+        { "hebraico": "כֹּ֥חַ", "transliteral": "kō-aḥ", "traducao_palavra": "capacidade/força" },
+        { "hebraico": "בָּהֶ֛ם", "transliteral": "bā-hem", "traducao_palavra": "neles" },
+        { "hebraico": "לַעֲמֹ֖ד", "transliteral": "la-ʿă-mōḏ", "traducao_palavra": "para estar em pé [servir]" },
+        { "hebraico": "בְּהֵיכַ֣ל", "transliteral": "bə-hê-ḵal", "traducao_palavra": "no palácio de" },
+        { "hebraico": "הַמֶּ֑לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וּֽלְלַמְּדָ֥ם", "transliteral": "ū-lə-lam-mə-ḏām", "traducao_palavra": "e para ensinar-lhes" },
+        { "hebraico": "סֵ֖פֶר", "transliteral": "sê-p̄er", "traducao_palavra": "a literatura/escrita" },
+        { "hebraico": "וּלְשֹׁ֥ון", "transliteral": "ū-lə-šôn", "traducao_palavra": "e a língua de" },
+        { "hebraico": "כַּשְׂדִּֽים׃", "transliteral": "kaś-dîm", "traducao_palavra": "os caldeus" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E o rei lhes determinou a ração de cada dia, das iguarias da mesa do rei e do vinho que ele bebia, e que fossem educados durante três anos, ao fim dos quais assistiriam diante do rei.",
+      "palavras": [
+        { "hebraico": "וַיְמַן֩", "transliteral": "way-man", "traducao_palavra": "e determinou" },
+        { "hebraico": "לָהֶ֨ם", "transliteral": "lā-hem", "traducao_palavra": "para eles" },
+        { "hebraico": "הַמֶּ֜לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "דְּבַר־יֹ֣ום", "transliteral": "də-ḇar-yôm", "traducao_palavra": "a porção diária" },
+        { "hebraico": "בְּיֹומֹ֗ו", "transliteral": "bə-yô-mô", "traducao_palavra": "em seu dia" },
+        { "hebraico": "מִפַּת־בַּ֤ג", "transliteral": "mip-paṯ-baḡ", "traducao_palavra": "das iguarias de" },
+        { "hebraico": "הַמֶּ֙לֶךְ֙", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וּמִיֵּ֣ין", "transliteral": "ū-mî-yên", "traducao_palavra": "e do vinho de" },
+        { "hebraico": "מִשְׁתָּ֔יו", "transliteral": "miš-tāyw", "traducao_palavra": "seu beber [sua bebida]" },
+        { "hebraico": "וּֽלְגַדְּלָ֖ם", "transliteral": "ū-lə-ḡad-də-lām", "traducao_palavra": "e para educá-los" },
+        { "hebraico": "שָׁנִ֣ים", "transliteral": "šā-nîm", "traducao_palavra": "anos" },
+        { "hebraico": "שָׁלֹ֑ושׁ", "transliteral": "šā-lôš", "traducao_palavra": "três" },
+        { "hebraico": "וּמִ֨קְצָתָ֔ם", "transliteral": "ū-miq-ṣā-ṯām", "traducao_palavra": "e ao fim deles" },
+        { "hebraico": "יַֽעַמְד֖וּ", "transliteral": "ya-ʿam-ḏū", "traducao_palavra": "estariam em pé" },
+        { "hebraico": "לִפְנֵ֥י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "הַמֶּֽלֶךְ׃", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E entre eles se achavam, dos filhos de Judá: Daniel, Hananias, Misael e Azarias;",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e estavam" },
+        { "hebraico": "בָהֶ֖ם", "transliteral": "ḇā-hem", "traducao_palavra": "entre eles" },
+        { "hebraico": "מִבְּנֵ֣י", "transliteral": "mib-bə-nê", "traducao_palavra": "dos filhos de" },
+        { "hebraico": "יְהוּדָ֑ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "דָּנִיֵּ֣אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "חֲנַנְיָ֔ה", "transliteral": "ḥă-nan-yā", "traducao_palavra": "Hananias" },
+        { "hebraico": "מִֽישָׁאֵ֖ל", "transliteral": "mî-šā-ʾêl", "traducao_palavra": "Misael" },
+        { "hebraico": "וַעֲזַרְיָֽה׃", "transliteral": "wa-ʿă-zar-yā", "traducao_palavra": "e Azarias" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E o chefe dos eunucos lhes pôs outros nomes: a Daniel pôs o de Beltessazar; a Hananias, o de Sadraque; a Misael, o de Mesaque; e a Azarias, o de Abednego.",
+      "palavras": [
+        { "hebraico": "וַיָּ֧שֶׂם", "transliteral": "way-yā-śem", "traducao_palavra": "e pôs" },
+        { "hebraico": "לָהֶ֛ם", "transliteral": "lā-hem", "traducao_palavra": "para eles" },
+        { "hebraico": "רַ֥ב", "transliteral": "raḇ", "traducao_palavra": "o chefe de" },
+        { "hebraico": "הַסָּרִיסִ֖ים", "transliteral": "has-sā-rî-sîm", "traducao_palavra": "os eunucos" },
+        { "hebraico": "שֵׁמֹ֑ות", "transliteral": "šê-môṯ", "traducao_palavra": "nomes" },
+        { "hebraico": "וַיָּ֨שֶׂם", "transliteral": "way-yā-śem", "traducao_palavra": "e pôs" },
+        { "hebraico": "לְדָֽנִיֵּ֜אל", "transliteral": "lə-ḏā-nî-yêl", "traducao_palavra": "a Daniel" },
+        { "hebraico": "בֵּ֣לְטְשַׁאצַּ֗ר", "transliteral": "bêl-ṭə-ša-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "וְלַֽחֲנַנְיָה֙", "transliteral": "wə-la-ḥă-nan-yā", "traducao_palavra": "e a Hananias" },
+        { "hebraico": "שַׁדְרַ֔ךְ", "transliteral": "šaḏ-raḵ", "traducao_palavra": "Sadraque" },
+        { "hebraico": "וּלְמִֽישָׁאֵ֣ל", "transliteral": "ū-lə-mî-šā-ʾêl", "traducao_palavra": "e a Misael" },
+        { "hebraico": "מֵישַׁ֔ךְ", "transliteral": "mê-šaḵ", "traducao_palavra": "Mesaque" },
+        { "hebraico": "וְלַעֲזַרְיָ֖ה", "transliteral": "wə-la-ʿă-zar-yā", "traducao_palavra": "e a Azarias" },
+        { "hebraico": "עֲבֵ֥ד", "transliteral": "ʿă-ḇêḏ", "traducao_palavra": "Abed-" },
+        { "hebraico": "נְגֹֽו׃", "transliteral": "nə-ḡô", "traducao_palavra": "Nego" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E Daniel propôs no seu coração não se contaminar com a porção das iguarias do rei, nem com o vinho que ele bebia; portanto pediu ao chefe dos eunucos que lhe permitisse não se contaminar.",
+      "palavras": [
+        { "hebraico": "וַיָּ֤שֶׂם", "transliteral": "way-yā-śem", "traducao_palavra": "e resolveu/pôs" },
+        { "hebraico": "דָּנִיֵּאל֙", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "עַל־לִבֹּ֔ו", "transliteral": "ʿal-lib-bô", "traducao_palavra": "no seu coração" },
+        { "hebraico": "אֲשֶׁ֧ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹֽא־יִתְגָּאַ֛ל", "transliteral": "lō-yiṯ-gā-ʾal", "traducao_palavra": "não se contaminaria" },
+        { "hebraico": "בְּפַת־בַּ֥ג", "transliteral": "bə-p̄aṯ-baḡ", "traducao_palavra": "com a comida fina de" },
+        { "hebraico": "הַמֶּ֖לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וּבְיֵ֣ין", "transliteral": "ū-ḇə-yên", "traducao_palavra": "e com o vinho de" },
+        { "hebraico": "מִשְׁתָּ֑יו", "transliteral": "miš-tāyw", "traducao_palavra": "sua bebida" },
+        { "hebraico": "וַיְבַקֵּשׁ֙", "transliteral": "way-ḇaq-qêš", "traducao_palavra": "e pediu" },
+        { "hebraico": "מֵרַ֣ב", "transliteral": "mê-raḇ", "traducao_palavra": "ao chefe de" },
+        { "hebraico": "הַסָּרִיסִ֔ים", "transliteral": "has-sā-rî-sîm", "traducao_palavra": "os eunucos" },
+        { "hebraico": "אֲשֶׁ֖ר", "transliteral": "ʾă-šer", "traducao_palavra": "para que" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִתְגָּאָֽל׃", "transliteral": "yiṯ-gā-ʾāl", "traducao_palavra": "se contaminasse" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Ora, Deus fez com que Daniel achasse graça e misericórdia diante do chefe dos eunucos.",
+      "palavras": [
+        { "hebraico": "וַיִּתֵּ֤ן", "transliteral": "way-yit-tên", "traducao_palavra": "e concedeu" },
+        { "hebraico": "הָֽאֱלֹהִים֙", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־דָּ֣נִיֵּ֔אל", "transliteral": "ʾeṯ-dā-nî-yêl", "traducao_palavra": "a Daniel" },
+        { "hebraico": "לְחֶ֖סֶד", "transliteral": "lə-ḥe-seḏ", "traducao_palavra": "favor" },
+        { "hebraico": "וּֽלְרַחֲמִ֑ים", "transliteral": "ū-lə-ra-ḥă-mîm", "traducao_palavra": "e compaixão" },
+        { "hebraico": "לִפְנֵ֖י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "רַ֥ב", "transliteral": "raḇ", "traducao_palavra": "o chefe de" },
+        { "hebraico": "הַסָּרִיסִֽים׃", "transliteral": "has-sā-rî-sîm", "traducao_palavra": "os eunucos" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E o chefe dos eunucos disse a Daniel: Temo o meu senhor, o rei, que determinou a vossa comida e a vossa bebida; por que, pois, veria ele os vossos rostos mais abatidos do que os dos jovens da vossa idade? Assim poríeis em perigo a minha cabeça perante o rei.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "רַ֤ב", "transliteral": "raḇ", "traducao_palavra": "o chefe de" },
+        { "hebraico": "הַסָּרִיסִים֙", "transliteral": "has-sā-rî-sîm", "traducao_palavra": "os eunucos" },
+        { "hebraico": "לְדָ֣נִיֵּ֔אל", "transliteral": "lə-ḏā-nî-yêl", "traducao_palavra": "a Daniel" },
+        { "hebraico": "יָרֵ֤א", "transliteral": "yā-rē", "traducao_palavra": "temeroso" },
+        { "hebraico": "אֲנִי֙", "transliteral": "ʾă-nî", "traducao_palavra": "estou eu" },
+        { "hebraico": "אֶת־אֲדֹנִ֣י", "transliteral": "ʾeṯ-ʾă-ḏō-nî", "traducao_palavra": "de meu senhor" },
+        { "hebraico": "הַמֶּ֔לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "מִנָּ֔ה", "transliteral": "min-nā", "traducao_palavra": "determinou" },
+        { "hebraico": "אֶת־מַאֲכַלְכֶ֖ם", "transliteral": "ʾeṯ-ma-ʾă-ḵal-ḵem", "traducao_palavra": "a vossa comida" },
+        { "hebraico": "וְאֶת־מִשְׁתֵּיכֶ֑ם", "transliteral": "wə-ʾeṯ-miš-tê-ḵem", "traducao_palavra": "e a vossa bebida" },
+        { "hebraico": "אֲשֶׁ֡ר", "transliteral": "ʾă-šer", "traducao_palavra": "pois" },
+        { "hebraico": "לָמָּה֩", "transliteral": "lām-mā", "traducao_palavra": "por que" },
+        { "hebraico": "יִרְאֶ֨ה", "transliteral": "yir-ʾeh", "traducao_palavra": "veria ele" },
+        { "hebraico": "אֶת־פְּנֵיכֶ֜ם", "transliteral": "ʾeṯ-pə-nê-ḵem", "traducao_palavra": "os vossos rostos" },
+        { "hebraico": "זֹעֲפִ֗ים", "transliteral": "zō-ʿă-p̄îm", "traducao_palavra": "mais tristes/abatidos" },
+        { "hebraico": "מִן־הַיְלָדִים֙", "transliteral": "min-hay-lā-ḏîm", "traducao_palavra": "do que os jovens" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [são]" },
+        { "hebraico": "כְּגִֽילְכֶ֔ם", "transliteral": "kə-ḡî-lə-ḵem", "traducao_palavra": "da vossa idade" },
+        { "hebraico": "וְחִיַּבְתֶּ֥ם", "transliteral": "wə-ḥiy-yaḇ-tem", "traducao_palavra": "e condenaríeis/poríeis em culpa" },
+        { "hebraico": "אֶת־רֹאשִׁ֖י", "transliteral": "ʾeṯ-rō-šî", "traducao_palavra": "a minha cabeça" },
+        { "hebraico": "לַמֶּֽלֶךְ׃", "transliteral": "lam-me-leḵ", "traducao_palavra": "perante o rei" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Então disse Daniel ao despenseiro, a quem o chefe dos eunucos havia constituído sobre Daniel, Hananias, Misael e Azarias:",
+      "palavras": [
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "דָּנִיֵּאל֙", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "אֶל־הַמֶּלְצַ֔ר", "transliteral": "ʾel-ham-mel-ṣar", "traducao_palavra": "ao despenseiro" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "a quem" },
+        { "hebraico": "מִנָּ֖ה", "transliteral": "min-nā", "traducao_palavra": "havia constituído" },
+        { "hebraico": "רַ֣ב", "transliteral": "raḇ", "traducao_palavra": "o chefe de" },
+        { "hebraico": "הַסָּרִיסִ֑ים", "transliteral": "has-sā-rî-sîm", "traducao_palavra": "os eunucos" },
+        { "hebraico": "עַל־דָּנִיֵּ֣אל", "transliteral": "ʿal-dā-nî-yêl", "traducao_palavra": "sobre Daniel" },
+        { "hebraico": "חֲנַנְיָ֔ה", "transliteral": "ḥă-nan-yā", "traducao_palavra": "Hananias" },
+        { "hebraico": "מִֽישָׁאֵ֖ל", "transliteral": "mî-šā-ʾêl", "traducao_palavra": "Misael" },
+        { "hebraico": "וַעֲזַרְיָֽה׃", "transliteral": "wa-ʿă-zar-yā", "traducao_palavra": "e Azarias" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Experimenta, peço-te, os teus servos dez dias; e que se nos deem legumes a comer e água a beber.",
+      "palavras": [
+        { "hebraico": "נַס־נָ֥א", "transliteral": "nas-nā", "traducao_palavra": "experimenta, peço-te" },
+        { "hebraico": "אֶת־עֲבָדֶ֖יךָ", "transliteral": "ʾeṯ-ʿă-ḇā-ḏe-ḵā", "traducao_palavra": "os teus servos" },
+        { "hebraico": "יָמִ֣ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "עֲשָׂרָ֑ה", "transliteral": "ʿă-śā-rā", "traducao_palavra": "dez" },
+        { "hebraico": "וְיִתְּנוּ־לָ֜נוּ", "transliteral": "wə-yit-tə-nū-lā-nū", "traducao_palavra": "e deem-nos" },
+        { "hebraico": "מִן־הַזֵּרֹעִ֛ים", "transliteral": "min-haz-zê-rō-ʿîm", "traducao_palavra": "dos legumes" },
+        { "hebraico": "וְנֹאכְלָ֖ה", "transliteral": "wə-nō-ḵə-lā", "traducao_palavra": "e comamos" },
+        { "hebraico": "וּמַ֥יִם", "transliteral": "ū-ma-yim", "traducao_palavra": "e água" },
+        { "hebraico": "וְנִשְׁתֶּֽה׃", "transliteral": "wə-niš-teh", "traducao_palavra": "e bebamos" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Então se veja diante de ti o nosso aspecto e o aspecto dos jovens que comem das iguarias do rei; e conforme vires, procede com os teus servos.",
+      "palavras": [
+        { "hebraico": "וְיֵרָא֤וּ", "transliteral": "wə-yê-rā-ʾū", "traducao_palavra": "e veja-se" },
+        { "hebraico": "לְפָנֶ֙יךָ֙", "transliteral": "lə-p̄ā-ne-ḵā", "traducao_palavra": "diante de ti" },
+        { "hebraico": "מַרְאֵ֣ינ֔וּ", "transliteral": "mar-ʾê-nū", "traducao_palavra": "o nosso aspecto" },
+        { "hebraico": "וּמַרְאֵה֙", "transliteral": "ū-mar-ʾêh", "traducao_palavra": "e o aspecto de" },
+        { "hebraico": "הַיְלָדִ֔ים", "transliteral": "hay-lā-ḏîm", "traducao_palavra": "os jovens" },
+        { "hebraico": "הָאֹ֣כְלִ֔ים", "transliteral": "hā-ʾō-ḵə-lîm", "traducao_palavra": "que comem" },
+        { "hebraico": "אֵ֖ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "פַּתְבַּ֣ג", "transliteral": "paṯ-baḡ", "traducao_palavra": "as iguarias de" },
+        { "hebraico": "הַמֶּ֑לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וְכַאֲשֶׁ֣ר", "transliteral": "wə-ḵa-ʾă-šer", "traducao_palavra": "e conforme" },
+        { "hebraico": "תִּרְאֶ֔ה", "transliteral": "tir-ʾeh", "traducao_palavra": "vires" },
+        { "hebraico": "עֲשֵׂ֖ה", "transliteral": "ʿă-śêh", "traducao_palavra": "faze" },
+        { "hebraico": "עִם־עֲבָדֶֽיךָ׃", "transliteral": "ʿim-ʿă-ḇā-ḏe-ḵā", "traducao_palavra": "com os teus servos" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E ele lhes deu ouvidos nisto, e os experimentou dez dias.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁמַ֥ע", "transliteral": "way-yiš-maʿ", "traducao_palavra": "e deu ouvidos" },
+        { "hebraico": "לָהֶ֖ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "לַדָּבָ֣ר", "transliteral": "lad-dā-ḇār", "traducao_palavra": "neste assunto" },
+        { "hebraico": "הַזֶּ֑ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "וַיְנַסֵּ֖ם", "transliteral": "way-nas-sêm", "traducao_palavra": "e experimentou-os" },
+        { "hebraico": "יָמִ֥ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "עֲשָׂרָֽה׃", "transliteral": "ʿă-śā-rā", "traducao_palavra": "dez" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E, ao fim dos dez dias, apareceram os seus semblantes melhores e mais gordos do que os de todos os jovens que comiam das iguarias do rei.",
+      "palavras": [
+        { "hebraico": "וּמִקְצָת֙", "transliteral": "ū-miq-ṣāṯ", "traducao_palavra": "e ao fim de" },
+        { "hebraico": "יָמִ֣ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "עֲשָׂרָ֔ה", "transliteral": "ʿă-śā-rā", "traducao_palavra": "dez" },
+        { "hebraico": "נִרְאָ֤ה", "transliteral": "nir-ʾāh", "traducao_palavra": "apareceu/viu-se" },
+        { "hebraico": "מַרְאֵיהֶם֙", "transliteral": "mar-ʾê-hem", "traducao_palavra": "o aspecto deles" },
+        { "hebraico": "טֹ֔וב", "transliteral": "ṭôḇ", "traducao_palavra": "melhor/bom" },
+        { "hebraico": "וּבְרִיאֵ֖י", "transliteral": "ū-ḇə-rî-ʾê", "traducao_palavra": "e mais cheios/gordos de" },
+        { "hebraico": "בָּשָׂ֑ר", "transliteral": "bā-śār", "traducao_palavra": "carne" },
+        { "hebraico": "מִן־כָּל־הַיְלָדִ֔ים", "transliteral": "min-kāl-hay-lā-ḏîm", "traducao_palavra": "do que todos os jovens" },
+        { "hebraico": "הָאֹ֣כְלִ֔ים", "transliteral": "hā-ʾō-ḵə-lîm", "traducao_palavra": "que comiam" },
+        { "hebraico": "אֵ֖ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "פַּתְבַּ֥ג", "transliteral": "paṯ-baḡ", "traducao_palavra": "as iguarias de" },
+        { "hebraico": "הַמֶּֽלֶךְ׃", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Assim o despenseiro tirava a porção das iguarias deles e o vinho que deviam beber, e lhes dava legumes.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e foi que" },
+        { "hebraico": "הַמֶּלְצַ֗ר", "transliteral": "ham-mel-ṣar", "traducao_palavra": "o despenseiro" },
+        { "hebraico": "נֹשֵׂא֙", "transliteral": "nō-śê", "traducao_palavra": "retirava" },
+        { "hebraico": "אֶת־פַּתְבָּגָ֔ם", "transliteral": "ʾeṯ-paṯ-bā-ḡām", "traducao_palavra": "as iguarias deles" },
+        { "hebraico": "וְיֵ֖ין", "transliteral": "wə-yên", "traducao_palavra": "e o vinho de" },
+        { "hebraico": "מִשְׁתֵּיהֶ֑ם", "transliteral": "miš-tê-hem", "traducao_palavra": "bebida deles" },
+        { "hebraico": "וְנֹתֵ֥ן", "transliteral": "wə-nō-ṯên", "traducao_palavra": "e dava" },
+        { "hebraico": "לָהֶ֖ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "זֵרְעֹנִֽים׃", "transliteral": "zê-rə-ʿō-nîm", "traducao_palavra": "legumes" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Quanto a estes quatro jovens, Deus lhes deu o conhecimento e a inteligência em todas as letras e sabedoria; e Daniel era entendido em toda visão e sonhos.",
+      "palavras": [
+        { "hebraico": "וְהַיְלָדִ֨ים", "transliteral": "wə-hay-lā-ḏîm", "traducao_palavra": "e os jovens" },
+        { "hebraico": "הָאֵ֜לֶּה", "transliteral": "hā-ʾêl-leh", "traducao_palavra": "estes" },
+        { "hebraico": "אַרְבַּעְתָּ֗ם", "transliteral": "ʾar-baʿ-tām", "traducao_palavra": "os quatro deles" },
+        { "hebraico": "נָתַ֨ן", "transliteral": "nā-ṯan", "traducao_palavra": "deu" },
+        { "hebraico": "לָהֶ֧ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "הָֽאֱלֹהִ֛ים", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "מַדָּ֥ע", "transliteral": "mad-dāʿ", "traducao_palavra": "conhecimento" },
+        { "hebraico": "וְהַשְׂכֵּ֖ל", "transliteral": "wə-haś-kêl", "traducao_palavra": "e inteligência" },
+        { "hebraico": "בְּכָל־סֵ֣פֶר", "transliteral": "bə-ḵāl-sê-p̄er", "traducao_palavra": "em toda literatura" },
+        { "hebraico": "וְחָכְמָ֑ה", "transliteral": "wə-ḥāḵ-mā", "traducao_palavra": "e sabedoria" },
+        { "hebraico": "וְדָנִיֵּ֣אל", "transliteral": "wə-ḏā-nî-yêl", "traducao_palavra": "e Daniel" },
+        { "hebraico": "הֵבִ֔ין", "transliteral": "hê-ḇîn", "traducao_palavra": "tinha entendimento" },
+        { "hebraico": "בְּכָל־חָזֹ֖ון", "transliteral": "bə-ḵāl-ḥā-zôn", "traducao_palavra": "em toda visão" },
+        { "hebraico": "וַחֲלֹמֹֽות׃", "transliteral": "wa-ḥă-lō-môṯ", "traducao_palavra": "e sonhos" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E, ao fim dos dias em que o rei tinha dito que os trouxessem, o chefe dos eunucos os introduziu diante de Nabucodonosor.",
+      "palavras": [
+        { "hebraico": "וּלְמִקְצָ֣ת", "transliteral": "ū-lə-miq-ṣāṯ", "traducao_palavra": "e ao fim de" },
+        { "hebraico": "הַיָּמִ֔ים", "transliteral": "hay-yā-mîm", "traducao_palavra": "os dias" },
+        { "hebraico": "אֲשֶׁר־אָמַ֥ר", "transliteral": "ʾă-šer-ʾā-mar", "traducao_palavra": "que dissera" },
+        { "hebraico": "הַמֶּ֖לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "לַהֲבִיאָ֑ם", "transliteral": "la-hă-ḇî-ʾām", "traducao_palavra": "para trazê-los" },
+        { "hebraico": "וַיְבִיאֵם֙", "transliteral": "way-ḇî-ʾêm", "traducao_palavra": "e introduziu-os" },
+        { "hebraico": "שַׂ֣ר", "transliteral": "śar", "traducao_palavra": "o chefe de" },
+        { "hebraico": "הַסָּרִיסִ֔ים", "transliteral": "has-sā-rî-sîm", "traducao_palavra": "os eunucos" },
+        { "hebraico": "לִפְנֵ֖י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "נְבֻכַדְנֶצַּֽר׃", "transliteral": "nə-ḇu-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E o rei falou com eles; e entre todos eles não foram achados outros como Daniel, Hananias, Misael e Azarias; por isso ficaram assistindo diante do rei.",
+      "palavras": [
+        { "hebraico": "וַיְדַבֵּ֣ר", "transliteral": "way-ḏab-bêr", "traducao_palavra": "e falou" },
+        { "hebraico": "אִתָּם֮", "transliteral": "ʾit-tām", "traducao_palavra": "com eles" },
+        { "hebraico": "הַמֶּלֶךְ֒", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וְלֹ֤א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "נִמְצָא֙", "transliteral": "nim-ṣā", "traducao_palavra": "foi achado" },
+        { "hebraico": "מִכֻּלָּ֔ם", "transliteral": "mik-kul-lām", "traducao_palavra": "dentre todos eles" },
+        { "hebraico": "כְּדָנִיֵּ֣אל", "transliteral": "kə-ḏā-nî-yêl", "traducao_palavra": "como Daniel" },
+        { "hebraico": "חֲנַנְיָ֔ה", "transliteral": "ḥă-nan-yā", "traducao_palavra": "Hananias" },
+        { "hebraico": "מִֽישָׁאֵ֖ל", "transliteral": "mî-šā-ʾêl", "traducao_palavra": "Misael" },
+        { "hebraico": "וַעֲזַרְיָ֑ה", "transliteral": "wa-ʿă-zar-yā", "traducao_palavra": "e Azarias" },
+        { "hebraico": "וַיַּֽעַמְד֖וּ", "transliteral": "way-ya-ʿam-ḏū", "traducao_palavra": "e passaram a assistir" },
+        { "hebraico": "לִפְנֵ֥י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "הַמֶּֽלֶךְ׃", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E em toda matéria de sabedoria e de discernimento sobre a qual o rei lhes perguntou, achou-os dez vezes mais doutos do que todos os magos e astrólogos que havia em todo o seu reino.",
+      "palavras": [
+        { "hebraico": "וְכֹ֗ל", "transliteral": "wə-ḵōl", "traducao_palavra": "e em toda" },
+        { "hebraico": "דְּבַר֙", "transliteral": "də-ḇar", "traducao_palavra": "matéria de" },
+        { "hebraico": "חָכְמַ֣ת", "transliteral": "ḥāḵ-maṯ", "traducao_palavra": "sabedoria de" },
+        { "hebraico": "בִּינָ֔ה", "transliteral": "bî-nā", "traducao_palavra": "entendimento" },
+        { "hebraico": "אֲשֶׁר־בִּקֵּ֥שׁ", "transliteral": "ʾă-šer-biq-qêš", "traducao_palavra": "que indagou" },
+        { "hebraico": "מֵהֶ֖ם", "transliteral": "mê-hem", "traducao_palavra": "deles" },
+        { "hebraico": "הַמֶּ֑לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וַֽיִּמְצָאֵ֞ם", "transliteral": "way-yim-ṣā-ʾêm", "traducao_palavra": "e achou-os" },
+        { "hebraico": "עֶ֣שֶׂר", "transliteral": "ʿe-śer", "traducao_palavra": "dez" },
+        { "hebraico": "יָדֹ֗ות", "transliteral": "yā-ḏôṯ", "traducao_palavra": "vezes" },
+        { "hebraico": "עַ֤ל", "transliteral": "ʿal", "traducao_palavra": "sobre" },
+        { "hebraico": "כָּל־הַֽחַרְטֻמִּים֙", "transliteral": "kāl-ha-ḥar-ṭum-mîm", "traducao_palavra": "todos os magos" },
+        { "hebraico": "הָֽאַשָּׁפִ֔ים", "transliteral": "hā-ʾaš-šā-p̄îm", "traducao_palavra": "os astrólogos" },
+        { "hebraico": "אֲשֶׁ֖ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estavam]" },
+        { "hebraico": "בְּכָל־מַלְכוּתֹֽו׃", "transliteral": "bə-ḵāl-mal-ḵū-ṯô", "traducao_palavra": "em todo o seu reino" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E Daniel continuou até o primeiro ano do rei Ciro.",
+      "palavras": [
+        { "hebraico": "וַֽיְהִי֙", "transliteral": "way-hî", "traducao_palavra": "e continuou" },
+        { "hebraico": "דָּֽנִיֵּ֔אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "עַד־שְׁנַ֥ת", "transliteral": "ʿaḏ-šə-naṯ", "traducao_palavra": "até o ano de" },
+        { "hebraico": "אַחַ֖ת", "transliteral": "ʾa-ḥaṯ", "traducao_palavra": "um [primeiro]" },
+        { "hebraico": "לְכֹ֥ורֶשׁ", "transliteral": "lə-ḵô-reš", "traducao_palavra": "de Ciro" },
+        { "hebraico": "הַמֶּֽלֶךְ׃", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" }
+      ]
+    }
+  }
 }

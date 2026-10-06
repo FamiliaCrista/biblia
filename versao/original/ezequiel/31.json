@@ -2,5 +2,360 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 31,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E sucedeu, no ano undécimo, no terceiro mês, ao primeiro do mês, que veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בְּאַחַת", "transliteral": "bə-ʾa-ḥaṯ", "traducao_palavra": "no primeiro [dia] de" },
+        { "hebraico": "עֶשְׂרֵה", "transliteral": "ʿeś-rēh", "traducao_palavra": "dez [undécimo]" },
+        { "hebraico": "שָׁנָה", "transliteral": "šā-nā", "traducao_palavra": "ano" },
+        { "hebraico": "בַּשְּׁלִישִׁי", "transliteral": "baš-šə-lî-šî", "traducao_palavra": "no terceiro [mês]" },
+        { "hebraico": "בְּאֶחָד", "transliteral": "bə-ʾe-ḥāḏ", "traducao_palavra": "no primeiro [dia]" },
+        { "hebraico": "לַחֹדֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "הָיָה", "transliteral": "hā-yā", "traducao_palavra": "veio" },
+        { "hebraico": "דְבַר־יְהוָה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Filho do homem, dize a Faraó, rei do Egito, e à sua multidão: A quem és semelhante na tua grandeza?",
+      "palavras": [
+        { "hebraico": "בֶּן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "אֱמֹר", "transliteral": "ʾĕ-môr", "traducao_palavra": "dize" },
+        { "hebraico": "אֶל־פַּרְעֹה", "transliteral": "ʾel-par-ʿōh", "traducao_palavra": "a Faraó" },
+        { "hebraico": "מֶלֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "מִצְרַיִם", "transliteral": "miṣ-rā-yim", "traducao_palavra": "Egito" },
+        { "hebraico": "וְאֶל־הֲמֹונֹו", "transliteral": "wə-ʾel-hă-mô-nô", "traducao_palavra": "e à sua multidão" },
+        { "hebraico": "אֶל־מִי", "transliteral": "ʾel-mî", "traducao_palavra": "a quem" },
+        { "hebraico": "דָּמִיתָ", "transliteral": "dā-mî-ṯā", "traducao_palavra": "és semelhante" },
+        { "hebraico": "בְּגָדְלֶךָ", "transliteral": "bə-ḡāḏ-le-ḵā", "traducao_palavra": "na tua grandeza" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Eis que a Assíria era um cedro no Líbano, com ramosformosos, e com sombra forestal, e de alta estatura, e o seu topo estava entre os ramos espessos.",
+      "palavras": [
+        { "hebraico": "הִנֵּה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "אַשּׁוּר", "transliteral": "ʾaš-šûr", "traducao_palavra": "a Assíria" },
+        { "hebraico": "אֶרֶז", "transliteral": "ʾe-rez", "traducao_palavra": "[era] um cedro" },
+        { "hebraico": "בַּלְּבָנֹון", "transliteral": "bal-lə-ḇā-nôn", "traducao_palavra": "no Líbano" },
+        { "hebraico": "יְפֵה", "transliteral": "yə-p̄ēh", "traducao_palavra": "de formosos" },
+        { "hebraico": "עָנָף", "transliteral": "ʿā-nāp̄", "traducao_palavra": "ramos" },
+        { "hebraico": "וְחֹרֶשׁ", "transliteral": "wə-ḥō-reš", "traducao_palavra": "e sombra de bosque" },
+        { "hebraico": "מֵצַל", "transliteral": "mê-ṣal", "traducao_palavra": "projetando sombra" },
+        { "hebraico": "וּגְבַהּ", "transliteral": "ū-ḡə-ḇah", "traducao_palavra": "e de alta" },
+        { "hebraico": "קֹומָה", "transliteral": "qô-mā", "traducao_palavra": "estatura" },
+        { "hebraico": "וּבֵין", "transliteral": "ū-bên", "traducao_palavra": "e entre" },
+        { "hebraico": "עֲבֹתִים", "transliteral": "ʿă-ḇō-ṯîm", "traducao_palavra": "os ramos espessos" },
+        { "hebraico": "הָיְתָה", "transliteral": "hā-yə-ṯā", "traducao_palavra": "estava" },
+        { "hebraico": "צַמַּרְתֹּו", "transliteral": "ṣam-mar-tô", "traducao_palavra": "o seu topo/ramagem" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "As águas o fizeram crescer, o abismo o exalçou; as suas correntes corriam em torno da sua plantação, e ela enviava os seus regatos a todas as árvores do campo.",
+      "palavras": [
+        { "hebraico": "מַיִם", "transliteral": "ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "גִּדְּלֻהוּ", "transliteral": "gid-də-lu-hû", "traducao_palavra": "o fizeram crescer" },
+        { "hebraico": "תְּהֹום", "transliteral": "tə-hôm", "traducao_palavra": "o abismo" },
+        { "hebraico": "רֹמְמָתְהוּ", "transliteral": "rō-mə-māṯ-hû", "traducao_palavra": "o exalçou" },
+        { "hebraico": "אֶת־נְהָרֹתֶיהָ", "transliteral": "ʾeṯ-nə-hā-rō-ṯe-hā", "traducao_palavra": "as correntes dela" },
+        { "hebraico": "הֹלֵךְ", "transliteral": "hō-lêḵ", "traducao_palavra": "corriam" },
+        { "hebraico": "סְבִיב", "transliteral": "sə-vîḇ", "traducao_palavra": "em redor" },
+        { "hebraico": "מִטָּעֹתָהּ", "transliteral": "mit-ṭā-ʿō-ṯāh", "traducao_palavra": "da plantação dela" },
+        { "hebraico": "וְאֶת־תְּעָלֹתֶיהָ", "transliteral": "wə-ʾeṯ-tə-ʿā-lō-ṯe-hā", "traducao_palavra": "e os seus regatos" },
+        { "hebraico": "שִׁלְּחָה", "transliteral": "šil-lə-ḥā", "traducao_palavra": "enviava" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "a" },
+        { "hebraico": "כָּל־עֲצֵי", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Por isso, se elevou a sua estatura sobre todas as árvores do campo, e se multiplicaram os seus ramos, e se alongaram as suas varas, por causa das muitas águas que enviava.",
+      "palavras": [
+        { "hebraico": "עַל־כֵּן", "transliteral": "ʿal-kên", "traducao_palavra": "por isso" },
+        { "hebraico": "גָּבְהָה", "transliteral": "ḡā-ḇə-hā", "traducao_palavra": "elevou-se" },
+        { "hebraico": "קֹומָתֹו", "traducao_palavra": "sua estatura", "transliteral_alt": "qô-mā-ṯô" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "sobre" },
+        { "hebraico": "כָּל־עֲצֵי", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "וַתֶּרֶבְיֶן", "transliteral": "wat-te-reḇ-yen", "traducao_palavra": "e multiplicaram-se" },
+        { "hebraico": "סַרְעַפֹּתָיו", "transliteral": "śar-ʿap-pō-ṯāyw", "traducao_palavra": "os seus ramos" },
+        { "hebraico": "וַתּَאֲרַכְנָה", "transliteral": "wat-tā-ʾă-raḵ-nā", "traducao_palavra": "e se alongaram" },
+        { "hebraico": "קְאֹותָיו", "transliteral": "qə-ʾō-wā-ṯāyw", "traducao_palavra": "as suas varas" },
+        { "hebraico": "מִרֹּב", "transliteral": "mir-rōḇ", "traducao_palavra": "por causa das muitas" },
+        { "hebraico": "מַיִם", "transliteral": "ma-yim", "traducao_palavra": "águas" },
+        { "hebraico": "בְּשַׁלְּחֹו", "transliteral": "bə-šal-lə-ḥô", "traducao_palavra": "ao enviá-las" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Todas as aves do céu se aninhavam nos seus ramos, e todos os animais do campo geravam debaixo dos seus ramos, e todos os grandes povos se assentavam à sua sombra.",
+      "palavras": [
+        { "hebraico": "בִּסְעַפֹּתָיו", "transliteral": "bis-ʿap-pō-ṯāyw", "traducao_palavra": "nos ramos dele" },
+        { "hebraico": "קִנְּנוּ", "transliteral": "qin-nə-nû", "traducao_palavra": "se aninhavam" },
+        { "hebraico": "כָּל־עֹוף", "transliteral": "kāl-ʿôp̄", "traducao_palavra": "todas as aves de" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "haš-šā-ma-yim", "traducao_palavra": "o céu" },
+        { "hebraico": "وَتַחַת", "transliteral": "wə-ta-ḥaṯ", "traducao_palavra": "e debaixo de" },
+        { "hebraico": "פֹּארֹתָיו", "transliteral": "pō-ʾə-rō-ṯāyw", "traducao_palavra": "seus ramos/folhagens" },
+        { "hebraico": "יָלְדוּ", "transliteral": "yā-lə-ḏû", "traducao_palavra": "geravam/tinham crias" },
+        { "hebraico": "כֹּל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "חַיַּת", "transliteral": "ḥay-yaṯ", "traducao_palavra": "os animais de" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "וּבְצִלֹּו", "transliteral": "ū-ḇə-ṣil-lô", "traducao_palavra": "e à sombra dele" },
+        { "hebraico": "יָשְׁבוּ", "transliteral": "yā-šə-ḇû", "traducao_palavra": "se assentavam" },
+        { "hebraico": "כֹּל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "גֹּויִם", "transliteral": "gô-yim", "traducao_palavra": "os grandes povos" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Assim, era ele formoso na sua grandeza, na extensão dos seus ramos, porque a sua raiz estava junto às muitas águas.",
+      "palavras": [
+        { "hebraico": "וַיִּיפֶ", "transliteral": "way-yî-p̄e", "traducao_palavra": "e era ele formoso" },
+        { "hebraico": "בְּגָדְלֹו", "transliteral": "bə-ḡāḏ-lô", "traducao_palavra": "na sua grandeza" },
+        { "hebraico": "בְּאֹרֶךְ", "transliteral": "bə-ʾō-reḵ", "traducao_palavra": "na extensão de" },
+        { "hebraico": "דָּלִיֹּותָיו", "transliteral": "dā-lî-yō-ṯāyw", "traducao_palavra": "seus ramos" },
+        { "hebraico": "כִּי־הָיָה", "transliteral": "kî-hā-yā", "traducao_palavra": "porque estava" },
+        { "hebraico": "שָׁרְשֹׁו", "transliteral": "šā-rə-šô", "traducao_palavra": "sua raiz" },
+        { "hebraico": "אֶל־מַיִם", "transliteral": "ʾel-ma-yim", "traducao_palavra": "junto a águas" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitas" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Os cedros não o podiam escurecer no jardim de Deus; as faias não igualavam os seus ramos, e os castanheiras não eram como os seus renovos; nenhuma árvore no jardim de Deus se assemelhava a ele na sua formosura.",
+      "palavras": [
+        { "hebraico": "אֲרָזִים", "transliteral": "ʾă-rā-zîm", "traducao_palavra": "os cedros" },
+        { "hebraico": "לֹא־עֲמָמֻהוּ", "transliteral": "lō-ʿă-mā-mu-hû", "traducao_palavra": "não o podiam escurecer" },
+        { "hebraico": "בְּגַן־אֱלֹהִים", "transliteral": "bə-ḡan-ʾĕ-lō-hîm", "traducao_palavra": "no jardim de Deus" },
+        { "hebraico": "בְּרֹושִׁים", "transliteral": "bə-rô-šîm", "traducao_palavra": "as faias/ciprestes" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "דָּמוּ", "transliteral": "dā-mû", "traducao_palavra": "igualavam" },
+        { "hebraico": "אֶל־סְעַפֹּתָיו", "transliteral": "ʾel-śə-ʿap-pō-ṯāyw", "traducao_palavra": "os seus ramos" },
+        { "hebraico": "וַעֲרֹמִים", "transliteral": "wa-ʿă-rō-mîm", "traducao_palavra": "e os castanheiras" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "הָיu", "transliteral": "hā-yû", "traducao_palavra": "eram" },
+        { "hebraico": "כְּפֹאֲרֹתָיו", "transliteral": "kə-p̄ō-ʾă-rō-ṯāyw", "traducao_palavra": "como os seus renovos" },
+        { "hebraico": "כָּל־עֵץ", "transliteral": "kāl-ʿēṣ", "traducao_palavra": "nenhuma árvore" },
+        { "hebraico": "בְּגַן־אֱלֹהִים", "transliteral": "bə-ḡan-ʾĕ-lō-hîm", "traducao_palavra": "no jardim de Deus" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "דָּמָה", "transliteral": "dā-mā", "traducao_palavra": "se assemelhava" },
+        { "hebraico": "אֵלָיו", "transliteral": "ʾē-lāw", "traducao_palavra": "a ele" },
+        { "hebraico": "בְּיָפְיֹו", "transliteral": "bə-yā-p̄ə-yô", "traducao_palavra": "na sua formosura" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Formoso o fiz com a multidão dos seus ramos; e todas as árvores do Éden, que estavam no jardim de Deus, tiveram inveja dele.",
+      "palavras": [
+        { "hebraico": "יָפֶה", "transliteral": "yā-p̄eh", "traducao_palavra": "formoso" },
+        { "hebraico": "עָשִׂיתִהוּ", "transliteral": "ʿā-śî-ṯi-hû", "traducao_palavra": "o fiz" },
+        { "hebraico": "בְּרֹב", "transliteral": "bə-rōḇ", "traducao_palavra": "com a multidão de" },
+        { "hebraico": "דָּלִיֹּותָיו", "transliteral": "dā-lî-yō-ṯāyw", "traducao_palavra": "seus ramos" },
+        { "hebraico": "وַיְקַנְאֻהוּ", "transliteral": "way-yə-qan-ʾu-hû", "traducao_palavra": "e tiveram inveja dele" },
+        { "hebraico": "כָּל־עֲצֵי", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "עֵדֶן", "transliteral": "ʿē-ḏen", "traducao_palavra": "Éden" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "בְּגַן", "transliteral": "bə-gan", "traducao_palavra": "no jardim de" },
+        { "hebraico": "הָאֱלֹהִים", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Portanto, assim diz o Senhor YHWH: Visto que te elevaste na tua estatura, e ele deu o seu topo entre os ramos espessos, e o seu coração se elevou na sua altura,",
+      "palavras": [
+        { "hebraico": "לָכֵן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "כֹּה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "יַעַן", "transliteral": "ya-ʿan", "traducao_palavra": "visto que" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "tu" },
+        { "hebraico": "גָּבַהְתָּ", "transliteral": "ḡā-ḇah-tā", "traducao_palavra": "te elevaste" },
+        { "hebraico": "בְּקֹוֱמָה", "transliteral": "bə-qô-mā", "traducao_palavra": "na estatura" },
+        { "hebraico": "وַיִּתֵּן", "transliteral": "way-yit-tên", "traducao_palavra": "e ele deu" },
+        { "hebraico": "צַמַּרְתֹּו", "transliteral": "ṣam-mar-tô", "traducao_palavra": "o seu topo" },
+        { "hebraico": "בֵּין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "עֲבֹתִים", "transliteral": "ʿă-ḇō-ṯîm", "traducao_palavra": "os ramos espessos" },
+        { "hebraico": "وְרָם", "transliteral": "wə-rām", "traducao_palavra": "e elevou-se" },
+        { "hebraico": "לְבָבֹו", "transliteral": "lə-ḇā-ḇô", "traducao_palavra": "seu coração" },
+        { "hebraico": "בְּגֹבְהֹו", "transliteral": "bə-ḡō-ḇə-hô", "traducao_palavra": "na sua altura" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Eu o entregarei na mão do poderoso das nações, o qual certamente o tratará segundo a sua maldade; eu o lancei fora.",
+      "palavras": [
+        { "hebraico": "וָאֶתְּנֵהוּ", "transliteral": "wā-ʾet-tə-nê-hû", "traducao_palavra": "e o entregarei" },
+        { "hebraico": "بְּיַד", "transliteral": "bə-yaḏ", "traducao_palavra": "na mão de" },
+        { "hebraico": "אֵיל", "transliteral": "ʾēl", "traducao_palavra": "o poderoso/líder de" },
+        { "hebraico": "גֹּויִם", "transliteral": "gô-yim", "traducao_palavra": "nações" },
+        { "hebraico": "עָשֹׂה", "transliteral": "ʿā-śō", "traducao_palavra": "certamente" },
+        { "hebraico": "יַעֲשֶׂה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "o tratará" },
+        { "hebraico": "לֹו", "transliteral": "lô", "traducao_palavra": "com ele" },
+        { "hebraico": "כְּרִשְׁעָתֹו", "transliteral": "kə-riš-ʿā-ṯô", "traducao_palavra": "segundo a sua maldade" },
+        { "hebraico": "גְּרַשְׁתִּיהוּ", "transliteral": "gə-raš-tî-hû", "traducao_palavra": "eu o lancei fora" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E estrangeiros, os mais terríveis das nações, o cortarão, e o deixarão; os seus ramos caíram nos montes e em todos os vales, e os seus ramos quebrados estão por todas as ribeiras da terra; e todos os povos da terra se retiraram da sua sombra, e o deixaram.",
+      "palavras": [
+        { "hebraico": "וְיִכְרְתֻהוּ", "transliteral": "wə-yiḵ-rə-ṯu-hû", "traducao_palavra": "e o cortarão" },
+        { "hebraico": "זָרִים", "transliteral": "zā-rîm", "traducao_palavra": "estrangeiros" },
+        { "hebraico": "עָרִיצֵי", "transliteral": "ʿā-rî-ṣê", "traducao_palavra": "os mais terríveis de" },
+        { "hebraico": "גֹּויִם", "transliteral": "gô-yim", "traducao_palavra": "nações" },
+        { "hebraico": "وَنְטָשֻׁהוּ", "transliteral": "wə-nə-ṭā-šu-hû", "traducao_palavra": "e o deixarão" },
+        { "hebraico": "אֶל־הֶהָרִים", "transliteral": "ʾel-he-hā-rîm", "traducao_palavra": "nos montes" },
+        { "hebraico": "וּבְכָל־הֲגֵאי", "transliteral": "ū-ḇə-ḵāl-hă-ḡê-î", "traducao_palavra": "e em todos os vales" },
+        { "hebraico": "נָפְלוּ", "transliteral": "nā-p̄ə-lû", "traducao_palavra": "caíram" },
+        { "hebraico": "דָּלִיֹּותָיו", "transliteral": "dā-lî-yō-ṯāyw", "traducao_palavra": "os seus ramos" },
+        { "hebraico": "וְיִשְׁבְּרוּ", "transliteral": "wə-yiš-bə-rû", "traducao_palavra": "e foram quebrados" },
+        { "hebraico": "סַרְעַפֹּתָיו", "transliteral": "śar-ʿap-pō-ṯāyw", "traducao_palavra": "seus galhos" },
+        { "hebraico": "בְּכֹל", "transliteral": "bə-ḵōl", "traducao_palavra": "em todas" },
+        { "hebraico": "נַחֲלֵי", "transliteral": "na-ḥă-lê", "traducao_palavra": "as ribeiras de" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "וְיָרְדוּ", "transliteral": "wə-yā-rə-ḏû", "traducao_palavra": "e se retiraram" },
+        { "hebraico": "מֵצִלֹּו", "transliteral": "mê-ṣil-lô", "traducao_palavra": "da sombra dele" },
+        { "hebraico": "כָּל־עַמֵּי", "transliteral": "kāl-ʿam-mê", "traducao_palavra": "todos os povos de" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "وַيִּטְשֻׁהוּ", "transliteral": "way-yiṭ-šu-hû", "traducao_palavra": "e o deixaram" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Sobre a sua ruína habitarão todas as aves do céu, e nos seus ramos estarão todos os animais do campo.",
+      "palavras": [
+        { "hebraico": "עַל־מַפָּלְתֹו", "transliteral": "ʿal-map-pā-lə-tô", "traducao_palavra": "sobre a ruína dele" },
+        { "hebraico": "يִשְׁכְּנוּ", "transliteral": "yiš-kə-nû", "traducao_palavra": "habitarão" },
+        { "hebraico": "כָּל־עֹוף", "transliteral": "kāl-ʿôp̄", "traducao_palavra": "todas as aves de" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "haš-šā-ma-yim", "traducao_palavra": "o céu" },
+        { "hebraico": "וְאֶל־סַרְעַפֹּתָיו", "transliteral": "wə-ʾel-śar-ʿap-pō-ṯāyw", "traducao_palavra": "e nos seus galhos" },
+        { "hebraico": "הָיוּ", "transliteral": "hā-yû", "traducao_palavra": "estarão" },
+        { "hebraico": "כֹּל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "חַיַּת", "transliteral": "ḥay-yaṯ", "traducao_palavra": "os animais de" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Para que nenhuma árvore junto às águas se exalte na sua estatura, nem dê o seu topo entre os ramos espessos, nem nenhuma das que bebem água se leve a si mesma na sua altura; porque todos são entregues à morte, até às profundezas da terra, no meio dos filhos dos homens, com os que descem à cova.",
+      "palavras": [
+        { "hebraico": "لְמַעַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "para que" },
+        { "hebraico": "لֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִגְבְּהוּ", "transliteral": "yiḡ-bə-hû", "traducao_palavra": "se exaltem" },
+        { "hebraico": "בַמַּיִם", "transliteral": "ḇam-ma-yim", "traducao_palavra": "junto às águas" },
+        { "hebraico": "כָּל־עֲצֵי", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores" },
+        { "hebraico": "فَۆ", "transliteral": "fô", "traducao_palavra": "nelas" },
+        { "hebraico": "וְלֹא", "transliteral": "wə-lō", "traducao_palavra": "nem" },
+        { "hebraico": "יִתְּנוּ", "transliteral": "yit-tə-nû", "traducao_palavra": "dêem" },
+        { "hebraico": "אֶת־צַמַּרְתָּם", "transliteral": "ʾeṯ-ṣam-mar-tām", "traducao_palavra": "o seu topo" },
+        { "hebraico": "بֵּין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "עֲבֹתִים", "transliteral": "ʿă-ḇō-ṯîm", "traducao_palavra": "os ramos espessos" },
+        { "hebraico": "וְלֹא", "transliteral": "wə-lō", "traducao_palavra": "nem" },
+        { "hebraico": "יַעֲמֹדוּ", "transliteral": "ya-ʿă-mō-ḏû", "traducao_palavra": "se levem a si mesmas / subsistam" },
+        { "hebraico": "אֵלֵיהֶם", "transliteral": "ʾê-lê-hem", "traducao_palavra": "delas" },
+        { "hebraico": "כָּל־שֹׁתֵה", "transliteral": "kāl-šō-têh", "traducao_palavra": "todas as que bebem" },
+        { "hebraico": "مַיִם", "transliteral": "ma-yim", "traducao_palavra": "água" },
+        { "hebraico": "כִּי־كُلָּם", "transliteral": "kî-kul-lām", "traducao_palavra": "pois todos eles" },
+        { "hebraico": "נִתְּנוּ", "transliteral": "nit-tə-nû", "traducao_palavra": "são entregues" },
+        { "hebraico": "لַמָּוֶת", "transliteral": "lam-mā-weṯ", "traducao_palavra": "à morte" },
+        { "hebraico": "אֶל־אֶרֶץ", "transliteral": "ʾel-ʾe-reṣ", "traducao_palavra": "à terra" },
+        { "hebraico": "תַּחְתִּיֹּות", "transliteral": "taḥ-tî-yôṯ", "traducao_palavra": "mais baixa / profundezas" },
+        { "hebraico": "בְּתֹוךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "בְּנֵי", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "אָדָם", "transliteral": "ʾā-ḏām", "traducao_palavra": "homem" },
+        { "hebraico": "אֶל־יֹורְדֵי", "transliteral": "ʾel-yō-rə-ḏê", "traducao_palavra": "com os que descem" },
+        { "hebraico": "בֹור", "transliteral": "bôr", "traducao_palavra": "à cova" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Assim diz o Senhor YHWH: No dia em que ele desceu ao inferno, fiz luto, cobri o abismo por causa dele, e detive os seus rios, e as muitas águas foram contidas; e fiz enegrecer o Líbano por causa dele, e todas as árvores do campo desfaleceram por causa dele.",
+      "palavras": [
+        { "hebraico": "כֹּה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "بַּיֹּום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "רֶדְתֹּו", "transliteral": "red-tô", "traducao_palavra": "em que desceu" },
+        { "hebraico": "שְׁאֹולָה", "transliteral": "šə-ʾô-lā", "traducao_palavra": "ao inferno/sepultura" },
+        { "hebraico": "הֶאֱבַלְתִּי", "transliteral": "he-ʾă-val-tî", "traducao_palavra": "fiz luto" },
+        { "hebraico": "כִּסִּיתִי", "transliteral": "kis-sî-tî", "traducao_palavra": "cobri" },
+        { "hebraico": "עָלָיו", "transliteral": "ʿā-lāw", "traducao_palavra": "por causa dele" },
+        { "hebraico": "אֶת־הַתְּהֹום", "transliteral": "ʾeṯ-hat-tə-hôm", "traducao_palavra": "o abismo" },
+        { "hebraico": "וָאֶמְנַע", "transliteral": "wā-ʾem-naʿ", "traducao_palavra": "e detive" },
+        { "hebraico": "נְהָרֹתָיו", "transliteral": "nə-hā-rō-ṯāyw", "traducao_palavra": "os rios dele" },
+        { "hebraico": "וַיִּכָּלְאu", "transliteral": "way-yik-kā-lə-ʾû", "traducao_palavra": "e foram contidas" },
+        { "hebraico": "מַיִם", "transliteral": "ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitas" },
+        { "hebraico": "וְקָדַרְתִּי", "transliteral": "wə-qā-ḏar-tî", "traducao_palavra": "e fiz enegrecer/vestir de luto" },
+        { "hebraico": "عָלָיו", "transliteral": "ʿā-lāw", "traducao_palavra": "por causa dele" },
+        { "hebraico": "לְבָנֹון", "transliteral": "lə-ḇā-nôn", "traducao_palavra": "o Líbano" },
+        { "hebraico": "وَكָל־עֲצֵי", "transliteral": "wə-ḵāl-ʿă-ṣê", "traducao_palavra": "e todas as árvores de" },
+        { "hebraico": "הַשָּׂדֶה", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "עָלָיו", "transliteral": "ʿā-lāw", "traducao_palavra": "por causa dele" },
+        { "hebraico": "عָלְפֻו", "transliteral": "ʿā-lə-p̄û", "traducao_palavra": "desfaleceram" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Com o estrondo da sua queda fiz tremer as nações, quando as fiz descer ao inferno com os que descem à cova; e todas as árvores do Éden, as mais excelentes e as melhores do Líbano, todas as que bebiam água, se consolaron nas profundezas da terra.",
+      "palavras": [
+        { "hebraico": "مִקֹּול", "transliteral": "miq-qôl", "traducao_palavra": "com o estrondo/ruído de" },
+        { "hebraico": "מַפָּלְתֹו", "transliteral": "map-pā-lə-tô", "traducao_palavra": "sua queda" },
+        { "hebraico": "הִרְעַשְׁתִּי", "transliteral": "hir-ʿaš-tî", "traducao_palavra": "fiz tremer" },
+        { "hebraico": "גֹּויִם", "transliteral": "gô-yim", "traducao_palavra": "as nações" },
+        { "hebraico": "בְּהֹורִדִי", "transliteral": "bə-hô-rî-ḏî", "traducao_palavra": "ao fazer descer" },
+        { "hebraico": "אֹתֹו", "transliteral": "ʾō-ṯô", "traducao_palavra": "ele" },
+        { "hebraico": "שְׁאֹולָה", "transliteral": "šə-ʾô-lā", "traducao_palavra": "ao inferno" },
+        { "hebraico": "אֶת־יֹורְדֵי", "transliteral": "ʾeṯ-yō-rə-ḏê", "traducao_palavra": "com os que descem" },
+        { "hebraico": "בֹור", "traducao_palavra": "à cova", "transliteral_alt": "bôr" },
+        { "hebraico": "וַיִּנַּחֲמוּ", "transliteral": "way-yin-na-ḥă-mû", "traducao_palavra": "e se consolaram" },
+        { "hebraico": "בְּאֶרֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra" },
+        { "hebraico": "تַּחְתִּיֹּות", "transliteral": "taḥ-tî-yôṯ", "traducao_palavra": "mais baixa" },
+        { "hebraico": "כָּל־עֲצֵי", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "עֵדֶן", "transliteral": "ʿē-ḏen", "traducao_palavra": "Éden" },
+        { "hebraico": "מִבְחַר", "transliteral": "miḇ-ḥar", "traducao_palavra": "as mais excelentes de" },
+        { "hebraico": "وَטֹוב־לְבָנֹון", "transliteral": "wə-ṭôḇ-lə-ḇā-nôn", "traducao_palavra": "e as melhores do Líbano" },
+        { "hebraico": "כָּל־שֹׁתֵה", "transliteral": "kāl-šō-têh", "traducao_palavra": "todas as que bebem" },
+        { "hebraico": "مַיִם", "transliteral": "ma-yim", "traducao_palavra": "água" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Também eles desceram com ele ao inferno, com os mortos à espada; e os que eram o seu braço, que habitavam à sua sombra no meio das nações.",
+      "palavras": [
+        { "hebraico": "גַּם־הֵם", "transliteral": "gam-hêm", "traducao_palavra": "também eles" },
+        { "hebraico": "אִתֹּו", "transliteral": "ʾit-tô", "traducao_palavra": "com ele" },
+        { "hebraico": "יָרְדu", "transliteral": "yā-rə-ḏû", "traducao_palavra": "desceram" },
+        { "hebraico": "שְׁאֹולָה", "transliteral": "šə-ʾô-lā", "traducao_palavra": "ao inferno" },
+        { "hebraico": "אֶל־حַלְלֵי", "transliteral": "ʾel-ḥal-lê", "traducao_palavra": "com os mortos/feridos pela" },
+        { "hebraico": "حَرֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "espada" },
+        { "hebraico": "وَزְרֹעֹו", "transliteral": "wə-zə-rō-ʿô", "traducao_palavra": "e os que eram o braço dele" },
+        { "hebraico": "יֹשְׁבֵי", "transliteral": "yô-šə-ḇê", "traducao_palavra": "que habitavam" },
+        { "hebraico": "בְּצִלֹּו", "transliteral": "bə-ṣil-lô", "traducao_palavra": "à sombra dele" },
+        { "hebraico": "בְּתֹוךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "גֹּויִם", "transliteral": "gô-yim", "traducao_palavra": "as nações" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "A quem és semelhante em glória e em grandeza entre as árvores do Éden? Todavia, serás des 능ado com as árvores do Éden às partes baixas da terra; no meio dos incircuncisos jazerás, com os mortos à espada. Este é Faraó e toda a sua multidão, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "אֶל־מִי", "transliteral": "ʾel-mî", "traducao_palavra": "a quem" },
+        { "hebraico": "דָּמִיתָ", "transliteral": "dā-mî-ṯā", "traducao_palavra": "és semelhante" },
+        { "hebraico": "כָּכָה", "transliteral": "kā-ḵā", "traducao_palavra": "assim" },
+        { "hebraico": "בְּכָבֹוד", "transliteral": "bə-ḵā-ḇôḏ", "traducao_palavra": "em glória" },
+        { "hebraico": "וּבِגְדֹל", "transliteral": "ū-biḡ-ḏōl", "traducao_palavra": "e em grandeza" },
+        { "hebraico": "בְּעֲצֵי", "transliteral": "bə-ʿă-ṣê", "traducao_palavra": "entre as árvores de" },
+        { "hebraico": "עֵדֶן", "transliteral": "ʿē-ḏen", "traducao_palavra": "Éden" },
+        { "hebraico": "וְהֹורַדְתָּ", "transliteral": "wə-hô-raḏ-tā", "traducao_palavra": "e serás des David / descerás" },
+        { "hebraico": "אֶת־עֲצֵי", "transliteral": "ʾeṯ-ʿă-ṣê", "traducao_palavra": "com as árvores de" },
+        { "hebraico": "עֵדֶן", "transliteral": "ʿē-ḏen", "traducao_palavra": "Éden" },
+        { "hebraico": "אֶל־אֶרֶץ", "transliteral": "ʾel-ʾe-reṣ", "traducao_palavra": "à terra" },
+        { "hebraico": "תַּחְתִּיֹּות", "transliteral": "taḥ-tî-yôṯ", "traducao_palavra": "mais baixa" },
+        { "hebraico": "בְּתֹוךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "עֲרֵלִים", "transliteral": "ʿă-rē-lîm", "traducao_palavra": "os incircuncisos" },
+        { "hebraico": "תִּשְׁכַּב", "transliteral": "tiš-kaḇ", "traducao_palavra": "jazerás" },
+        { "hebraico": "אֶת־حַלֵּי", "transliteral": "ʾet-ḥal-lê", "traducao_palavra": "com os mortos/feridos pela" },
+        { "hebraico": "حֶרֶב", "transliteral": "ḥe-reḇ", "traducao_palavra": "espada" },
+        { "hebraico": "הוּא", "transliteral": "hû", "traducao_palavra": "este é" },
+        { "hebraico": "פַּרְעֹה", "transliteral": "par-ʿōh", "traducao_palavra": "Faraó" },
+        { "hebraico": "وَكָל־هֲמֹונֹו", "transliteral": "wə-ḵāl-hă-mô-nô", "traducao_palavra": "e toda a sua multidão" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }

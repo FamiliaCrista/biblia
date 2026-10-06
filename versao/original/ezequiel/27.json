@@ -1,6 +1,570 @@
 {
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 27,
+  "parte": "1 (Versículos 1 ao 18)",
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְּבַר־יְהוָה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Tu, pois, ó filho do homem, levanta uma lamentação sobre Tiro,",
+      "palavras": [
+        { "hebraico": "וְאַתָּה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "בֶן־אָדָם", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "שָׂא", "transliteral": "śāʾ", "traducao_palavra": "levanta" },
+        { "hebraico": "עַל־צֹור", "transliteral": "ʿal-ṣôr", "traducao_palavra": "sobre Tiro" },
+        { "hebraico": "קִינָה", "transliteral": "qî-nā", "traducao_palavra": "uma lamentação" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E dize a Tiro, que habita nos portões do mar, e que negocia com os povos de muitas ilhas: Assim diz o Senhor YHWH: Ó Tiro, tu dizes: Eu sou de perfeita formosura.",
+      "palavras": [
+        { "hebraico": "וְאָמַרְתָּ", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dize" },
+        { "hebraico": "לְצֹור", "transliteral": "lə-ṣôr", "traducao_palavra": "a Tiro" },
+        { "hebraico": "הַיֹּשֶׁבֶת", "transliteral": "hay-yō-še-ḇeṯ", "traducao_palavra": "que habita" },
+        { "hebraico": "עַל־מְבֹואֹות", "transliteral": "ʿal-mə-ḇō-ʾôṯ", "traducao_palavra": "nos portões de" },
+        { "hebraico": "יָם", "transliteral": "yām", "traducao_palavra": "o mar" },
+        { "hebraico": "רֹכֶלֶת", "transliteral": "rō-ḵe-leṯ", "traducao_palavra": "negociante" },
+        { "hebraico": "הָעַמִּים", "transliteral": "hā-ʿam-mîm", "traducao_palavra": "dos povos" },
+        { "hebraico": "אֶל־איִים", "transliteral": "ʾel-ʾî-yim", "traducao_palavra": "para muitas ilhas" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitas" },
+        { "hebraico": "כֹּה", "transliteral": "kō", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צֹור", "transliteral": "ṣôr", "traducao_palavra": "Tiro" },
+        { "hebraico": "אַתְּ", "transliteral": "ʾat", "traducao_palavra": "tu" },
+        { "hebraico": "אָמַרְתְּ", "transliteral": "ʾā-mar-tə", "traducao_palavra": "dizeste" },
+        { "hebraico": "אֲנִי", "transliteral": "ʾă-nî", "traducao_palavra": "eu [sou]" },
+        { "hebraico": "כְּלִילַת", "transliteral": "kə-lî-laṯ", "traducao_palavra": "perfeição de" },
+        { "hebraico": "יֹפִי", "transliteral": "yō-p̄î", "traducao_palavra": "formosura" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "O teu território é no meio dos mares; os teus edificadores aperfeiçoaram a tua formosura.",
+      "palavras": [
+        { "hebraico": "בְּלֵב", "transliteral": "bə-lēḇ", "traducao_palavra": "no coração de" },
+        { "hebraico": "יַמִּים", "transliteral": "yam-mîm", "traducao_palavra": "mares" },
+        { "hebraico": "גְּבוּלֹותַיִךְ", "transliteral": "gə-ḇû-lō-ṯa-yiḵ", "traducao_palavra": "teu território" },
+        { "hebraico": "בֹּנָיִךְ", "transliteral": "bō-nā-yiḵ", "traducao_palavra": "teus edificadores" },
+        { "hebraico": "כָּלְלוּ", "transliteral": "kāl-lû", "traducao_palavra": "aperfeiçoaram" },
+        { "hebraico": "יָפְיֵךְ", "traducao_palavra": "tua formosura", "transliteral_alt": "yā-p̄ə-yēḵ" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "De tábuas de faia de Senir construíram todas as tuas estruturas; tomaram cedro do Líbano para fazer o teu mastro.",
+      "palavras": [
+        { "hebraico": "בְּרֹושִׁים", "transliteral": "bə-rô-šîm", "traducao_palavra": "de faia/ciprestes" },
+        { "hebraico": "מִשְּׂנִיר", "transliteral": "mis-śə-nîr", "traducao_palavra": "de Senir" },
+        { "hebraico": "בָּנוּ", "transliteral": "bā-nû", "traducao_palavra": "construíram" },
+        { "hebraico": "לָךְ", "transliteral": "lāḵ", "traducao_palavra": "para ti" },
+        { "hebraico": "אֵת", "transliteral": "ʾēṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־לוּחֹתָיִךְ", "transliteral": "kāl-lû-ḥō-ṯā-yiḵ", "traducao_palavra": "todas as tuas tábuas" },
+        { "hebraico": "אֶרֶז", "transliteral": "ʾe-rez", "traducao_palavra": "cedro" },
+        { "hebraico": "מִלְּבָנֹון", "transliteral": "mil-lə-ḇā-nôn", "traducao_palavra": "do Líbano" },
+        { "hebraico": "לָקַחְתִּי", "transliteral": "lā-qaḥ-tî", "traducao_palavra": "tomaram" },
+        { "hebraico": "לַעֲשֹׂות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "para fazer" },
+        { "hebraico": "תֹּרֶן", "transliteral": "tō-ren", "traducao_palavra": "mastro" },
+        { "hebraico": "עָלָיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "sobre ti" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Fizeram os teus remos de carvalhos de Basã; os teu bancos fizeram de marfim incrustado em buxo das ilhas de Quitim.",
+      "palavras": [
+        { "hebraico": "מֵאַלֹּונֵי", "transliteral": "mē-ʾal-lō-nê", "traducao_palavra": "de carvalhos de" },
+        { "hebraico": "הַבָּשָׁן", "transliteral": "hab-bā-šān", "traducao_palavra": "Basã" },
+        { "hebraico": "עָשׂוּ", "transliteral": "ʿā-śû", "traducao_palavra": "fizeram" },
+        { "hebraico": "מְשֹׁוטָיִךְ", "transliteral": "mə-šô-ṯā-yiḵ", "traducao_palavra": "teus remos" },
+        { "hebraico": "קַרְשֵׁךְ", "transliteral": "qar-šēḵ", "traducao_palavra": "teus bancos/assentos" },
+        { "hebraico": "עָשׂוּ", "transliteral": "ʿā-śû", "traducao_palavra": "fizeram" },
+        { "hebraico": "שֵׁן", "transliteral": "šên", "traducao_palavra": "de marfim" },
+        { "hebraico": "בַּת-אֲשֻׁרִים", "transliteral": "baṯ-ʾă-šu-rîm", "traducao_palavra": "em madeira de buxo" },
+        { "hebraico": "מֵאִיֵּי", "transliteral": "mê-ʾiy-yê", "traducao_palavra": "das ilhas de" },
+        { "hebraico": "כִּתִּיִּים", "transliteral": "kit-tî-yîm", "traducao_palavra": "Quitim" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "De linho fino com bordado do Egito eram as tuas velas, para servirem de estandarte; de azul e púrpura das ilhas de Elisa era a tua cobertura.",
+      "palavras": [
+        { "hebraico": "שֵׁשׁ", "transliteral": "šēš", "traducao_palavra": "linho fino" },
+        { "hebraico": "בִּרְקְמָה", "transliteral": "bir-qə-mā", "traducao_palavra": "com bordado" },
+        { "hebraico": "מִמִּצְרַיִם", "transliteral": "mim-miṣ-ra-yim", "traducao_palavra": "do Egito" },
+        { "hebraico": "הָיָה", "transliteral": "hā-yā", "traducao_palavra": "eram" },
+        { "hebraico": "מִفְרָשֵׂךְ", "transliteral": "mip-rā-śēḵ", "traducao_palavra": "tuas velas" },
+        { "hebraico": "לִהְיֹות", "transliteral": "lih-yôṯ", "traducao_palavra": "para servirem de" },
+        { "hebraico": "לָךְ", "transliteral": "lāḵ", "traducao_palavra": "para ti" },
+        { "hebraico": "לֵס", "transliteral": "nēs", "traducao_palavra": "estandarte" },
+        { "hebraico": "תְּכֵלֶת", "transliteral": "ṯə-ḵē-leṯ", "traducao_palavra": "azul" },
+        { "hebraico": "וְאַרְגָּמָן", "transliteral": "wə-ʾar-gā-mān", "traducao_palavra": "e púrpura" },
+        { "hebraico": "מֵאִיֵּי", "transliteral": "mê-ʾiy-yê", "traducao_palavra": "das ilhas de" },
+        { "hebraico": "אֱלִישָׁה", "transliteral": "ʾĕ-lî-šā", "traducao_palavra": "Elisa" },
+        { "hebraico": "הָיָה", "transliteral": "hā-yā", "traducao_palavra": "era" },
+        { "hebraico": "מִכְסֵךְ", "transliteral": "miḵ-sēḵ", "traducao_palavra": "tua cobertura" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Os moradores de Sidom e de Arvade eram os teus remadores; os teus sábios, ó Tiro, que estavam em ti, eram os teus pilotos.",
+      "palavras": [
+        { "hebraico": "יֹשְׁבֵי", "transliteral": "yô-šə-ḇê", "traducao_palavra": "os moradores de" },
+        { "hebraico": "צִידֹון", "transliteral": "ṣî-ḏôn", "traducao_palavra": "Sidom" },
+        { "hebraico": "וְאַרְוַד", "transliteral": "wə-ʾar-waḏ", "traducao_palavra": "e Arvade" },
+        { "hebraico": "הָיu", "transliteral": "hā-yû", "traducao_palavra": "eram" },
+        { "hebraico": "שַׁטָּיִךְ", "transliteral": "šat-ṭā-yiḵ", "traducao_palavra": "teus remadores" },
+        { "hebraico": "חֲכָמָיִךְ", "transliteral": "ḥă-ḵā-mā-yiḵ", "traducao_palavra": "teus sábios" },
+        { "hebraico": "צֹור", "transliteral": "ṣôr", "traducao_palavra": "Tiro" },
+        { "hebraico": "הָיu", "transliteral": "hā-yû", "traducao_palavra": "estavam" },
+        { "hebraico": "בָךְ", "transliteral": "ḇāḵ", "traducao_palavra": "em ti" },
+        { "hebraico": "هֵמָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "חֹבְלָיִךְ", "transliteral": "ḥō-ḇə-lā-yiḵ", "traducao_palavra": "eram os teus pilotos" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Os anciãos de Gebal e os seus sábios eram em ti os teus calafates; todas as naves do mar e os seus marinheiros estavam em ti, para negociarem a tua mercadoria.",
+      "palavras": [
+        { "hebraico": "זִקְנֵי", "transliteral": "ziq-nê", "traducao_palavra": "os anciãos de" },
+        { "hebraico": "גְּבַל", "transliteral": "ḡə-ḇal", "traducao_palavra": "Gebal" },
+        { "hebraico": "وַحֲכָמֶיהָ", "transliteral": "wa-ḥă-ḵā-me-hā", "traducao_palavra": "e os seus sábios" },
+        { "hebraico": "הָיu", "transliteral": "hā-yû", "traducao_palavra": "eram" },
+        { "hebraico": "בָךְ", "transliteral": "ḇāḵ", "traducao_palavra": "em ti" },
+        { "hebraico": "מַחֲזִקֵי", "transliteral": "ma-ḥă-zi-qê", "traducao_palavra": "os calafates/reparadores de" },
+        { "hebraico": "בִּדְקֵךְ", "transliteral": "biḏ-qēḵ", "traducao_palavra": "tuas fendas" },
+        { "hebraico": "כָּל־אֳנִיֹּות", "transliteral": "kāl-ʾŏ-nî-yôṯ", "traducao_palavra": "todas as naves de" },
+        { "hebraico": "הַיָּם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "וּמַלּֽَחֵיהֶם", "transliteral": "ū-mal-lā-ḥê-hem", "traducao_palavra": "e os seus marinheiros" },
+        { "hebraico": "הָיu", "transliteral": "hā-yû", "traducao_palavra": "estavam" },
+        { "hebraico": "בָךְ", "transliteral": "ḇāḵ", "traducao_palavra": "em ti" },
+        { "hebraico": "לַעֲשֹׂות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "para fazer" },
+        { "hebraico": "מַעֲרָבֵךְ", "transliteral": "ma-ʿă-rā-ḇēḵ", "traducao_palavra": "a tua mercadoria/negócio" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Os de Pérsia, e de Lude, e de Pute estavam no teu exército, teus homens de guerra; penduraram em ti o escudo e o elmo; eles te deram o teu esplendor.",
+      "palavras": [
+        { "hebraico": "פָּרַס", "transliteral": "pā-ras", "traducao_palavra": "Pérsia" },
+        { "hebraico": "וְלוּד", "transliteral": "wə-lûḏ", "traducao_palavra": "e Lude" },
+        { "hebraico": "וּפוּט", "transliteral": "ū-p̄ûṭ", "traducao_palavra": "e Pute" },
+        { "hebraico": "הָיu", "transliteral": "hā-yû", "traducao_palavra": "estavam" },
+        { "hebraico": "בְחֵילֵךְ", "transliteral": "ḇə-ḥê-lēḵ", "traducao_palavra": "no teu exército" },
+        { "hebraico": "אַנְשֵׁי", "transliteral": "ʾan-šê", "traducao_palavra": "homens de" },
+        { "hebraico": "מִלְחַמְתֵּךְ", "transliteral": "mil-ḥam-tēḵ", "traducao_palavra": "tua guerra" },
+        { "hebraico": "מָגֵן", "transliteral": "mā-ḡên", "traducao_palavra": "escudo" },
+        { "hebraico": "וְכֹוכָב", "transliteral": "wə-ḵô-wāḇ", "traducao_palavra": "e capacete/elmo" },
+        { "hebraico": "תִּלְּאוּ", "transliteral": "til-lə-ʾû", "traducao_palavra": "penduraram" },
+        { "hebraico": "בָּךְ", "transliteral": "bāḵ", "traducao_palavra": "em ti" },
+        { "hebraico": "הֵ֥מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "deram" },
+        { "hebraico": "הֲדָרֵךְ", "transliteral": "hă-ḏā-rēḵ", "traducao_palavra": "o teu esplendor" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Os filhos de Arvade com o teu exército estavam nos teus muros em redor, e os gamadeus estavam nas tuas torres; penduraram os seus escudos nos teus muros em redor; eles aperfeiçoaram a tua formosura.",
+      "palavras": [
+        { "hebraico": "בְּנֵי", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "אַרְוַד", "transliteral": "ʾar-waḏ", "traducao_palavra": "Arvade" },
+        { "hebraico": "וְחֵילֵךְ", "transliteral": "wə-ḥê-lēḵ", "traducao_palavra": "e o teu exército" },
+        { "hebraico": "עַל־חֹומֹותַיִךְ", "transliteral": "ʿal-ḥō-mō-ṯā-yiḵ", "traducao_palavra": "nos teus muros" },
+        { "hebraico": "סָבִיב", "transliteral": "śā-ḇîḇ", "traducao_palavra": "em redor" },
+        { "hebraico": "וּגְמָדִים", "transliteral": "ū-ḡə-mā-ḏîm", "traducao_palavra": "e os gamadeus" },
+        { "hebraico": "בְּמִגְדְּלֹותַיִךְ", "transliteral": "bə-miḡ-də-lō-ṯā-yiḵ", "traducao_palavra": "nas tuas torres" },
+        { "hebraico": "שִׁלְטֵיהֶם", "transliteral": "šil-ṭê-hem", "traducao_palavra": "seus escudos" },
+        { "hebraico": "תִּלְּאוּ", "transliteral": "til-lə-ʾû", "traducao_palavra": "penduraram" },
+        { "hebraico": "עַל־חֹומֹותַיִךְ", "transliteral": "ʿal-ḥō-mō-ṯā-yiḵ", "traducao_palavra": "nos teus muros" },
+        { "hebraico": "סָבִיב", "transliteral": "śā-ḇîḇ", "traducao_palavra": "em redor" },
+        { "hebraico": "הֵמָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "כָּלְלוּ", "transliteral": "kāl-lû", "traducao_palavra": "aperfeiçoaram" },
+        { "hebraico": "יָפְיֵךְ", "traducao_palavra": "tua formosura", "transliteral_alt": "yā-p̄ə-yēḵ" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Társis negociava contigo, por causa da abundância de toda sorte de riquezas; com prata, ferro, estanho e chumbo, faziam as tuas feiras.",
+      "palavras": [
+        { "hebraico": "תַּרְשִׁישׁ", "transliteral": "tar-šîš", "traducao_palavra": "Társis" },
+        { "hebraico": "סֹחַרְתֵּךְ", "transliteral": "śō-ḥar-tēḵ", "traducao_palavra": "negociava contigo" },
+        { "hebraico": "מֵרֹב", "transliteral": "mê-rōḇ", "traducao_palavra": "por causa da abundância de" },
+        { "hebraico": "כָּל־הֹון", "transliteral": "kāl-hôn", "traducao_palavra": "toda riqueza" },
+        { "hebraico": "בְּכֶסֶף", "transliteral": "bə-ḵe-sep̄", "traducao_palavra": "com prata" },
+        { "hebraico": "בַּרְזֶל", "transliteral": "bar-zel", "traducao_palavra": "ferro" },
+        { "hebraico": "בְּדִיל", "transliteral": "bə-ḏîl", "traducao_palavra": "estanho" },
+        { "hebraico": "וְעֹופֶרֶת", "transliteral": "wə-ʿō-p̄e-reṯ", "traducao_palavra": "e chumbo" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam / faziam" },
+        { "hebraico": "עִזְבֹונָיִךְ", "transliteral": "ʿiz-bō-nā-yiḵ", "traducao_palavra": "as tuas feiras/mercadorias" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Javã, Tubal e Meseque eram os teus mercadores; com almas de homens e com vasos de bronze negociavam nas tuas feiras.",
+      "palavras": [
+        { "hebraico": "יָוָן", "transliteral": "yā-wān", "traducao_palavra": "Javã" },
+        { "hebraico": "תּוּבַל", "transliteral": "ṯû-ḇal", "traducao_palavra": "Tubal" },
+        { "hebraico": "וּמֶשֶׁךְ", "transliteral": "ū-me-šeḵ", "traducao_palavra": "e Meseque" },
+        { "hebraico": "הֵמָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "רֹכְלָיִךְ", "transliteral": "rō-ḵə-lā-yiḵ", "traducao_palavra": "eram teus mercadores" },
+        { "hebraico": "בְּנֶפֶשׁ", "transliteral": "bə-ne-p̄eš", "traducao_palavra": "com almas de" },
+        { "hebraico": "אָדָם", "transliteral": "ʾā-ḏām", "traducao_palavra": "homens" },
+        { "hebraico": "וּכְלֵי", "transliteral": "ū-ḵə-lê", "traducao_palavra": "e com vasos de" },
+        { "hebraico": "נְחֹשֶׁת", "transliteral": "nə-ḥō-šeṯ", "traducao_palavra": "bronze" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam" },
+        { "hebraico": "מַעֲרָבֵךְ", "transliteral": "ma-ʿă-rā-ḇēḵ", "traducao_palavra": "tua mercadoria" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Os da casa de Togarma negociavam nas tuas feiras com cavalos, e ginetes, e mulos.",
+      "palavras": [
+        { "hebraico": "מִבֵּית", "transliteral": "mib-bêṯ", "traducao_palavra": "da casa de" },
+        { "hebraico": "תֹּגַרְמָה", "transliteral": "tō-ḡar-mā", "traducao_palavra": "Togarma" },
+        { "hebraico": "סוּסִים", "transliteral": "sû-śîm", "traducao_palavra": "cavalos" },
+        { "hebraico": "וּفָרָשִׁים", "transliteral": "ū-p̄ā-rā-šîm", "traducao_palavra": "e ginetes/cavalos de corrida" },
+        { "hebraico": "וּפְרָדִים", "transliteral": "ū-p̄ə-rā-ḏîm", "traducao_palavra": "e mulos" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam" },
+        { "hebraico": "עִזְבֹונָיִךְ", "traducao_palavra": "nas tuas feiras", "transliteral_alt": "ʿiz-bō-nā-yiḵ" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Os filhos de Dedã eram teus mercadores; muitas ilhas eram o mercado da tua mão; traziam-te em pagamento chifres de marfim e ébano.",
+      "palavras": [
+        { "hebraico": "בְּנֵי", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "דְּדָן", "transliteral": "də-ḏān", "traducao_palavra": "Dedã" },
+        { "hebraico": "רֹכְלָיִךְ", "transliteral": "rō-ḵə-lā-yiḵ", "traducao_palavra": "eram teus mercadores" },
+        { "hebraico": "אִיִּים", "transliteral": "ʾiy-yîm", "traducao_palavra": "ilhas" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitas" },
+        { "hebraico": "סְחֹרֶת", "transliteral": "śə-ḥō-reṯ", "traducao_palavra": "mercado de" },
+        { "hebraico": "יָדֵךְ", "transliteral": "yā-ḏēḵ", "traducao_palavra": "tua mão" },
+        { "hebraico": "הָבְנִים", "transliteral": "hāḇ-nîm", "traducao_palavra": "ébano" },
+        { "hebraico": "וְשֶׁהֵן", "transliteral": "wə-šə-hên", "traducao_palavra": "e chifres de" },
+        { "hebraico": "שֵׁן", "transliteral": "šên", "traducao_palavra": "marfim" },
+        { "hebraico": "הֵשִׁיבוּ", "transliteral": "hê-šî-ḇû", "traducao_palavra": "traziam em pagamento" },
+        { "hebraico": "אֶשְׁכָּרֵךְ", "transliteral": "ʾeš-kā-rēḵ", "traducao_palavra": "tua dádiva/tributo" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "A Síria negociava contigo, pela multidão das tuas obras; com carbúnculos, púrpura, e bordados, e linho fino, e corais, e rubis, faziam as tuas feiras.",
+      "palavras": [
+        { "hebraico": "אֲרָם", "transliteral": "ʾă-rām", "traducao_palavra": "a Síria" },
+        { "hebraico": "סֹחַרְתֵּךְ", "transliteral": "śō-ḥar-têḵ", "traducao_palavra": "negociava contigo" },
+        { "hebraico": "מֵרֹב", "transliteral": "mê-rōḇ", "traducao_palavra": "pela multidão de" },
+        { "hebraico": "מַעֲשָׂיִךְ", "transliteral": "ma-ʿă-śā-yiḵ", "traducao_palavra": "tuas obras" },
+        { "hebraico": "נֹפֶךְ", "transliteral": "nō-p̄eḵ", "traducao_palavra": "carbúnculos" },
+        { "hebraico": "אַרְגָּמָן", "transliteral": "ʾar-gā-mān", "traducao_palavra": "púrpura" },
+        { "hebraico": "וְרִקְמָה", "transliteral": "wə-riq-mā", "traducao_palavra": "e bordados" },
+        { "hebraico": "וּבַשֵּׁשׁ", "transliteral": "ū-ḇaš-šēš", "traducao_palavra": "e linho fino" },
+        { "hebraico": "וְרָאْمֹות", "transliteral": "wə-rā-môṯ", "traducao_palavra": "e corais" },
+        { "hebraico": "וְכַדְכֹּד", "transliteral": "wə-ḵaḏ-kōḏ", "traducao_palavra": "e rubis/pedras vermelhas" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam" },
+        { "hebraico": "בְּעִזְבֹונָיִךְ", "transliteral": "bə-ʿiz-bō-nā-yiḵ", "traducao_palavra": "nas tuas feiras" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Judá e a terra de Israel eram os teus mercadores; com trigo de Minite, e confeitos, e mel, e azeite, e bálsamo, negociavam nas tuas feiras.",
+      "palavras": [
+        { "hebraico": "יְהוּדָה", "transliteral": "yə-hû-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וְאֶרֶץ", "transliteral": "wə-ʾe-reṣ", "traducao_palavra": "e a terra de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "הֵמָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "רֹכְלָיִךְ", "transliteral": "rō-ḵə-lā-yiḵ", "traducao_palavra": "eram teus mercadores" },
+        { "hebraico": "בְּחִטֵּי", "transliteral": "bə-ḥiṭ-ṭê", "traducao_palavra": "com trigo de" },
+        { "hebraico": "מִנִּית", "transliteral": "min-nîṯ", "traducao_palavra": "Minite" },
+        { "hebraico": "وּפַנַּג", "transliteral": "ū-p̄an-naḡ", "traducao_palavra": "e confeitos/doces" },
+        { "hebraico": "וּדְבַשׁ", "transliteral": "ū-ḏə-ḇaš", "traducao_palavra": "e mel" },
+        { "hebraico": "וָשֶׁמֶן", "transliteral": "wə-še-men", "traducao_palavra": "e azeite" },
+        { "hebraico": "וְצָרִי", "transliteral": "wə-ṣā-rî", "traducao_palavra": "e bálsamo" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam" },
+        { "hebraico": "מַעֲרָבֵךְ", "transliteral": "ma-ʿă-rā-ḇēḵ", "traducao_palavra": "na tua mercadoria" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Damasco negociava contigo, pela multidão das tuas obras, pela multidão de toda a riqueza, com vinho de Helbom e lã branca.",
+      "palavras": [
+        { "hebraico": "דַּמֶּשֶׂק", "transliteral": "dam-me-śeq", "traducao_palavra": "Damasco" },
+        { "hebraico": "סֹחַרְתֵּךְ", "transliteral": "śō-ḥar-têḵ", "traducao_palavra": "negociava contigo" },
+        { "hebraico": "בְּרֹב", "transliteral": "bə-rōḇ", "traducao_palavra": "pela multidão de" },
+        { "hebraico": "מַעֲשָׂיִךְ", "transliteral": "ma-ʿă-śā-yiḵ", "traducao_palavra": "tuas obras" },
+        { "hebraico": "מֵרֹב", "transliteral": "mê-rōḇ", "traducao_palavra": "pela multidão de" },
+        { "hebraico": "כָּל־הֹון", "transliteral": "kāl-hôn", "traducao_palavra": "toda riqueza" },
+        { "hebraico": "בְּיֵין", "transliteral": "bə-yên", "traducao_palavra": "com vinho de" },
+        { "hebraico": "חֶלְבֹּון", "transliteral": "ḥel-bôn", "traducao_palavra": "Helbom" },
+        { "hebraico": "וְצֶמֶר", "transliteral": "wə-ṣe-mer", "traducao_palavra": "e lã" },
+        { "hebraico": "צָחָר", "transliteral": "ṣā-ḥār", "traducao_palavra": "branca" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Dã e Javã, procedentes de Uzal, faziam as tuas feiras; ferro trabalhado, cássia e cana aromática estavam nas tuas mercadorias.",
+      "palavras": [
+        { "hebraico": "וְדָן", "transliteral": "wə-ḏān", "traducao_palavra": "e Dã" },
+        { "hebraico": "וְיָוָן", "transliteral": "wə-yā-wān", "traducao_palavra": "e Javã" },
+        { "hebraico": "מְאוּזָל", "transliteral": "mə-ʾû-zāl", "traducao_palavra": "de Uzal" },
+        { "hebraico": "בְּעִזְבֹונָיִךְ", "transliteral": "bə-ʿiz-bō-nā-yiḵ", "traducao_palavra": "nas tuas feiras" },
+        { "hebraico": "נָתָ֑נוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam / punham" },
+        { "hebraico": "בַּרְזֶל", "transliteral": "bar-zel", "traducao_palavra": "ferro" },
+        { "hebraico": "עָשֹׁות", "transliteral": "ʿā-šōṯ", "traducao_palavra": "trabalhado/forjado" },
+        { "hebraico": "קִדָּ֥ה", "transliteral": "qid-dā", "traducao_palavra": "cássia" },
+        { "hebraico": "וְקָנֶ֖ה", "transliteral": "wə-قā-neh", "traducao_palavra": "e cana" },
+        { "hebraico": "בְּמַעֲרָבֵךְ", "transliteral": "bə-ma-ʿă-rā-ḇēḵ", "traducao_palavra": "na tua mercadoria" },
+        { "hebraico": "הָיָֽה", "transliteral": "hā-yā", "traducao_palavra": "estava" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Dedã negociava contigo em mantas preciosas para cavalgar.",
+      "palavras": [
+        { "hebraico": "דְּדָ֖ן", "transliteral": "də-ḏān", "traducao_palavra": "Dedã" },
+        { "hebraico": "רֹכַלְתֵּךְ", "transliteral": "rō-ḵal-têḵ", "traducao_palavra": "negociava contigo" },
+        { "hebraico": "בְּבִגְדֵי", "transliteral": "bə-biḡ-ḏê", "traducao_palavra": "em vestes/mantas de" },
+        { "hebraico": "חֹפֶשׁ", "transliteral": "ḥō-p̄eš", "traducao_palavra": "preciosas/para cavalgar" },
+        { "hebraico": "לְרִכְבָּֽה", "transliteral": "lə-riḵ-bā", "traducao_palavra": "montaria" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Arábia e todos os príncipes de Quedar eram os mercadores da tua mão; com cordeiros, carneiros e bodes, com estes negociavam contigo.",
+      "palavras": [
+        { "hebraico": "עֲרָב", "transliteral": "ʿă-rāḇ", "traducao_palavra": "Arábia" },
+        { "hebraico": "וְכָל־נְשִׂיאֵי", "transliteral": "wə-ḵāl-nə-śî-ʾê", "traducao_palavra": "e todos os príncipes de" },
+        { "hebraico": "קֵדָר", "transliteral": "qē-ḏār", "traducao_palavra": "Quedar" },
+        { "hebraico": "הֵ֤מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "סֹחֲרֵי", "transliteral": "śō-ḥă-rê", "traducao_palavra": "mercadores de" },
+        { "hebraico": "יָדֵךְ", "transliteral": "yā-ḏēḵ", "traducao_palavra": "tua mão" },
+        { "hebraico": "בְּכָבִ֣ים", "transliteral": "bə-ḵā-vîm", "traducao_palavra": "com cordeiros" },
+        { "hebraico": "וְאֵילִ֤ים", "transliteral": "wə-ʾê-lîm", "traducao_palavra": "e carneiros" },
+        { "hebraico": "וְעַתּוּדִים֙", "transliteral": "wə-ʿat-tû-ḏîm", "traducao_palavra": "e bodes" },
+        { "hebraico": "בָּ֖ם", "transliteral": "bām", "traducao_palavra": "com estes" },
+        { "hebraico": "סֹחֲרָֽיִךְ", "transliteral": "śō-ḥă-rā-yiḵ", "traducao_palavra": "negociavam contigo" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Os mercadores de Sabá e Raamá eram os teus mercadores; com o principal de todas as especiarias, e com toda a pedra preciosa, e ouro, faziam as tuas feiras.",
+      "palavras": [
+        { "hebraico": "סֹחֲרֵי", "transliteral": "śō-ḥă-rê", "traducao_palavra": "os mercadores de" },
+        { "hebraico": "שְׁבָא", "transliteral": "šə-ḇā", "traducao_palavra": "Sabá" },
+        { "hebraico": "וְרַעְמָה", "transliteral": "wə-raʿ-mā", "traducao_palavra": "e Raamá" },
+        { "hebraico": "הֵ֤מָּה", "transliteral": "hêm-mā", "traducao_palavra": "eles" },
+        { "hebraico": "רֹכְלָיִךְ", "transliteral": "rō-ḵə-lā-yiḵ", "traducao_palavra": "eram teus mercadores" },
+        { "hebraico": "בְּרֹאשׁ", "transliteral": "bə-rōš", "traducao_palavra": "com o principal de" },
+        { "hebraico": "כָּל־בֹּשֶׂם", "transliteral": "kāl-bō-šem", "traducao_palavra": "todas as especiarias" },
+        { "hebraico": "וּבְכָל־אֶבֶן", "transliteral": "ū-ḇə-ḵāl-ʾe-ḇen", "traducao_palavra": "e com toda pedra" },
+        { "hebraico": "יְקָרָה", "transliteral": "yə-qā-rā", "traducao_palavra": "preciosa" },
+        { "hebraico": "וְזָהָב", "transliteral": "wə-zā-hāḇ", "traducao_palavra": "e ouro" },
+        { "hebraico": "נָתְנוּ", "transliteral": "nā-ṯə-nû", "traducao_palavra": "davam / punham" },
+        { "hebraico": "עִזְבֹונָיִךְ", "transliteral": "ʿiz-bō-nā-yiḵ", "traducao_palavra": "nas tuas feiras" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "Harã, Cane e Éden, os mercadores de Sabá, Assur e Quilmade, negociavam contigo.",
+      "palavras": [
+        { "hebraico": "חָרָ֥ן", "transliteral": "ḥā-rān", "traducao_palavra": "Harã" },
+        { "hebraico": "וְכַנֵּ֖ה", "transliteral": "wə-ḵan-nēh", "traducao_palavra": "e Cane" },
+        { "hebraico": "וְעֶ֑דֶן", "transliteral": "wə-ʿe-ḏen", "traducao_palavra": "e Éden" },
+        { "hebraico": "רֹכְלֵi", "transliteral": "rō-ḵə-lê", "traducao_palavra": "os mercadores de" },
+        { "hebraico": "שְׁבָא", "transliteral": "šə-ḇā", "traducao_palavra": "Sabá" },
+        { "hebraico": "אַשּׁ֖וּר", "transliteral": "ʾaš-šûr", "traducao_palavra": "Assur" },
+        { "hebraico": "כִּלְמַ֥ד", "transliteral": "kil-maḏ", "traducao_palavra": "e Quilmade" },
+        { "hebraico": "סֹחַרְתֵּֽךְ", "transliteral": "śō-ḥar-têḵ", "traducao_palavra": "negociavam contigo" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Estes negociavam contigo em vestidos luxuosos, em mantos de azul e de bordados, e em cofres de roupas ricas, atadas com cordas, e de cedro, nas tuas feiras.",
+      "palavras": [
+        { "hebraico": "הֵ֜מָּה", "transliteral": "hêm-mā", "traducao_palavra": "estes" },
+        { "hebraico": "רֹכְלַיִךְ֮", "transliteral": "rō-ḵə-lā-yiḵ", "traducao_palavra": "eram teus mercadores" },
+        { "hebraico": "בְּמִכְלֹולִים֒", "transliteral": "bə-miḵ-lô-lîm", "traducao_palavra": "em vestidos luxuosos/perfeitos" },
+        { "hebraico": "בִּגְלֹומֵ֣י", "transliteral": "biḡ-lô-mê", "traducao_palavra": "em mantos/pacotes de" },
+        { "hebraico": "תְּכֵלֶ֔ת", "transliteral": "ṯə-ḵē-leṯ", "traducao_palavra": "azul" },
+        { "hebraico": "وְרִקְמָ", "transliteral": "wə-riq-mā", "traducao_palavra": "e bordados" },
+        { "hebraico": "וּבְגַנְזֵי", "transliteral": "ū-ḇə-ḡanzê", "traducao_palavra": "e em cofres de" },
+        { "hebraico": "בְּרֹוִים", "transliteral": "bə-rō-wîm", "traducao_palavra": "tecidos ricos/tecidos" },
+        { "hebraico": "חֲבֻלִים", "transliteral": "ḥă-ḇu-lîm", "traducao_palavra": "atadas com cordas" },
+        { "hebraico": "וּבְאֲרָזִים", "transliteral": "ū-ḇə-ʾă-rā-zîm", "traducao_palavra": "e de cedro" },
+        { "hebraico": "בְּמַעֲרָבֵךְ", "transliteral": "bə-ma-ʿă-rā-ḇēḵ", "traducao_palavra": "nas tuas feiras" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "As naus de Társis eram as tuas caravanas nas tuas feiras; e tu te encheste, e te glorificaste grandemente no meio dos mares.",
+      "palavras": [
+        { "hebraico": "אֳנִיֹּ֥ות", "transliteral": "ʾŏ-nî-yôṯ", "traducao_palavra": "as naus de" },
+        { "hebraico": "תַּרְשִׁישׁ", "transliteral": "tar-šîš", "traducao_palavra": "Társis" },
+        { "hebraico": "שָֽׁרְתֵךְ", "transliteral": "šā-rə-ṯēḵ", "traducao_palavra": "eram tuas caravanas/portadoras" },
+        { "hebraico": "מַעֲרָבֵךְ", "transliteral": "ma-ʿă-rā-ḇēḵ", "traducao_palavra": "nas tuas feiras" },
+        { "hebraico": "וְתִמָּלְאִ֖י", "transliteral": "wə-tim-mā-lə-ʾî", "traducao_palavra": "e tu te encheste" },
+        { "hebraico": "וּתְכִבְּדִי", "transliteral": "ū-ṯə-ḵib-bə-ḏî", "traducao_palavra": "e te glorificaste" },
+        { "hebraico": "מְאֹ֖ד", "transliteral": "mə-ʾōḏ", "traducao_palavra": "grandemente" },
+        { "hebraico": "בְּלֵ֥ב", "transliteral": "bə-lēḇ", "traducao_palavra": "no coração de" },
+        { "hebraico": "יַמִּֽים׃", "transliteral": "yam-mîm", "traducao_palavra": "os mares" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "Os teus remadores te levaram a muitas águas; o vento oriental te quebrou no meio dos mares.",
+      "palavras": [
+        { "hebraico": "בְּמַיִם", "transliteral": "bə-ma-yim", "traducao_palavra": "nas águas" },
+        { "hebraico": "רַבִּים֮", "transliteral": "rab-bîm", "traducao_palavra": "muitas" },
+        { "hebraico": "הֱבִיאֻ֖כוּ", "transliteral": "hĕ-ḇî-ʾu-ḵû", "traducao_palavra": "te levaram" },
+        { "hebraico": "הַשָּׁטִ֑ים", "transliteral": "haš-šā-ṭîm", "traducao_palavra": "os remadores" },
+        { "hebraico": "רּוּחַ", "transliteral": "rû-aḥ", "traducao_palavra": "o vento" },
+        { "hebraico": "הַקָּדִים", "transliteral": "haq-qā-ḏîm", "traducao_palavra": "oriental" },
+        { "hebraico": "שִׁבְּרְךָ֖", "transliteral": "šib-bə-rə-ḵā", "traducao_palavra": "te quebrou" },
+        { "hebraico": "בְּלֵ֥ב", "transliteral": "bə-lēḇ", "traducao_palavra": "no coração de" },
+        { "hebraico": "יַמִּֽים׃", "transliteral": "yam-mîm", "traducao_palavra": "os mares" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "As tuas riquezas, e as tuas mercadorias, e os teus mantimentos, os teus marinheiros e os teus pilotos, os que calafetam as tuas fendas, e os que negociam a tua mercadoria, e todos os homens de guerra que há em ti, com toda a tua multidão que está no meio de ti, cairão no meio dos mares no dia da tua ruína.",
+      "palavras": [
+        { "hebraico": "הֹונֵךְ", "transliteral": "hô-nēḵ", "traducao_palavra": "tua riqueza" },
+        { "hebraico": "וּמַעֲרָבֵךְ", "transliteral": "ū-ma-ʿă-rā-ḇēḵ", "traducao_palavra": "e tuas mercadorias" },
+        { "hebraico": "רִכְלָתֵךְ", "transliteral": "riḵ-lā-ṯēḵ", "traducao_palavra": "e teus mantimentos/comércios" },
+        { "hebraico": "מַלָּחַיִךְ", "transliteral": "mal-lā-ḥa-yiḵ", "traducao_palavra": "teus marinheiros" },
+        { "hebraico": "וֹחֹבְלָיִךְ", "transliteral": "wə-ḥō-bə-lā-yiḵ", "traducao_palavra": "e teus pilotos" },
+        { "hebraico": "מַחֲזִיקֵי", "transliteral": "ma-ḥă-zî-qê", "traducao_palavra": "os que reparam/calafetam" },
+        { "hebraico": "בִּדְקֵךְ", "transliteral": "biḏ-qēḵ", "traducao_palavra": "tuas fendas" },
+        { "hebraico": "וְֹֹעֲשֵׂי", "transliteral": "wə-ʿō-śê", "traducao_palavra": "e os que negociam" },
+        { "hebraico": "מַעֲרָבֵךְ", "transliteral": "ma-ʿă-rā-ḇēḵ", "traducao_palavra": "tua mercadoria" },
+        { "hebraico": "וְכָל־אַנְשֵׁי", "transliteral": "wə-ḵāl-ʾan-šê", "traducao_palavra": "e todos os homens de" },
+        { "hebraico": "מִלְחָמְךָ", "transliteral": "mil-ḥā-mə-ḵā", "traducao_palavra": "guerra" },
+        { "hebraico": "אֲשֶׁר־בָּךְ", "transliteral": "ʾă-šer-bāḵ", "traducao_palavra": "que há em ti" },
+        { "hebraico": "וּבְכָל־קְהָלֵךְ", "transliteral": "ū-ḇə-ḵāl-qə-hā-lēḵ", "traducao_palavra": "e com toda a tua multidão" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "בְּתֹוכֵךְ", "transliteral": "bə-ṯô-ḵêḵ", "traducao_palavra": "está no meio de ti" },
+        { "hebraico": "יִפֹּלוּ", "transliteral": "yip-pō-lû", "traducao_palavra": "cairão" },
+        { "hebraico": "בְּלֵב", "transliteral": "bə-lēḇ", "traducao_palavra": "no coração de" },
+        { "hebraico": "יַמִּים", "transliteral": "yam-mîm", "traducao_palavra": "os mares" },
+        { "hebraico": "בְּיֹום", "transliteral": "bə-yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "מַפָּלְתֵּךְ", "transliteral": "map-pā-lə-tēḵ", "traducao_palavra": "tua ruína" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Com o ruído do grito dos teus pilotos tremerão os campos.",
+      "palavras": [
+        { "hebraico": "לְקֹול", "transliteral": "lə-qôl", "traducao_palavra": "ao ruído de" },
+        { "hebraico": "עַבְדֵי", "transliteral": "ʿaḇ-dê", "traducao_palavra": "grito/choro de" },
+        { "hebraico": "חֹבְלָיִךְ", "transliteral": "ḥō-bə-lā-yiḵ", "traducao_palavra": "teus pilotos" },
+        { "hebraico": "יִרְעֲשׁוּ", "transliteral": "yir-ʿă-šû", "traducao_palavra": "tremerão" },
+        { "hebraico": "מִגְרְשֹׁות", "transliteral": "miḡ-rə-šôṯ", "traducao_palavra": "os campos/subúrbios" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "E descerão dos seus navios todos os que pegam o remo, os marinheiros e todos os pilotos do mar; assentar-se-ão em terra,",
+      "palavras": [
+        { "hebraico": "וְיָרְדוּ", "transliteral": "wə-yā-rə-ḏû", "traducao_palavra": "e descerão" },
+        { "hebraico": "מֵאֳנִיֹּותָם", "transliteral": "mē-ʾŏ-nî-yô-ṯām", "traducao_palavra": "dos seus navios" },
+        { "hebraico": "כֹּל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "תֹּפְשֵׂי", "transliteral": "tō-p̄ə-śê", "traducao_palavra": "os que pegam" },
+        { "hebraico": "מָשֹׁוט", "transliteral": "mā-šôṭ", "traducao_palavra": "o remo" },
+        { "hebraico": "מַלָּחִים", "transliteral": "mal-lā-ḥîm", "traducao_palavra": "os marinheiros" },
+        { "hebraico": "כֹּל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "חֹבְלֵי", "transliteral": "ḥō-bə-lê", "traducao_palavra": "os pilotos de" },
+        { "hebraico": "הַיָּם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "sobre" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "יַעֲמֹדוּ", "transliteral": "ya-ʿă-mō-ḏû", "traducao_palavra": "ficarão/assentar-se-ão" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "E farão ouvir a sua voz por ti, e clamarão amargamente, e lançarão pó sobre as suas cabeças, e na cinza se revolverão.",
+      "palavras": [
+        { "hebraico": "וְהִשְׁמִיעוּ", "transliteral": "wə-hiš-mî-ʿû", "traducao_palavra": "e farão ouvir" },
+        { "hebraico": "עָלַיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "por ti" },
+        { "hebraico": "קֹולָם", "transliteral": "qô-lām", "traducao_palavra": "sua voz" },
+        { "hebraico": "וְיִזְעֲקוּ", "transliteral": "wə-yiz-ʿă-qû", "traducao_palavra": "e clamarão" },
+        { "hebraico": "מָרִיר", "transliteral": "mā-rîr", "traducao_palavra": "amargamente" },
+        { "hebraico": "וְיַעֲלוּ", "transliteral": "wə-ya-ʿă-lû", "traducao_palavra": "e lançarão" },
+        { "hebraico": "עָפָר", "transliteral": "ʿā-p̄ār", "traducao_palavra": "pó" },
+        { "hebraico": "עַל־רֹאשָׁם", "transliteral": "ʿal-rō-šām", "traducao_palavra": "sobre as suas cabeças" },
+        { "hebraico": "וּבְאֵפֶר", "transliteral": "ū-ḇə-ʾē-p̄er", "traducao_palavra": "e na cinza" },
+        { "hebraico": "יִתְפַּלָּשׁוּ", "transliteral": "yiṯ-pal-lā-šû", "traducao_palavra": "se revolverão" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E por ti raparão a cabeça, e se cingirão de sacos, e chorarão por ti com amargura de alma, com amargo pranto.",
+      "palavras": [
+        { "hebraico": "וְקִרְחu", "transliteral": "wə-qir-ḥû", "traducao_palavra": "e raparão" },
+        { "hebraico": "אֵלַיִךְ", "transliteral": "ʾē-la-yiḵ", "traducao_palavra": "por ti" },
+        { "hebraico": "קָרְחָה", "transliteral": "qār-ḥā", "traducao_palavra": "calvície/cabeça rapada" },
+        { "hebraico": "וְחָגְרוּ", "transliteral": "wə-ḥā-ḡə-rû", "traducao_palavra": "e se cingirão" },
+        { "hebraico": "שַׂקִּים", "transliteral": "śaq-qîm", "traducao_palavra": "de sacos" },
+        { "hebraico": "וּבָכוּ", "transliteral": "ū-ḇā-ḵû", "traducao_palavra": "e chorarão" },
+        { "hebraico": "אֵלַיִךְ", "transliteral": "ʾē-la-yiḵ", "traducao_palavra": "por ti" },
+        { "hebraico": "בְּמַר־נֶפֶשׁ", "transliteral": "bə-mar-ne-p̄eš", "traducao_palavra": "com amargura de alma" },
+        { "hebraico": "מִסְפֵּד", "transliteral": "mis-pēḏ", "traducao_palavra": "com pranto" },
+        { "hebraico": "מָר", "transliteral": "mār", "traducao_palavra": "amargo" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "E no seu pranto levantarão por ti uma lamentação, e te lamentarão, dizendo: Quem é como Tiro, como a que foi destruída no meio do mar?",
+      "palavras": [
+        { "hebraico": "וְנָשְׂאוּ", "transliteral": "wə-nā-śə-ʾû", "traducao_palavra": "e levantarão" },
+        { "hebraico": "אֵלַיִךְ", "transliteral": "ʾē-la-yiḵ", "traducao_palavra": "por ti" },
+        { "hebraico": "בִּנְהִיהֶם", "transliteral": "bin-hî-he-hem", "traducao_palavra": "no seu pranto" },
+        { "hebraico": "קִינָה", "transliteral": "qî-nā", "traducao_palavra": "uma lamentação" },
+        { "hebraico": "וְקֹונְנוּ", "transliteral": "wə-qô-nə-nû", "traducao_palavra": "e te lamentarão" },
+        { "hebraico": "עָלָיִךְ", "traducao_palavra": "sobre ti", "transliteral_alt": "ʿā-la-yiḵ" },
+        { "hebraico": "מִי", "transliteral": "mî", "traducao_palavra": "quem" },
+        { "hebraico": "כְּצֹור", "transliteral": "kə-ṣôr", "traducao_palavra": "é como Tiro" },
+        { "hebraico": "כָּדֻמָּה", "transliteral": "kā-ḏum-mā", "traducao_palavra": "como a que foi silenciada/destruída" },
+        { "hebraico": "בְּתֹוךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הַיָּם", "transliteral": "hay-yām", "traducao_palavra": "o mar" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "Quando as tuas mercadorias saíam dos mares, fartavas a muitos povos; com a multidão das tuas riquezas e das tuas mercadorias enriqueceste os reis da terra.",
+      "palavras": [
+        { "hebraico": "בְּצֵאת", "transliteral": "bə-ṣêṯ", "traducao_palavra": "ao saírem" },
+        { "hebraico": "עִזְבֹונַיִךְ", "transliteral": "ʿiz-bō-na-yiḵ", "traducao_palavra": "tuas mercadorias" },
+        { "hebraico": "מִיַּמִּים", "transliteral": "miy-yam-mîm", "traducao_palavra": "dos mares" },
+        { "hebraico": "הִשְׂבַּעְתְּ", "transliteral": "hiś-baṯ-tə", "traducao_palavra": "fartavas" },
+        { "hebraico": "עַמִּים", "transliteral": "ʿam-mîm", "traducao_palavra": "a muitos povos" },
+        { "hebraico": "רַבִּים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "רֹב", "transliteral": "rōḇ", "traducao_palavra": "pela multidão de" },
+        { "hebraico": "חֹולֶךְ", "transliteral": "ḥô-le-ḵā", "traducao_palavra": "teus bens" },
+        { "hebraico": "וּמַעֲרָבָיִךְ", "transliteral": "ū-ma-ʿă-rā-ḇā-yiḵ", "traducao_palavra": "e tuas mercadorias" },
+        { "hebraico": "הֶעֱשַׁרְתְּ", "transliteral": "he-ʿĕ-šar-tə", "traducao_palavra": "enriqueceste" },
+        { "hebraico": "מַלְכֵי", "transliteral": "mal-ḵê", "traducao_palavra": "os reis de" },
+        { "hebraico": "אָרֶץ", "transliteral": "ʾā-reṣ", "traducao_palavra": "a terra" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "Agora que estás quebrantada pelos mares, nas profundezas das águas, a tua mercadoria e toda a tua multidão caíram no meio de ti.",
+      "palavras": [
+        { "hebraico": "עֵת", "transliteral": "ʿêṯ", "traducao_palavra": "agora que" },
+        { "hebraico": "נִשְׁבַּרְתְּ", "transliteral": "niš-bar-tə", "traducao_palavra": "estás quebrantada" },
+        { "hebraico": "مִיַּמִּים", "transliteral": "miy-yam-mîm", "traducao_palavra": "pelos mares" },
+        { "hebraico": "בְּמַעֲמַקֵּי", "transliteral": "bə-ma-ʿă-maq-qê", "traducao_palavra": "nas profundezas de" },
+        { "hebraico": "מַיִם", "transliteral": "ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "מַעֲרָבֵךְ", "transliteral": "ma-ʿă-rā-ḇēḵ", "traducao_palavra": "tua mercadoria" },
+        { "hebraico": "וְכָל־קְהָלֵךְ", "transliteral": "wə-ḵāl-qə-hā-lēḵ", "traducao_palavra": "e toda a tua multidão" },
+        { "hebraico": "בְּתֹוכֵךְ", "transliteral": "bə-ṯô-ḵêḵ", "traducao_palavra": "no meio de ti" },
+        { "hebraico": "נָפָלוּ", "transliteral": "nā-p̄ā-lû", "traducao_palavra": "caíram" }
+      ]
+    },
+    "35": {
+      "traducao_completa": "Todos os moradores das ilhas pasmarão por tua causa, e os seus reis tremerão de medo, o seu rosto se transtornará.",
+      "palavras": [
+        { "hebraico": "כֹּל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "יֹשְׁבֵי", "transliteral": "yô-šə-ḇê", "traducao_palavra": "os moradores de" },
+        { "hebraico": "הָאִיִּים", "transliteral": "hā-ʾiy-yîm", "traducao_palavra": "as ilhas" },
+        { "hebraico": "שָׁמְמוּ", "transliteral": "šā-mə-mû", "traducao_palavra": "pasmarão" },
+        { "hebraico": "עָלָיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "por tua causa" },
+        { "hebraico": "וּמַלְכֵיהֶם", "transliteral": "ū-mal-ḵê-hem", "traducao_palavra": "e os reis deles" },
+        { "hebraico": "שָׂעֲרוּ", "transliteral": "śā-ʿă-rû", "traducao_palavra": "tremerão / sobressaltarão" },
+        { "hebraico": "פָּנִים", "transliteral": "pā-nîm", "traducao_palavra": "com rosto" },
+        { "hebraico": "رַעַם", "transliteral": "ra-ʿam", "traducao_palavra": "transtornado/agitado" }
+      ]
+    },
+    "36": {
+      "traducao_completa": "Os mercadores dos povos assobiarão por tua causa; serás um espanto, e nunca mais serás.",
+      "palavras": [
+        { "hebraico": "סֹחֲרִים", "transliteral": "śō-ḥă-rîm", "traducao_palavra": "os mercadores de" },
+        { "hebraico": "בָּעַמִּים", "transliteral": "bā-ʿam-mîm", "traducao_palavra": "povos" },
+        { "hebraico": "שָׁרְקוּ", "transliteral": "šā-rə-qû", "traducao_palavra": "assobiarão" },
+        { "hebraico": "עָלָיִךְ", "transliteral": "ʿā-la-yiḵ", "traducao_palavra": "por tua causa" },
+        { "hebraico": "בַּלָּהֹות", "transliteral": "bal-lā-hôṯ", "traducao_palavra": "em terrores" },
+        { "hebraico": "הָיִית", "transliteral": "hā-yî-ṯ", "traducao_palavra": "serás" },
+        { "hebraico": "וְעַד", "transliteral": "wə-ʿad", "traducao_palavra": "e até" },
+        { "hebraico": "עֹולָם", "transliteral": "ʿô-lām", "traducao_palavra": "o eterno" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תִּהְיֶי", "transliteral": "tih-ye-nā", "traducao_palavra": "serás mais" }
+      ]
+    }
+  }
 }

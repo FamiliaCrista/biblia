@@ -1,6 +1,443 @@
 {
-  "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
+  "livro": "Ezequiel - יְחֶזְקֵאל - Yəḥezqēʾl",
   "capítulo": 47,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Depois disto me fez voltar à entrada da casa, e eis que saíam águas por debaixo do limiar da casa para o oriente; porque a frente da casa olhava para o oriente; e as águas desciam de debaixo do lado direito da casa, ao sul do altar.",
+      "palavras": [
+        { "hebraico": "וַיְשִׁבֵנִי֮", "transliteral": "way-ši-ḇê-nî", "traducao_palavra": "e ele me fez voltar" },
+        { "hebraico": "אֶל־פֶּ֣תַח", "transliteral": "ʾel-pe-ṯaḥ", "traducao_palavra": "à entrada de" },
+        { "hebraico": "הַבַּיִת֒", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "וְהִנֵּה־מַ֣יִם", "transliteral": "wə-hin-nēh-ma-yim", "traducao_palavra": "e eis águas" },
+        { "hebraico": "יֹצְאִ֗ים", "transliteral": "yō-ṣə-ʾîm", "traducao_palavra": "saíam" },
+        { "hebraico": "מִתַּ֨חַת", "transliteral": "mit-ta-ḥaṯ", "traducao_palavra": "por debaixo de" },
+        { "hebraico": "מִפְתַּ֤ן", "transliteral": "mip̄-tan", "traducao_palavra": "o limiar de" },
+        { "hebraico": "הַבַּ֙יִת֙", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "קָדִ֔ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "para o oriente" },
+        { "hebraico": "כִּֽי־פְנֵ֥י", "transliteral": "kî-p̄ə-nê", "traducao_palavra": "porque a face de" },
+        { "hebraico": "הַבַּ֖יִת", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "קָדִ֑ים", "transliteral": "qā-ḏîm", "traducao_palavra": "[olhava para o] oriente" },
+        { "hebraico": "וְהַמַּ֣יִם", "transliteral": "wə-ham-ma-yim", "traducao_palavra": "e as águas" },
+        { "hebraico": "יֹרְדִ֗ים", "transliteral": "yō-rə-ḏîm", "traducao_palavra": "desciam" },
+        { "hebraico": "מִתַּ֜חַת", "transliteral": "mit-ta-ḥaṯ", "traducao_palavra": "por debaixo de" },
+        { "hebraico": "מִכֶּ֤תֶף", "transliteral": "mik-ke-ṯep̄", "traducao_palavra": "do lado de" },
+        { "hebraico": "הַבַּ֙יִת֙", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "הַיְמָנִ֔ית", "transliteral": "hay-mā-nîṯ", "traducao_palavra": "direita" },
+        { "hebraico": "מִנֶּ֖גֶב", "transliteral": "min-ne-ḡeḇ", "traducao_palavra": "ao sul de" },
+        { "hebraico": "לַמִּזְבֵּֽחַ׃", "transliteral": "lam-miz-bê-aḥ", "traducao_palavra": "o altar" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Então me levou para fora pelo caminho da porta do norte, e me fez dar uma volta pelo caminho de fora até a porta exterior, pelo caminho que olha para o oriente; e eis que corriam águas do lado direito.",
+      "palavras": [
+        { "hebraico": "וַיֹּוצִיאֵנִי֮", "transliteral": "way-yô-ṣî-ʾê-nî", "traducao_palavra": "e ele me levou para fora" },
+        { "hebraico": "דֶּֽרֶךְ־שַׁ֣עַר", "transliteral": "de-reḵ-ša-ʿar", "traducao_palavra": "pelo caminho da porta de" },
+        { "hebraico": "צָפֹונָה֒", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "o norte" },
+        { "hebraico": "וַיְסִבֵּ֙נִי֙", "transliteral": "way-sib-bê-nî", "traducao_palavra": "e fez-me dar a volta" },
+        { "hebraico": "דֶּ֣רֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "pelo caminho de" },
+        { "hebraico": "ח֔וּץ", "transliteral": "ḥûṣ", "traducao_palavra": "fora" },
+        { "hebraico": "אֶל־שַׁ֥עַר", "transliteral": "ʾel-ša-ʿar", "traducao_palavra": "até a porta" },
+        { "hebraico": "הַח֖וּץ", "transliteral": "ha-ḥûṣ", "traducao_palavra": "exterior" },
+        { "hebraico": "דֶּ֣רֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "pelo caminho de" },
+        { "hebraico": "הַפֹּנֶ֣ה", "transliteral": "hap-pō-neh", "traducao_palavra": "quem olha para" },
+        { "hebraico": "קָדִ֑ים", "transliteral": "qā-ḏîm", "traducao_palavra": "o oriente" },
+        { "hebraico": "וְהִנֵּה־מַ֣יִם", "transliteral": "wə-hin-nēh-ma-yim", "traducao_palavra": "e eis águas" },
+        { "hebraico": "מְפַכִּ֔ים", "transliteral": "mə-p̄ak-kîm", "traducao_palavra": "brotando/correndo" },
+        { "hebraico": "מִן־הַכָּתֵ֖ף", "transliteral": "min-hak-kā-ṯêp̄", "traducao_palavra": "do lado" },
+        { "hebraico": "הַיְמָנִֽית׃", "transliteral": "hay-mā-nîṯ", "traducao_palavra": "direito" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Saindo o homem para o oriente, com um cordel de medir na sua mão, mediu mil côvados, e me fez passar pelas águas, águas que me davam pelos tornozelos.",
+      "palavras": [
+        { "hebraico": "בְּצֵאת־הָאִ֥ישׁ", "transliteral": "bə-ṣêṯ-hā-ʾîš", "traducao_palavra": "ao sair o homem" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "para o oriente" },
+        { "hebraico": "וְקָ֥ו", "transliteral": "wə-qāw", "traducao_palavra": "e um cordel" },
+        { "hebraico": "בְּיָדֹ֖ו", "transliteral": "bə-yā-ḏô", "traducao_palavra": "na sua mão" },
+        { "hebraico": "וַיָּ֣מָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶ֑לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "בָּֽאַמָּה֙", "transliteral": "bā-ʾam-mā", "traducao_palavra": "em côvados" },
+        { "hebraico": "וַיַּעֲבִרֵ֣נִי", "transliteral": "way-ya-ʿă-ḇi-rê-nî", "traducao_palavra": "e me fez passar" },
+        { "hebraico": "בַמַּ֔יִם", "transliteral": "ḇam-ma-yim", "traducao_palavra": "pelas águas" },
+        { "hebraico": "מֵ֥י", "transliteral": "mê", "traducao_palavra": "águas de" },
+        { "hebraico": "אָפְסָֽיִם׃", "transliteral": "ʾāp̄-sā-yim", "traducao_palavra": "tornozelos" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E mediu mais mil, e me fez passar pelas águas, águas que me davam pelos joelhos; e mediu mais mil, e me fez passar pelas águas, que me davam pelos lombos.",
+      "palavras": [
+        { "hebraico": "וַיָּ֣מָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וַיַּעֲבִרֵ֥נִי", "transliteral": "way-ya-ʿă-ḇi-rê-nî", "traducao_palavra": "e me fez passar" },
+        { "hebraico": "בַמַּ֖יִם", "transliteral": "ḇam-ma-yim", "traducao_palavra": "pelas águas" },
+        { "hebraico": "מַ֣יִם", "transliteral": "ma-yim", "traducao_palavra": "águas de" },
+        { "hebraico": "בִּרְכָּ֑יִם", "transliteral": "bir-kā-yim", "traducao_palavra": "joelhos" },
+        { "hebraico": "וַיָּ֣מָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וַיַּעֲבִרֵ֖נִי", "transliteral": "way-ya-ʿă-ḇi-rê-nî", "traducao_palavra": "e me fez passar" },
+        { "hebraico": "מֵ֥י", "transliteral": "mê", "traducao_palavra": "águas de" },
+        { "hebraico": "מָתְנָֽיִם׃", "transliteral": "māṯ-nā-yim", "traducao_palavra": "lombos" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E mediu mais mil, e era um ribeiro que eu não podia atravessar; porque as águas tinham crescido, águas para nadar, um ribeiro que não se podia passar a vau.",
+      "palavras": [
+        { "hebraico": "וַיָּ֣מָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "נַ֕חַל", "transliteral": "na-ḥal", "traducao_palavra": "um ribeiro" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹֽא־אוּכַ֖ל", "transliteral": "lō-ʾū-ḵal", "traducao_palavra": "eu não podia" },
+        { "hebraico": "לַעֲבֹ֑ר", "transliteral": "la-ʿă-ḇōr", "traducao_palavra": "atravessar" },
+        { "hebraico": "כִּֽי־גָא֤וּ", "transliteral": "kî-ḡā-ʾū", "traducao_palavra": "porque tinham crescido" },
+        { "hebraico": "הַמַּ֙יִם֙", "transliteral": "ham-ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "מֵ֣י", "transliteral": "mê", "traducao_palavra": "águas de" },
+        { "hebraico": "שָׂ֔חוּ", "transliteral": "śā-ḥū", "traducao_palavra": "nadar" },
+        { "hebraico": "נַ֖חַל", "transliteral": "na-ḥal", "traducao_palavra": "um ribeiro" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹֽא־יֵעָבֵֽר׃", "transliteral": "lō-yê-ʿā-ḇêr", "traducao_palavra": "não se podia passar" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E me disse: Viste isto, filho do homem? Então me levou e me fez voltar à margem do ribeiro.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֥אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֵלַ֖י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "הֲרָאִ֣יתָ", "transliteral": "hă-rā-ʾî-ṯā", "traducao_palavra": "viste tu" },
+        { "hebraico": "בֶן־אָדָ֑ם", "transliteral": "ḇen-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "וַיֹּולִכֵ֥נִי", "transliteral": "way-yô-li-ḵê-nî", "traducao_palavra": "e ele me conduziu" },
+        { "hebraico": "וַיְשִׁבֵ֖נִי", "transliteral": "way-ši-ḇê-nî", "traducao_palavra": "e me fez voltar" },
+        { "hebraico": "עַל־שְׂפַ֥ת", "transliteral": "ʿal-śə-p̄aṯ", "traducao_palavra": "à margem de" },
+        { "hebraico": "הַנָּֽחַל׃", "transliteral": "han-nā-ḥal", "traducao_palavra": "o ribeiro" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E tendo eu voltado, eis que à margem do ribeiro havia muitíssimas árvores, de um e de outro lado.",
+      "palavras": [
+        { "hebraico": "בְּשׁוּבֵ֕נִי", "transliteral": "bə-šū-ḇê-nî", "traducao_palavra": "ao voltar eu" },
+        { "hebraico": "וְהִנֵּה֙", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "אֶל־שְׂפַ֣ת", "transliteral": "ʾel-śə-p̄aṯ", "traducao_palavra": "à margem de" },
+        { "hebraico": "הַנַּ֔חַל", "transliteral": "han-na-ḥal", "traducao_palavra": "o ribeiro" },
+        { "hebraico": "עֵ֖ץ", "transliteral": "ʿêṣ", "traducao_palavra": "árvores" },
+        { "hebraico": "רַ֥ב", "transliteral": "raḇ", "traducao_palavra": "muitas" },
+        { "hebraico": "מְאֹ֑ד", "transliteral": "mə-ʾōḏ", "traducao_palavra": "em grande quantidade" },
+        { "hebraico": "מִזֶּ֖ה", "transliteral": "miz-zeh", "traducao_palavra": "de um lado" },
+        { "hebraico": "וּמִזֶּֽה׃", "transliteral": "ū-miz-zeh", "traducao_palavra": "e de outro lado" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Então me disse: Estas águas saem para a região oriental, e descem à campina, e entram no mar; e, sendo levadas ao mar, as águas se tornarão saudáveis.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "הַמַּ֤יִם", "transliteral": "ham-ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "הָאֵ֙לֶּה֙", "transliteral": "hā-ʾêl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "יֹוצְאִ֗ים", "transliteral": "yô-ṣə-ʾîm", "traducao_palavra": "saem" },
+        { "hebraico": "אֶל־הַגְּלִילָה֙", "transliteral": "ʾel-hag-gə-lî-lā", "traducao_palavra": "para a região" },
+        { "hebraico": "הַקַּדְמֹונָ֔ה", "transliteral": "haq-qaḏ-mô-nā", "traducao_palavra": "oriental" },
+        { "hebraico": "וְיָרְד֖וּ", "transliteral": "wə-yā-rə-ḏū", "traducao_palavra": "e descem" },
+        { "hebraico": "עַל־הָעֲרָבָ֑ה", "transliteral": "ʿal-hā-ʿă-rā-ḇā", "traducao_palavra": "à campina [Arabá]" },
+        { "hebraico": "וּבָ֣אוּ", "transliteral": "ū-ḇā-ʾū", "traducao_palavra": "e entram" },
+        { "hebraico": "הַיָּ֔מָּה", "transliteral": "hay-yām-mā", "traducao_palavra": "no mar" },
+        { "hebraico": "אֶל־הַיָּ֥מָּה", "transliteral": "ʾel-hay-yām-mā", "traducao_palavra": "ao mar" },
+        { "hebraico": "הַמּֽוּצָאִ֖ים", "transliteral": "ham-mū-ṣā-ʾîm", "traducao_palavra": "sendo levadas/as efluentes" },
+        { "hebraico": "וְנִרְפּ֥אוּ", "transliteral": "wə-nir-pə-ʾū", "traducao_palavra": "e ficarão saradas" },
+        { "hebraico": "הַמָּֽיִם׃", "transliteral": "ham-mā-yim", "traducao_palavra": "as águas" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E será que toda criatura vivente que povoar qualquer lugar aonde chegar este ribeiro duplo viverá; e haverá muitíssimo peixe; porque estas águas chegam até lá e saram, e tudo viverá por onde quer que entrar este ribeiro.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֣ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será" },
+        { "hebraico": "כָל־נֶ֣פֶשׁ", "transliteral": "ḵāl-ne-p̄eš", "traducao_palavra": "toda alma/criatura" },
+        { "hebraico": "חַיָּ֣ה", "transliteral": "ḥay-yā", "traducao_palavra": "vivente" },
+        { "hebraico": "אֲֽשֶׁר־יִשְׁרֹ֡ץ", "transliteral": "ʾă-šer-yiš-rōṣ", "traducao_palavra": "que fervilhar/enxamear" },
+        { "hebraico": "אֶ֣ל", "transliteral": "ʾel", "traducao_palavra": "em" },
+        { "hebraico": "כָּל־אֲשֶׁר֩", "transliteral": "kāl-ʾă-šer", "traducao_palavra": "todo lugar onde" },
+        { "hebraico": "יָבֹ֨וא", "transliteral": "yā-ḇô", "traducao_palavra": "chegar" },
+        { "hebraico": "שָׁ֤ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "נַחֲלַ֙יִם֙", "transliteral": "na-ḥă-la-yim", "traducao_palavra": "o ribeiro duplo" },
+        { "hebraico": "יִֽחְיֶ֔ה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" },
+        { "hebraico": "וְהָיָ֥ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e haverá" },
+        { "hebraico": "הַדָּגָ֖ה", "transliteral": "had-dā-ḡā", "traducao_palavra": "cardumes de peixes" },
+        { "hebraico": "רַבָּ֣ה", "transliteral": "rab-bā", "traducao_palavra": "muitos" },
+        { "hebraico": "מְאֹ֑ד", "transliteral": "mə-ʾōḏ", "traducao_palavra": "em grande número" },
+        { "hebraico": "כִּ֠י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "בָ֨אוּ", "transliteral": "ḇā-ʾū", "traducao_palavra": "chegaram" },
+        { "hebraico": "שָׁ֜מָּה", "transliteral": "šām-mā", "traducao_palavra": "ali" },
+        { "hebraico": "הַמַּ֣יִם", "transliteral": "ham-ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "הָאֵ֗לֶּה", "transliteral": "hā-ʾêl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "וְיֵרָפְא֛וּ", "transliteral": "wə-yê-rā-p̄ə-ʾū", "traducao_palavra": "e serão saradas" },
+        { "hebraico": "וָחָ֕י", "transliteral": "wā-ḥāy", "traducao_palavra": "e viverá" },
+        { "hebraico": "כֹּ֛ל", "transliteral": "kōl", "traducao_palavra": "tudo" },
+        { "hebraico": "אֲשֶׁר־יָבֹ֥וא", "transliteral": "ʾă-šer-yā-ḇô", "traducao_palavra": "aonde quer que chegue" },
+        { "hebraico": "שָׁ֖מָּה", "transliteral": "šām-mā", "traducao_palavra": "ali" },
+        { "hebraico": "הַנָּֽחַל׃", "transliteral": "han-nā-ḥal", "traducao_palavra": "o ribeiro" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E será que os pescadores estarão junto a ele; desde En-Gedi até En-Eglaim haverá lugar para estender redes; o seu peixe, segundo as suas espécies, será como o peixe do mar grande, em multidão excessiva.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֨ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e acontecerá que" },
+        { "hebraico": "עָמְד֚וּ", "transliteral": "ʿā-mə-ḏū", "traducao_palavra": "estarão em pé" },
+        { "hebraico": "עָלָיו֙", "transliteral": "ʿā-lāyw", "traducao_palavra": "junto a ele" },
+        { "hebraico": "דַוָּגִ֔ים", "transliteral": "daw-wā-ḡîm", "traducao_palavra": "pescadores" },
+        { "hebraico": "מֵעֵ֥ין", "transliteral": "mê-ʿên", "traducao_palavra": "desde a fonte de" },
+        { "hebraico": "גֶּ֛דִי", "transliteral": "ge-ḏî", "traducao_palavra": "Gedi [En-Gedi]" },
+        { "hebraico": "וְעַד־עֵ֥ין", "transliteral": "wə-ʿaḏ-ʿên", "traducao_palavra": "e até a fonte de" },
+        { "hebraico": "עֶגְלַ֖יִם", "transliteral": "ʿeḡ-la-yim", "traducao_palavra": "Eglaim [En-Eglaim]" },
+        { "hebraico": "מִשְׁטֹ֤וחַ", "transliteral": "miš-ṭô-aḥ", "traducao_palavra": "lugar de estender" },
+        { "hebraico": "לַחֲרָמִים֙", "transliteral": "la-ḥă-rā-mîm", "traducao_palavra": "redes" },
+        { "hebraico": "יִהְי֔וּ", "transliteral": "yih-yū", "traducao_palavra": "haverá" },
+        { "hebraico": "לְמִינָה֙", "transliteral": "lə-mî-nāh", "traducao_palavra": "segundo as suas espécies" },
+        { "hebraico": "תִּהְיֶ֣ה", "transliteral": "tih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "דְגָתָ֔ם", "transliteral": "ḏə-ḡā-ṯām", "traducao_palavra": "o seu peixe" },
+        { "hebraico": "כִּדְגַ֛ת", "transliteral": "kiḏ-ḡaṯ", "traducao_palavra": "como o peixe de" },
+        { "hebraico": "הַיָּ֥ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "הַגָּדֹ֖ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "רַבָּ֥ה", "transliteral": "rab-bā", "traducao_palavra": "numeroso" },
+        { "hebraico": "מְאֹֽד׃", "transliteral": "mə-ʾōḏ", "traducao_palavra": "muitíssimo" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Mas os seus charcos e os seus pântanos não sararão; serão deixados para o sal.",
+      "palavras": [
+        { "hebraico": "בִּצֹּאתָ֧יו", "transliteral": "biṣ-ṣō-ṯāyw", "traducao_palavra": "os seus charcos/brejos" },
+        { "hebraico": "וּגְבָאָ֛יו", "transliteral": "ū-ḡə-ḇā-ʾāyw", "traducao_palavra": "e os seus pântanos" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יֵרָפְא֖וּ", "transliteral": "yê-rā-p̄ə-ʾū", "traducao_palavra": "sararão" },
+        { "hebraico": "לְמֶ֥לַח", "transliteral": "lə-me-laḥ", "traducao_palavra": "para sal" },
+        { "hebraico": "נִתָּֽנוּ׃", "transliteral": "nit-tā-nū", "traducao_palavra": "serão deixados/dados" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E junto ao ribeiro, à sua margem, de um e de outro lado, nascerá toda sorte de árvore que dá fruto para se comer; não murchará a sua folha, nem faltará o seu fruto; nos seus meses produzirá novos frutos, porque as suas águas saem do santuário; e o seu fruto servirá de alimento e a sua folha de remédio.",
+      "palavras": [
+        { "hebraico": "וְעַל־הַנַּ֣חַל", "transliteral": "wə-ʿal-han-na-ḥal", "traducao_palavra": "e junto ao ribeiro" },
+        { "hebraico": "יַעֲלֶ֣ה", "transliteral": "ya-ʿă-leh", "traducao_palavra": "crescerá" },
+        { "hebraico": "עַל־שְׂפָתֹ֣ו", "transliteral": "ʿal-śə-p̄ā-ṯô", "traducao_palavra": "à sua margem" },
+        { "hebraico": "מִזֶּ֣ה", "transliteral": "miz-zeh", "traducao_palavra": "de um lado" },
+        { "hebraico": "וּמִזֶּ֣ה", "transliteral": "ū-miz-zeh", "traducao_palavra": "e de outro lado" },
+        { "hebraico": "כָּל־עֵֽץ־מַ֠אֲכָל", "transliteral": "kāl-ʿêṣ-ma-ʾă-ḵāl", "traducao_palavra": "toda árvore de alimento" },
+        { "hebraico": "לֹֽא־יִבֹּ֨ול", "transliteral": "lō-yib-bôl", "traducao_palavra": "não murchará" },
+        { "hebraico": "עָלֵ֜הוּ", "transliteral": "ʿā-lê-hū", "traducao_palavra": "a sua folha" },
+        { "hebraico": "וְלֹֽא־יִתֹּ֣ם", "transliteral": "wə-lō-yit-tōm", "traducao_palavra": "e não cessará/acabará" },
+        { "hebraico": "פִּרְיֹ֗ו", "transliteral": "pir-yô", "traducao_palavra": "o seu fruto" },
+        { "hebraico": "לָֽחֳדָשָׁיו֙", "transliteral": "lā-ḥo-ḏā-šāyw", "traducao_palavra": "a cada mês" },
+        { "hebraico": "יְבַכֵּ֔ר", "transliteral": "yə-ḇak-kêr", "traducao_palavra": "produzirá primeiros frutos" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "מֵימָ֔יו", "transliteral": "mê-māyw", "traducao_palavra": "as suas águas" },
+        { "hebraico": "מִן־הַמִּקְדָּ֖שׁ", "transliteral": "min-ham-miq-dāš", "traducao_palavra": "do santuário" },
+        { "hebraico": "הֵ֣מָּה", "transliteral": "hêm-mā", "traducao_palavra": "elas" },
+        { "hebraico": "יֹוצְאִ֑ים", "transliteral": "yô-ṣə-ʾîm", "traducao_palavra": "saem" },
+        { "hebraico": "וְהָיָ֤ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será" },
+        { "hebraico": "פִרְיֹ֤ו", "transliteral": "p̄ir-yô", "traducao_palavra": "o seu fruto" },
+        { "hebraico": "לְמַֽאֲכָל֙", "transliteral": "lə-ma-ʾă-ḵāl", "traducao_palavra": "para alimento" },
+        { "hebraico": "וְעָלֵ֥הוּ", "transliteral": "wə-ʿā-lê-hū", "traducao_palavra": "e a sua folha" },
+        { "hebraico": "לִתְרוּפָֽה׃", "transliteral": "liṯ-rū-p̄ā", "traducao_palavra": "para remédio/cura" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Assim diz o Senhor YHWH: Este será o termo conforme o qual repartireis a terra em herança, segundo as doze tribos de Israel; José terá duas porções.",
+      "palavras": [
+        { "hebraico": "כֹּ֤ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַר֙", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "גֵּ֤ה", "transliteral": "gēh", "traducao_palavra": "este [é]" },
+        { "hebraico": "גְבוּל֙", "transliteral": "ḡə-ḇūl", "traducao_palavra": "o termo/limite" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "pelo qual" },
+        { "hebraico": "תִּתְנַחֲל֣וּ", "transliteral": "tiṯ-na-ḥă-lū", "traducao_palavra": "herdareis/repartireis em herança" },
+        { "hebraico": "אֶת־הָאָ֔רֶץ", "transliteral": "ʾeṯ-hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "לִשְׁנֵ֥י", "transliteral": "liš-nê", "traducao_palavra": "para as duas" },
+        { "hebraico": "עָשָׂ֖ר", "transliteral": "ʿā-śār", "traducao_palavra": "dez [doze]" },
+        { "hebraico": "שִׁבְטֵ֣י", "transliteral": "šiḇ-ṭê", "traducao_palavra": "tribos de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "יֹוסֵ֖ף", "transliteral": "yô-sêp̄", "traducao_palavra": "José [terá]" },
+        { "hebraico": "חֲבָלִֽים׃", "transliteral": "ḥă-ḇā-lîm", "traducao_palavra": "porções" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E a herdareis, tanto um como o outro, terra sobre a qual levantei a minha mão, jurando que a daria a vossos pais; assim esta terra vos cairá em herança.",
+      "palavras": [
+        { "hebraico": "וּנְחַלְתֶּ֤ם", "transliteral": "ū-nə-ḥal-tem", "traducao_palavra": "e a herdareis" },
+        { "hebraico": "אֹותָהּ֙", "transliteral": "ʾô-ṯāh", "traducao_palavra": "a ela" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "כְּאָחִ֔יו", "transliteral": "kə-ʾā-ḥîw", "traducao_palavra": "como seu irmão" },
+        { "hebraico": "אֲשֶׁ֤ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "נָשָׂ֙אתִי֙", "transliteral": "nā-śā-ṯî", "traducao_palavra": "levantei" },
+        { "hebraico": "אֶת־יָדִ֔י", "transliteral": "ʾeṯ-yā-ḏî", "traducao_palavra": "a minha mão" },
+        { "hebraico": "לְתִתָּ֖הּ", "transliteral": "lə-ṯit-tāh", "traducao_palavra": "para dá-la" },
+        { "hebraico": "לַאֲבֹֽתֵיכֶ֑ם", "transliteral": "la-ʾă-ḇō-ṯê-ḵem", "traducao_palavra": "a vossos pais" },
+        { "hebraico": "וְנָ֨פְלָ֜ה", "transliteral": "wə-nā-p̄ə-lā", "traducao_palavra": "e cairá" },
+        { "hebraico": "הָאָ֧רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "הַזֹּ֛את", "transliteral": "haz-zōʾṯ", "traducao_palavra": "esta" },
+        { "hebraico": "לָכֶ֖ם", "transliteral": "lā-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "בְּנַחֲלָֽה׃", "transliteral": "bə-na-ḥă-lā", "traducao_palavra": "em herança" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E este será o limite da terra: para o lado do norte, desde o grande mar, pelo caminho de Hetlom, até a entrada de Zedade;",
+      "palavras": [
+        { "hebraico": "וְזֶ֖ה", "transliteral": "wə-zeh", "traducao_palavra": "e este [será]" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o limite de" },
+        { "hebraico": "הָאָ֑רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "לִפְאַ֨ת", "transliteral": "lip̄-ʾaṯ", "traducao_palavra": "para o lado de" },
+        { "hebraico": "צָפֹ֜ונָה", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "o norte" },
+        { "hebraico": "מִן־הַיָּ֧ם", "transliteral": "min-hay-yām", "traducao_palavra": "desde o mar" },
+        { "hebraico": "הַגָּדֹ֛ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "הַדֶּ֥רֶךְ", "transliteral": "had-de-reḵ", "traducao_palavra": "o caminho de" },
+        { "hebraico": "חֶתְלֹ֖ן", "transliteral": "ḥeṯ-lōn", "traducao_palavra": "Hetlom" },
+        { "hebraico": "לְבֹ֥וא", "transliteral": "lə-ḇô", "traducao_palavra": "até a entrada de" },
+        { "hebraico": "צְדָֽדָה׃", "transliteral": "ṣə-ḏā-ḏā", "traducao_palavra": "Zedade" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Hamate, Berota, Sibraim, que estão entre o termo de Damasco e o termo de Hamate; Hazer-Haticom, que está junto ao termo de Haurã.",
+      "palavras": [
+        { "hebraico": "חֲמָ֤ת", "transliteral": "ḥă-māṯ", "traducao_palavra": "Hamate" },
+        { "hebraico": "בֵּרֹ֙ותָה֙", "transliteral": "bê-rô-ṯā", "traducao_palavra": "Berota" },
+        { "hebraico": "סִבְרַ֔יִם", "transliteral": "siḇ-ra-yim", "traducao_palavra": "Sibraim" },
+        { "hebraico": "אֲשֶׁר֙", "transliteral": "ʾă-šer", "traducao_palavra": "que [estão]" },
+        { "hebraico": "בֵּין־גְּב֣וּל", "transliteral": "bên-gə-ḇūl", "traducao_palavra": "entre o termo de" },
+        { "hebraico": "דַּמֶּ֔שֶׂק", "transliteral": "dam-me-śeq", "traducao_palavra": "Damasco" },
+        { "hebraico": "וּבֵ֖ין", "transliteral": "ū-ḇên", "traducao_palavra": "e entre" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "חֲמָ֑ת", "transliteral": "ḥă-māṯ", "traducao_palavra": "Hamate" },
+        { "hebraico": "חָצֵר֙", "transliteral": "ḥā-ṣêr", "traducao_palavra": "Hazer-" },
+        { "hebraico": "הַתִּיכֹ֔ון", "transliteral": "hat-tî-ḵôn", "traducao_palavra": "Haticom" },
+        { "hebraico": "אֲשֶׁ֖ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [está]" },
+        { "hebraico": "אֶל־גְּב֥וּל", "transliteral": "ʾel-gə-ḇūl", "traducao_palavra": "junto ao termo de" },
+        { "hebraico": "חַוְרָֽן׃", "transliteral": "ḥaw-rān", "traducao_palavra": "Haurã" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Assim o termo desde o mar será Hazar-Enom, o termo de Damasco, e ao norte, para o norte, está o termo de Hamate; este é o lado do norte.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֨ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será" },
+        { "hebraico": "גְב֜וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo" },
+        { "hebraico": "מִן־הַיָּ֗ם", "transliteral": "min-hay-yām", "traducao_palavra": "desde o mar" },
+        { "hebraico": "חֲצַ֤ר", "transliteral": "ḥă-ṣar", "traducao_palavra": "Hazar-" },
+        { "hebraico": "עֵינֹון֙", "transliteral": "ʿê-nôn", "traducao_palavra": "Enom" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "דַּמֶּ֔שֶׂק", "transliteral": "dam-me-śeq", "traducao_palavra": "Damasco" },
+        { "hebraico": "וְצָפֹ֥ון", "transliteral": "wə-ṣā-p̄ôn", "traducao_palavra": "e ao norte" },
+        { "hebraico": "צָפֹ֖ונָה", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "para o norte" },
+        { "hebraico": "וּגְב֣וּל", "transliteral": "ū-ḡə-ḇūl", "traducao_palavra": "e o termo de" },
+        { "hebraico": "חֲמָ֑ת", "transliteral": "ḥă-māṯ", "traducao_palavra": "Hamate" },
+        { "hebraico": "וְאֵ֖ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e este [é]" },
+        { "hebraico": "פְּאַ֥ת", "transliteral": "pə-ʾaṯ", "traducao_palavra": "o lado de" },
+        { "hebraico": "צָפֹֽון׃", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "o norte" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E o lado do oriente medireis entre Haurã, Damasco, Gileade e a terra de Israel, ao longo do Jordão, desde o limite norte até o mar oriental; este é o lado do oriente.",
+      "palavras": [
+        { "hebraico": "וּפְאַ֣ת", "transliteral": "ū-p̄ə-ʾaṯ", "traducao_palavra": "e o lado de" },
+        { "hebraico": "קָדִ֡ים", "transliteral": "qā-ḏîm", "traducao_palavra": "o oriente" },
+        { "hebraico": "מִבֵּ֣ין", "transliteral": "mib-bên", "traducao_palavra": "de entre" },
+        { "hebraico": "חַוְרָ֣ן", "transliteral": "ḥaw-rān", "traducao_palavra": "Haurã" },
+        { "hebraico": "וּמִבֵּין־דַּמֶּשֶׂק֩", "transliteral": "ū-mib-bên-dam-me-śeq", "traducao_palavra": "e entre Damasco" },
+        { "hebraico": "וּמִבֵּ֨ין", "transliteral": "ū-mib-bên", "traducao_palavra": "e entre" },
+        { "hebraico": "הַגִּלְעָ֜ד", "transliteral": "hag-gil-ʿāḏ", "traducao_palavra": "Gileade" },
+        { "hebraico": "וּמִבֵּ֨ין", "transliteral": "ū-mib-bên", "traducao_palavra": "e entre" },
+        { "hebraico": "אֶ֤רֶץ", "transliteral": "ʾe-reṣ", "traducao_palavra": "a terra de" },
+        { "hebraico": "יִשְׂרָאֵל֙", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "הַיַּרְדֵּ֔ן", "transliteral": "hay-yar-dên", "traducao_palavra": "o Jordão" },
+        { "hebraico": "מִגְּב֛וּל", "transliteral": "mig-gə-ḇūl", "traducao_palavra": "desde o termo" },
+        { "hebraico": "עַל־הַיָּ֥ם", "transliteral": "ʿal-hay-yām", "traducao_palavra": "até o mar" },
+        { "hebraico": "הַקַּדְמֹונִ֖י", "transliteral": "haq-qaḏ-mô-nî", "traducao_palavra": "oriental" },
+        { "hebraico": "תָּמֹ֑דּוּ", "transliteral": "tā-mōd-dū", "traducao_palavra": "medireis" },
+        { "hebraico": "וְאֵ֖ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e este [é]" },
+        { "hebraico": "פְּאַ֥ת", "transliteral": "pə-ʾaṯ", "traducao_palavra": "o lado" },
+        { "hebraico": "קָדִֽימָה׃", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E o lado do sul, para o meio-dia, será desde Tamar até as águas de Meribote-Cades, ao longo do ribeiro até o grande mar; este é o lado do sul, para o meio-dia.",
+      "palavras": [
+        { "hebraico": "וּפְאַת֙", "transliteral": "ū-p̄ə-ʾaṯ", "traducao_palavra": "e o lado de" },
+        { "hebraico": "נֶ֣גֶב", "transliteral": "ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "תֵּימָ֔נָה", "transliteral": "tê-mā-nā", "traducao_palavra": "para o meio-dia" },
+        { "hebraico": "מִתָּמָ֗ר", "transliteral": "mit-tā-mār", "traducao_palavra": "desde Tamar" },
+        { "hebraico": "עַד־מֵי֙", "transliteral": "ʿaḏ-mê", "traducao_palavra": "até as águas de" },
+        { "hebraico": "מְרִיבֹ֣ות", "transliteral": "mə-rî-ḇôṯ", "traducao_palavra": "contenda de [Meribote-]" },
+        { "hebraico": "קָדֵ֔שׁ", "transliteral": "qā-ḏêš", "traducao_palavra": "Cades" },
+        { "hebraico": "נַחֲלָ֖ה", "transliteral": "na-ḥă-lā", "traducao_palavra": "ao ribeiro" },
+        { "hebraico": "אֶל־הַיָּ֣ם", "transliteral": "ʾel-hay-yām", "traducao_palavra": "até o mar" },
+        { "hebraico": "הַגָּדֹ֑ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "וְאֵ֥ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e este [é]" },
+        { "hebraico": "פְּאַת־תֵּימָ֖נָה", "transliteral": "pə-ʾaṯ-tê-mā-nā", "traducao_palavra": "o lado do meio-dia" },
+        { "hebraico": "נֶֽגְבָּה׃", "transliteral": "neḡ-bā", "traducao_palavra": "para o sul" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E o lado do ocidente será o grande mar, desde o termo do sul até defronte da entrada de Hamate; este é o lado do ocidente.",
+      "palavras": [
+        { "hebraico": "וּפְאַת־יָם֙", "transliteral": "ū-p̄ə-ʾaṯ-yām", "traducao_palavra": "e o lado do ocidente" },
+        { "hebraico": "הַיָּ֣ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "הַגָּדֹ֔ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande [será]" },
+        { "hebraico": "מִגְּב֕וּל", "transliteral": "mig-gə-ḇūl", "traducao_palavra": "desde o termo" },
+        { "hebraico": "עַד־נֹ֖כַח", "transliteral": "ʿaḏ-nō-ḵaḥ", "traducao_palavra": "até defronte de" },
+        { "hebraico": "לְבֹ֣וא", "transliteral": "lə-ḇô", "traducao_palavra": "a entrada de" },
+        { "hebraico": "חֲמָ֑ת", "transliteral": "ḥă-māṯ", "traducao_palavra": "Hamate" },
+        { "hebraico": "זֹ֖את", "transliteral": "zōʾṯ", "traducao_palavra": "este [é]" },
+        { "hebraico": "פְּאַת־יָֽם׃", "transliteral": "pə-ʾaṯ-yām", "traducao_palavra": "o lado do ocidente" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Repartireis, pois, esta terra entre vós, segundo as tribos de Israel.",
+      "palavras": [
+        { "hebraico": "וְחִלַּקְתֶּ֞ם", "transliteral": "wə-ḥil-laq-tem", "traducao_palavra": "e repartireis" },
+        { "hebraico": "אֶת־הָאָ֧רֶץ", "transliteral": "ʾeṯ-hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "הַזֹּ֛את", "transliteral": "haz-zōʾṯ", "traducao_palavra": "esta" },
+        { "hebraico": "לָכֶ֖ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "לְשִׁבְטֵ֥י", "transliteral": "lə-šiḇ-ṭê", "traducao_palavra": "segundo as tribos de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E será que a sorteareis em herança para vós e para os estrangeiros que peregrinam no meio de vós, que geraram filhos no meio de vós; e vos serão como naturais entre os filhos de Israel; convosco entrarão em herança, no meio das tribos de Israel.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֗ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será [que]" },
+        { "hebraico": "תַּפִּ֨לוּ", "transliteral": "tap-pî-lū", "traducao_palavra": "fareis cair [por sorte]" },
+        { "hebraico": "אֹותָ֤הּ", "transliteral": "ʾô-ṯāh", "traducao_palavra": "ela" },
+        { "hebraico": "בְּנַחֲלָה֙", "transliteral": "bə-na-ḥă-lā", "traducao_palavra": "em herança" },
+        { "hebraico": "לָכֶ֔ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "וּלְהַגֵּרִים֙", "transliteral": "ū-lə-hag-gê-rîm", "traducao_palavra": "e para os estrangeiros" },
+        { "hebraico": "הַגָּרִ֣ים", "transliteral": "hag-gā-rîm", "traducao_palavra": "que peregrinam" },
+        { "hebraico": "בְּתֹוכְכֶ֔ם", "transliteral": "bə-ṯô-ḵə-ḵem", "traducao_palavra": "no vosso meio" },
+        { "hebraico": "אֲשֶׁר־הֹולִ֥דוּ", "transliteral": "ʾă-šer-hô-li-ḏū", "traducao_palavra": "que geraram" },
+        { "hebraico": "בָנִ֖ים", "transliteral": "bā-nîm", "traducao_palavra": "filhos" },
+        { "hebraico": "בְּתֹוכְכֶ֑ם", "transliteral": "bə-ṯô-ḵə-ḵem", "traducao_palavra": "no vosso meio" },
+        { "hebraico": "וְהָי֣וּ", "transliteral": "wə-hā-yū", "traducao_palavra": "e serão" },
+        { "hebraico": "לָכֶ֗ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "כְּאֶזְרָח֙", "transliteral": "kə-ʾez-rāḥ", "traducao_palavra": "como natural/cidadão nativo" },
+        { "hebraico": "בִּבְנֵ֣י", "transliteral": "biḇ-nê", "traducao_palavra": "entre os filhos de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "אִתְּכֶם֙", "transliteral": "ʾit-tə-ḵem", "traducao_palavra": "convosco" },
+        { "hebraico": "יִפְּל֣וּ", "transliteral": "yip-pə-lū", "traducao_palavra": "cairão [por sorte]" },
+        { "hebraico": "בְנַחֲלָ֔ה", "transliteral": "ḇə-na-ḥă-lā", "traducao_palavra": "em herança" },
+        { "hebraico": "בְּתֹ֖וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "שִׁבְטֵ֥י", "transliteral": "šiḇ-ṭê", "traducao_palavra": "as tribos de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E será que, na tribo em que peregrinar o estrangeiro, ali lhe dareis a sua herança, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֣ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será [que]" },
+        { "hebraico": "בַשֵּׁ֔בֶט", "transliteral": "ḇaš-šê-ḇeṭ", "traducao_palavra": "na tribo" },
+        { "hebraico": "אֲשֶׁר־גָּ֥ר", "transliteral": "ʾă-šer-gār", "traducao_palavra": "em que peregrinar" },
+        { "hebraico": "הַגֵּ֖ר", "transliteral": "hag-gêr", "traducao_palavra": "o estrangeiro" },
+        { "hebraico": "אִתֹּ֑ו", "transliteral": "ʾit-tô", "traducao_palavra": "com ela" },
+        { "hebraico": "שָׁ֚ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "תִּתְּנ֣וּ", "transliteral": "tit-tə-nū", "traducao_palavra": "dareis" },
+        { "hebraico": "נַחֲלָתֹ֔ו", "transliteral": "na-ḥă-lā-ṯô", "traducao_palavra": "a sua herança" },
+        { "hebraico": "נְאֻ֖ם", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "אֲדֹנָ֥י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }

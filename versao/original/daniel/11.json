@@ -1,6 +1,787 @@
 {
-  "livro": "Daniel - דָּנִיֵּאל - Daniyyel",
+  "livro": "Daniel - דָּנִיֵּאל - Dāniyyēʾl",
   "capítulo": 11,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E eu, no primeiro ano de Dario, o medo, levantei-me para o fortalecer e animar.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֗י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "בִּשְׁנַת֙", "transliteral": "biš-naṯ", "traducao_palavra": "no ano de" },
+        { "hebraico": "אַחַ֔ת", "transliteral": "ʾa-ḥaṯ", "traducao_palavra": "um [primeiro]" },
+        { "hebraico": "לְדָרְיָ֖וֶשׁ", "transliteral": "lə-ḏār-yā-weš", "traducao_palavra": "de Dario" },
+        { "hebraico": "הַמָּדִ֑י", "transliteral": "ham-mā-ḏî", "traducao_palavra": "o medo" },
+        { "hebraico": "עָמְדִ֛י", "transliteral": "ʿām-dî", "traducao_palavra": "levantei-me/estive" },
+        { "hebraico": "לְמַחֲזִ֥יק", "transliteral": "lə-ma-ḥă-zîq", "traducao_palavra": "para fortalecer" },
+        { "hebraico": "וּלְמָעֹ֖וז", "transliteral": "ū-lə-mā-ʿôz", "traducao_palavra": "e servir de refúgio/fortaleza" },
+        { "hebraico": "לֹֽו׃", "transliteral": "lô", "traducao_palavra": "a ele" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E agora te declararei a verdade: Eis que ainda três reis se levantarão na Pérsia, e o quarto ajuntará grandes riquezas, mais do que todos eles; e, fortalecendo-se por suas riquezas, suscitará a todos contra o reino da Grécia.",
+      "palavras": [
+        { "hebraico": "וְעַתָּ֕ה", "transliteral": "wə-ʿat-tā", "traducao_palavra": "e agora" },
+        { "hebraico": "אֱמֶ֖ת", "transliteral": "ʾĕ-meṯ", "traducao_palavra": "a verdade" },
+        { "hebraico": "אַגִּ֣יד", "transliteral": "ʾag-gîḏ", "traducao_palavra": "declararei" },
+        { "hebraico": "לָ֑ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "הִנֵּה־עֹ֞וד", "transliteral": "hin-nêh-ʿôḏ", "traducao_palavra": "eis que ainda" },
+        { "hebraico": "שְׁלֹשָׁ֣ה", "transliteral": "šə-lō-šā", "traducao_palavra": "três" },
+        { "hebraico": "מְלָכִים֮", "transliteral": "mə-lā-ḵîm", "traducao_palavra": "reis" },
+        { "hebraico": "עֹמְדִ֣ים", "transliteral": "ʿō-mə-ḏîm", "traducao_palavra": "se levantarão" },
+        { "hebraico": "לְפָרַס֒", "transliteral": "lə-p̄ā-ras", "traducao_palavra": "na Pérsia" },
+        { "hebraico": "וְהָרְבִיעִ֗י", "transliteral": "wə-hā-rə-ḇî-ʿî", "traducao_palavra": "e o quarto" },
+        { "hebraico": "יַעֲשִׁ֤יר", "transliteral": "ya-ʿă-šîr", "traducao_palavra": "acumulará riquezas" },
+        { "hebraico": "עֹֽשֶׁר־גָּדֹול֙", "transliteral": "ʿō-šer-gā-ḏôl", "traducao_palavra": "grandes riquezas" },
+        { "hebraico": "מִכֹּ֔ל", "transliteral": "mik-kōl", "traducao_palavra": "mais do que todos" },
+        { "hebraico": "וּכְחֶזְקָתֹ֣ו", "transliteral": "ū-ḵə-ḥez-qā-ṯô", "traducao_palavra": "e ao tornar-se forte" },
+        { "hebraico": "בְעָשְׁרֹ֔ו", "transliteral": "ḇə-ʿāš-rô", "traducao_palavra": "por suas riquezas" },
+        { "hebraico": "יָעִ֣יר", "transliteral": "yā-ʿîr", "traducao_palavra": "suscitará/despertará" },
+        { "hebraico": "הַכֹּ֔ל", "transliteral": "hak-kōl", "traducao_palavra": "a todos [contra]" },
+        { "hebraico": "אֵ֖ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "מַלְכ֥וּת", "transliteral": "mal-ḵûṯ", "traducao_palavra": "o reino de" },
+        { "hebraico": "יָוָֽן׃", "transliteral": "yā-wān", "traducao_palavra": "Grécia" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Depois se levantará um rei valente, que reinará com grande domínio e fará o que lhe aprouver.",
+      "palavras": [
+        { "hebraico": "וְעָמַ֖ד", "transliteral": "wə-ʿā-maḏ", "traducao_palavra": "e levantar-se-á" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "um rei" },
+        { "hebraico": "גִּבֹּ֑ור", "transliteral": "gib-bôr", "traducao_palavra": "valente/poderoso" },
+        { "hebraico": "וּמָשַׁל֙", "transliteral": "ū-mā-šal", "traducao_palavra": "e dominará com" },
+        { "hebraico": "מִמְשָׁ֣ל", "transliteral": "mim-šāl", "traducao_palavra": "domínio" },
+        { "hebraico": "רַ֔ב", "transliteral": "raḇ", "traducao_palavra": "grande" },
+        { "hebraico": "וְעָשָׂ֖ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e fará" },
+        { "hebraico": "כִּרְצֹונֹֽו׃", "transliteral": "kir-ṣô-nô", "traducao_palavra": "segundo a sua vontade" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Mas, estando ele em pé, o seu reino será quebrado e será repartido para os quatro ventos do céu; mas não para a sua posteridade, nem segundo o poder com que reinou, porque o seu reino será arrancado e passará a outros, fora destes.",
+      "palavras": [
+        { "hebraico": "וּכְעָמְדֹ֗ו", "transliteral": "ū-ḵə-ʿām-ḏô", "traducao_palavra": "e ao firmar-se ele" },
+        { "hebraico": "תִּשָּׁבֵר֙", "transliteral": "tiš-šā-ḇêr", "traducao_palavra": "será quebrado" },
+        { "hebraico": "מַלְכוּתֹ֔ו", "transliteral": "mal-ḵū-ṯô", "traducao_palavra": "o seu reino" },
+        { "hebraico": "וְתֵחָ֥ץ", "transliteral": "wə-ṯê-ḥāṣ", "traducao_palavra": "e será dividido" },
+        { "hebraico": "לְאַרְבַּ֖ע", "transliteral": "lə-ʾar-baʿ", "traducao_palavra": "para os quatro" },
+        { "hebraico": "רוּחֹ֣ות", "transliteral": "rū-ḥôṯ", "traducao_palavra": "ventos de" },
+        { "hebraico": "הַשָּׁמָ֑יִם", "transliteral": "haš-šā-mā-yim", "traducao_palavra": "o céu" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "לְאַחֲרִיתֹ֗ו", "transliteral": "lə-ʾa-ḥă-rî-ṯô", "traducao_palavra": "para a sua posteridade" },
+        { "hebraico": "וְלֹ֤א", "transliteral": "wə-lō", "traducao_palavra": "nem" },
+        { "hebraico": "כְמָשְׁלֹו֙", "transliteral": "ḵə-māš-lô", "traducao_palavra": "segundo o domínio" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "com que" },
+        { "hebraico": "מָשָׁ֔ל", "transliteral": "mā-šāl", "traducao_palavra": "ele dominou" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "תִנָּתֵשׁ֙", "transliteral": "tin-nā-ṯêš", "traducao_palavra": "será desarraigado" },
+        { "hebraico": "מַלְכוּתֹ֔ו", "transliteral": "mal-ḵū-ṯô", "traducao_palavra": "o seu reino" },
+        { "hebraico": "וְלַאֲחֵרִ֖ים", "transliteral": "wə-la-ʾă-ḥê-rîm", "traducao_palavra": "e [passará] a outros" },
+        { "hebraico": "מִלְּבַד־אֵֽלֶּה׃", "transliteral": "mil-lə-ḇaḏ-ʾêl-leh", "traducao_palavra": "além destes" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E será forte o rei do sul; mas um dos seus príncipes se tornará mais forte do que ele e reinará, e grande será o seu domínio.",
+      "palavras": [
+        { "hebraico": "וְיֶחֱזַ֥ק", "transliteral": "wə-ye-ḥĕ-zaq", "traducao_palavra": "e será forte" },
+        { "hebraico": "מֶֽלֶךְ־הַנֶּ֖גֶב", "transliteral": "me-leḵ-han-ne-ḡeḇ", "traducao_palavra": "o rei do sul" },
+        { "hebraico": "וּמִן־שָׂרָ֑יו", "transliteral": "ū-min-śā-rāyw", "traducao_palavra": "e um dos seus príncipes" },
+        { "hebraico": "וְיֶחֱזַ֤ק", "transliteral": "wə-ye-ḥĕ-zaq", "traducao_palavra": "se tornará forte" },
+        { "hebraico": "עָלָיו֙", "transliteral": "ʿā-lāyw", "traducao_palavra": "sobre ele" },
+        { "hebraico": "וּמָשָׁ֔ל", "transliteral": "ū-mā-šāl", "traducao_palavra": "e dominará" },
+        { "hebraico": "מִמְשָׁ֥ל", "transliteral": "mim-šāl", "traducao_palavra": "um domínio" },
+        { "hebraico": "רַ֖ב", "transliteral": "raḇ", "traducao_palavra": "grande [será]" },
+        { "hebraico": "מֶמְשַׁלְתֹּֽו׃", "transliteral": "mem-šal-tô", "traducao_palavra": "o seu domínio" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E, ao cabo de anos, eles se aliarão; e a filha do rei do sul virá ao rei do norte para fazer um tratado; mas ela não reterá a força do seu braço, nem ele subsistirá, nem o seu braço; mas ela será entregue, e os que a trouxeram, e o que a gerou, e o que a fortalecia naqueles tempos.",
+      "palavras": [
+        { "hebraico": "וּלְקֵ֥ץ", "transliteral": "ū-lə-qêṣ", "traducao_palavra": "e ao fim de" },
+        { "hebraico": "שָׁנִ֖ים", "transliteral": "šā-nîm", "traducao_palavra": "anos" },
+        { "hebraico": "יִתְחַבָּ֑רוּ", "transliteral": "yiṯ-ḥab-bā-rû", "traducao_palavra": "eles se aliarão" },
+        { "hebraico": "וּבַ֣ת", "transliteral": "ū-ḇaṯ", "traducao_palavra": "e a filha de" },
+        { "hebraico": "מֶֽלֶךְ־הַנֶּ֜גֶב", "transliteral": "me-leḵ-han-ne-ḡeḇ", "traducao_palavra": "o rei do sul" },
+        { "hebraico": "תָּבֹ֣וא", "transliteral": "tā-ḇô", "traducao_palavra": "virá" },
+        { "hebraico": "אֶל־מֶ֥לֶךְ", "transliteral": "ʾel-me-leḵ", "traducao_palavra": "ao rei de" },
+        { "hebraico": "הַצָּפֹון֮", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "לַעֲשֹׂ֣ות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "para fazer" },
+        { "hebraico": "מֵישָׁרִים֒", "transliteral": "mê-šā-rîm", "traducao_palavra": "um acordo equitativo/tratado" },
+        { "hebraico": "וְלֹֽא־תַעְצֹר֙", "transliteral": "wə-lō-ṯaʿ-ṣōr", "traducao_palavra": "mas ela não reterá" },
+        { "hebraico": "כֹּ֣וחַ", "transliteral": "kō-aḥ", "traducao_palavra": "a força de" },
+        { "hebraico": "הַזְּרֹ֔ועַ", "transliteral": "haz-zə-rô-aʿ", "traducao_palavra": "o braço" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יַעֲמֹ֖ד", "transliteral": "ya-ʿă-mōḏ", "traducao_palavra": "subsistirá ele" },
+        { "hebraico": "וּזְרֹעֹ֑ו", "transliteral": "ū-zə-rō-ʿô", "traducao_palavra": "nem o seu braço" },
+        { "hebraico": "וְתִנָּתֵ֨ן", "transliteral": "wə-ṯin-nā-ṯên", "traducao_palavra": "e será entregue" },
+        { "hebraico": "הִ֤יא", "transliteral": "hî", "traducao_palavra": "ela" },
+        { "hebraico": "וּמְבִיאֶ֙יהָ֙", "transliteral": "ū-mə-ḇî-ʾe-hā", "traducao_palavra": "e os que a trouxeram" },
+        { "hebraico": "וְהַיֹּ֣לְדָ֔הּ", "transliteral": "wə-hay-yō-lə-ḏāh", "traducao_palavra": "e o que a gerou" },
+        { "hebraico": "וּמַחֲזִקָ֖הּ", "transliteral": "ū-ma-ḥă-zi-qāh", "traducao_palavra": "e o que a sustentava" },
+        { "hebraico": "בָּעִתִּֽים׃", "transliteral": "bā-ʿit-tîm", "traducao_palavra": "naqueles tempos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Mas de um renovo das suas raízes um se levantará no seu lugar, e virá com o exército, e entrará na fortaleza do rei do norte, e agirá contra eles, e prevalecerá.",
+      "palavras": [
+        { "hebraico": "וְעָמַ֛ד", "transliteral": "wə-ʿā-maḏ", "traducao_palavra": "e levantar-se-á" },
+        { "hebraico": "מִנֵּ֥צֶר", "transliteral": "min-nê-ṣer", "traducao_palavra": "de um renovo de" },
+        { "hebraico": "שָׁרָשֶׁ֖יהָ", "transliteral": "šā-rā-še-hā", "traducao_palavra": "suas raízes" },
+        { "hebraico": "כַּנֹּ֑ו", "transliteral": "kan-nô", "traducao_palavra": "no seu lugar" },
+        { "hebraico": "וְיָבֹ֣א", "transliteral": "wə-yā-ḇō", "traducao_palavra": "e virá" },
+        { "hebraico": "אֶל־הַחַ֗יִל", "transliteral": "ʾel-ha-ḥa-yil", "traducao_palavra": "contra o exército" },
+        { "hebraico": "וְיָבֹא֙", "transliteral": "wə-yā-ḇō", "traducao_palavra": "e entrará" },
+        { "hebraico": "בְּמָעֹוז֙", "transliteral": "bə-mā-ʿôz", "traducao_palavra": "na fortaleza de" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַצָּפֹ֔ון", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "וְעָשָׂ֥ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e agirá" },
+        { "hebraico": "בָהֶ֖ם", "transliteral": "ḇā-hem", "traducao_palavra": "contra eles" },
+        { "hebraico": "וְהֶחֱזִֽיק׃", "transliteral": "wə-he-ḥĕ-zîq", "traducao_palavra": "e prevalecerá" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Também os seus deuses, com as suas imagens de fundição, com os seus objetos preciosos de prata e ouro, levará cativos para o Egito; e por alguns anos ele cessará de atacar o rei do norte.",
+      "palavras": [
+        { "hebraico": "וְגַ֣ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "אֱלֹֽהֵיהֶ֡ם", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "os seus deuses" },
+        { "hebraico": "עִם־נְסִֽכֵיהֶם֩", "transliteral": "ʿim-nə-si-ḵê-hem", "traducao_palavra": "com as suas imagens de fundição" },
+        { "hebraico": "עִם־כְּלֵ֨י", "transliteral": "ʿim-kə-lê", "traducao_palavra": "com os vasos/utensílios de" },
+        { "hebraico": "חֶמְדָּתָ֜ם", "transliteral": "ḥem-dā-ṯām", "traducao_palavra": "seu apreço/preciosos" },
+        { "hebraico": "כֶּ֧סֶף", "transliteral": "ke-sep̄", "traducao_palavra": "de prata" },
+        { "hebraico": "וְזָהָ֛ב", "transliteral": "wə-zā-hāḇ", "traducao_palavra": "e de ouro" },
+        { "hebraico": "בַּשְּׁבִ֖י", "transliteral": "baš-šə-ḇî", "traducao_palavra": "no cativeiro" },
+        { "hebraico": "יָבִ֣א", "transliteral": "yā-ḇî", "traducao_palavra": "levará para" },
+        { "hebraico": "מִצְרָ֑יִם", "transliteral": "miṣ-rā-yim", "traducao_palavra": "o Egito" },
+        { "hebraico": "וְהוּא֙", "transliteral": "wə-hû", "traducao_palavra": "e ele por" },
+        { "hebraico": "שָׁנִ֣ים", "transliteral": "šā-nîm", "traducao_palavra": "anos" },
+        { "hebraico": "יַעֲמֹ֔ד", "transliteral": "ya-ʿă-mōḏ", "traducao_palavra": "cessará de/ficará longe de" },
+        { "hebraico": "מִמֶּ֖לֶךְ", "transliteral": "mim-me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַצָּפֹֽון׃", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E este entrará no reino do rei do sul e tornará para a sua terra.",
+      "palavras": [
+        { "hebraico": "וּבָ֗א", "transliteral": "ū-ḇā", "traducao_palavra": "e entrará" },
+        { "hebraico": "בְּמַלְכוּת֙", "transliteral": "bə-mal-ḵûṯ", "traducao_palavra": "no reino de" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַנֶּ֔גֶב", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "וְשָׁ֖ב", "transliteral": "wə-šāḇ", "traducao_palavra": "e voltará" },
+        { "hebraico": "אֶל־אַדְמָתֹֽו׃", "transliteral": "ʾel-ʾaḏ-mā-ṯô", "traducao_palavra": "para a sua terra" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Mas os seus filhos se mobilizarão e reunirão uma multidão de grandes forças; e um deles virá apressadamente, e inundará, e passará adiante; e, voltando, levará a guerra até à sua fortaleza.",
+      "palavras": [
+        { "hebraico": "וּבָנָ֣יו", "transliteral": "ū-ḇā-nāyw", "traducao_palavra": "mas os seus filhos" },
+        { "hebraico": "יִתְגָּר֗וּ", "transliteral": "yiṯ-gā-rû", "traducao_palavra": "mobilizar-se-ão/lutarão" },
+        { "hebraico": "וְאָסְפוּ֙", "transliteral": "wə-ʾā-sə-p̄û", "traducao_palavra": "e ajuntarão" },
+        { "hebraico": "הֲמֹון֙", "transliteral": "hă-môn", "traducao_palavra": "uma multidão de" },
+        { "hebraico": "חֲיָלִ֣ים", "transliteral": "ḥă-yā-lîm", "traducao_palavra": "tropas/exércitos" },
+        { "hebraico": "רַבִּ֔ים", "transliteral": "rab-bîm", "traducao_palavra": "grandes" },
+        { "hebraico": "וּבָ֥א", "transliteral": "ū-ḇā", "traducao_palavra": "e virá" },
+        { "hebraico": "בֹוא֙", "transliteral": "ḇô", "traducao_palavra": "certamente" },
+        { "hebraico": "וְשָׁטַ֣ף", "transliteral": "wə-šā-ṭap̄", "traducao_palavra": "e inundará" },
+        { "hebraico": "וְעָבָ֑ר", "transliteral": "wə-ʿā-ḇār", "traducao_palavra": "e passará adiante" },
+        { "hebraico": "וְיָשָׁ֥ב", "transliteral": "wə-yā-šāḇ", "traducao_palavra": "e voltará" },
+        { "hebraico": "וְיִתְגָּרֶ֖ה", "transliteral": "wə-yiṯ-gā-reh", "traducao_palavra": "e guerreará" },
+        { "hebraico": "עַד־מָעֻזֹּֽו׃", "transliteral": "ʿaḏ-mā-ʿuz-zô", "traducao_palavra": "até à sua fortaleza" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Então o rei do sul se exasperará, e sairá, e pelejará contra ele, contra o rei do norte; este porá em campo uma grande multidão, mas aquela multidão será entregue na sua mão.",
+      "palavras": [
+        { "hebraico": "וְיִתְמַרְמַר֙", "transliteral": "wə-yiṯ-mar-mar", "traducao_palavra": "e exasperar-se-á" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַנֶּ֔גֶב", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "וְיָצָ֕א", "transliteral": "wə-yā-ṣā", "traducao_palavra": "e sairá" },
+        { "hebraico": "וְנִלְחַ֥ם", "transliteral": "wə-nil-ḥam", "traducao_palavra": "e pelejará" },
+        { "hebraico": "עִמֹּ֖ו", "transliteral": "ʿim-mô", "traducao_palavra": "com ele" },
+        { "hebraico": "עִם־מֶ֣לֶךְ", "transliteral": "ʿim-me-leḵ", "traducao_palavra": "com o rei de" },
+        { "hebraico": "הַצָּפֹ֑ון", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "וְהֶעֱמִ֤יד", "transliteral": "wə-he-ʿĕ-mîḏ", "traducao_palavra": "e porá em campo" },
+        { "hebraico": "הָמֹון֙", "transliteral": "hā-môn", "traducao_palavra": "uma multidão" },
+        { "hebraico": "רָ֔ב", "transliteral": "rāḇ", "traducao_palavra": "grande" },
+        { "hebraico": "וְנִתַּ֥ן", "transliteral": "wə-nit-tan", "traducao_palavra": "e será entregue" },
+        { "hebraico": "הֶהָמֹ֖ון", "transliteral": "he-hā-môn", "traducao_palavra": "a multidão" },
+        { "hebraico": "בְּיָדֹֽו׃", "transliteral": "bə-yā-ḏô", "traducao_palavra": "na sua mão" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E, sendo levada a multidão, o seu coração se exaltará; e ele derrubará miríades, mas não prevalecerá.",
+      "palavras": [
+        { "hebraico": "וְנִשָּׂ֥א", "transliteral": "wə-niś-śā", "traducao_palavra": "e sendo levada" },
+        { "hebraico": "הֶהָמֹ֖ון", "transliteral": "he-hā-môn", "traducao_palavra": "a multidão" },
+        { "hebraico": "יָר֣וּם", "transliteral": "yā-rūm", "traducao_palavra": "se exaltará" },
+        { "hebraico": "לְבָבֹ֑ו", "transliteral": "lə-ḇā-ḇô", "traducao_palavra": "o seu coração" },
+        { "hebraico": "וְהִפִּ֥יל", "transliteral": "wə-hip-pîl", "traducao_palavra": "e derrubará" },
+        { "hebraico": "רִבֹּות֙", "transliteral": "rib-bôṯ", "traducao_palavra": "miríades/dezenas de milhares" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "יָעֹֽוז׃", "transliteral": "yā-ʿôz", "traducao_palavra": "prevalecerá" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Porque o rei do norte tornará e porá em campo uma multidão maior do que a primeira; e, ao cabo de tempos, isto é, de anos, virá apressadamente com grande exército e com muitos recursos.",
+      "palavras": [
+        { "hebraico": "וְשָׁב֙", "transliteral": "wə-šāḇ", "traducao_palavra": "e tornará" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַצָּפֹ֔ון", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "וְהֶעֱמִ֣יד", "transliteral": "wə-he-ʿĕ-mîḏ", "traducao_palavra": "e porá em campo" },
+        { "hebraico": "הָמֹ֔ון", "transliteral": "hā-môn", "traducao_palavra": "uma multidão" },
+        { "hebraico": "רַ֖ב", "transliteral": "raḇ", "traducao_palavra": "maior" },
+        { "hebraico": "מִן־הָרִאשֹׁ֑ון", "transliteral": "min-hā-ri-šôn", "traducao_palavra": "do que a primeira" },
+        { "hebraico": "וּלְקֵ֨ץ", "transliteral": "ū-lə-qêṣ", "traducao_palavra": "e ao cabo de" },
+        { "hebraico": "הָֽעִתִּ֤ים", "transliteral": "hā-ʿit-tîm", "traducao_palavra": "os tempos" },
+        { "hebraico": "שָׁנִים֙", "transliteral": "šā-nîm", "traducao_palavra": "[de] anos" },
+        { "hebraico": "יָבֹ֣וא", "transliteral": "yā-ḇô", "traducao_palavra": "virá" },
+        { "hebraico": "בֹ֔וא", "transliteral": "ḇô", "traducao_palavra": "certamente" },
+        { "hebraico": "בְּחַ֥יִל", "transliteral": "bə-ḥa-yil", "traducao_palavra": "com exército" },
+        { "hebraico": "גָּדֹ֖ול", "transliteral": "gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "וּבִרְכ֥וּשׁ", "transliteral": "ū-ḇir-ḵūš", "traducao_palavra": "e com mantimentos/recursos" },
+        { "hebraico": "רָֽב׃", "transliteral": "rāḇ", "traducao_palavra": "muitos" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E naqueles tempos muitos se levantarão contra o rei do sul; e os homens violentos do teu povo se levantarão para cumprir a visão, mas cairão.",
+      "palavras": [
+        { "hebraico": "וּבָעִתִּ֣ים", "transliteral": "ū-ḇā-ʿit-tîm", "traducao_palavra": "e nos tempos" },
+        { "hebraico": "הָהֵ֔ם", "transliteral": "hā-hêm", "traducao_palavra": "aqueles" },
+        { "hebraico": "רַבִּ֥ים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "יַֽעַמְד֖וּ", "transliteral": "ya-ʿam-ḏû", "traducao_palavra": "se levantarão" },
+        { "hebraico": "עַל־מֶ֣לֶךְ", "transliteral": "ʿal-me-leḵ", "traducao_palavra": "contra o rei de" },
+        { "hebraico": "הַנֶּ֑גֶב", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "וּבְנֵ֣י", "transliteral": "ū-ḇə-nê", "traducao_palavra": "e os filhos de" },
+        { "hebraico": "פָּרִיצֵ֣י", "transliteral": "pā-rî-ṣê", "traducao_palavra": "violentos de" },
+        { "hebraico": "עַמְּךָ֗", "transliteral": "ʿam-mə-ḵā", "traducao_palavra": "teu povo" },
+        { "hebraico": "יִֽנַּשְּׂא֛וּ", "transliteral": "yin-naś-śə-ʾû", "traducao_palavra": "se exaltarão" },
+        { "hebraico": "לְהַעֲמִ֥יד", "transliteral": "lə-ha-ʿă-mîḏ", "traducao_palavra": "para confirmar/estabelecer" },
+        { "hebraico": "חָזֹ֖ון", "transliteral": "ḥā-zôn", "traducao_palavra": "a visão" },
+        { "hebraico": "וְנִכְשָֽׁלוּ׃", "transliteral": "wə-niḵ-šā-lû", "traducao_palavra": "mas cairão" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E o rei do norte virá, e levantará tranqueiras, e tomará a cidade fortificada; e os braços do sul não poderão resistir, nem o seu povo escolhido, pois não haverá força para resistir.",
+      "palavras": [
+        { "hebraico": "וְיָבֹא֙", "transliteral": "wə-yā-ḇō", "traducao_palavra": "e virá" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַצָּפֹ֔ון", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "וְיִשְׁפֹּךְ֙", "transliteral": "wə-yiš-pōḵ", "traducao_palavra": "e levantará/edificará" },
+        { "hebraico": "סֹֽולְלָ֔ה", "transliteral": "sô-lə-lā", "traducao_palavra": "uma rampa de cerco" },
+        { "hebraico": "וְלָכַ֖ד", "transliteral": "wə-lā-ḵaḏ", "traducao_palavra": "e tomará" },
+        { "hebraico": "עִ֣יר", "transliteral": "ʿîr", "traducao_palavra": "a cidade de" },
+        { "hebraico": "מִבְצָרֹ֑ות", "transliteral": "miḇ-ṣā-rôṯ", "traducao_palavra": "fortificações" },
+        { "hebraico": "וּזְרֹעֹ֤ות", "transliteral": "ū-zə-rō-ʿôṯ", "traducao_palavra": "e os braços de" },
+        { "hebraico": "הַנֶּ֙גֶב֙", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יַעֲמֹ֔דוּ", "transliteral": "ya-ʿam-ḏû", "traducao_palavra": "resistirão" },
+        { "hebraico": "וְעַם֙", "transliteral": "wə-ʿam", "traducao_palavra": "nem o povo de" },
+        { "hebraico": "מִבְחָרָ֔יו", "transliteral": "miḇ-ḥā-rāyw", "traducao_palavra": "suas tropas escolhidas" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não haverá" },
+        { "hebraico": "כֹּ֖חַ", "transliteral": "kō-aḥ", "traducao_palavra": "força" },
+        { "hebraico": "לַעֲמֹֽד׃", "transliteral": "la-ʿă-mōḏ", "traducao_palavra": "para resistir" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "O que, pois, vier contra ele fará segundo a sua própria vontade, e ninguém poderá estar firme diante dele; e estará na terra formosa, e a destruição estará na sua mão.",
+      "palavras": [
+        { "hebraico": "וְיַ֨עַשׂ", "transliteral": "wə-ya-ʿaś", "traducao_palavra": "e fará" },
+        { "hebraico": "הַבָּ֤א", "transliteral": "hab-bā", "traducao_palavra": "aquele que vem" },
+        { "hebraico": "אֵלָיו֙", "transliteral": "ʾê-lāyw", "traducao_palavra": "contra ele" },
+        { "hebraico": "כִּרְצֹונֹ֔ו", "transliteral": "kir-ṣô-nô", "traducao_palavra": "segundo a sua vontade" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não haverá" },
+        { "hebraico": "עֹומֵ֖ד", "transliteral": "ʿô-mêḏ", "traducao_palavra": "quem resista/fique em pé" },
+        { "hebraico": "לְפָנָ֑יו", "transliteral": "lə-p̄ā-nāyw", "traducao_palavra": "diante dele" },
+        { "hebraico": "וְיַעֲמֹ֥ד", "transliteral": "wə-ya-ʿă-mōḏ", "traducao_palavra": "e estará" },
+        { "hebraico": "בְּאֶֽרֶץ־הַצְּבִ֖י", "transliteral": "bə-ʾe-reṣ-haṣ-ṣə-ḇî", "traducao_palavra": "na terra formosa" },
+        { "hebraico": "וְכָלָ֥ה", "transliteral": "wə-ḵā-lā", "traducao_palavra": "e a consumação/destruição" },
+        { "hebraico": "בְיָדֹֽו׃", "transliteral": "ḇə-yā-ḏô", "traducao_palavra": "estará na sua mão" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E porá o seu rosto para vir com a força de todo o seu reino, e fará com ele um acordo reto; e dar-lhe-á uma filha de mulheres, para a corromper; ela, porém, não subsistirá, nem será para ele.",
+      "palavras": [
+        { "hebraico": "וְיָשֵׂ֣ם", "transliteral": "wə-yā-śêm", "traducao_palavra": "e porá" },
+        { "hebraico": "פָּנָ֗יו", "transliteral": "pā-nāyw", "traducao_palavra": "o seu rosto" },
+        { "hebraico": "לָבֹוא֙", "transliteral": "lā-ḇô", "traducao_palavra": "para vir" },
+        { "hebraico": "בְּתֹ֧קֶף", "transliteral": "bə-ṯō-qep̄", "traducao_palavra": "com a força de" },
+        { "hebraico": "כָּל־מַלְכוּתֹ֛ו", "transliteral": "kāl-mal-ḵū-ṯô", "traducao_palavra": "todo o seu reino" },
+        { "hebraico": "וִישָׁרִ֥ים", "transliteral": "wî-šā-rîm", "traducao_palavra": "e termos de paz/acordo reto" },
+        { "hebraico": "עִמֹּ֖ו", "transliteral": "ʿim-mô", "traducao_palavra": "[fará] com ele" },
+        { "hebraico": "וְעָשָׂ֑ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e assim fará" },
+        { "hebraico": "וּבַ֤ת", "transliteral": "ū-ḇaṯ", "traducao_palavra": "e uma filha de" },
+        { "hebraico": "הַנָּשִׁים֙", "transliteral": "han-nā-šîm", "traducao_palavra": "mulheres" },
+        { "hebraico": "יִתֶּן־לֹ֣ו", "transliteral": "yit-ten-lô", "traducao_palavra": "dar-lhe-á" },
+        { "hebraico": "לְהַשְׁחִיתָ֔הּ", "transliteral": "lə-haš-ḥî-ṯāh", "traducao_palavra": "para a destruir/corromper" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "תַעֲמֹ֖ד", "transliteral": "ṯa-ʿă-mōḏ", "traducao_palavra": "subsistirá" },
+        { "hebraico": "וְלֹא־לֹ֥ו", "transliteral": "wə-lō-lô", "traducao_palavra": "e nem a ele" },
+        { "hebraico": "תִהְיֶֽה׃", "transliteral": "ṯih-yeh", "traducao_palavra": "pertencerá" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Depois virará o seu rosto para as ilhas, e tomará muitas; mas um magistrado fará cessar o seu opróbrio contra ele, e fará recair o opróbrio sobre ele.",
+      "palavras": [
+        { "hebraico": "וְיָשֵׂ֤ב", "transliteral": "wə-yā-śêḇ", "traducao_palavra": "e virará/dirigirá" },
+        { "hebraico": "פָּנָיו֙", "transliteral": "pā-nāyw", "traducao_palavra": "o seu rosto" },
+        { "hebraico": "לְאִיִּ֔ים", "transliteral": "lə-ʾî-yîm", "traducao_palavra": "para as ilhas/costas" },
+        { "hebraico": "וְלָכַ֖ד", "transliteral": "wə-lā-ḵaḏ", "traducao_palavra": "e tomará" },
+        { "hebraico": "רַבִּ֑ים", "transliteral": "rab-bîm", "traducao_palavra": "muitas" },
+        { "hebraico": "וְהִשְׁבִּ֨ית", "transliteral": "wə-hiš-bîṯ", "traducao_palavra": "mas fará cessar" },
+        { "hebraico": "קָצִ֤ין", "transliteral": "qā-ṣîn", "traducao_palavra": "um comandante/magistrado" },
+        { "hebraico": "חֶרְפָּתֹו֙", "transliteral": "ḥer-pā-ṯô", "traducao_palavra": "o seu opróbrio" },
+        { "hebraico": "לֹ֔ו", "transliteral": "lô", "traducao_palavra": "contra si" },
+        { "hebraico": "בִּלְתִּ֥י", "transliteral": "bil-tî", "traducao_palavra": "de modo que" },
+        { "hebraico": "חֶרְפָּתֹ֖ו", "transliteral": "ḥer-pā-ṯô", "traducao_palavra": "o seu ultraje" },
+        { "hebraico": "יָשִׁ֥יב", "transliteral": "yā-šîḇ", "traducao_palavra": "fará recair" },
+        { "hebraico": "לֹֽו׃", "transliteral": "lô", "traducao_palavra": "sobre ele" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Então virará o seu rosto para as fortalezas da sua própria terra; mas tropeçará, e cairá, e não será achado.",
+      "palavras": [
+        { "hebraico": "וְיָשֵׁ֧ב", "transliteral": "wə-yā-šêḇ", "traducao_palavra": "e virará" },
+        { "hebraico": "פָּנָ֛יו", "transliteral": "pā-nāyw", "traducao_palavra": "o seu rosto" },
+        { "hebraico": "לִמְעָוּזֵּ֖י", "transliteral": "lim-ʿā-ʿūz-zê", "traducao_palavra": "para as fortalezas de" },
+        { "hebraico": "אַרְצֹ֑ו", "transliteral": "ʾar-ṣô", "traducao_palavra": "sua terra" },
+        { "hebraico": "וְנִכְשַׁ֥ל", "transliteral": "wə-niḵ-šal", "traducao_palavra": "mas tropeçará" },
+        { "hebraico": "וְנָפַ֖ל", "transliteral": "wə-nā-p̄al", "traducao_palavra": "e cairá" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יִמָּצֵֽא׃", "transliteral": "yim-mā-ṣê", "traducao_palavra": "será achado" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E levantar-se-á em seu lugar um que fará passar um exator pela glória do reino; mas em poucos dias será destruído, e isso não em ira nem em batalha.",
+      "palavras": [
+        { "hebraico": "וְעָמַ֧ד", "transliteral": "wə-ʿā-maḏ", "traducao_palavra": "e levantar-se-á" },
+        { "hebraico": "עַל־כַּנֹּ֛ו", "transliteral": "ʿal-kan-nô", "traducao_palavra": "no seu lugar" },
+        { "hebraico": "מַעֲבִ֥יר", "transliteral": "ma-ʿă-ḇîr", "traducao_palavra": "um que faz passar" },
+        { "hebraico": "נֹוגֵ֖שׂ", "transliteral": "nô-ḡêś", "traducao_palavra": "um cobrador de tributos/exator" },
+        { "hebraico": "הֶ֣דֶר", "transliteral": "he-ḏer", "traducao_palavra": "pela glória de" },
+        { "hebraico": "מַלְכ֑וּת", "transliteral": "mal-ḵūṯ", "traducao_palavra": "o reino" },
+        { "hebraico": "וּבְיָמִ֤ים", "transliteral": "ū-ḇə-yā-mîm", "traducao_palavra": "e em dias" },
+        { "hebraico": "אֲחָדִים֙", "transliteral": "ʾă-ḥā-ḏîm", "traducao_palavra": "poucos" },
+        { "hebraico": "יִשָּׁבֵ֔ר", "transliteral": "yiš-šā-ḇêr", "traducao_palavra": "será destruído" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "בְאַפַּ֖יִם", "transliteral": "ḇə-ʾap-pa-yim", "traducao_palavra": "em ira/furor" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "nem" },
+        { "hebraico": "בְמִלְחָמָֽה׃", "transliteral": "ḇə-mil-ḥā-mā", "traducao_palavra": "em batalha" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Depois se levantará em seu lugar um homem vil, ao qual não tinham dado a majestade real; mas virá caladamente e tomará o reino com lisonjas.",
+      "palavras": [
+        { "hebraico": "וְעָמַ֤ד", "transliteral": "wə-ʿā-maḏ", "traducao_palavra": "e levantar-se-á" },
+        { "hebraico": "עַל־כַּנֹּו֙", "transliteral": "ʿal-kan-nô", "traducao_palavra": "em seu lugar" },
+        { "hebraico": "נִבְזֶ֔ה", "transliteral": "niḇ-zeh", "traducao_palavra": "um homem vil/desprezível" },
+        { "hebraico": "וְלֹא־נָתְנ֥וּ", "transliteral": "wə-lō-nā-ṯə-nû", "traducao_palavra": "ao qual não deram" },
+        { "hebraico": "עָלָ֖יו", "transliteral": "ʿā-lāyw", "traducao_palavra": "sobre ele" },
+        { "hebraico": "הֹ֣וד", "transliteral": "hôḏ", "traducao_palavra": "a majestade/honra de" },
+        { "hebraico": "מַלְכ֑וּת", "transliteral": "mal-ḵūṯ", "traducao_palavra": "o reino" },
+        { "hebraico": "וּבָ֣א", "transliteral": "ū-ḇā", "traducao_palavra": "mas virá" },
+        { "hebraico": "בְשַׁלְוָ֔ה", "transliteral": "ḇə-šal-wā", "traducao_palavra": "em tempo de paz/dissimuladamente" },
+        { "hebraico": "וְהֶחֱזִ֥יק", "transliteral": "wə-he-ḥĕ-zîq", "traducao_palavra": "e apoderar-se-á de" },
+        { "hebraico": "מַלְכ֖וּת", "transliteral": "mal-ḵûṯ", "traducao_palavra": "o reino" },
+        { "hebraico": "בַּחֲלַקְלַקֹּֽות׃", "transliteral": "ba-ḥă-laq-laq-qôṯ", "traducao_palavra": "com intrigas/lisonjas" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E com as forças de uma inundação serão varridos de diante dele, e serão quebrantados, como também o príncipe da aliança.",
+      "palavras": [
+        { "hebraico": "וּזְרֹעֹ֥ות", "transliteral": "ū-zə-rō-ʿôṯ", "traducao_palavra": "e os braços/forças de" },
+        { "hebraico": "הַשֶּׁ֛טֶף", "transliteral": "haš-še-ṭep̄", "traducao_palavra": "uma inundação" },
+        { "hebraico": "יִשָּׁטְפ֥וּ", "transliteral": "yiš-šā-ṭə-p̄û", "traducao_palavra": "serão varridos" },
+        { "hebraico": "מִלְּפָנָ֖יו", "transliteral": "mil-lə-p̄ā-nāyw", "traducao_palavra": "de diante dele" },
+        { "hebraico": "וְיִשָּׁבֵ֑רוּ", "transliteral": "wə-yiš-šā-ḇê-rû", "traducao_palavra": "e serão quebrantados" },
+        { "hebraico": "וְגַ֖ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "נְגִ֥יד", "transliteral": "nə-ḡîḏ", "traducao_palavra": "o príncipe de" },
+        { "hebraico": "בְּרִֽית׃", "transliteral": "bə-rîṯ", "traducao_palavra": "uma aliança" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E, depois da aliança feita com ele, usará de engano; e subirá, e se tornará forte com pouca gente.",
+      "palavras": [
+        { "hebraico": "וּמִן־הִתְחַבְּר֥וּת", "transliteral": "ū-min-hiṯ-ḥab-bə-rūṯ", "traducao_palavra": "e a partir da aliança com" },
+        { "hebraico": "אֵלָ֖יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "ele" },
+        { "hebraico": "יַעֲשֶׂ֣ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "usará de" },
+        { "hebraico": "מִרְמָ֑ה", "transliteral": "mir-mā", "traducao_palavra": "engano" },
+        { "hebraico": "וְעָלָ֥ה", "transliteral": "wə-ʿā-lā", "traducao_palavra": "e subirá" },
+        { "hebraico": "וְעָצַ֖ם", "transliteral": "wə-ʿā-ṣam", "traducao_palavra": "e se tornará poderoso" },
+        { "hebraico": "בִּמְעַט־גֹּֽוי׃", "transliteral": "bim-ʿaṭ-gôy", "traducao_palavra": "com pouca gente/nação" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Virá em paz até aos lugares mais férteis da província, e fará o que nunca fizeram seus pais, nem os pais de seus pais; repartirá entre eles a presa, e os despojos, e os bens; e maquinará os seus projetos contra as fortalezas, mas por um tempo.",
+      "palavras": [
+        { "hebraico": "בְּשַׁלְוָ֞ה", "transliteral": "bə-šal-wā", "traducao_palavra": "em tranquilidade/segurança" },
+        { "hebraico": "וּבְמִשְׁמַנֵּ֣י", "transliteral": "ū-ḇə-miš-man-nê", "traducao_palavra": "e sobre os lugares mais ricos de" },
+        { "hebraico": "מְדִינָה֮", "transliteral": "mə-ḏî-nā", "traducao_palavra": "a província" },
+        { "hebraico": "יָבֹוא֒", "transliteral": "yā-ḇô", "traducao_palavra": "entrará" },
+        { "hebraico": "וְעָשָׂ֗ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e fará" },
+        { "hebraico": "אֲשֶׁ֨ר", "transliteral": "ʾă-šer", "traducao_palavra": "o que" },
+        { "hebraico": "לֹא־עָשׂ֤וּ", "transliteral": "lō-ʿā-śû", "traducao_palavra": "não fizeram" },
+        { "hebraico": "אֲבֹתָיו֙", "transliteral": "ʾă-ḇō-ṯāyw", "traducao_palavra": "seus pais" },
+        { "hebraico": "וַאֲבֹ֣ות", "transliteral": "wa-ʾă-ḇôṯ", "traducao_palavra": "nem os pais de" },
+        { "hebraico": "אֲבֹתָ֔יו", "transliteral": "ʾă-ḇō-ṯāyw", "traducao_palavra": "seus pais" },
+        { "hebraico": "בִּזָּ֧ה", "transliteral": "biz-zā", "traducao_palavra": "presa" },
+        { "hebraico": "וְשָׁלָ֛ל", "transliteral": "wə-šā-lāl", "traducao_palavra": "e despojo" },
+        { "hebraico": "וּרְכ֥וּשׁ", "transliteral": "ū-rə-ḵūš", "traducao_palavra": "e bens" },
+        { "hebraico": "לָהֶ֖ם", "transliteral": "lā-hem", "traducao_palavra": "entre eles" },
+        { "hebraico": "יִבְזֹ֑ור", "transliteral": "yiḇ-zôr", "traducao_palavra": "distribuirá/espalhará" },
+        { "hebraico": "וְעַ֧ל", "transliteral": "wə-ʿal", "traducao_palavra": "e contra" },
+        { "hebraico": "מִבְצָרִ֛ים", "transliteral": "miḇ-ṣā-rîm", "traducao_palavra": "fortalezas" },
+        { "hebraico": "יְחַשֵּׁ֥ב", "transliteral": "yə-ḥaš-šêḇ", "traducao_palavra": "maquinará" },
+        { "hebraico": "מַחְשְׁבֹתָ֖יו", "transliteral": "maḥ-šə-ḇō-ṯāyw", "traducao_palavra": "os seus planos" },
+        { "hebraico": "וְעַד־עֵֽת׃", "transliteral": "wə-ʿaḏ-ʿêṯ", "traducao_palavra": "mas por um tempo determinado" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E suscitará a sua força e o seu coração contra o rei do sul com um grande exército; e o rei do sul sairá à peleja com um grande e mui poderoso exército; mas não subsistirá, porque maquinarão projetos contra ele.",
+      "palavras": [
+        { "hebraico": "וְיָעֵר֩", "transliteral": "wə-yā-ʿêr", "traducao_palavra": "e suscitará" },
+        { "hebraico": "כֹּחֹ֨ו", "transliteral": "kō-ḥô", "traducao_palavra": "o seu poder" },
+        { "hebraico": "וּלְבָבֹ֜ו", "transliteral": "ū-lə-ḇā-ḇô", "traducao_palavra": "e o seu coração" },
+        { "hebraico": "עַל־מֶ֣לֶךְ", "transliteral": "ʿal-me-leḵ", "traducao_palavra": "contra o rei de" },
+        { "hebraico": "הַנֶּגֶב֮", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "בְּחַ֣יִל", "transliteral": "bə-ḥa-yil", "traducao_palavra": "com um exército" },
+        { "hebraico": "גָּדֹול֒", "transliteral": "gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "וּמֶ֣לֶךְ", "transliteral": "ū-me-leḵ", "traducao_palavra": "e o rei de" },
+        { "hebraico": "הַנֶּ֗גֶב", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "יִתְגָּרֶה֙", "transliteral": "yiṯ-gā-reh", "traducao_palavra": "mobilizar-se-á" },
+        { "hebraico": "לַמִּלְחָמָ֔ה", "transliteral": "lam-mil-ḥā-mā", "traducao_palavra": "para a guerra" },
+        { "hebraico": "בְּחַֽיִל־גָּדֹ֥ול", "transliteral": "bə-ḥa-yil-gā-ḏôl", "traducao_palavra": "com exército grande" },
+        { "hebraico": "וְעָצ֖וּם", "transliteral": "wə-ʿā-ṣūm", "traducao_palavra": "e poderoso" },
+        { "hebraico": "עַד־מְאֹ֑ד", "transliteral": "ʿaḏ-mə-ʾōḏ", "traducao_palavra": "em extremo" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "יַעֲמֹ֔ד", "transliteral": "ya-ʿă-mōḏ", "traducao_palavra": "subsistirá" },
+        { "hebraico": "כִּֽי־יַחְשְׁב֥וּ", "transliteral": "kî-yaḥ-šə-ḇû", "traducao_palavra": "porque maquinarão" },
+        { "hebraico": "עָלָ֖יו", "transliteral": "ʿā-lāyw", "traducao_palavra": "contra ele" },
+        { "hebraico": "מַחֲשָׁבֹֽות׃", "transliteral": "ma-ḥă-šā-ḇôṯ", "traducao_palavra": "tramas/planos" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E os que comerem das suas iguarias o destruirão; e o exército dele se derramará como água, e cairão muitos traspassados.",
+      "palavras": [
+        { "hebraico": "וְאֹכְלֵ֧י", "transliteral": "wə-ʾō-ḵəlê", "traducao_palavra": "e os que comem de" },
+        { "hebraico": "פַת־בָּגֹ֛ו", "transliteral": "p̄aṯ-bā-ḡô", "traducao_palavra": "suas finas iguarias" },
+        { "hebraico": "יִשְׁבְּר֖וּהוּ", "transliteral": "yiš-bə-rū-hû", "traducao_palavra": "o destruirão" },
+        { "hebraico": "וְחֵילֹ֣ו", "transliteral": "wə-ḥê-lô", "traducao_palavra": "e o seu exército" },
+        { "hebraico": "יִשְׁטֹ֑וף", "transliteral": "yiš-ṭôp̄", "traducao_palavra": "será submergido/dispersado" },
+        { "hebraico": "וְנָפְל֖וּ", "transliteral": "wə-nā-p̄ə-lû", "traducao_palavra": "e cairão" },
+        { "hebraico": "חֲלָלִ֥ים", "transliteral": "ḥă-lā-lîm", "traducao_palavra": "feridos/mortos" },
+        { "hebraico": "רַבִּֽים׃", "transliteral": "rab-bîm", "traducao_palavra": "muitos" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Também estes dois reis terão o coração atento para fazerem o mal, e a uma mesma mesa falarão a mentira; ela, porém, não prosperará, porque o fim ainda virá no tempo determinado.",
+      "palavras": [
+        { "hebraico": "וּשְׁנֵיהֶ֤ם", "transliteral": "ū-šə-nê-hem", "traducao_palavra": "e ambos" },
+        { "hebraico": "הַמְּלָכִים֙", "transliteral": "ham-mə-lā-ḵîm", "traducao_palavra": "os reis [terão]" },
+        { "hebraico": "לְבָבָ֣ם", "transliteral": "lə-ḇā-ḇām", "traducao_palavra": "o seu coração [inclinado]" },
+        { "hebraico": "לְמֵרָ֔ע", "transliteral": "lə-mê-raʿ", "traducao_palavra": "para fazer o mal" },
+        { "hebraico": "וְעַל־שֻׁלְחָ֥ן", "transliteral": "wə-ʿal-šul-ḥān", "traducao_palavra": "e a uma mesa" },
+        { "hebraico": "אֶחָ֖ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "mesma/única" },
+        { "hebraico": "כָּזָ֣ב", "transliteral": "kā-zāḇ", "traducao_palavra": "mentiras" },
+        { "hebraico": "יְדַבֵּ֑רוּ", "transliteral": "yə-ḏab-bê-rû", "traducao_palavra": "falarão" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "תִצְלָ֔ח", "transliteral": "tiṣ-lāḥ", "traducao_palavra": "prosperará" },
+        { "hebraico": "כִּי־עֹ֥וד", "transliteral": "kî-ʿôḏ", "traducao_palavra": "porque ainda" },
+        { "hebraico": "קֵ֖ץ", "transliteral": "qêṣ", "traducao_palavra": "o fim [é]" },
+        { "hebraico": "לַמֹּועֵֽד׃", "transliteral": "lam-mô-ʿêḏ", "traducao_palavra": "para o tempo determinado" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Então tornará para a sua terra com grandes riquezas, e o seu coração será contra a santa aliança; e fará o que lhe aprouver, e tornará para a sua terra.",
+      "palavras": [
+        { "hebraico": "וְיָשֹׁ֤ב", "transliteral": "wə-yā-šōḇ", "traducao_palavra": "e tornará" },
+        { "hebraico": "אַרְצֹו֙", "transliteral": "ʾar-ṣô", "traducao_palavra": "para a sua terra" },
+        { "hebraico": "בִּרְכ֣וּשׁ", "transliteral": "bir-ḵūš", "traducao_palavra": "com bens/riquezas" },
+        { "hebraico": "גָּדֹ֔ול", "transliteral": "gā-ḏôl", "traducao_palavra": "grandes" },
+        { "hebraico": "וּלְבָבֹ֖ו", "transliteral": "ū-lə-ḇā-ḇô", "traducao_palavra": "e o seu coração [estará]" },
+        { "hebraico": "עַל־בְּרִ֣ית", "transliteral": "ʿal-bə-rîṯ", "traducao_palavra": "contra a aliança de" },
+        { "hebraico": "קֹ֑דֶשׁ", "transliteral": "qō-ḏeš", "traducao_palavra": "santidade" },
+        { "hebraico": "וְעָשָׂ֖ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e agirá/fará estragos" },
+        { "hebraico": "וְשָׁ֥ב", "transliteral": "wə-šāḇ", "traducao_palavra": "e voltará" },
+        { "hebraico": "לְאַרְצֹֽו׃", "transliteral": "lə-ʾar-ṣô", "traducao_palavra": "para a sua terra" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "No tempo determinado tornará e virá para o sul; mas não será na última vez como foi na primeira.",
+      "palavras": [
+        { "hebraico": "לַמֹּועֵ֥ד", "transliteral": "lam-mô-ʿêḏ", "traducao_palavra": "no tempo determinado" },
+        { "hebraico": "יָשׁ֖וּב", "transliteral": "yā-šūḇ", "traducao_palavra": "tornará" },
+        { "hebraico": "וּבָ֣א", "transliteral": "ū-ḇā", "traducao_palavra": "e virá" },
+        { "hebraico": "בַנֶּ֑גֶב", "transliteral": "ḇan-ne-ḡeḇ", "traducao_palavra": "para o sul" },
+        { "hebraico": "וְלֹֽא־תִהְיֶ֥ה", "transliteral": "wə-lō-ṯih-yeh", "traducao_palavra": "mas não será" },
+        { "hebraico": "כָרִאשֹׁנָ֖ה", "transliteral": "ḵā-ri-šō-nā", "traducao_palavra": "como na primeira" },
+        { "hebraico": "וְכָאַחֲרֹנָֽה׃", "transliteral": "wə-ḵā-ʾa-ḥă-rō-nā", "traducao_palavra": "nem como na última" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "Porque virão contra ele navios de Quitim, e ele se entristecerá; e tornará, e se indignará contra a santa aliança, e fará o que lhe aprouver; e tornará e atenderá aos que tiverem abandonado a santa aliança.",
+      "palavras": [
+        { "hebraico": "וּבָאוּ֩", "transliteral": "ū-ḇā-ʾû", "traducao_palavra": "porque virão" },
+        { "hebraico": "בֹ֨ו", "transliteral": "ḇô", "traducao_palavra": "contra ele" },
+        { "hebraico": "צִיִּ֤ים", "transliteral": "ṣî-yîm", "traducao_palavra": "navios de" },
+        { "hebraico": "כִּתִּים֙", "transliteral": "kit-tîm", "traducao_palavra": "Quitim" },
+        { "hebraico": "וְנִכְאָ֔ה", "transliteral": "wə-niḵ-ʾā", "traducao_palavra": "e desanimará/ficará abatido" },
+        { "hebraico": "וְשָׁ֛ב", "transliteral": "wə-šāḇ", "traducao_palavra": "e voltará" },
+        { "hebraico": "וְזָעַ֥ם", "transliteral": "wə-zā-ʿam", "traducao_palavra": "e se indignará" },
+        { "hebraico": "עַל־בְּרִֽית־קֹ֖ודֶשׁ", "transliteral": "ʿal-bə-rîṯ-qô-ḏeš", "traducao_palavra": "contra a santa aliança" },
+        { "hebraico": "וְעָשָׂ֑ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e agirá" },
+        { "hebraico": "וְשָׁ֣ב", "transliteral": "wə-šāḇ", "traducao_palavra": "e voltará" },
+        { "hebraico": "וְיָבֵ֔ן", "transliteral": "wə-yā-ḇên", "traducao_palavra": "e terá entendimento com" },
+        { "hebraico": "עַל־עֹזְבֵ֖י", "transliteral": "ʿal-ʿō-zə-ḇê", "traducao_palavra": "os que abandonam" },
+        { "hebraico": "בְּרִ֥ית", "transliteral": "bə-rîṯ", "traducao_palavra": "a aliança de" },
+        { "hebraico": "קֹֽדֶשׁ׃", "transliteral": "qō-ḏeš", "traducao_palavra": "santidade" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E tropas da sua parte se levantarão e profanarão o santuário, a fortaleza, e tirarão o sacrifício contínuo, estabelecendo a abominação desoladora.",
+      "palavras": [
+        { "hebraico": "וּזְרֹעִ֖ים", "transliteral": "ū-zə-rō-ʿîm", "traducao_palavra": "e forças/tropas" },
+        { "hebraico": "מִמֶּ֣נּוּ", "transliteral": "mim-men-nû", "traducao_palavra": "da sua parte" },
+        { "hebraico": "יַעֲמֹ֑דוּ", "transliteral": "ya-ʿă-mō-ḏû", "traducao_palavra": "se levantarão" },
+        { "hebraico": "וְחִלְּל֞וּ", "transliteral": "wə-ḥil-lə-lû", "traducao_palavra": "e profanarão" },
+        { "hebraico": "הַמִּקְדָּ֤שׁ", "transliteral": "ham-miq-dāš", "traducao_palavra": "o santuário" },
+        { "hebraico": "הַמָּעֹוז֙", "transliteral": "ham-mā-ʿôz", "traducao_palavra": "a fortaleza" },
+        { "hebraico": "וְהֵסִ֣ירוּ", "transliteral": "wə-hê-sî-rû", "traducao_palavra": "e tirarão" },
+        { "hebraico": "הַתָּמִ֔יד", "transliteral": "hat-tā-mîḏ", "traducao_palavra": "o [sacrifício] contínuo" },
+        { "hebraico": "וְנָתְנ֖וּ", "transliteral": "wə-nā-ṯə-nû", "traducao_palavra": "e estabelecerão" },
+        { "hebraico": "הַשִּׁקּ֥וּץ", "transliteral": "haš-šiq-qūṣ", "traducao_palavra": "a abominação" },
+        { "hebraico": "מְשֹׁמֵֽם׃", "transliteral": "mə-šō-mêm", "traducao_palavra": "desoladora" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "E aos violadores da aliança ele corromperá com lisonjas; mas o povo que conhece ao seu Deus se tornará forte e fará proezas.",
+      "palavras": [
+        { "hebraico": "וּמַרְשִׁיעֵ֥י", "transliteral": "ū-mar-šî-ʿê", "traducao_palavra": "e aos que agem impiamente contra" },
+        { "hebraico": "בְרִ֖ית", "transliteral": "bə-rîṯ", "traducao_palavra": "a aliança" },
+        { "hebraico": "יַחֲנִ֣יף", "transliteral": "ya-ḥă-nîp̄", "traducao_palavra": "ele corromperá" },
+        { "hebraico": "בַּחֲלַקֹּ֑ות", "transliteral": "ba-ḥă-laq-qôṯ", "traducao_palavra": "com lisonjas" },
+        { "hebraico": "וְעַ֛ם", "transliteral": "wə-ʿam", "traducao_palavra": "mas o povo de" },
+        { "hebraico": "יֹדְעֵ֥י", "transliteral": "yō-ḏə-ʿê", "traducao_palavra": "os que conhecem" },
+        { "hebraico": "אֱלֹהָ֖יו", "transliteral": "ʾĕ-lō-hāyw", "traducao_palavra": "ao seu Deus" },
+        { "hebraico": "יַחֲזִ֥קוּ", "transliteral": "ya-ḥă-zi-qû", "traducao_palavra": "se tornará forte" },
+        { "hebraico": "וְעָשֽׂוּ׃", "transliteral": "wə-ʿā-śû", "traducao_palavra": "e agirá/fará proezas" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "E os entendidos entre o povo instruirão a muitos; contudo cairão pela espada, e pelo fogo, pelo cativeiro e pelo despojo, por muitos dias.",
+      "palavras": [
+        { "hebraico": "וּמַשְׂכִּ֥ילֵי", "transliteral": "ū-maś-kî-lê", "traducao_palavra": "e os sábios/entendidos de" },
+        { "hebraico": "עָ֖ם", "transliteral": "ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "יָבִ֣ינוּ", "transliteral": "yā-ḇî-nû", "traducao_palavra": "darão entendimento" },
+        { "hebraico": "לָֽרַבִּ֑ים", "transliteral": "lā-rab-bîm", "traducao_palavra": "a muitos" },
+        { "hebraico": "וְנִכְשְׁל֞וּ", "transliteral": "wə-niḵ-šə-lû", "traducao_palavra": "mas cairão" },
+        { "hebraico": "בְּחֶ֧רֶב", "transliteral": "bə-ḥe-reḇ", "traducao_palavra": "pela espada" },
+        { "hebraico": "וּבְלֶהָבָ֛ה", "transliteral": "ū-ḇə-le-hā-ḇā", "traducao_palavra": "e pela chama" },
+        { "hebraico": "בִּשְׁבִ֥י", "transliteral": "biš-ḇî", "traducao_palavra": "pelo cativeiro" },
+        { "hebraico": "וּבְבִזָּ֖ה", "transliteral": "ū-ḇə-ḇiz-zā", "traducao_palavra": "e pelo saque/despojo" },
+        { "hebraico": "יָמִֽים׃", "transliteral": "yā-mîm", "traducao_palavra": "por dias" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "E, caindo eles, serão ajudados com pequeno socorro; mas muitos se ajuntarão a eles com lisonjas.",
+      "palavras": [
+        { "hebraico": "וּבְהִכָּשְׁלָ֔ם", "transliteral": "ū-ḇə-hik-kā-šə-lām", "traducao_palavra": "e ao caírem eles" },
+        { "hebraico": "יֵעָזְר֖וּ", "transliteral": "yê-ʿā-zə-rû", "traducao_palavra": "serão ajudados com" },
+        { "hebraico": "עֵ֣זֶר", "transliteral": "ʿê-zer", "traducao_palavra": "um socorro" },
+        { "hebraico": "מְעָ֑ט", "transliteral": "mə-ʿāṭ", "traducao_palavra": "pequeno" },
+        { "hebraico": "וְנִלְו֧וּ", "transliteral": "wə-nil-wû", "traducao_palavra": "e ajuntar-se-ão" },
+        { "hebraico": "עֲלֵיהֶ֛ם", "transliteral": "ʿă-lê-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "רַבִּ֖ים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "בַּחֲלַקְלַקֹּֽות׃", "transliteral": "ba-ḥă-laq-laq-qôṯ", "traducao_palavra": "com dissimulações/lisonjas" }
+      ]
+    },
+    "35": {
+      "traducao_completa": "E alguns dos entendidos cairão para serem provados, e purificados, e embranquecidos, até ao tempo do fim, porque será ainda para o tempo determinado.",
+      "palavras": [
+        { "hebraico": "וּמִן־הַמַּשְׂכִּילִ֣ים", "transliteral": "ū-min-ham-maś-kî-lîm", "traducao_palavra": "e dentre os entendidos" },
+        { "hebraico": "יִכָּֽשְׁל֗וּ", "transliteral": "yik-kā-šə-lû", "traducao_palavra": "cairão" },
+        { "hebraico": "לִצְרֹ֥וף", "transliteral": "liṣ-rôp̄", "traducao_palavra": "para serem refinados/provados" },
+        { "hebraico": "בָּהֶ֛ם", "transliteral": "bā-hem", "traducao_palavra": "entre eles" },
+        { "hebraico": "וּלְבָרֵ֥ר", "transliteral": "ū-lə-ḇā-rêr", "traducao_palavra": "e purificados" },
+        { "hebraico": "וְלַלְבֵּ֖ן", "transliteral": "wə-lal-bên", "traducao_palavra": "e embranquecidos" },
+        { "hebraico": "עַד־עֵ֣ת", "transliteral": "ʿaḏ-ʿêṯ", "traducao_palavra": "até ao tempo de" },
+        { "hebraico": "קֵ֑ץ", "transliteral": "qêṣ", "traducao_palavra": "o fim" },
+        { "hebraico": "כִּי־עֹ֖וד", "transliteral": "kî-ʿôḏ", "traducao_palavra": "porque [é] ainda" },
+        { "hebraico": "לַמֹּועֵֽד׃", "transliteral": "lam-mô-ʿêḏ", "traducao_palavra": "para o tempo determinado" }
+      ]
+    },
+    "36": {
+      "traducao_completa": "E o rei fará segundo a sua vontade, e se levantará, e se engrandecerá sobre todo deus; e contra o Deus dos deuses falará coisas espantosas, e prosperará, até que a indignação se complete; porque aquilo que está determinado será feito.",
+      "palavras": [
+        { "hebraico": "וְעָשָׂ֨ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e fará" },
+        { "hebraico": "כִרְצֹונֹ֜ו", "transliteral": "ḵir-ṣô-nô", "traducao_palavra": "segundo a sua vontade" },
+        { "hebraico": "הַמֶּ֗לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וְיִתְרֹומֵ֤ם", "transliteral": "wə-yiṯ-rô-mêm", "traducao_palavra": "e se exaltará" },
+        { "hebraico": "וְיִתְגַּדֵּל֙", "transliteral": "wə-yiṯ-gad-dêl", "traducao_palavra": "e se engrandecerá" },
+        { "hebraico": "עַל־כָּל־אֵ֔ל", "transliteral": "ʿal-kāl-ʾêl", "traducao_palavra": "sobre todo deus" },
+        { "hebraico": "וְעַל֙", "transliteral": "wə-ʿal", "traducao_palavra": "e contra" },
+        { "hebraico": "אֵ֣ל", "transliteral": "ʾêl", "traducao_palavra": "o Deus de" },
+        { "hebraico": "אֵלִ֔ים", "transliteral": "ʾê-lîm", "traducao_palavra": "os deuses" },
+        { "hebraico": "יְדַבֵּ֖ר", "transliteral": "yə-ḏab-bêr", "traducao_palavra": "falará" },
+        { "hebraico": "נִפְלָאֹ֑ות", "transliteral": "nip̄-lā-ʾôṯ", "traducao_palavra": "coisas espantosas/blasfêmias" },
+        { "hebraico": "וְהִצְלִ֙יחַ֙", "transliteral": "wə-hiṣ-lî-aḥ", "traducao_palavra": "e prosperará" },
+        { "hebraico": "עַד־כָּ֣לָה", "transliteral": "ʿaḏ-kā-lā", "traducao_palavra": "até que se complete" },
+        { "hebraico": "זַ֔עַם", "transliteral": "za-ʿam", "traducao_palavra": "a indignação" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "נֶחֱרָצָ֖ה", "transliteral": "ne-ḥĕ-rā-ṣā", "traducao_palavra": "o que está determinado" },
+        { "hebraico": "נֶעֱשָֽׂתָה׃", "transliteral": "ne-ʿĕ-śā-ṯā", "traducao_palavra": "será cumprido" }
+      ]
+    },
+    "37": {
+      "traducao_completa": "E não terá consideração para com os deuses de seus pais, nem para com o desejo de mulheres, nem para com qualquer deus; porque sobre tudo se engrandecerá.",
+      "palavras": [
+        { "hebraico": "וְעַל־אֱלֹהֵ֤י", "transliteral": "wə-ʿal-ʾĕ-lō-hê", "traducao_palavra": "e aos deuses de" },
+        { "hebraico": "אֲבֹתָיו֙", "transliteral": "ʾă-ḇō-ṯāyw", "traducao_palavra": "seus pais" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָבִ֔ין", "transliteral": "yā-ḇîn", "traducao_palavra": "terá consideração" },
+        { "hebraico": "וְעַל־חֶמְדַּ֥ת", "transliteral": "wə-ʿal-ḥem-daṯ", "traducao_palavra": "nem ao desejo de" },
+        { "hebraico": "נָשִׁ֛ים", "transliteral": "nā-šîm", "traducao_palavra": "mulheres" },
+        { "hebraico": "וְעַֽל־כָּל־אֱלֹ֖והַּ", "transliteral": "wə-ʿal-kāl-ʾĕ-lô-ah", "traducao_palavra": "nem a qualquer deus" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָבִ֑ין", "transliteral": "yā-ḇîn", "traducao_palavra": "atentará" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "עַל־כֹּ֖ל", "transliteral": "ʿal-kōl", "traducao_palavra": "sobre tudo" },
+        { "hebraico": "יִתְגַּדָּֽל׃", "transliteral": "yiṯ-gad-dāl", "traducao_palavra": "se engrandecerá" }
+      ]
+    },
+    "38": {
+      "traducao_completa": "Mas, em seu lugar, honrará o deus das fortalezas; e a um deus a quem seus pais não conheceram, honrará com ouro, com prata, com pedras preciosas e com coisas agradáveis.",
+      "palavras": [
+        { "hebraico": "וְלֶאֱלֹ֜הַּ", "transliteral": "wə-le-ʾĕ-lō-ah", "traducao_palavra": "mas ao deus de" },
+        { "hebraico": "מָֽעֻזִּ֗ים", "transliteral": "mā-ʿuz-zîm", "traducao_palavra": "fortalezas" },
+        { "hebraico": "עַל־כַּנֹּו֙", "transliteral": "ʿal-kan-nô", "traducao_palavra": "no seu lugar" },
+        { "hebraico": "יְכַבֵּ֑ד", "transliteral": "yə-ḵab-bêḏ", "traducao_palavra": "honrará" },
+        { "hebraico": "וְלֶאֱלֹ֜והַּ", "transliteral": "wə-le-ʾĕ-lô-ah", "traducao_palavra": "e a um deus" },
+        { "hebraico": "אֲשֶׁ֧ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹא־יְדָעֻ֣הוּ", "transliteral": "lō-yə-ḏā-ʿu-hû", "traducao_palavra": "não o conheceram" },
+        { "hebraico": "אֲבֹתָ֗יו", "transliteral": "ʾă-ḇō-ṯāyw", "traducao_palavra": "seus pais" },
+        { "hebraico": "יְכַבֵּ֛ד", "transliteral": "yə-ḵab-bêḏ", "traducao_palavra": "honrará" },
+        { "hebraico": "בְּזָהָ֥ב", "transliteral": "bə-zā-hāḇ", "traducao_palavra": "com ouro" },
+        { "hebraico": "וּבְכֶ֛סֶף", "transliteral": "ū-ḇə-ḵe-sep̄", "traducao_palavra": "e com prata" },
+        { "hebraico": "וּבְאֶ֥בֶן", "transliteral": "ū-ḇə-ʾe-ḇen", "traducao_palavra": "e com pedra" },
+        { "hebraico": "יְקָרָ֖ה", "transliteral": "yə-qā-rā", "traducao_palavra": "preciosa" },
+        { "hebraico": "וּבַחֲמֻדֹֽות׃", "transliteral": "ū-ḇa-ḥă-mu-ḏôṯ", "traducao_palavra": "e com coisas desejáveis/ricas" }
+      ]
+    },
+    "39": {
+      "traducao_completa": "E agirá contra as fortalezas mais fortes com o auxílio de um deus estranho; aos que o reconhecerem multiplicará a honra, e os fará dominar sobre muitos, e repartirá a terra por preço.",
+      "palavras": [
+        { "hebraico": "וְעָשָׂ֞ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e agirá" },
+        { "hebraico": "לְמִבְצְרֵ֤י", "transliteral": "lə-miḇ-ṣə-rê", "traducao_palavra": "contra as fortalezas de" },
+        { "hebraico": "מָֽעֻזִּים֙", "transliteral": "mā-ʿuz-zîm", "traducao_palavra": "defesas fortes" },
+        { "hebraico": "עִם־אֱלֹ֣והַּ", "transliteral": "ʿim-ʾĕ-lô-ah", "traducao_palavra": "com um deus" },
+        { "hebraico": "נֵכָ֔ר", "transliteral": "nê-ḵār", "traducao_palavra": "estranho" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "aos que" },
+        { "hebraico": "הִכִּ֛יר", "transliteral": "hik-kîr", "traducao_palavra": "[o] reconhecerem" },
+        { "hebraico": "יַרְבֶּ֥ה", "transliteral": "yar-beh", "traducao_palavra": "multiplicará" },
+        { "hebraico": "כָבֹ֖וד", "transliteral": "ḵā-ḇôḏ", "traducao_palavra": "glória/honra" },
+        { "hebraico": "וְהִמְשִׁילָם֙", "transliteral": "wə-him-šî-lām", "traducao_palavra": "e os fará governar" },
+        { "hebraico": "בָּֽרַבִּ֔ים", "transliteral": "bā-rab-bîm", "traducao_palavra": "sobre muitos" },
+        { "hebraico": "וַאֲדָמָ֖ה", "transliteral": "wa-ʾă-ḏā-mā", "traducao_palavra": "e a terra" },
+        { "hebraico": "יְחַלֵּ֥ק", "transliteral": "yə-ḥal-lêq", "traducao_palavra": "repartirá" },
+        { "hebraico": "בִּמְחִֽיר׃", "transliteral": "bim-ḥîr", "traducao_palavra": "por preço/recompensa" }
+      ]
+    },
+    "40": {
+      "traducao_completa": "E, no tempo do fim, o rei do sul contenderá com ele, e o rei do norte virá contra ele como tempestade, com carros, e com cavaleiros, e com muitos navios; e entrará nas terras, e as inundará, e passará adiante.",
+      "palavras": [
+        { "hebraico": "וּבְעֵ֣ת", "transliteral": "ū-ḇə-ʿêṯ", "traducao_palavra": "e no tempo de" },
+        { "hebraico": "קֵ֗ץ", "transliteral": "qêṣ", "traducao_palavra": "o fim" },
+        { "hebraico": "יִתְנַגַּ֤ח", "transliteral": "yiṯ-nag-gaḥ", "traducao_palavra": "contenderá" },
+        { "hebraico": "עִמֹּו֙", "transliteral": "ʿim-mô", "traducao_palavra": "com ele" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַנֶּ֔גֶב", "transliteral": "han-ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "וְיִשְׂתָּעֵ֨ר", "transliteral": "wə-yiś-tā-ʿêr", "traducao_palavra": "e arremeterá como tempestade" },
+        { "hebraico": "עָלָ֜יו", "transliteral": "ʿā-lāyw", "traducao_palavra": "contra ele" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "הַצָּפֹ֗ון", "transliteral": "haṣ-ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "בְּרֶ֙כֶב֙", "transliteral": "bə-re-ḵeḇ", "traducao_palavra": "com carros" },
+        { "hebraico": "וּבְפָ֣רָשִׁ֔ים", "transliteral": "ū-ḇə-p̄ā-rā-šîm", "traducao_palavra": "e com cavaleiros" },
+        { "hebraico": "וּבָאֳנִיֹּ֖ות", "transliteral": "ū-ḇā-ʾo-nî-yôṯ", "traducao_palavra": "e com navios" },
+        { "hebraico": "רַבֹּ֑ות", "transliteral": "rab-bôṯ", "traducao_palavra": "muitos" },
+        { "hebraico": "וּבָ֥א", "transliteral": "ū-ḇā", "traducao_palavra": "e entrará" },
+        { "hebraico": "בַאֲרָצֹֹ֖ות", "transliteral": "ḇa-ʾă-rā-ṣôṯ", "traducao_palavra": "nas terras" },
+        { "hebraico": "וְשָׁטַ֥ף", "transliteral": "wə-šā-ṭap̄", "traducao_palavra": "e inundará" },
+        { "hebraico": "וְעָבָֽר׃", "transliteral": "wə-ʿā-ḇār", "traducao_palavra": "e passará adiante" }
+      ]
+    },
+    "41": {
+      "traducao_completa": "Entrará também na terra formosa, e muitas terras cairão; mas estas escaparão da sua mão: Edom, e Moabe, e as primícias dos filhos de Amom.",
+      "palavras": [
+        { "hebraico": "וּבָא֙", "transliteral": "ū-ḇā", "traducao_palavra": "e entrará" },
+        { "hebraico": "בְּאֶ֣רֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra de" },
+        { "hebraico": "הַצְּבִ֔י", "transliteral": "haṣ-ṣə-ḇî", "traducao_palavra": "a formosura/glória" },
+        { "hebraico": "וְרַבֹּ֖ות", "transliteral": "wə-rab-bôṯ", "traducao_palavra": "e muitas [terras]" },
+        { "hebraico": "יִכָּשֵׁ֑לוּ", "transliteral": "yik-kā-šê-lû", "traducao_palavra": "cairão/tropeçarão" },
+        { "hebraico": "וְאֵ֙לֶּה֙", "transliteral": "wə-ʾêl-leh", "traducao_palavra": "mas estas" },
+        { "hebraico": "יִמָּלְט֣וּ", "transliteral": "yim-mā-lə-ṭû", "traducao_palavra": "escaparão" },
+        { "hebraico": "מִיָּדֹ֔ו", "transliteral": "mî-yā-ḏô", "traducao_palavra": "da sua mão:" },
+        { "hebraico": "אֱדֹ֣ום", "transliteral": "ʾĕ-ḏôm", "traducao_palavra": "Edom" },
+        { "hebraico": "וּמֹואָ֔ב", "transliteral": "ū-mô-ʾāḇ", "traducao_palavra": "e Moabe" },
+        { "hebraico": "וְרֵאשִׁ֖ית", "transliteral": "wə-rê-šîṯ", "traducao_palavra": "e os principais de/as primícias de" },
+        { "hebraico": "בְּנֵ֥י", "transliteral": "bə-nê", "traducao_palavra": "filhos de" },
+        { "hebraico": "עַמֹּֽון׃", "transliteral": "ʿam-môn", "traducao_palavra": "Amom" }
+      ]
+    },
+    "42": {
+      "traducao_completa": "E estenderá a sua mão contra as terras, e a terra do Egito não escapará.",
+      "palavras": [
+        { "hebraico": "וְיִשְׁלַ֥ח", "transliteral": "wə-yiš-laḥ", "traducao_palavra": "e estenderá" },
+        { "hebraico": "יָדֹ֖ו", "transliteral": "yā-ḏô", "traducao_palavra": "a sua mão" },
+        { "hebraico": "בַּאֲרָצֹ֑ות", "transliteral": "ba-ʾă-rā-ṣôṯ", "traducao_palavra": "contra as terras" },
+        { "hebraico": "וְאֶ֣רֶץ", "transliteral": "wə-ʾe-reṣ", "traducao_palavra": "e a terra de" },
+        { "hebraico": "מִצְרַ֔יִם", "transliteral": "miṣ-ra-yim", "traducao_palavra": "Egito" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תִהְיֶ֖ה", "transliteral": "ṯih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "לִפְלֵיטָֽה׃", "transliteral": "lip̄-lê-ṭā", "traducao_palavra": "para escape/não escapará" }
+      ]
+    },
+    "43": {
+      "traducao_completa": "E apoderar-se-á dos tesouros de ouro e de prata e de todas as coisas preciosas do Egito; e os líbios e os etíopes o seguirão.",
+      "palavras": [
+        { "hebraico": "וּמָשַׁ֗ל", "transliteral": "ū-mā-šal", "traducao_palavra": "e apoderar-se-á de/dominará" },
+        { "hebraico": "בְּמִכְמַנֵּי֙", "transliteral": "bə-miḵ-man-nê", "traducao_palavra": "os tesouros ocultos de" },
+        { "hebraico": "הַזָּהָ֣ב", "transliteral": "haz-zā-hāḇ", "traducao_palavra": "ouro" },
+        { "hebraico": "וְהַכֶּ֔סֶף", "transliteral": "wə-hak-ke-sep̄", "traducao_palavra": "e prata" },
+        { "hebraico": "וּבְכֹ֖ל", "transliteral": "ū-ḇə-ḵōl", "traducao_palavra": "e de todas" },
+        { "hebraico": "חֲמֻדֹ֣ות", "transliteral": "ḥă-mu-ḏôṯ", "traducao_palavra": "as coisas preciosas de" },
+        { "hebraico": "מִצְרָ֑יִם", "transliteral": "miṣ-rā-yim", "traducao_palavra": "Egito" },
+        { "hebraico": "וְלֻבִ֥ים", "transliteral": "wə-lu-ḇîm", "traducao_palavra": "e líbios" },
+        { "hebraico": "וְכֻשִׁ֖ים", "transliteral": "wə-ḵu-šîm", "traducao_palavra": "e etíopes" },
+        { "hebraico": "בְּמִצְעָדָֽיו׃", "transliteral": "bə-miṣ-ʿā-ḏāyw", "traducao_palavra": "[estarão] nos seus passos/no seu séquito" }
+      ]
+    },
+    "44": {
+      "traducao_completa": "Mas os rumores do oriente e do norte o espantarão; e sairá com grande furor, para destruir e extirpar a muitos.",
+      "palavras": [
+        { "hebraico": "וּשְׁמֻעֹ֣ות", "transliteral": "ū-šə-mu-ʿôṯ", "traducao_palavra": "mas rumores" },
+        { "hebraico": "יְבַהֲלֻ֔הוּ", "transliteral": "yə-ḇa-hă-lu-hû", "traducao_palavra": "o espantarão/perturbarão" },
+        { "hebraico": "מִמִּזְרָ֖ח", "transliteral": "mim-miz-rāḥ", "traducao_palavra": "do oriente" },
+        { "hebraico": "וּמִצָּפֹ֑ון", "transliteral": "ū-miṣ-ṣā-p̄ôn", "traducao_palavra": "e do norte" },
+        { "hebraico": "וְיָצָא֙", "transliteral": "wə-yā-ṣā", "traducao_palavra": "e sairá" },
+        { "hebraico": "בְּחֵמָ֣א", "transliteral": "bə-ḥê-mā", "traducao_palavra": "com fúria" },
+        { "hebraico": "גְדֹלָ֔ה", "transliteral": "gə-ḏō-lā", "traducao_palavra": "grande" },
+        { "hebraico": "לְהַשְׁמִ֥יד", "transliteral": "lə-haš-mîḏ", "traducao_palavra": "para destruir" },
+        { "hebraico": "וּֽלְהַחֲרִ֖ים", "transliteral": "ū-lə-ha-ḥă-rîm", "traducao_palavra": "e para aniquilar totalmente" },
+        { "hebraico": "רַבִּֽים׃", "transliteral": "rab-bîm", "traducao_palavra": "a muitos" }
+      ]
+    },
+    "45": {
+      "traducao_completa": "E armará as tendas do seu palácio entre o mar e o monte santo e formoso; mas chegará ao seu fim, e não haverá quem o socorra.",
+      "palavras": [
+        { "hebraico": "וְיִטַּע֙", "transliteral": "wə-yiṭ-ṭaʿ", "traducao_palavra": "e armará/plantará" },
+        { "hebraico": "אָהֳלֵ֣י", "transliteral": "ʾā-hŏ-lê", "traducao_palavra": "as tendas de" },
+        { "hebraico": "אַפַּדְנֹ֔ו", "transliteral": "ʾap-paḏ-nô", "traducao_palavra": "seu palácio" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "יַמִּ֖ים", "transliteral": "yam-mîm", "traducao_palavra": "os mares [e]" },
+        { "hebraico": "לְהַר־צְבִֽי־קֹ֑דֶשׁ", "transliteral": "lə-har-ṣə-ḇî-qō-ḏeš", "traducao_palavra": "o monte da formosura da santidade" },
+        { "hebraico": "וּבָא֙", "transliteral": "ū-ḇā", "traducao_palavra": "mas virá" },
+        { "hebraico": "עַד־קִצֹּ֔ו", "transliteral": "ʿaḏ-qiṣ-ṣô", "traducao_palavra": "até ao seu fim" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não haverá" },
+        { "hebraico": "עֹוזֵ֖ר", "transliteral": "ʿô-zêr", "traducao_palavra": "quem o socorra" },
+        { "hebraico": "לֹֽו׃", "transliteral": "lô", "traducao_palavra": "a ele" }
+      ]
+    }
+  }
 }

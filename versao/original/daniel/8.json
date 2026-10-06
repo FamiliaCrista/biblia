@@ -1,6 +1,476 @@
 {
-  "livro": "Daniel - דָּנִיֵּאל - Daniyyel",
+  "livro": "Daniel - דָּנִיֵּאל - Dāniyyēʾl",
   "capítulo": 8,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "No terceiro ano do reinado do rei Belsazar, apareceu-me uma visão, a mim, Daniel, depois daquela que me apareceu no princípio.",
+      "palavras": [
+        { "hebraico": "בִּשְׁנַ֣ת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano de" },
+        { "hebraico": "שָׁלֹ֔ושׁ", "transliteral": "šā-lôš", "traducao_palavra": "três [terceiro]" },
+        { "hebraico": "לְמַלְכ֖וּת", "transliteral": "lə-mal-ḵûṯ", "traducao_palavra": "do reinado de" },
+        { "hebraico": "בֵּלְאשַׁצַּ֣ר", "transliteral": "bêl-ʾa-šaṣ-ṣar", "traducao_palavra": "Belsazar" },
+        { "hebraico": "הַמֶּ֑לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "חָזֹ֨ון", "transliteral": "ḥā-zôn", "traducao_palavra": "uma visão" },
+        { "hebraico": "נִרְאָ֤ה", "transliteral": "nir-ʾā", "traducao_palavra": "apareceu" },
+        { "hebraico": "אֵלַי֙", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "דָנִיֵּ֔אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "אַחֲרֵ֛י", "transliteral": "ʾa-ḥă-rê", "traducao_palavra": "depois de" },
+        { "hebraico": "הַנִּרְאָ֥ה", "transliteral": "han-nir-ʾā", "traducao_palavra": "aquela que apareceu" },
+        { "hebraico": "אֵלַ֖י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בַּתְּחִלָּֽה׃", "transliteral": "bat-tə-ḥil-lā", "traducao_palavra": "no princípio" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E vi na visão; e aconteceu que, quando vi, eu estava na cidadela de Susã, na província de Elão; e vi na visão que eu estava junto ao rio Ulai.",
+      "palavras": [
+        { "hebraico": "וָאֶרְאֶה֮", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e vi" },
+        { "hebraico": "בֶּחָזֹון֒", "transliteral": "be-ḥā-zôn", "traducao_palavra": "na visão" },
+        { "hebraico": "וַיְהִי֙", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בִּרְאֹתִ֔י", "transliteral": "bir-ʾō-ṯî", "traducao_palavra": "quando vi" },
+        { "hebraico": "וַאֲנִי֙", "transliteral": "wa-ʾă-nî", "traducao_palavra": "que eu [estava]" },
+        { "hebraico": "בְּשׁוּשַׁ֣ן", "transliteral": "bə-šû-šan", "traducao_palavra": "em Susã" },
+        { "hebraico": "הַבִּירָ֔ה", "transliteral": "hab-bî-rā", "traducao_palavra": "a cidadela/capital" },
+        { "hebraico": "אֲשֶׁ֖ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [está]" },
+        { "hebraico": "בְּעֵילָ֣ם", "transliteral": "bə-ʿê-lām", "traducao_palavra": "em Elão" },
+        { "hebraico": "הַמְּדִינָ֑ה", "transliteral": "ham-mə-ḏî-nā", "traducao_palavra": "a província" },
+        { "hebraico": "וָאֶרְאֶה֙", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e vi" },
+        { "hebraico": "בֶּֽחָזֹ֔ון", "transliteral": "be-ḥā-zôn", "traducao_palavra": "na visão" },
+        { "hebraico": "וַאֲנִ֥י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "הָיִ֖יתִי", "transliteral": "hā-yî-ṯî", "traducao_palavra": "estava" },
+        { "hebraico": "עַל־אוּבַ֥ל", "transliteral": "ʿal-ʾū-ḇal", "traducao_palavra": "junto ao rio/canal de" },
+        { "hebraico": "אוּלָֽי׃", "transliteral": "ʾū-lāy", "traducao_palavra": "Ulai" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E levantei os meus olhos e vi, e eis que um carneiro estava em pé diante do rio, o qual tinha dois chifres; e os dois chifres eram altos, mas um era mais alto do que o outro, e o mais alto subiu por último.",
+      "palavras": [
+        { "hebraico": "וָאֶשָּׂ֨א", "transliteral": "wā-ʾeś-śā", "traducao_palavra": "e levantei" },
+        { "hebraico": "עֵינַ֜י", "transliteral": "ʿê-nay", "traducao_palavra": "os meus olhos" },
+        { "hebraico": "וָאֶרְאֶ֗ה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e vi" },
+        { "hebraico": "וְהִנֵּ֨ה", "transliteral": "wə-hin-nêh", "traducao_palavra": "e eis que" },
+        { "hebraico": "אַ֥יִל", "transliteral": "ʾa-yil", "traducao_palavra": "um carneiro" },
+        { "hebraico": "אֶחָ֛ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "um" },
+        { "hebraico": "עֹמֵ֥ד", "transliteral": "ʿō-mêḏ", "traducao_palavra": "estava em pé" },
+        { "hebraico": "לִפְנֵֽי־הָאֻבָ֖ל", "transliteral": "lip̄-nê-hā-ʾu-ḇāl", "traducao_palavra": "diante do rio" },
+        { "hebraico": "וְלֹ֣ו", "transliteral": "wə-lô", "traducao_palavra": "e tinha" },
+        { "hebraico": "קְרָנָ֑יִם", "transliteral": "qə-rā-na-yim", "traducao_palavra": "dois chifres" },
+        { "hebraico": "וְהַקְּרָנַ֣יִם", "transliteral": "wə-haq-qə-rā-na-yim", "traducao_palavra": "e os chifres [eram]" },
+        { "hebraico": "גְּבֹהֹ֗ות", "transliteral": "gə-ḇō-hôṯ", "traducao_palavra": "altos" },
+        { "hebraico": "וְהָאַחַ֞ת", "transliteral": "wə-hā-ʾa-ḥaṯ", "traducao_palavra": "mas o um" },
+        { "hebraico": "גְּבֹהָ֣ה", "transliteral": "gə-ḇō-hā", "traducao_palavra": "[era] mais alto" },
+        { "hebraico": "מִן־הַשֵּׁנִ֗ית", "transliteral": "min-haš-šê-nîṯ", "traducao_palavra": "do que o outro" },
+        { "hebraico": "וְהַגְּבֹהָ֖ה", "transliteral": "wə-hag-gə-ḇō-hā", "traducao_palavra": "e o mais alto" },
+        { "hebraico": "עֹלָ֥ה", "transliteral": "ʿō-lā", "traducao_palavra": "subiu" },
+        { "hebraico": "בָאַחֲרֹנָֽה׃", "transliteral": "bā-ʾa-ḥă-rō-nā", "traducao_palavra": "por último" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Vi que o carneiro dava marradas para o ocidente, para o norte e para o sul; e nenhum animal podia resistir-lhe, nem havia quem pudesse livrar da sua mão; e ele fazia conforme a sua vontade e se engrandecia.",
+      "palavras": [
+        { "hebraico": "רָאִ֣יתִי", "transliteral": "rā-ʾî-ṯî", "traducao_palavra": "vi" },
+        { "hebraico": "אֶת־הָאַ֡יִל", "transliteral": "ʾeṯ-hā-ʾa-yil", "traducao_palavra": "o carneiro" },
+        { "hebraico": "מְנַגֵּחַ֩", "transliteral": "mə-nag-gê-aḥ", "traducao_palavra": "dando marradas" },
+        { "hebraico": "יָ֨מָּה", "transliteral": "yām-mā", "traducao_palavra": "para o ocidente" },
+        { "hebraico": "וְצָפֹ֜ונָה", "transliteral": "wə-ṣā-p̄ô-nā", "traducao_palavra": "e para o norte" },
+        { "hebraico": "וְנֶ֗גְבָּה", "transliteral": "wə-neḡ-bā", "traducao_palavra": "e para o sul" },
+        { "hebraico": "וְכָל־חַיֹּות֙", "transliteral": "wə-ḵāl-ḥay-yôṯ", "traducao_palavra": "e nenhuns animais" },
+        { "hebraico": "לֹֽא־יַעַמְד֣וּ", "transliteral": "lō-ya-ʿam-ḏû", "traducao_palavra": "podiam ficar em pé" },
+        { "hebraico": "לְפָנָ֔יו", "transliteral": "lə-p̄ā-nāyw", "traducao_palavra": "diante dele" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não havia" },
+        { "hebraico": "מַצִּ֖יל", "transliteral": "maṣ-ṣîl", "traducao_palavra": "quem livrasse" },
+        { "hebraico": "מִיָּדֹ֑ו", "transliteral": "mî-yā-ḏô", "traducao_palavra": "da sua mão" },
+        { "hebraico": "וְעָשָׂ֥ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e fazia" },
+        { "hebraico": "כִרְצֹנֹ֖ו", "transliteral": "ḵir-ṣō-nô", "traducao_palavra": "conforme a sua vontade" },
+        { "hebraico": "וְהִגְדִּֽיל׃", "transliteral": "wə-hiḡ-dîl", "traducao_palavra": "e se engrandecia" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E, estando eu considerando, eis que um bode vinha do ocidente sobre a face de toda a terra, sem tocar no chão; e aquele bode tinha um chifre notável entre os olhos.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֣י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "הָיִ֣יתִי", "transliteral": "hā-yî-ṯî", "traducao_palavra": "estava" },
+        { "hebraico": "מֵבִ֗ין", "transliteral": "mê-ḇîn", "traducao_palavra": "considerando/compreendendo" },
+        { "hebraico": "וְהִנֵּ֤ה", "transliteral": "wə-hin-nêh", "traducao_palavra": "e eis que" },
+        { "hebraico": "צְפִיר־הָֽעִזִּים֙", "transliteral": "ṣə-p̄îr-hā-ʿiz-zîm", "traducao_palavra": "um bode" },
+        { "hebraico": "בָּ֤א", "transliteral": "bā", "traducao_palavra": "vinha" },
+        { "hebraico": "מִן־הַֽמַּעֲרָב֙", "transliteral": "min-ham-ma-ʿă-rāḇ", "traducao_palavra": "do ocidente" },
+        { "hebraico": "עַל־פְּנֵ֣י", "transliteral": "ʿal-pə-nê", "traducao_palavra": "sobre a face de" },
+        { "hebraico": "כָל־הָאָ֔רֶץ", "transliteral": "kāl-hā-ʾā-reṣ", "traducao_palavra": "toda a terra" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não estava" },
+        { "hebraico": "נֹוגֵ֖עַ", "transliteral": "nô-ḡê-aʿ", "traducao_palavra": "tocando" },
+        { "hebraico": "בָּאָ֑רֶץ", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "na terra" },
+        { "hebraico": "וְהַצָּפִ֕יר", "transliteral": "wə-haṣ-ṣā-p̄îr", "traducao_palavra": "e o bode [tinha]" },
+        { "hebraico": "קֶ֥רֶן", "transliteral": "qe-ren", "traducao_palavra": "um chifre de" },
+        { "hebraico": "חָז֖וּת", "transliteral": "ḥā-zūṯ", "traducao_palavra": "notabilidade/aparência conspícua" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "עֵינָֽיו׃", "transliteral": "ʿê-nāyw", "traducao_palavra": "os seus olhos" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E veio até ao carneiro possuidor dos dois chifres, que eu tinha visto em pé diante do rio, e correu contra ele com todo o ímpeto da sua força.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹ֗א", "transliteral": "way-yā-ḇō", "traducao_palavra": "e veio" },
+        { "hebraico": "עַד־הָאַ֙יִל֙", "transliteral": "ʿaḏ-hā-ʾa-yil", "traducao_palavra": "até o carneiro" },
+        { "hebraico": "בַּ֣עַל", "transliteral": "ba-ʿal", "traducao_palavra": "possuidor de" },
+        { "hebraico": "הַקְּרָנַ֔יִם", "transliteral": "haq-qə-rā-na-yim", "traducao_palavra": "os dois chifres" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "רָאִ֔יתִי", "transliteral": "rā-ʾî-ṯî", "traducao_palavra": "eu tinha visto" },
+        { "hebraico": "עֹמֵ֖ד", "transliteral": "ʿō-mêḏ", "traducao_palavra": "em pé" },
+        { "hebraico": "לִפְנֵ֣י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "הָאֻבָ֑ל", "transliteral": "hā-ʾu-ḇāl", "traducao_palavra": "o rio" },
+        { "hebraico": "וַיָּ֥רָץ", "transliteral": "way-yā-rāṣ", "traducao_palavra": "e correu" },
+        { "hebraico": "אֵלָ֖יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "contra ele" },
+        { "hebraico": "בַּחֲמַ֥ת", "transliteral": "ba-ḥă-maṯ", "traducao_palavra": "no furor de" },
+        { "hebraico": "כֹּחֹֽו׃", "transliteral": "kō-ḥô", "traducao_palavra": "sua força" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E vi-o chegar perto do carneiro, enfurecido contra ele; e feriu o carneiro e quebrou-lhe os dois chifres; e não havia força no carneiro para resistir-lhe; e o lançou por terra e o pisou aos pés; e não houve quem pudesse livrar o carneiro da sua mão.",
+      "palavras": [
+        { "hebraico": "וּרְאִיתִיו֩", "transliteral": "ū-rə-ʾî-ṯîw", "traducao_palavra": "e vi-o" },
+        { "hebraico": "מַגִּ֨יעַ", "transliteral": "mag-gî-aʿ", "traducao_palavra": "chegando" },
+        { "hebraico": "אֵ֣צֶל", "transliteral": "ʾê-ṣel", "traducao_palavra": "perto de" },
+        { "hebraico": "הָאַ֗יִל", "transliteral": "hā-ʾa-yil", "traducao_palavra": "o carneiro" },
+        { "hebraico": "וַיִּתְמַרְמַ֤ר", "transliteral": "way-yiṯ-mar-mar", "traducao_palavra": "e enfureceu-se" },
+        { "hebraico": "אֵלָיו֙", "transliteral": "ʾê-lāyw", "traducao_palavra": "contra ele" },
+        { "hebraico": "וַיַּ֣ךְ", "transliteral": "way-yaḵ", "traducao_palavra": "e feriu" },
+        { "hebraico": "אֶת־הָאַ֔יִל", "transliteral": "ʾeṯ-hā-ʾa-yil", "traducao_palavra": "o carneiro" },
+        { "hebraico": "וַיְשַׁבֵּר֙", "transliteral": "way-šab-bêr", "traducao_palavra": "e quebrou" },
+        { "hebraico": "אֶת־שְׁתֵּ֣י", "transliteral": "ʾeṯ-šətê", "traducao_palavra": "os dois" },
+        { "hebraico": "קְרָנָ֔יו", "transliteral": "qə-rā-nāyw", "traducao_palavra": "seus chifres" },
+        { "hebraico": "וְלֹא־הָ֥יָה", "transliteral": "wə-lō-hā-yā", "traducao_palavra": "e não havia" },
+        { "hebraico": "כֹ֛חַ", "transliteral": "ḵō-aḥ", "traducao_palavra": "força" },
+        { "hebraico": "בָּאַ֖יִל", "transliteral": "bā-ʾa-yil", "traducao_palavra": "no carneiro" },
+        { "hebraico": "לַעֲמֹ֣ד", "transliteral": "la-ʿă-mōḏ", "traducao_palavra": "para ficar em pé" },
+        { "hebraico": "לְפָנָ֑יו", "transliteral": "lə-p̄ā-nāyw", "traducao_palavra": "diante dele" },
+        { "hebraico": "וַיַּשְׁלִיכֵ֤הוּ", "transliteral": "way-yaš-lî-ḵê-hû", "traducao_palavra": "e lançou-o" },
+        { "hebraico": "אַ֨רְצָה֙", "transliteral": "ʾar-ṣā", "traducao_palavra": "por terra" },
+        { "hebraico": "וַיִּרְמְסֵ֔הוּ", "transliteral": "way-yir-mə-sê-hû", "traducao_palavra": "e pisou-o" },
+        { "hebraico": "וְלֹא־הָיָ֥ה", "transliteral": "wə-lō-hā-yā", "traducao_palavra": "e não houve" },
+        { "hebraico": "מַצִּ֛יל", "transliteral": "maṣ-ṣîl", "traducao_palavra": "quem livrasse" },
+        { "hebraico": "לָאַ֖יִל", "transliteral": "lā-ʾa-yil", "traducao_palavra": "o carneiro" },
+        { "hebraico": "מִיָּדֹֽו׃", "transliteral": "mî-yā-ḏô", "traducao_palavra": "da sua mão" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E o bode se engrandeceu sobremodo; mas, estando na sua maior força, aquele grande chifre foi quebrado; e no seu lugar subiram quatro chifres notáveis para os quatro ventos do céu.",
+      "palavras": [
+        { "hebraico": "וּצְפִ֣יר", "transliteral": "ū-ṣə-p̄îr", "traducao_palavra": "e o bode de" },
+        { "hebraico": "הָעִזִּ֔ים", "transliteral": "hā-ʿiz-zîm", "traducao_palavra": "cabras" },
+        { "hebraico": "הִגְדִּ֖יל", "transliteral": "hiḡ-dîl", "traducao_palavra": "engrandeceu-se" },
+        { "hebraico": "עַד־מְאֹ֑ד", "transliteral": "ʿaḏ-mə-ʾōḏ", "traducao_palavra": "sobremodo" },
+        { "hebraico": "וּכְעָצְמֹ֗ו", "transliteral": "ū-ḵə-ʿāṣ-mô", "traducao_palavra": "mas no auge da sua força" },
+        { "hebraico": "נִשְׁבְּרָה֙", "transliteral": "niš-bə-rā", "traducao_palavra": "foi quebrado" },
+        { "hebraico": "הַקֶּ֣רֶן", "transliteral": "haq-qe-ren", "traducao_palavra": "o chifre" },
+        { "hebraico": "הַגְּדֹולָ֔ה", "transliteral": "hag-gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "וַֽתַּעֲלֶ֜נָה", "transliteral": "wat-ta-ʿă-le-nā", "traducao_palavra": "e subiram" },
+        { "hebraico": "חָז֤וּת", "transliteral": "ḥā-zūṯ", "traducao_palavra": "notáveis" },
+        { "hebraico": "אַרְבַּע֙", "transliteral": "ʾar-baʿ", "traducao_palavra": "quatro [chifres]" },
+        { "hebraico": "תַּחְתֶּ֔יהָ", "transliteral": "taḥ-te-hā", "traducao_palavra": "no lugar dele" },
+        { "hebraico": "לְאַרְבַּ֖ע", "transliteral": "lə-ʾar-baʿ", "traducao_palavra": "para os quatro" },
+        { "hebraico": "רוּחֹ֥ות", "transliteral": "rū-ḥôṯ", "traducao_palavra": "ventos de" },
+        { "hebraico": "הַשָּׁמָֽיִם׃", "transliteral": "haš-šā-mā-yim", "traducao_palavra": "o céu" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E de um deles saiu um chifre pequeno, o qual cresceu muito para o sul, e para o oriente, e para a terra formosa.",
+      "palavras": [
+        { "hebraico": "וּמִן־הָאַחַ֣ת", "transliteral": "ū-min-hā-ʾa-ḥaṯ", "traducao_palavra": "e de um" },
+        { "hebraico": "מֵהֶ֔ם", "transliteral": "mê-hem", "traducao_palavra": "deles" },
+        { "hebraico": "יָצָ֥א", "transliteral": "yā-ṣā", "traducao_palavra": "saiu" },
+        { "hebraico": "קֶֽרֶן־אַחַ֖ת", "transliteral": "qe-ren-ʾa-ḥaṯ", "traducao_palavra": "um chifre" },
+        { "hebraico": "מִצְּעִירָ֑ה", "transliteral": "miṣ-ṣə-ʿî-rā", "traducao_palavra": "pequeno" },
+        { "hebraico": "וַתִּגְדַּל־יֶ֛תֶר", "transliteral": "wat-tiḡ-dal-ye-ṯer", "traducao_palavra": "e cresceu em extremo" },
+        { "hebraico": "אֶל־הַנֶּ֥גֶב", "transliteral": "ʾel-han-ne-ḡeḇ", "traducao_palavra": "para o sul" },
+        { "hebraico": "וְאֶל־הַמִּזְרָ֖ח", "transliteral": "wə-ʾel-ham-miz-rāḥ", "traducao_palavra": "e para o oriente" },
+        { "hebraico": "וְאֶל־הַצֶּֽבִי׃", "transliteral": "wə-ʾel-haṣ-ṣe-ḇî", "traducao_palavra": "e para a [terra] formosa" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E se engrandeceu até ao exército do céu; e lançou por terra alguns do exército e das estrelas, e os pisou.",
+      "palavras": [
+        { "hebraico": "וַתִּגְדַּ֖ל", "transliteral": "wat-tiḡ-dal", "traducao_palavra": "e se engrandeceu" },
+        { "hebraico": "עַד־צְבָ֣א", "transliteral": "ʿaḏ-ṣə-ḇā", "traducao_palavra": "até o exército de" },
+        { "hebraico": "הַשָּׁמָ֑יִם", "transliteral": "haš-šā-mā-yim", "traducao_palavra": "o céu" },
+        { "hebraico": "וַתַּפֵּ֨ל", "transliteral": "wat-tap-pêl", "traducao_palavra": "e lançou" },
+        { "hebraico": "אַ֥רְצָה", "transliteral": "ʾar-ṣā", "traducao_palavra": "por terra" },
+        { "hebraico": "מִן־הַצָּבָ֛א", "transliteral": "min-haṣ-ṣā-ḇā", "traducao_palavra": "de entre o exército" },
+        { "hebraico": "וּמִן־הַכֹּוכָבִ֖ים", "transliteral": "ū-min-hak-kô-ḵā-ḇîm", "traducao_palavra": "e de entre as estrelas" },
+        { "hebraico": "וַֽתִּרְמְסֵֽם׃", "transliteral": "wat-tir-mə-sêm", "traducao_palavra": "e as pisou" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E se engrandeceu até ao Príncipe do exército; e dele foi tirado o sacrifício contínuo, e o lugar do seu santuário foi deitado abaixo.",
+      "palavras": [
+        { "hebraico": "וְעַ֥ד", "transliteral": "wə-ʿaḏ", "traducao_palavra": "e até" },
+        { "hebraico": "שַׂר־הַצָּבָ֖א", "transliteral": "śar-haṣ-ṣā-ḇā", "traducao_palavra": "ao Príncipe do exército" },
+        { "hebraico": "הִגְדִּ֑יל", "transliteral": "hiḡ-dîl", "traducao_palavra": "se engrandeceu" },
+        { "hebraico": "וּמִמֶּ֙נּוּ֙", "transliteral": "ū-mim-men-nû", "traducao_palavra": "e dele" },
+        { "hebraico": "הוּרַ֣ם", "transliteral": "hū-ram", "traducao_palavra": "foi tirado" },
+        { "hebraico": "הַתָּמִ֔יד", "transliteral": "hat-tā-mîḏ", "traducao_palavra": "o [sacrifício] contínuo" },
+        { "hebraico": "וְהֻשְׁלַ֖ךְ", "transliteral": "wə-huš-laḵ", "traducao_palavra": "e foi deitado abaixo" },
+        { "hebraico": "מְכֹ֥ון", "transliteral": "mə-ḵôn", "traducao_palavra": "o lugar de" },
+        { "hebraico": "מִקְדָּשֹֽׁו׃", "transliteral": "miq-dā-šô", "traducao_palavra": "seu santuário" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E um exército lhe foi dado contra o sacrifício contínuo, por causa da transgressão; e lançou a verdade por terra, e fez o que quis, e prosperou.",
+      "palavras": [
+        { "hebraico": "וְצָבָ֛א", "transliteral": "wə-ṣā-ḇā", "traducao_palavra": "e um exército/hoste" },
+        { "hebraico": "תִּנָּתֵ֥ן", "transliteral": "tin-nā-ṯên", "traducao_palavra": "foi entregue" },
+        { "hebraico": "עַל־הַתָּמִ֖יד", "transliteral": "ʿal-hat-tā-mîḏ", "traducao_palavra": "contra o contínuo" },
+        { "hebraico": "בְּפָ֑שַׁע", "transliteral": "bə-p̄ā-šaʿ", "traducao_palavra": "com transgressão" },
+        { "hebraico": "וְתַשְׁלֵ֤ךְ", "transliteral": "wə-ṯaš-lêḵ", "traducao_palavra": "e lançou" },
+        { "hebraico": "אֱמֶת֙", "transliteral": "ʾĕ-meṯ", "traducao_palavra": "a verdade" },
+        { "hebraico": "אַ֔רְצָה", "transliteral": "ʾar-ṣā", "traducao_palavra": "por terra" },
+        { "hebraico": "וְעָשְׂתָ֖ה", "transliteral": "wə-ʿā-śə-ṯā", "traducao_palavra": "e fez" },
+        { "hebraico": "וְהִצְלִֽיחָה׃", "transliteral": "wə-hiṣ-lî-ḥā", "traducao_palavra": "e prosperou" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Depois ouvi um santo que falava; e disse um santo àquele certo que falava: Até quando durará a visão do sacrifício contínuo e da transgressão assoladora, entregando o santuário e o exército para serem pisados?",
+      "palavras": [
+        { "hebraico": "וָאֶשְׁמְעָ֥ה", "transliteral": "wā-ʾeš-mə-ʿā", "traducao_palavra": "e ouvi" },
+        { "hebraico": "אֶחָד־קָדֹ֖ושׁ", "transliteral": "ʾe-ḥāḏ-qā-ḏôš", "traducao_palavra": "um santo" },
+        { "hebraico": "מְדַבֵּ֑ר", "transliteral": "mə-ḏab-bêr", "traducao_palavra": "falando" },
+        { "hebraico": "וַיֹּאמֶר֩", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֶחָ֨ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "um" },
+        { "hebraico": "קָדֹ֜ושׁ", "transliteral": "qā-ḏôš", "traducao_palavra": "santo" },
+        { "hebraico": "לַפַּלְמוֹנִ֣י", "transliteral": "lap-pal-mō-nî", "traducao_palavra": "a um certo [alguém]" },
+        { "hebraico": "הַֽמְדַבֵּ֗ר", "transliteral": "ham-ḏab-bêr", "traducao_palavra": "que falava" },
+        { "hebraico": "עַד־מָתַ֞י", "transliteral": "ʿaḏ-mā-ṯay", "traducao_palavra": "até quando [durará]" },
+        { "hebraico": "הֶחָזֹ֤ון", "transliteral": "he-ḥā-zôn", "traducao_palavra": "a visão de" },
+        { "hebraico": "הַתָּמִיד֙", "transliteral": "hat-tā-mîḏ", "traducao_palavra": "o [sacrifício] contínuo" },
+        { "hebraico": "וְהַפֶּ֣שַׁע", "transliteral": "wə-hap-pe-šaʿ", "traducao_palavra": "e a transgressão" },
+        { "hebraico": "שֹׁמֵ֔ם", "transliteral": "šō-mêm", "traducao_palavra": "assoladora" },
+        { "hebraico": "תֵּ֥ת", "transliteral": "têṯ", "traducao_palavra": "para entregar" },
+        { "hebraico": "וְקֹ֖דֶשׁ", "transliteral": "wə-qō-ḏeš", "traducao_palavra": "tanto o santuário" },
+        { "hebraico": "וְצָבָ֥א", "transliteral": "wə-ṣā-ḇā", "traducao_palavra": "como o exército" },
+        { "hebraico": "מִרְמָֽס׃", "transliteral": "mir-mās", "traducao_palavra": "[para serem] pisados?" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "עַ֚ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "עֶ֣רֶב", "transliteral": "ʿe-reḇ", "traducao_palavra": "tarde" },
+        { "hebraico": "בֹּ֔קֶר", "transliteral": "bō-qer", "traducao_palavra": "[e] manhã" },
+        { "hebraico": "אַלְפַּ֖יִם", "transliteral": "ʾal-pa-yim", "traducao_palavra": "duas mil" },
+        { "hebraico": "וּשְׁלֹ֣שׁ", "transliteral": "ū-šəlōš", "traducao_palavra": "e três" },
+        { "hebraico": "מֵאֹ֑ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centenas [trezentas]" },
+        { "hebraico": "וְנִצְדַּ֖ק", "transliteral": "wə-niṣ-daq", "traducao_palavra": "e será justificado/purificado" },
+        { "hebraico": "קֹֽדֶשׁ׃", "transliteral": "qō-ḏeš", "traducao_palavra": "o santuário" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E aconteceu que, havendo eu, Daniel, visto a visão, busquei entendê-la, e eis que se pôs diante de mim como que uma figura de homem.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֗י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "בִּרְאֹתִ֛י", "transliteral": "bir-ʾō-ṯî", "traducao_palavra": "ao ver" },
+        { "hebraico": "אֲנִ֥י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "דָנִיֵּ֖אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "אֶת־הֶחָזֹ֑ון", "transliteral": "ʾeṯ-he-ḥā-zôn", "traducao_palavra": "a visão" },
+        { "hebraico": "וָאֲבַקְשָׁ֣ה", "transliteral": "wā-ʾă-ḇaq-šā", "traducao_palavra": "e busquei" },
+        { "hebraico": "תְבוּנָ֔ה", "transliteral": "ṯə-ḇû-nā", "traducao_palavra": "entendimento" },
+        { "hebraico": "וְהִנֵּ֛ה", "transliteral": "wə-hin-nêh", "traducao_palavra": "e eis que" },
+        { "hebraico": "עֹמֵ֥ד", "transliteral": "ʿō-mêḏ", "traducao_palavra": "estava em pé" },
+        { "hebraico": "לְנֶגְדִּ֖י", "transliteral": "lə-neḡ-dî", "traducao_palavra": "diante de mim" },
+        { "hebraico": "כְּמַרְאֵה־גָֽבֶר׃", "transliteral": "kə-mar-ʾēh-gā-ḇer", "traducao_palavra": "como a aparência de um homem" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "E ouvi uma voz de homem entre as margens do Ulai, a qual gritou e disse: Gabriel, faze com que este entenda a visão.",
+      "palavras": [
+        { "hebraico": "וָאֶשְׁמַ֥ע", "transliteral": "wā-ʾeš-maʿ", "traducao_palavra": "e ouvi" },
+        { "hebraico": "קֹול־אָדָ֖ם", "transliteral": "qôl-ʾā-ḏām", "traducao_palavra": "uma voz de homem" },
+        { "hebraico": "בֵּ֣ין", "transliteral": "bên", "traducao_palavra": "entre [as margens de]" },
+        { "hebraico": "אוּלָ֑י", "transliteral": "ʾū-lāy", "traducao_palavra": "Ulai" },
+        { "hebraico": "וַיִּקְרָא֙", "transliteral": "way-yiq-rā", "traducao_palavra": "e clamou" },
+        { "hebraico": "וַיֹּאמַ֔ר", "transliteral": "way-yō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "גַּבְרִיאֵ֕ל", "transliteral": "gaḇ-rî-ʾêl", "traducao_palavra": "Gabriel" },
+        { "hebraico": "הָבֵ֥ן", "transliteral": "hā-ḇên", "traducao_palavra": "faze entender" },
+        { "hebraico": "לְהַלָּ֖ז", "transliteral": "lə-hal-lāz", "traducao_palavra": "a este" },
+        { "hebraico": "אֶת־הַמַּרְאֶֽה׃", "transliteral": "ʾeṯ-ham-mar-ʾeh", "traducao_palavra": "a visão" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Veio, pois, para perto de onde eu estava; e, vindo ele, fiquei amedrontado e caí sobre o meu rosto; mas ele me disse: Entende, filho do homem, pois esta visão se refere ao tempo do fim.",
+      "palavras": [
+        { "hebraico": "וַיָּבֹא֙", "transliteral": "way-yā-ḇō", "traducao_palavra": "e veio" },
+        { "hebraico": "אֵ֣צֶל", "transliteral": "ʾê-ṣel", "traducao_palavra": "para junto de" },
+        { "hebraico": "מַעֲמָדִ֔י", "transliteral": "ma-ʿă-mā-ḏî", "traducao_palavra": "meu lugar" },
+        { "hebraico": "וּבְבֹאֹ֣ו", "transliteral": "ū-ḇə-ḇō-ʾô", "traducao_palavra": "e quando ele veio" },
+        { "hebraico": "נִבְעַ֔תִּי", "transliteral": "niḇ-ʿat-tî", "traducao_palavra": "fiquei amedrontado" },
+        { "hebraico": "וָאֶפְּלָ֖ה", "transliteral": "wā-ʾep-pə-lā", "traducao_palavra": "e caí" },
+        { "hebraico": "עַל־פָּנָ֑י", "transliteral": "ʿal-pā-nāy", "traducao_palavra": "sobre o meu rosto" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "הָבֵ֤ן", "transliteral": "hā-ḇên", "traducao_palavra": "entende" },
+        { "hebraico": "בֶּן־אָדָם֙", "transliteral": "ben-ʾā-ḏām", "traducao_palavra": "filho do homem" },
+        { "hebraico": "כִּ֛י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לְעֶת־קֵ֥ץ", "transliteral": "lə-ʿeṯ-qêṣ", "traducao_palavra": "[é] para o tempo do fim" },
+        { "hebraico": "הֶחָזֹֽון׃", "transliteral": "he-ḥā-zôn", "traducao_palavra": "a visão" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E, falando ele comigo, caí adormecido com o rosto em terra; ele, porém, me tocou e me pôs em pé no meu lugar.",
+      "palavras": [
+        { "hebraico": "וּבְדַבְּרֹ֣ו", "transliteral": "ū-ḇə-ḏab-bə-rô", "traducao_palavra": "e enquanto ele falava" },
+        { "hebraico": "עִמִּ֔י", "transliteral": "ʿim-mî", "traducao_palavra": "comigo" },
+        { "hebraico": "נִרְדַּ֥מְתִּי", "transliteral": "nir-dam-tî", "traducao_palavra": "caí em sono profundo" },
+        { "hebraico": "עַל־פָּנַ֖י", "transliteral": "ʿal-pā-nay", "traducao_palavra": "com o meu rosto" },
+        { "hebraico": "אָ֑רְצָה", "transliteral": "ʾār-ṣā", "traducao_palavra": "em terra" },
+        { "hebraico": "וַיִּ֨גַּע־בִּ֔י", "transliteral": "way-yiḡ-gaʿ-bî", "traducao_palavra": "e tocou-me" },
+        { "hebraico": "וַיַּֽעֲמִידֵ֖נִי", "transliteral": "way-ya-ʿă-mî-ḏê-nî", "traducao_palavra": "e pós-me em pé" },
+        { "hebraico": "עַל־עָמְדִֽי׃", "transliteral": "ʿal-ʿām-ḏî", "traducao_palavra": "no meu lugar" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E disse: Eis que te farei saber o que há de acontecer no último tempo da indignação; porque ela pertence ao tempo determinado do fim.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֗אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "הִנְנִ֤י", "transliteral": "hin-nə-nî", "traducao_palavra": "eis-me aqui" },
+        { "hebraico": "מֹודִֽיעֲךָ֙", "transliteral": "mô-ḏî-ʿă-ḵā", "traducao_palavra": "fazendo-te saber" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "אֲשֶׁר־יִהְיֶ֔ה", "transliteral": "ʾă-šer-yih-yeh", "traducao_palavra": "o que há de acontecer" },
+        { "hebraico": "בְּאַחֲרִ֖ית", "transliteral": "bə-ʾa-ḥă-rîṯ", "traducao_palavra": "no fim de" },
+        { "hebraico": "הַזָּ֑עַם", "transliteral": "haz-zā-ʿam", "traducao_palavra": "a indignação" },
+        { "hebraico": "כִּ֖י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לְמֹועֵ֥ד", "transliteral": "lə-mô-ʿêḏ", "traducao_palavra": "[é] para o tempo determinado de" },
+        { "hebraico": "קֵֽץ׃", "transliteral": "qêṣ", "traducao_palavra": "o fim" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Aquele carneiro que viste com dois chifres são os reis da Média e da Pérsia.",
+      "palavras": [
+        { "hebraico": "הָאַ֥יִל", "transliteral": "hā-ʾa-yil", "traducao_palavra": "o carneiro" },
+        { "hebraico": "אֲשֶׁר־רָאִ֖יתָ", "transliteral": "ʾă-šer-rā-ʾî-ṯā", "traducao_palavra": "que viste" },
+        { "hebraico": "בַּ֣עַל", "transliteral": "ba-ʿal", "traducao_palavra": "possuidor de" },
+        { "hebraico": "הַקְּרָנָ֑יִם", "transliteral": "haq-qə-rā-nā-yim", "traducao_palavra": "dois chifres [são]" },
+        { "hebraico": "מַלְכֵ֖י", "transliteral": "mal-ḵê", "traducao_palavra": "os reis de" },
+        { "hebraico": "מָדַ֥י", "transliteral": "mā-ḏay", "traducao_palavra": "Média" },
+        { "hebraico": "וּפָרָֽס׃", "transliteral": "ū-p̄ā-rās", "traducao_palavra": "e Pérsia" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Mas o bode peludo é o rei da Grécia; e o grande chifre que estava entre os seus olhos é o primeiro rei.",
+      "palavras": [
+        { "hebraico": "וְהַצָּפִ֥יר", "transliteral": "wə-haṣ-ṣā-p̄îr", "traducao_palavra": "e o bode" },
+        { "hebraico": "הַשָּׂעִ֖יר", "transliteral": "haś-śā-ʿîr", "traducao_palavra": "peludo [é]" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "יָוָ֑ן", "transliteral": "yā-wān", "traducao_palavra": "Grécia" },
+        { "hebraico": "וְהַקֶּ֤רֶן", "transliteral": "wə-haq-qe-ren", "traducao_palavra": "e o chifre" },
+        { "hebraico": "הַגְּדֹולָה֙", "transliteral": "hag-gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estava]" },
+        { "hebraico": "בֵּין־עֵינָ֔יו", "transliteral": "bên-ʿê-nāyw", "traducao_palavra": "entre os seus olhos" },
+        { "hebraico": "ה֥וּא", "transliteral": "hû", "traducao_palavra": "ele [é]" },
+        { "hebraico": "הַמֶּ֥לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "הָרִאשֹֽׁון׃", "transliteral": "hā-ri-šôn", "traducao_palavra": "primeiro" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "O ter sido quebrado, levantando-se quatro em lugar dele, significa que quatro reinos se levantarão daquela nação, mas não com a força dele.",
+      "palavras": [
+        { "hebraico": "וְהַנִּשְׁבֶּ֗רֶת", "transliteral": "wə-han-niš-be-reṯ", "traducao_palavra": "e quanto ao que foi quebrado" },
+        { "hebraico": "וַתַּעֲמֹ֨דְנָה", "transliteral": "wat-ta-ʿă-mōḏ-nā", "traducao_palavra": "e levantaram-se" },
+        { "hebraico": "אַרְבַּ֣ע", "transliteral": "ʾar-baʿ", "traducao_palavra": "quatro" },
+        { "hebraico": "תַּחְתֶּ֔יהָ", "transliteral": "taḥ-te-hā", "traducao_palavra": "em seu lugar" },
+        { "hebraico": "אַרְבַּ֧ע", "transliteral": "ʾar-baʿ", "traducao_palavra": "quatro" },
+        { "hebraico": "מַלְכֻיֹ֛ות", "transliteral": "mal-ḵu-yôṯ", "traducao_palavra": "reinos" },
+        { "hebraico": "מִגֹּ֥וי", "transliteral": "mig-gôy", "traducao_palavra": "da nação" },
+        { "hebraico": "יַעֲמֹ֖דְנָה", "transliteral": "ya-ʿă-mōḏ-nā", "traducao_palavra": "se levantarão" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "בְכֹחֹֽו׃", "transliteral": "ḇə-ḵō-ḥô", "traducao_palavra": "com a força dele" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "Mas, no fim do seu reinado, quando os transgressores tiverem chegado ao cúmulo, levantar-se-á um rei feroz de semblante e entendido em enigmas.",
+      "palavras": [
+        { "hebraico": "וּֽבְאַחֲרִית֙", "transliteral": "ū-ḇə-ʾa-ḥă-rîṯ", "traducao_palavra": "e no fim de" },
+        { "hebraico": "מַלְכוּתָ֔ם", "transliteral": "mal-ḵû-ṯām", "traducao_palavra": "o seu reino" },
+        { "hebraico": "כְּהָתֵ֖ם", "transliteral": "kə-hā-ṯêm", "traducao_palavra": "ao completarem [a medida]" },
+        { "hebraico": "הַפֹּשְׁעִ֑ים", "transliteral": "hap-pō-šə-ʿîm", "traducao_palavra": "os transgressores" },
+        { "hebraico": "יַעֲמֹ֧ד", "transliteral": "ya-ʿă-mōḏ", "traducao_palavra": "se levantará" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "um rei" },
+        { "hebraico": "עַז־פָּנִ֖ים", "transliteral": "ʿaz-pā-nîm", "traducao_palavra": "audaz/feroz de semblante" },
+        { "hebraico": "וּמֵבִ֥ין", "transliteral": "ū-mê-ḇîn", "traducao_palavra": "e entendido em" },
+        { "hebraico": "חִידֹֽות׃", "transliteral": "ḥî-ḏôṯ", "traducao_palavra": "enigmas/intrigas" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E grande será o seu poder, mas não pela sua própria força; e destruirá maravilhosamente, e prosperará, e fará o que lhe aprouver; e destruirá os poderosos e o povo santo.",
+      "palavras": [
+        { "hebraico": "וְעָצַ֤ם", "transliteral": "wə-ʿā-ṣam", "traducao_palavra": "e poderoso será" },
+        { "hebraico": "כֹּחֹו֙", "transliteral": "kō-ḥô", "traducao_palavra": "o seu poder" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "בְכֹחֹ֔ו", "transliteral": "ḇə-ḵō-ḥô", "traducao_palavra": "pela sua própria força" },
+        { "hebraico": "וְנִפְלָאֹ֥ות", "transliteral": "wə-nip̄-lā-ʾôṯ", "traducao_palavra": "e espantosamente/extraordinariamente" },
+        { "hebraico": "יַשְׁחִ֖ית", "transliteral": "yaš-ḥîṯ", "traducao_palavra": "destruirá" },
+        { "hebraico": "וְהִצְלִ֣יחַ", "transliteral": "wə-hiṣ-lî-aḥ", "traducao_palavra": "e prosperará" },
+        { "hebraico": "וְעָשָׂ֑ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e atuará/fará" },
+        { "hebraico": "וְהִשְׁחִ֥ית", "transliteral": "wə-hiš-ḥîṯ", "traducao_palavra": "e destruirá" },
+        { "hebraico": "עֲצוּמִ֖ים", "transliteral": "ʿă-ṣū-mîm", "traducao_palavra": "poderosos" },
+        { "hebraico": "וְעַם־קְדֹשִֽׁים׃", "transliteral": "wə-ʿam-qə-ḏō-šîm", "traducao_palavra": "e o povo dos santos" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E, pelo seu entendimento, fará prosperar o engano na sua mão; e no seu coração se engrandecerá, e destruirá a muitos que estão em segurança; e levantar-se-á contra o Príncipe dos príncipes, mas sem mão será quebrado.",
+      "palavras": [
+        { "hebraico": "וְעַל־שִׂכְלֹ֗ו", "transliteral": "wə-ʿal-śiḵ-lô", "traducao_palavra": "e por sua astúcia" },
+        { "hebraico": "וְהִצְלִ֤יחַ", "transliteral": "wə-hiṣ-lî-aḥ", "traducao_palavra": "fará prosperar" },
+        { "hebraico": "מִרְמָה֙", "transliteral": "mir-mā", "traducao_palavra": "o engano" },
+        { "hebraico": "בְּיָדֹ֔ו", "transliteral": "bə-yā-ḏô", "traducao_palavra": "na sua mão" },
+        { "hebraico": "וּבִלְבָבֹ֣ו", "transliteral": "ū-ḇil-ḇā-ḇô", "traducao_palavra": "e no seu coração" },
+        { "hebraico": "יַגְדִּ֔יל", "transliteral": "yaḡ-dîl", "traducao_palavra": "se engrandecerá" },
+        { "hebraico": "וּבְשַׁלְוָ֖ה", "transliteral": "ū-ḇə-šal-wā", "traducao_palavra": "e na tranquilidade/repentinamente" },
+        { "hebraico": "יַשְׁחִ֣ית", "transliteral": "yaš-ḥîṯ", "traducao_palavra": "destruirá" },
+        { "hebraico": "רַבִּ֑ים", "transliteral": "rab-bîm", "traducao_palavra": "a muitos" },
+        { "hebraico": "וְעַל־שַׂר־שָׂרִ֥ים", "transliteral": "wə-ʿal-śar-śā-rîm", "traducao_palavra": "e contra o Príncipe dos príncipes" },
+        { "hebraico": "יַעֲמֹ֖ד", "transliteral": "ya-ʿă-mōḏ", "traducao_palavra": "se levantará" },
+        { "hebraico": "וּבְאֶ֥פֶס", "transliteral": "ū-ḇə-ʾe-p̄es", "traducao_palavra": "mas sem" },
+        { "hebraico": "יָ֖ד", "transliteral": "yāḏ", "traducao_palavra": "[intervenção de] mão [humana]" },
+        { "hebraico": "יִשָּׁבֵֽר׃", "transliteral": "yiš-šā-ḇêr", "traducao_palavra": "será quebrado" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E a visão da tarde e da manhã, que foi dita, é verdadeira; tu, porém, sela a visão, porque é para muitos dias.",
+      "palavras": [
+        { "hebraico": "וּמַרְאֵ֨ה", "transliteral": "ū-mar-ʾēh", "traducao_palavra": "e a visão de" },
+        { "hebraico": "הָעֶ֧רֶב", "transliteral": "hā-ʿe-reḇ", "traducao_palavra": "a tarde" },
+        { "hebraico": "וְהַבֹּ֛קֶר", "transliteral": "wə-hab-bō-qer", "traducao_palavra": "e a manhã" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "נֶאֱמַ֖ר", "transliteral": "ne-ʾĕ-mar", "traducao_palavra": "foi dita" },
+        { "hebraico": "אֱמֶ֣ת", "transliteral": "ʾĕ-meṯ", "traducao_palavra": "verdadeira" },
+        { "hebraico": "ה֑וּא", "transliteral": "hû", "traducao_palavra": "ela é" },
+        { "hebraico": "וְאַתָּה֙", "transliteral": "wə-ʾat-tā", "traducao_palavra": "tu porém" },
+        { "hebraico": "סְתֹ֣ם", "transliteral": "sə-ṯōm", "traducao_palavra": "sela/cerra" },
+        { "hebraico": "הֶֽחָזֹ֔ון", "transliteral": "he-ḥā-zôn", "traducao_palavra": "a visão" },
+        { "hebraico": "כִּ֖י", "transliteral": "kî", "traducao_palavra": "porque [é]" },
+        { "hebraico": "לְיָמִ֥ים", "transliteral": "lə-yā-mîm", "traducao_palavra": "para dias" },
+        { "hebraico": "רַבִּֽים׃", "transliteral": "rab-bîm", "traducao_palavra": "muitos" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "E eu, Daniel, enfraqueci e estive doente alguns dias; então me levantei e tratei dos negócios do rei; e estava espantado com a visão, e não havia quem a entendesse.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֨י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "דָנִיֵּ֜אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "נִהְיֵ֤יתִי", "transliteral": "nih-yê-ṯî", "traducao_palavra": "desfaleci/enfraqueci" },
+        { "hebraico": "וְנֶחֱלֵ֙יתִי֙", "transliteral": "wə-ne-ḥĕ-lê-ṯî", "traducao_palavra": "e estive doente por" },
+        { "hebraico": "יָמִ֔ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "וָאָק֕וּם", "transliteral": "wā-ʾā-qūm", "traducao_palavra": "e levantei-me" },
+        { "hebraico": "וָאֶעֱשֶׂ֖ה", "transliteral": "wā-ʾe-ʿĕ-śeh", "traducao_palavra": "e fiz/tratei de" },
+        { "hebraico": "אֶת־מְלֶ֣אכֶת", "transliteral": "ʾeṯ-mə-le-ḵeṯ", "traducao_palavra": "o serviço/negócios de" },
+        { "hebraico": "הַמֶּ֑לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וָאֶשְׁתֹּומֵ֥ם", "transliteral": "wā-ʾeš-tô-mêm", "traducao_palavra": "e estava estarrecido/atônito" },
+        { "hebraico": "עַל־הַמַּרְאֶ֖ה", "transliteral": "ʿal-ham-mar-ʾeh", "traducao_palavra": "com a visão" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não havia" },
+        { "hebraico": "מֵבִֽין׃", "transliteral": "mê-ḇîn", "traducao_palavra": "quem a entendesse" }
+      ]
+    }
+  }
 }

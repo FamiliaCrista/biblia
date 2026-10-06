@@ -1,6 +1,477 @@
 {
-  "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
+  "livro": "Ezequiel - יְחֶזְקֵאל - Yəḥezqēʾl",
   "capítulo": 45,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Quando pois repartirdes a terra em herança por sortes, separareis uma oferta alçada para YHWH, uma porção santa da terra; o seu comprimento será de vinte e cinco mil canas, e a largura de dez mil; esta será santa em todo o seu termo em redor.",
+      "palavras": [
+        { "hebraico": "וּבְהַפִּֽילְכֶ֣ם", "transliteral": "ū-ḇə-hap-pî-lə-ḵem", "traducao_palavra": "e ao repartirdes" },
+        { "hebraico": "אֶת־הָאָ֣רֶץ", "transliteral": "ʾeṯ-hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "בְּֽנַחֲלָ֗ה", "transliteral": "bə-na-ḥă-lā", "traducao_palavra": "em herança" },
+        { "hebraico": "תָּרִ֩ימוּ֩", "transliteral": "tā-rî-mū", "traducao_palavra": "separareis [como oferta]" },
+        { "hebraico": "תְרוּמָ֨ה", "transliteral": "ṯə-rū-mā", "traducao_palavra": "uma oferta alçada" },
+        { "hebraico": "לַיהוָ֜ה", "transliteral": "lay-hwā", "traducao_palavra": "para YHWH" },
+        { "hebraico": "קֹ֣דֶשׁ", "transliteral": "qō-ḏeš", "traducao_palavra": "santa" },
+        { "hebraico": "מִן־הָאָ֗רֶץ", "transliteral": "min-hā-ʾā-reṣ", "traducao_palavra": "da terra" },
+        { "hebraico": "אֹ֕רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "comprimento de" },
+        { "hebraico": "חֲמִשָּׁ֧ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֛ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֥לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "אֹ֖רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "[de] comprimento" },
+        { "hebraico": "וְרֹ֣חַב", "transliteral": "wə-rō-ḥaḇ", "traducao_palavra": "e largura de" },
+        { "hebraico": "עֲשָׂרָ֣ה", "transliteral": "ʿă-śā-rā", "traducao_palavra": "dez" },
+        { "hebraico": "אָ֑לֶף", "transliteral": "ʾā-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "קֹדֶשׁ־הִ֥יא", "transliteral": "qō-ḏeš-hî", "traducao_palavra": "santa é ela" },
+        { "hebraico": "בְכָל־גְּבוּלָ֖הּ", "transliteral": "ḇə-ḵāl-gə-ḇū-lāh", "traducao_palavra": "em todo o seu termo/fronteira" },
+        { "hebraico": "סָבִֽיב׃", "transliteral": "sā-ḇîḇ", "traducao_palavra": "ao redor" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Disto pertencerá ao santuário quinhentos côvados de comprimento e quinhentos de largura, em quadro em redor; e terá cinqüenta côvados de espaço aberto em redor.",
+      "palavras": [
+        { "hebraico": "יִהְיֶ֨ה", "transliteral": "yih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "מִזֶּ֜ה", "transliteral": "miz-zeh", "traducao_palavra": "disto" },
+        { "hebraico": "אֶל־הַקֹּ֗דֶשׁ", "transliteral": "ʾel-haq-qō-ḏeš", "traducao_palavra": "para o santuário" },
+        { "hebraico": "חֲמֵ֤שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹות֙", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "בַּחֲמֵ֣שׁ", "transliteral": "ba-ḥă-mêš", "traducao_palavra": "por cinco" },
+        { "hebraico": "מֵאֹ֔ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "מְרֻבָּ֖ע", "transliteral": "mə-rub-bāʿ", "traducao_palavra": "quadrado" },
+        { "hebraico": "סָבִ֑יב", "transliteral": "sā-ḇîḇ", "traducao_palavra": "ao redor" },
+        { "hebraico": "וַחֲמִשִּׁ֣ים", "transliteral": "wa-ḥă-miš-šîm", "traducao_palavra": "e cinqüenta" },
+        { "hebraico": "אַמָּ֔ה", "transliteral": "ʾam-mā", "traducao_palavra": "côvados" },
+        { "hebraico": "מִגְרָ֥שׁ", "transliteral": "miḡ-rāš", "traducao_palavra": "de espaço aberto/área livre" },
+        { "hebraico": "לֹ֖ו", "transliteral": "lô", "traducao_palavra": "para ele" },
+        { "hebraico": "סָבִֽיב׃", "transliteral": "sā-ḇîḇ", "traducao_palavra": "ao redor" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E desta medida medirás: de comprimento vinte e cinco mil, e de largura dez mil; e ali estará o santuário, o lugar santíssimo.",
+      "palavras": [
+        { "hebraico": "וּמִן־הַמִּדָּ֨ה", "transliteral": "ū-min-ham-mid-dā", "traducao_palavra": "e desta medida" },
+        { "hebraico": "הַזֹּ֜את", "transliteral": "haz-zōʾṯ", "traducao_palavra": "esta" },
+        { "hebraico": "תָּמֹ֗וד", "transliteral": "tā-môḏ", "traducao_palavra": "medirás" },
+        { "hebraico": "אֹ֕רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "comprimento de" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וְרֹ֖חַב", "transliteral": "wə-rō-ḥaḇ", "traducao_palavra": "e largura de" },
+        { "hebraico": "עֲשֶׂ֣רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִ֑ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "וּבֹֽו־יִהְיֶ֥ה", "transliteral": "ū-ḇô-yih-yeh", "traducao_palavra": "e nele estará" },
+        { "hebraico": "הַמִּקְדָּ֖שׁ", "transliteral": "ham-miq-dāš", "traducao_palavra": "o santuário" },
+        { "hebraico": "קֹ֥דֶשׁ", "transliteral": "qō-ḏeš", "traducao_palavra": "o santo" },
+        { "hebraico": "קָֽדָשִֽׁים׃", "transliteral": "qā-ḏā-šîm", "traducao_palavra": "dos santos [santíssimo]" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Esta é a porção santa da terra; será para os sacerdotes, ministros do santuário, que se aproximam para servir a YHWH; e lhes servirá de lugar para casas, e de lugar santo para o santuário.",
+      "palavras": [
+        { "hebraico": "קֹ֣דֶשׁ", "transliteral": "qō-ḏeš", "traducao_palavra": "[porção] santa" },
+        { "hebraico": "מִן־הָאָרֶץ֮", "transliteral": "min-hā-ʾā-reṣ", "traducao_palavra": "da terra" },
+        { "hebraico": "הוּא֒", "transliteral": "hū", "traducao_palavra": "é ela" },
+        { "hebraico": "לַכֹּהֲנִ֞ים", "transliteral": "lak-kō-hă-nîm", "traducao_palavra": "para os sacerdotes" },
+        { "hebraico": "מְשָׁרְתֵ֤י", "transliteral": "mə-šā-rə-ṯê", "traducao_palavra": "ministros de" },
+        { "hebraico": "הַמִּקְדָּשׁ֙", "transliteral": "ham-miq-dāš", "traducao_palavra": "o santuário" },
+        { "hebraico": "יִהְיֶ֔ה", "transliteral": "yih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "הַקְּרֵבִ֖ים", "transliteral": "haq-qə-rê-ḇîm", "traducao_palavra": "que se aproximam" },
+        { "hebraico": "לְשָׁרֵ֣ת", "transliteral": "lə-šā-rêṯ", "traducao_palavra": "para servir" },
+        { "hebraico": "אֶת־יְהוָ֑ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וְהָיָ֨ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será" },
+        { "hebraico": "לָהֶ֤ם", "transliteral": "lā-hem", "traducao_palavra": "para eles" },
+        { "hebraico": "מָקֹום֙", "transliteral": "mā-qôm", "traducao_palavra": "lugar" },
+        { "hebraico": "לְבָ֣תִּ֔ים", "transliteral": "lə-ḇāt-tîm", "traducao_palavra": "para casas" },
+        { "hebraico": "וּמִקְדָּ֖שׁ", "transliteral": "ū-miq-dāš", "traducao_palavra": "e santuário" },
+        { "hebraico": "לַמִּקְדָּֽשׁ׃", "transliteral": "lam-miq-dāš", "traducao_palavra": "para o santuário" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E os levitas, ministros da casa, terão para si vinte e cinco mil canas de comprimento e dez mil de largura, por sua possessão, para vinte câmaras.",
+      "palavras": [
+        { "hebraico": "וַחֲמִשָּׁ֨ה", "transliteral": "wa-ḥă-miš-šā", "traducao_palavra": "e cinco" },
+        { "hebraico": "וְעֶשְׂרִ֥ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֛לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "אֹ֖רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "[de] comprimento" },
+        { "hebraico": "וַעֲשָׂרָ֣ה", "transliteral": "wa-ʿă-śā-rā", "traducao_palavra": "e dez" },
+        { "hebraico": "אֲלָפִ֣ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "רֹ֑חַב", "transliteral": "rō-ḥaḇ", "traducao_palavra": "[de] largura" },
+        { "hebraico": "יִֽהְיֶה֙", "transliteral": "yih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "לַלְוִיִּ֞ם", "transliteral": "lal-wiy-yim", "traducao_palavra": "para os levitas" },
+        { "hebraico": "מְשָׁרְתֵ֧י", "transliteral": "mə-šā-rə-ṯê", "traducao_palavra": "ministros de" },
+        { "hebraico": "הַבַּ֛יִת", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "לָהֶ֥ם", "transliteral": "lā-hem", "traducao_palavra": "para eles" },
+        { "hebraico": "לַאֲחֻזָּ֖ה", "transliteral": "la-ʾă-ḥuz-zā", "traducao_palavra": "por possessão" },
+        { "hebraico": "עֶשְׂרִ֥ים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "לְשָׁכֹֽת׃", "transliteral": "lə-šā-ḵōṯ", "traducao_palavra": "câmaras" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E para possessão da cidade dareis cinco mil de largura e vinte e cinco mil de comprimento, ao lado da oferta alçada da porção santa; isto será para toda a casa de Israel.",
+      "palavras": [
+        { "hebraico": "וַאֲחֻזַּ֨ת", "transliteral": "wa-ʾă-ḥuz-zaṯ", "traducao_palavra": "e a possessão de" },
+        { "hebraico": "הָעִ֜יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "תִּתְּנ֗וּ", "transliteral": "tit-tə-nū", "traducao_palavra": "dareis" },
+        { "hebraico": "חֲמֵ֤שֶׁת", "transliteral": "ḥă-mê-šeṯ", "traducao_palavra": "cinco" },
+        { "hebraico": "אֲלָפִים֙", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "רֹ֔חַב", "transliteral": "rō-ḥaḇ", "traducao_palavra": "[de] largura" },
+        { "hebraico": "וְאֹ֗רֶךְ", "transliteral": "wə-ʾō-reḵ", "traducao_palavra": "e comprimento de" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "לְעֻמַּ֖ת", "transliteral": "lə-ʿum-maṯ", "traducao_palavra": "ao lado de/paralelo a" },
+        { "hebraico": "תְּרוּמַ֣ת", "transliteral": "tə-rū-maṯ", "traducao_palavra": "a oferta alçada de" },
+        { "hebraico": "הַקֹּ֑דֶשׁ", "transliteral": "haq-qō-ḏeš", "traducao_palavra": "o santuário [porção santa]" },
+        { "hebraico": "לְכָל־בֵּ֥ית", "transliteral": "lə-ḵāl-bêṯ", "traducao_palavra": "para toda a casa de" },
+        { "hebraico": "יִשְׂרָאֵ֖ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "יִהְיֶֽה׃", "transliteral": "yih-yeh", "traducao_palavra": "será" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E o príncipe terá a sua porção deste e do outro lado da santa oferta alçada e da possessão da cidade, defronte da oferta alçada da porção santa e defronte da possessão da cidade, ao lado ocidental para o ocidente, e ao lado oriental para o oriente; e o comprimento corresponderá a uma das porções, desde o termo ocidental até o termo oriental.",
+      "palavras": [
+        { "hebraico": "וְלַנָּשִׂ֡יא", "transliteral": "wə-lan-nā-śî", "traducao_palavra": "e para o príncipe [será]" },
+        { "hebraico": "מִזֶּ֣ה", "transliteral": "miz-zeh", "traducao_palavra": "deste lado" },
+        { "hebraico": "וּמִזֶּה֩", "transliteral": "ū-miz-zeh", "traducao_palavra": "e daquele lado" },
+        { "hebraico": "לִתְרֽוּמַת־הַקֹּ֜דֶשׁ", "transliteral": "liṯ-rū-maṯ-haq-qō-ḏeš", "traducao_palavra": "da oferta santa" },
+        { "hebraico": "וְלַאֲחֻזַּ֣ת", "transliteral": "wə-la-ʾă-ḥuz-zaṯ", "traducao_palavra": "e da possessão de" },
+        { "hebraico": "הָעִ֗יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "אֶל־פְּנֵ֤י", "transliteral": "ʾel-pə-nê", "traducao_palavra": "defronte de" },
+        { "hebraico": "תְרֽוּמַת־הַקֹּ֙דֶשׁ֙", "transliteral": "ṯə-rū-maṯ-haq-qō-ḏeš", "traducao_palavra": "a oferta santa" },
+        { "hebraico": "וְאֶל־פְּנֵי֙", "transliteral": "wə-ʾel-pə-nê", "traducao_palavra": "e defronte de" },
+        { "hebraico": "אֲחֻזַּ֣ת", "transliteral": "ʾă-ḥuz-zaṯ", "traducao_palavra": "a possessão de" },
+        { "hebraico": "הָעִ֔יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "מִפְּאַת־יָ֣ם", "transliteral": "mip-pə-ʾaṯ-yām", "traducao_palavra": "do lado ocidental" },
+        { "hebraico": "יָ֔מָּה", "transliteral": "yām-mā", "traducao_palavra": "para o ocidente" },
+        { "hebraico": "וּמִפְּאַת־קֵ֥דְמָה", "transliteral": "ū-mip-pə-ʾaṯ-qê-ḏə-mā", "traducao_palavra": "e do lado oriental" },
+        { "hebraico": "קָדִ֖ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "para o oriente" },
+        { "hebraico": "וְאֹ֣רֶךְ", "transliteral": "wə-ʾō-reḵ", "traducao_palavra": "e o comprimento" },
+        { "hebraico": "לְעֻמֹּ֗ות", "transliteral": "lə-ʿum-môṯ", "traducao_palavra": "correspondente a" },
+        { "hebraico": "אַחַ֤ד", "transliteral": "ʾa-ḥaḏ", "traducao_palavra": "uma de" },
+        { "hebraico": "הַחֲלָקִים֙", "transliteral": "ha-ḥă-lā-qîm", "traducao_palavra": "as porções" },
+        { "hebraico": "מִגְּב֥וּל", "transliteral": "mig-gə-ḇūl", "traducao_palavra": "desde o termo" },
+        { "hebraico": "יָ֖ם", "transliteral": "yām", "traducao_palavra": "ocidental" },
+        { "hebraico": "עַד־גְּב֥וּל", "transliteral": "ʿaḏ-gə-ḇūl", "traducao_palavra": "até o termo" },
+        { "hebraico": "קָדִֽימָה׃", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Quanto à terra, esta será a sua possessão em Israel; e os meus príncipes nunca mais oprimirão o meu povo; antes darão a terra à casa de Israel, conforme as suas tribos.",
+      "palavras": [
+        { "hebraico": "לָאָ֕רֶץ", "transliteral": "lā-ʾā-reṣ", "traducao_palavra": "quanto à terra" },
+        { "hebraico": "יִֽהְיֶה־לֹּ֥ו", "transliteral": "yih-yeh-llô", "traducao_palavra": "será para ele" },
+        { "hebraico": "לַאֲחֻזָּ֖ה", "transliteral": "la-ʾă-ḥuz-zā", "traducao_palavra": "por possessão" },
+        { "hebraico": "בְּיִשְׂרָאֵ֑ל", "transliteral": "bə-yiś-rā-ʾēl", "traducao_palavra": "em Israel" },
+        { "hebraico": "וְלֹא־יֹונ֨וּ", "transliteral": "wə-lō-yô-nū", "traducao_palavra": "e não oprimirão" },
+        { "hebraico": "עֹ֤וד", "transliteral": "ʿôḏ", "traducao_palavra": "mais" },
+        { "hebraico": "נְשִׂיאַי֙", "transliteral": "nə-śî-ʾay", "traducao_palavra": "meus príncipes" },
+        { "hebraico": "אֶת־עַמִּ֔י", "transliteral": "ʾeṯ-ʿam-mî", "traducao_palavra": "o meu povo" },
+        { "hebraico": "וְהָאָ֕רֶץ", "transliteral": "wə-hā-ʾā-reṣ", "traducao_palavra": "e a terra" },
+        { "hebraico": "יִתְּנ֥וּ", "transliteral": "yit-tə-nū", "traducao_palavra": "darão" },
+        { "hebraico": "לְבֵֽית־יִשְׂרָאֵ֖ל", "transliteral": "lə-ḇêṯ-yiś-rā-ʾēl", "traducao_palavra": "à casa de Israel" },
+        { "hebraico": "לְשִׁבְטֵיהֶֽם׃", "transliteral": "lə-šiḇ-ṭê-hem", "traducao_palavra": "conforme as suas tribos" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Assim diz o Senhor YHWH: Basta-vos já, ó príncipes de Israel; afastai a violência e a assolação, e praticai o juízo e a justiça; tirai as vossas exações do meu povo, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "כֹּה־אָמַ֞ר", "transliteral": "kōh-ʾā-mar", "traducao_palavra": "assim diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִ֗ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "רַב־לָכֶם֙", "transliteral": "raḇ-lā-ḵem", "traducao_palavra": "basta-vos" },
+        { "hebraico": "נְשִׂיאֵ֣י", "transliteral": "nə-śî-ʾê", "traducao_palavra": "ó príncipes de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "חָמָ֤ס", "transliteral": "ḥā-mās", "traducao_palavra": "a violência" },
+        { "hebraico": "וָשֹׁד֙", "transliteral": "wā-šōḏ", "traducao_palavra": "e a destruição" },
+        { "hebraico": "הָסִ֔ירוּ", "transliteral": "hā-sî-rū", "traducao_palavra": "afastai" },
+        { "hebraico": "וּמִשְׁפָּ֥ט", "transliteral": "ū-miš-pāṭ", "traducao_palavra": "e juízo" },
+        { "hebraico": "וּצְדָקָ֖ה", "transliteral": "ū-ṣə-ḏā-qā", "traducao_palavra": "e justiça" },
+        { "hebraico": "עֲשׂ֑וּ", "transliteral": "ʿă-śū", "traducao_palavra": "praticai" },
+        { "hebraico": "הָרִ֤ימוּ", "transliteral": "hā-rî-mū", "traducao_palavra": "tirai/cessai" },
+        { "hebraico": "גְרֻשֹֽׁתֵיכֶם֙", "transliteral": "ḡə-ru-šō-ṯê-ḵem", "traducao_palavra": "as vossas desapropriações/exações" },
+        { "hebraico": "מֵעַ֣ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "עַמִּ֔י", "transliteral": "ʿam-mî", "traducao_palavra": "o meu povo" },
+        { "hebraico": "נְאֻ֖ם", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "אֲדֹנָ֥י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Balanças justas, efa justo e bato justo tereis.",
+      "palavras": [
+        { "hebraico": "מֹֽאזְנֵי־צֶ֧דֶק", "transliteral": "mō-zə-nê-ṣe-ḏeq", "traducao_palavra": "balanças de justiça" },
+        { "hebraico": "וְאֵֽיפַת־צֶ֛דֶק", "transliteral": "wə-ʾê-p̄aṯ-ṣe-ḏeq", "traducao_palavra": "e efa de justiça" },
+        { "hebraico": "וּבַת־צֶ֖דֶק", "transliteral": "ū-ḇaṯ-ṣe-ḏeq", "traducao_palavra": "e bato de justiça" },
+        { "hebraico": "יְהִ֥י", "transliteral": "yə-hî", "traducao_palavra": "terá/será" },
+        { "hebraico": "לָכֶֽם׃", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "O efa e o bato serão duma mesma medida, de maneira que o bato contenha a décima parte do hômer, e o efa a décima parte do hômer; a sua medida será conforme o hômer.",
+      "palavras": [
+        { "hebraico": "הָאֵיפָ֣ה", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "וְהַבַּ֗ת", "transliteral": "wə-hab-baṯ", "traducao_palavra": "e o bato" },
+        { "hebraico": "מַתְכֹּ֤נֶת", "transliteral": "maṯ-kō-neṯ", "traducao_palavra": "medida/proporção" },
+        { "hebraico": "אַחַת֙", "transliteral": "ʾa-ḥaṯ", "traducao_palavra": "uma só" },
+        { "hebraico": "יִֽהְיֶ֔ה", "transliteral": "yih-yeh", "traducao_palavra": "terão" },
+        { "hebraico": "לָשֵׂ֥את", "transliteral": "lā-śêṯ", "traducao_palavra": "para conter" },
+        { "hebraico": "מַעְשַׂ֥ר", "transliteral": "maʿ-śar", "traducao_palavra": "o décimo de" },
+        { "hebraico": "הַחֹ֖מֶר", "transliteral": "ha-ḥō-mer", "traducao_palavra": "o hômer" },
+        { "hebraico": "הַבָּ֑ת", "transliteral": "hab-bāṯ", "traducao_palavra": "o bato" },
+        { "hebraico": "וַעֲשִׂירִ֤ת", "transliteral": "wa-ʿă-śî-riṯ", "traducao_palavra": "e o décimo de" },
+        { "hebraico": "הַחֹ֙מֶר֙", "transliteral": "ha-ḥō-mer", "traducao_palavra": "o hômer" },
+        { "hebraico": "הָֽאֵיפָ֔ה", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "אֶל־הַחֹ֖מֶר", "transliteral": "ʾel-ha-ḥō-mer", "traducao_palavra": "conforme o hômer" },
+        { "hebraico": "יִהְיֶ֥ה", "transliteral": "yih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "מַתְכֻּנְתֹּֽו׃", "transliteral": "maṯ-kun-tô", "traducao_palavra": "a sua medida/padrão" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E o siclo será de vinte geras; vinte siclos, vinte e cinco siclos e quinze siclos vos serão uma mina.",
+      "palavras": [
+        { "hebraico": "וְהַשֶּׁ֖קֶל", "transliteral": "wə-haš-še-qel", "traducao_palavra": "e o siclo" },
+        { "hebraico": "עֶשְׂרִ֣ים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "גֵּרָ֑ה", "transliteral": "gê-rā", "traducao_palavra": "geras" },
+        { "hebraico": "עֶשְׂרִ֨ים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "שְׁקָלִ֜ים", "transliteral": "šə-qā-lîm", "traducao_palavra": "siclos" },
+        { "hebraico": "חֲמִשָּׁ֧ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֣ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "שְׁקָלִ֗ים", "transliteral": "šə-qā-lîm", "traducao_palavra": "siclos" },
+        { "hebraico": "עֲשָׂרָ֤ה", "transliteral": "ʿă-śā-rā", "traducao_palavra": "dez" },
+        { "hebraico": "וַחֲמִשָּׁה֙", "transliteral": "wa-ḥă-miš-šā", "traducao_palavra": "e cinco" },
+        { "hebraico": "שֶׁ֔קֶל", "transliteral": "še-qel", "traducao_palavra": "siclos" },
+        { "hebraico": "הַמָּנֶ֖ה", "transliteral": "ham-mā-neh", "traducao_palavra": "a mina" },
+        { "hebraico": "יִהְיֶ֥ה", "transliteral": "yih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "לָכֶֽם׃", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Esta é a oferta alçada que haveis de oferecer: a sexta parte de um efa de um hômer de trigo; também dareis a sexta parte de um efa de um hômer de cevada.",
+      "palavras": [
+        { "hebraico": "זֹ֥את", "transliteral": "zōʾṯ", "traducao_palavra": "esta [é]" },
+        { "hebraico": "הַתְּרוּמָ֖ה", "transliteral": "hat-tə-rū-mā", "traducao_palavra": "a oferta alçada" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "תָּרִ֑ימוּ", "transliteral": "tā-rî-mū", "traducao_palavra": "oferecereis" },
+        { "hebraico": "שִׁשִּׁ֤ית", "transliteral": "šiš-šîṯ", "traducao_palavra": "a sexta parte de" },
+        { "hebraico": "הָֽאֵיפָה֙", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "מֵחֹ֣מֶר", "transliteral": "mê-ḥō-mer", "traducao_palavra": "de um hômer de" },
+        { "hebraico": "הַֽחִטִּ֔ים", "transliteral": "ha-ḥiṭ-ṭîm", "traducao_palavra": "o trigo" },
+        { "hebraico": "וְשִׁשִּׁיתֶם֙", "transliteral": "wə-šiš-šî-ṯem", "traducao_palavra": "e dareis a sexta parte de" },
+        { "hebraico": "הָֽאֵיפָ֔ה", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "מֵחֹ֖מֶר", "transliteral": "mê-ḥō-mer", "traducao_palavra": "de um hômer de" },
+        { "hebraico": "הַשְּׂעֹרִֽים׃", "transliteral": "haś-śə-ʿō-rîm", "traducao_palavra": "a cevada" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E a prescrição para o azeite, para o bato de azeite: a décima parte de um bato de um coro, que é dez batos, ou seja, um hômer; porque dez batos fazem um hômer.",
+      "palavras": [
+        { "hebraico": "וְחֹ֨ק", "transliteral": "wə-ḥōq", "traducao_palavra": "e a porção prescrita de" },
+        { "hebraico": "הַשֶּׁ֜מֶן", "transliteral": "haš-še-men", "traducao_palavra": "o azeite" },
+        { "hebraico": "הַבַּ֣ת", "transliteral": "hab-baṯ", "traducao_palavra": "o bato de" },
+        { "hebraico": "הַשֶּׁ֗מֶן", "transliteral": "haš-še-men", "traducao_palavra": "o azeite" },
+        { "hebraico": "מַעְשַׂ֤ר", "transliteral": "maʿ-śar", "traducao_palavra": "a décima parte de" },
+        { "hebraico": "הַבַּת֙", "transliteral": "hab-baṯ", "traducao_palavra": "o bato" },
+        { "hebraico": "מִן־הַכֹּ֔ר", "transliteral": "min-hak-kōr", "traducao_palavra": "de um coro" },
+        { "hebraico": "עֲשֶׂ֥רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "הַבַּתִּ֖ים", "transliteral": "hab-bat-tîm", "traducao_palavra": "batos" },
+        { "hebraico": "חֹ֑מֶר", "transliteral": "ḥō-mer", "traducao_palavra": "[são] um hômer" },
+        { "hebraico": "כִּי־עֲשֶׂ֥רֶת", "transliteral": "kî-ʿă-śe-reṯ", "traducao_palavra": "porque dez" },
+        { "hebraico": "הַבַּתִּ֖ים", "transliteral": "hab-bat-tîm", "traducao_palavra": "batos" },
+        { "hebraico": "חֹֽמֶר׃", "transliteral": "ḥō-mer", "traducao_palavra": "[são] um hômer" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E um cordeiro do rebanho, de cada duzentos, das pastagens regadas de Israel, para oferta de cereais, e para holocausto, e para sacrifícios pacíficos, para fazer expiação por eles, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְשֶׂה־אַחַ֨ת", "transliteral": "wə-śeh-ʾa-ḥaṯ", "traducao_palavra": "e um cordeiro" },
+        { "hebraico": "מִן־הַצֹּ֤אן", "transliteral": "min-haṣ-ṣōʾn", "traducao_palavra": "do rebanho" },
+        { "hebraico": "מִן־הַמָּאתַ֙יִם֙", "transliteral": "min-ham-mā-ṯa-yim", "traducao_palavra": "de duzentos" },
+        { "hebraico": "מִמַּשְׁקֵ֣ה", "transliteral": "mim-maš-qê", "traducao_palavra": "das pastagens regadas de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "לְמִנְחָ֥ה", "transliteral": "lə-min-ḥā", "traducao_palavra": "para oferta de cereais" },
+        { "hebraico": "וּלְעֹלָ֖ה", "transliteral": "ū-lə-ʿō-lā", "traducao_palavra": "e para holocausto" },
+        { "hebraico": "וְלִשְׁלָמִ֑ים", "transliteral": "wə-liš-lā-mîm", "traducao_palavra": "e para ofertas pacíficas" },
+        { "hebraico": "לְכַפֵּ֣ר", "transliteral": "lə-ḵap-pêr", "traducao_palavra": "para fazer expiação" },
+        { "hebraico": "עֲלֵיהֶ֔ם", "transliteral": "ʿă-lê-hem", "traducao_palavra": "por eles" },
+        { "hebraico": "נְאֻ֖ם", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "אֲדֹנָ֥י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Todo o povo da terra participará desta oferta alçada para o príncipe em Israel.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ל", "transliteral": "kōl", "traducao_palavra": "todo" },
+        { "hebraico": "הָעָ֣ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo de" },
+        { "hebraico": "הָאָ֔רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "יִהְי֖וּ", "transliteral": "yih-yū", "traducao_palavra": "estarão [comprometidos]" },
+        { "hebraico": "אֶל־הַתְּרוּמָ֣ה", "transliteral": "ʾel-hat-tə-rū-mā", "traducao_palavra": "com a oferta alçada" },
+        { "hebraico": "הַזֹּ֑את", "transliteral": "haz-zōʾṯ", "traducao_palavra": "esta" },
+        { "hebraico": "לַנָּשִׂ֖יא", "transliteral": "lan-nā-śî", "traducao_palavra": "para o príncipe" },
+        { "hebraico": "בְּיִשְׂרָאֵֽל׃", "transliteral": "bə-yiś-rā-ʾēl", "traducao_palavra": "em Israel" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E estará a cargo do príncipe prover os holocaustos, as ofertas de cereais e as libações nas festas, nas luas novas e nos sábados, em todas as solenidades da casa de Israel; ele proverá a oferta pelo pecado, a oferta de cereais, o holocausto e os sacrifícios pacíficos, para fazer expiação pela casa de Israel.",
+      "palavras": [
+        { "hebraico": "וְעַֽל־הַנָּשִׂ֣יא", "transliteral": "wə-ʿal-han-nā-śî", "traducao_palavra": "e sobre o príncipe" },
+        { "hebraico": "יִֽהְיֶ֗ה", "transliteral": "yih-yeh", "traducao_palavra": "será [a obrigação]" },
+        { "hebraico": "הָעֹולֹות֙", "transliteral": "hā-ʿô-lôṯ", "traducao_palavra": "os holocaustos" },
+        { "hebraico": "וְהַמִּנְחָ֣ה", "transliteral": "wə-ham-min-ḥā", "traducao_palavra": "e a oferta de cereais" },
+        { "hebraico": "וְהַנֵּ֔סֶךְ", "transliteral": "wə-han-nē-seḵ", "traducao_palavra": "e a libação" },
+        { "hebraico": "בַּחַגִּ֥ים", "transliteral": "ba-ḥag-gîm", "traducao_palavra": "nas festas" },
+        { "hebraico": "וּבֶחֳדָשִׁ֖ים", "transliteral": "ū-ḇe-ḥo-ḏā-šîm", "traducao_palavra": "e nas luas novas" },
+        { "hebraico": "וּבַשַּׁבָּתֹ֑ות", "transliteral": "ū-ḇaš-šab-bā-ṯôṯ", "traducao_palavra": "e nos sábados" },
+        { "hebraico": "בְּכָל־מֹועֲדֵי֙", "transliteral": "bə-ḵāl-mô-ʿă-ḏê", "traducao_palavra": "em todas as festas fixas de" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "הֽוּא־יַעֲשֶׂ֞ה", "transliteral": "hū-ya-ʿă-śeh", "traducao_palavra": "ele proverá/preparará" },
+        { "hebraico": "אֶת־הַחַטָּ֣את", "transliteral": "ʾeṯ-ha-ḥaṭ-ṭāṯ", "traducao_palavra": "a oferta pelo pecado" },
+        { "hebraico": "וְאֶת־הַמִּנְחָ֗ה", "transliteral": "wə-ʾeṯ-ham-min-ḥā", "traducao_palavra": "e a oferta de cereais" },
+        { "hebraico": "וְאֶת־הָעֹולָה֙", "transliteral": "wə-ʾeṯ-hā-ʿô-lā", "traducao_palavra": "e o holocausto" },
+        { "hebraico": "וְאֶת־הַשְּׁלָמִ֔ים", "transliteral": "wə-ʾeṯ-haš-šə-lā-mîm", "traducao_palavra": "e os sacrifícios pacíficos" },
+        { "hebraico": "לְכַפֵּ֖ר", "transliteral": "lə-ḵap-pêr", "traducao_palavra": "para fazer expiação" },
+        { "hebraico": "בְּעַ֥ד", "transliteral": "bə-ʿaḏ", "traducao_palavra": "por" },
+        { "hebraico": "בֵּֽית־יִשְׂרָאֵֽל׃", "transliteral": "bêṯ-yiś-rā-ʾēl", "traducao_palavra": "a casa de Israel" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Assim diz o Senhor YHWH: No primeiro mês, no primeiro dia do mês, tomarás um novilho sem defeito e purificarás o santuário.",
+      "palavras": [
+        { "hebraico": "כֹּֽה־אָמַר֘", "transliteral": "kōh-ʾā-mar", "traducao_palavra": "assim diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה֒", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בָּֽרִאשֹׁון֙", "transliteral": "bā-ri-šôn", "traducao_palavra": "no primeiro [mês]" },
+        { "hebraico": "בְּאֶחָ֣ד", "transliteral": "bə-ʾe-ḥāḏ", "traducao_palavra": "no primeiro [dia]" },
+        { "hebraico": "לַחֹ֔דֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "תִּקַּ֥ח", "transliteral": "tiq-qaḥ", "traducao_palavra": "tomarás" },
+        { "hebraico": "פַּר־בֶּן־בָּקָ֖ר", "transliteral": "par-ben-bā-qār", "traducao_palavra": "um novilho [da manada]" },
+        { "hebraico": "תָּמִ֑ים", "transliteral": "tā-mîm", "traducao_palavra": "sem defeito" },
+        { "hebraico": "וְחִטֵּאתָ֖", "transliteral": "wə-ḥiṭ-ṭê-ṯā", "traducao_palavra": "e purificarás do pecado" },
+        { "hebraico": "אֶת־הַמִּקְדָּֽשׁ׃", "transliteral": "ʾeṯ-ham-miq-dāš", "traducao_palavra": "o santuário" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E o sacerdote tomará do sangue da oferta pelo pecado e o porá nos umbrais da casa, e nos quatro cantos da saliência do altar, e nos umbrais da porta do átrio interior.",
+      "palavras": [
+        { "hebraico": "וְלָקַ֧ח", "transliteral": "wə-lā-qaḥ", "traducao_palavra": "e tomará" },
+        { "hebraico": "הַכֹּהֵ֛ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "מִדַּ֥ם", "transliteral": "mid-dam", "traducao_palavra": "do sangue de" },
+        { "hebraico": "הַחַטָּ֖את", "transliteral": "ha-ḥaṭ-ṭāṯ", "traducao_palavra": "a oferta pelo pecado" },
+        { "hebraico": "וְנָתַ֞ן", "transliteral": "wə-nā-ṯan", "traducao_palavra": "e porá" },
+        { "hebraico": "אֶל־מְזוּזַ֣ת", "transliteral": "ʾel-mə-zū-zaṯ", "traducao_palavra": "sobre o umbral de" },
+        { "hebraico": "הַבַּ֗יִת", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "וְאֶל־אַרְבַּע֙", "transliteral": "wə-ʾel-ʾar-baʿ", "traducao_palavra": "e sobre os quatro" },
+        { "hebraico": "פִּנֹּ֣ות", "transliteral": "pin-nôṯ", "traducao_palavra": "cantos de" },
+        { "hebraico": "הָעֲזָרָ֔ה", "transliteral": "hā-ʿă-zā-rā", "traducao_palavra": "a saliência/rebordo" },
+        { "hebraico": "לַמִּזְבֵּ֑חַ", "transliteral": "lam-miz-bê-aḥ", "traducao_palavra": "do altar" },
+        { "hebraico": "וְעַ֨ל־מְזוּזַ֔ת", "transliteral": "wə-ʿal-mə-zū-zaṯ", "traducao_palavra": "e sobre o umbral de" },
+        { "hebraico": "שַׁ֖עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "הֶחָצֵ֥ר", "transliteral": "he-ḥā-ṣêr", "traducao_palavra": "o átrio" },
+        { "hebraico": "הַפְּנִימִֽית׃", "transliteral": "hap-pə-nî-mîṯ", "traducao_palavra": "interior" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Assim também farás no sétimo dia do mês, por todo aquele que erra por ignorância ou por simplicidade; assim fareis expiação pela casa.",
+      "palavras": [
+        { "hebraico": "וְכֵ֧ן", "transliteral": "wə-ḵên", "traducao_palavra": "e assim" },
+        { "hebraico": "תַּעֲשֶׂ֛ה", "transliteral": "ta-ʿă-śeh", "traducao_palavra": "farás" },
+        { "hebraico": "בְּשִׁבְעָ֥ה", "transliteral": "bə-šiḇ-ʿā", "traducao_palavra": "no sétimo [dia]" },
+        { "hebraico": "בַחֹ֖דֶשׁ", "transliteral": "ḇa-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "מֵאִ֣ישׁ", "transliteral": "mê-ʾîš", "traducao_palavra": "por causa de quem" },
+        { "hebraico": "שֹׁגֶ֣ה", "transliteral": "šō-ḡeh", "traducao_palavra": "erra" },
+        { "hebraico": "וּמִפֶּ֑תִי", "transliteral": "ū-mip-pe-ṯî", "traducao_palavra": "e por ignorância/simplicidade" },
+        { "hebraico": "וְכִפַּרְתֶּ֖ם", "transliteral": "wə-ḵip-par-tem", "traducao_palavra": "e fareis expiação por" },
+        { "hebraico": "אֶת־הַבָּֽיִת׃", "transliteral": "ʾeṯ-hab-bā-yiṯ", "traducao_palavra": "a casa" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "No primeiro mês, no dia catorze do mês, tereis a páscoa, uma festa de sete dias; pães ázimos se comerão.",
+      "palavras": [
+        { "hebraico": "בָּֽרִאשֹׁ֗ון", "transliteral": "bā-ri-šôn", "traducao_palavra": "no primeiro [mês]" },
+        { "hebraico": "בְּאַרְבָּעָ֧ה", "transliteral": "bə-ʾar-bā-ʿā", "traducao_palavra": "aos quatro" },
+        { "hebraico": "עָשָׂ֛ר", "transliteral": "ʿā-śār", "traducao_palavra": "dez [catorze]" },
+        { "hebraico": "יֹ֖ום", "transliteral": "yôm", "traducao_palavra": "dias" },
+        { "hebraico": "לַחֹ֑דֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "יִהְיֶ֨ה", "transliteral": "yih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "לָכֶ֜ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "הַפָּ֗סַח", "transliteral": "hap-pā-saḥ", "traducao_palavra": "a páscoa" },
+        { "hebraico": "חָ֚ג", "transliteral": "ḥāḡ", "traducao_palavra": "festa de" },
+        { "hebraico": "שְׁבֻעֹ֣ות", "transliteral": "šə-ḇu-ʿôṯ", "traducao_palavra": "sete" },
+        { "hebraico": "יָמִ֔ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "מַצֹּ֖ות", "transliteral": "maṣ-ṣôṯ", "traducao_palavra": "pães ázimos" },
+        { "hebraico": "יֵאָכֵֽל׃", "transliteral": "yê-ʾā-ḵêl", "traducao_palavra": "se comerá" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E naquele dia o príncipe proverá, por si e por todo o povo da terra, um novilho como oferta pelo pecado.",
+      "palavras": [
+        { "hebraico": "וְעָשָׂ֤ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e proverá/preparará" },
+        { "hebraico": "הַנָּשִׂיא֙", "transliteral": "han-nā-śî", "traducao_palavra": "o príncipe" },
+        { "hebraico": "בַּיֹּ֣ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַה֔וּא", "transliteral": "hah-hū", "traducao_palavra": "aquele" },
+        { "hebraico": "בַּעֲדֹ֕ו", "transliteral": "ba-ʿă-ḏô", "traducao_palavra": "por si mesmo" },
+        { "hebraico": "וּבְעַ֖ד", "transliteral": "ū-ḇə-ʿaḏ", "traducao_palavra": "e por" },
+        { "hebraico": "כָּל־עַ֣ם", "transliteral": "kāl-ʿam", "traducao_palavra": "todo o povo de" },
+        { "hebraico": "הָאָ֑רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "פַּ֖ר", "transliteral": "par", "traducao_palavra": "um novilho de" },
+        { "hebraico": "חַטָּֽאת׃", "transliteral": "ḥaṭ-ṭāṯ", "traducao_palavra": "oferta pelo pecado" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E nos sete dias da festa preparará em holocausto a YHWH sete novilhos e sete carneiros sem defeito, cada dia durante os sete dias; e um bode cada dia como oferta pelo pecado.",
+      "palavras": [
+        { "hebraico": "וְשִׁבְעַ֨ת", "transliteral": "wə-šiḇ-ʿaṯ", "traducao_palavra": "e nos sete" },
+        { "hebraico": "יְמֵֽי־הֶחָ֜ג", "transliteral": "yə-mê-he-ḥāḡ", "traducao_palavra": "dias da festa" },
+        { "hebraico": "יַֽעֲשֶׂ֧ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "preparará" },
+        { "hebraico": "עֹולָ֣ה", "transliteral": "ʿô-lā", "traducao_palavra": "holocausto" },
+        { "hebraico": "לַֽיהוָ֗ה", "transliteral": "lay-hwā", "traducao_palavra": "para YHWH" },
+        { "hebraico": "שִׁבְעַ֣ת", "transliteral": "šiḇ-ʿaṯ", "traducao_palavra": "sete" },
+        { "hebraico": "פָּ֠רִים", "transliteral": "pā-rîm", "traducao_palavra": "novilhos" },
+        { "hebraico": "וְשִׁבְעַ֨ת", "transliteral": "wə-šiḇ-ʿaṯ", "traducao_palavra": "e sete" },
+        { "hebraico": "אֵילִ֚ים", "transliteral": "ʾê-lîm", "traducao_palavra": "carneiros" },
+        { "hebraico": "תְּמִימִם֙", "transliteral": "tə-mî-mim", "traducao_palavra": "sem defeito" },
+        { "hebraico": "לַיֹּ֔ום", "transliteral": "lay-yôm", "traducao_palavra": "por dia" },
+        { "hebraico": "שִׁבְעַ֖ת", "transliteral": "šiḇ-ʿaṯ", "traducao_palavra": "nos sete" },
+        { "hebraico": "הַיָּמִ֑ים", "transliteral": "hay-yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "וְחַטָּ֕את", "transliteral": "wə-ḥaṭ-ṭāṯ", "traducao_palavra": "e como oferta pelo pecado" },
+        { "hebraico": "שְׂעִ֥יר", "transliteral": "śə-ʿîr", "traducao_palavra": "um bode de" },
+        { "hebraico": "עִזִּ֖ים", "transliteral": "ʿiz-zîm", "traducao_palavra": "cabras" },
+        { "hebraico": "לַיֹּֽום׃", "transliteral": "lay-yôm", "traducao_palavra": "por dia" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Também preparará uma oferta de cereais: um efa para cada novilho e um efa para cada carneiro, e um him de azeite para cada efa.",
+      "palavras": [
+        { "hebraico": "וּמִנְחָ֗ה", "transliteral": "ū-min-ḥā", "traducao_palavra": "e oferta de cereais" },
+        { "hebraico": "אֵיפָ֥ה", "transliteral": "ʾê-p̄ā", "traducao_palavra": "um efa" },
+        { "hebraico": "לַפָּ֛ר", "transliteral": "lap-pār", "traducao_palavra": "para o novilho" },
+        { "hebraico": "וְאֵיפָ֥ה", "transliteral": "wə-ʾê-p̄ā", "traducao_palavra": "e um efa" },
+        { "hebraico": "לָאַ֖יִל", "transliteral": "lā-ʾa-yil", "traducao_palavra": "para o carneiro" },
+        { "hebraico": "יַֽעֲשֶׂ֑ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "preparará" },
+        { "hebraico": "וְשֶׁ֖מֶן", "transliteral": "wə-še-men", "traducao_palavra": "e azeite" },
+        { "hebraico": "הִ֥ין", "transliteral": "hîn", "traducao_palavra": "um him" },
+        { "hebraico": "לָאֵיפָֽה׃", "transliteral": "lā-ʾê-p̄ā", "traducao_palavra": "para cada efa" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "No sétimo mês, no décimo quinto dia do mês, na festa, fará o mesmo durante sete dias, tanto para a oferta pelo pecado como para o holocausto, e para a oferta de cereais e para o azeite.",
+      "palavras": [
+        { "hebraico": "בַּשְּׁבִיעִ֡י", "transliteral": "baš-šə-ḇî-ʿî", "traducao_palavra": "no sétimo [mês]" },
+        { "hebraico": "בַּחֲמִשָּׁה֩", "transliteral": "ba-ḥă-miš-šā", "traducao_palavra": "aos cinco" },
+        { "hebraico": "עָשָׂ֨ר", "transliteral": "ʿā-śār", "traducao_palavra": "dez [quinze]" },
+        { "hebraico": "יֹ֥ום", "transliteral": "yôm", "traducao_palavra": "dias" },
+        { "hebraico": "לַחֹ֛דֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "בֶּחָ֖ג", "transliteral": "be-ḥāḡ", "traducao_palavra": "na festa" },
+        { "hebraico": "יַעֲשֶׂ֣ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "fará" },
+        { "hebraico": "כָאֵ֑לֶּה", "transliteral": "ḵā-ʾêl-leh", "traducao_palavra": "como estas [ofertas]" },
+        { "hebraico": "שִׁבְעַ֣ת", "transliteral": "šiḇ-ʿaṯ", "traducao_palavra": "pelos sete" },
+        { "hebraico": "הַיָּמִ֔ים", "transliteral": "hay-yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "כַּֽחַטָּאת֙", "transliteral": "ka-ḥaṭ-ṭāṯ", "traducao_palavra": "conforme a oferta pelo pecado" },
+        { "hebraico": "כָּעֹלָ֔ה", "transliteral": "kā-ʿō-lā", "traducao_palavra": "conforme o holocausto" },
+        { "hebraico": "וְכַמִּנְחָ֖ה", "transliteral": "wə-ḵam-min-ḥā", "traducao_palavra": "e conforme a oferta de cereais" },
+        { "hebraico": "וְכַשָּֽׁמֶן׃", "transliteral": "wə-ḵaš-šā-men", "traducao_palavra": "e conforme o azeite" }
+      ]
+    }
+  }
 }

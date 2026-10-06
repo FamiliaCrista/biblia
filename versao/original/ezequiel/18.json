@@ -2,5 +2,588 @@
   "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
   "capítulo": 18,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Veio a mim a palavra de YHWH, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾē-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Que tendes vós, vós que proferis este provérbio acerca da terra de Israel, dizendo: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram?",
+      "palavras": [
+        { "hebraico": "מַה־לָּכֶ֗ם", "transliteral": "mah-lā-ḵem", "traducao_palavra": "que tendes vós" },
+        { "hebraico": "אַתֶּם֙", "transliteral": "ʾat-tem", "traducao_palavra": "vós" },
+        { "hebraico": "מֹֽשְׁלִים֙", "transliteral": "mō-šə-lîm", "traducao_palavra": "proferis provérbio" },
+        { "hebraico": "אֶת־הַמָּשָׁ֣ל", "transliteral": "ʾeṯ-ham-mā-šāl", "traducao_palavra": "o provérbio" },
+        { "hebraico": "הַזֶּ֔ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "עַל־אַדְמַ֥ת", "transliteral": "ʿal-ʾaḏ-maṯ", "traducao_palavra": "acerca da terra de" },
+        { "hebraico": "יִשְׂרָאֵ֖ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "אָבֹות֙", "transliteral": "ʾā-ḇôṯ", "traducao_palavra": "os pais" },
+        { "hebraico": "יֹ֣אכְלוּ", "transliteral": "yō-ḵə-lû", "traducao_palavra": "comeram" },
+        { "hebraico": "בֹ֔סֶר", "transliteral": "ḇō-ser", "traducao_palavra": "uvas verdes" },
+        { "hebraico": "וְשִׁנֵּ֥י", "transliteral": "wə-šin-nê", "traducao_palavra": "e os dentes de" },
+        { "hebraico": "הַבָּנִ֖ים", "transliteral": "hab-bā-nîm", "traducao_palavra": "os filhos" },
+        { "hebraico": "תִּקְהֶֽינָה׃", "transliteral": "tiq-he-nā", "traducao_palavra": "se embotaram" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Vivo eu, diz o Senhor YHWH, que nunca mais tereis ocasião de proferir este provérbio em Israel.",
+      "palavras": [
+        { "hebraico": "חַי־אָ֕נִי", "transliteral": "ḥay-ʾā-nî", "traducao_palavra": "vivo eu" },
+        { "hebraico": "נְאֻ֖ם", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de / diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אִם־יִהְיֶ֨ה", "transliteral": "ʾim-yih-yeh", "traducao_palavra": "certamente não haverá" },
+        { "hebraico": "לָכֶ֜ם", "transliteral": "lā-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "עֹ֗וד", "transliteral": "ʿôḏ", "traducao_palavra": "mais" },
+        { "hebraico": "מְשֹׁ֛ל", "transliteral": "mə-šōl", "traducao_palavra": "o proferir" },
+        { "hebraico": "הַמָּשָׁ֥ל", "transliteral": "ham-mā-šāl", "traducao_palavra": "o provérbio" },
+        { "hebraico": "הַזֶּ֖ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "בְּיִשְׂרָאֵֽל׃", "transliteral": "bə-yiś-rā-ʾēl", "traducao_palavra": "em Israel" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Eis que todas as almas são minhas; como a alma do pai, assim também a alma do filho é minha; a alma que pecar, essa morrerá.",
+      "palavras": [
+        { "hebraico": "הֵ֤ן", "transliteral": "hên", "traducao_palavra": "eis que" },
+        { "hebraico": "כָּל־הַנְּפָשֹׁות֙", "transliteral": "kāl-han-nə-p̄ā-šôṯ", "traducao_palavra": "todas as almas" },
+        { "hebraico": "לִ֣י", "transliteral": "lî", "traducao_palavra": "a mim [pertencem]" },
+        { "hebraico": "הֵ֔נָּה", "transliteral": "hên-nā", "traducao_palavra": "elas" },
+        { "hebraico": "כְּנֶ֤פֶשׁ", "transliteral": "kə-ne-p̄eš", "traducao_palavra": "como a alma de" },
+        { "hebraico": "הָאָב֙", "transliteral": "hā-ʾāḇ", "traducao_palavra": "o pai" },
+        { "hebraico": "וּכְנֶ֣פֶשׁ", "transliteral": "ū-ḵə-ne-p̄eš", "traducao_palavra": "e como a alma de" },
+        { "hebraico": "הַבֵּ֔ן", "transliteral": "hab-bên", "traducao_palavra": "o filho" },
+        { "hebraico": "לִי־הֵ֖נָּה", "transliteral": "lî-hên-nā", "traducao_palavra": "a mim [pertencem] elas" },
+        { "hebraico": "הַנֶּ֥פֶשׁ", "transliteral": "han-ne-p̄eš", "traducao_palavra": "a alma" },
+        { "hebraico": "הַחֹטֵ֖את", "transliteral": "ha-ḥō-ṭêṯ", "traducao_palavra": "que pecar" },
+        { "hebraico": "הִ֥יא", "transliteral": "hî", "traducao_palavra": "ela" },
+        { "hebraico": "תָמֽוּת׃", "transliteral": "tā-mûṯ", "traducao_palavra": "morrerá" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Sendo, pois, o homem justo, e praticando juízo e justiça,",
+      "palavras": [
+        { "hebraico": "וְאִ֖ישׁ", "transliteral": "wə-ʾîš", "traducao_palavra": "e o homem" },
+        { "hebraico": "כִּֽי־יִהְיֶ֣ה", "transliteral": "kî-yih-yeh", "traducao_palavra": "se for" },
+        { "hebraico": "צַדִּ֑יק", "transliteral": "ṣad-dîq", "traducao_palavra": "justo" },
+        { "hebraico": "וְעָשָׂ֥ה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e praticar" },
+        { "hebraico": "מִשְׁפָּ֖ט", "transliteral": "miš-pāṭ", "traducao_palavra": "juízo" },
+        { "hebraico": "וּצְדָקָֽה׃", "transliteral": "ū-ṣə-ḏā-qā", "traducao_palavra": "e justiça" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Não comendo sobre os montes, nem levantando os seus olhos para os ídolos da casa de Israel, nem contaminando a mulher do seu próximo, nem se chegando à mulher na sua separação,",
+      "palavras": [
+        { "hebraico": "אֶל־הֶֽהָרִים֙", "transliteral": "ʾel-he-hā-rîm", "traducao_palavra": "sobre os montes" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אָכָ֔ל", "transliteral": "ʾā-ḵāl", "traducao_palavra": "comeu" },
+        { "hebraico": "וְעֵינָיו֙", "transliteral": "wə-ʿê-nāyw", "traducao_palavra": "e seus olhos" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "נָשָׂ֔א", "transliteral": "nā-śā", "traducao_palavra": "levantou" },
+        { "hebraico": "אֶל־גִּלּוּלֵ֖י", "transliteral": "ʾel-gil-lû-lê", "traducao_palavra": "para os ídolos de" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וְאֶת־אֵ֤שֶׁת", "transliteral": "wə-ʾeṯ-ʾê-šeṯ", "traducao_palavra": "e a mulher de" },
+        { "hebraico": "רֵעֵ֙הוּ֙", "transliteral": "rē-ʿê-hû", "traducao_palavra": "seu próximo" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "טִמֵּ֔א", "transliteral": "ṭim-mē", "traducao_palavra": "contaminou" },
+        { "hebraico": "וְאֶל־אִשָּׁ֥ה", "transliteral": "wə-ʾel-ʾiš-šā", "traducao_palavra": "e a mulher" },
+        { "hebraico": "נִדָּ֖ה", "transliteral": "nid-dā", "traducao_palavra": "impura/em separação" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִקְרָֽב׃", "transliteral": "yiq-rāḇ", "traducao_palavra": "se aproximou" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Não oprimindo a ninguém, tornando ao devedor o seu penhor, não praticando roubo, repartindo o seu pão com o faminto, e cobrindo ao nu com roupa,",
+      "palavras": [
+        { "hebraico": "וְאִישׁ֙", "transliteral": "wə-ʾîš", "traducao_palavra": "e a ninguém" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יֹונֶ֔ה", "transliteral": "yô-neh", "traducao_palavra": "oprimiu" },
+        { "hebraico": "חֲבֹלָתֹ֥ו", "transliteral": "ḥă-ḇō-lā-ṯô", "traducao_palavra": "seu penhor" },
+        { "hebraico": "חֹ֖וב", "transliteral": "ḥôḇ", "traducao_palavra": "de dívida/ao devedor" },
+        { "hebraico": "יָשִׁ֑יב", "transliteral": "yā-šîḇ", "traducao_palavra": "restituiu" },
+        { "hebraico": "גְּזֵלָה֙", "transliteral": "gə-zê-lā", "traducao_palavra": "roubo" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִגְזֹ֔ל", "transliteral": "yiḡ-zōl", "traducao_palavra": "cometeu" },
+        { "hebraico": "לַחְמֹו֙", "transliteral": "laḥ-mô", "traducao_palavra": "seu pão" },
+        { "hebraico": "לְרָעֵ֣ב", "transliteral": "lə-rā-ʿēḇ", "traducao_palavra": "ao faminto" },
+        { "hebraico": "יִתֵּ֔ן", "transliteral": "yit-tên", "traducao_palavra": "deu" },
+        { "hebraico": "וְעֵירֹ֖ם", "transliteral": "wə-ʿê-rōm", "traducao_palavra": "e ao nu" },
+        { "hebraico": "יְכַסֶּה־בָּֽגֶד׃", "transliteral": "yə-ḵas-seh-bā-ḡeḏ", "traducao_palavra": "cobriu com veste" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Não dando o seu dinheiro à usura, e não recebendo juros, desviando a sua mão da injustiça, e fazendo verdadeiro juízo entre homem e homem,",
+      "palavras": [
+        { "hebraico": "בַּנֶּ֣שֶׁךְ", "transliteral": "ban-ne-šeḵ", "traducao_palavra": "a juros/usura" },
+        { "hebraico": "לֹֽא־יִתֵּ֗ן", "transliteral": "lō-yit-tên", "traducao_palavra": "não emprestou" },
+        { "hebraico": "וְתַרְבִּית֙", "transliteral": "wə-ṯar-bîṯ", "traducao_palavra": "e acréscimo/juros" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִקָּ֔ח", "transliteral": "yiq-qāḥ", "traducao_palavra": "tomou" },
+        { "hebraico": "מֵעָ֖וֶל", "transliteral": "mê-ʿā-wel", "traducao_palavra": "da injustiça" },
+        { "hebraico": "יָשִׁ֣יב", "transliteral": "yā-šîḇ", "traducao_palavra": "desviou" },
+        { "hebraico": "יָדֹ֑ו", "transliteral": "yā-ḏô", "traducao_palavra": "sua mão" },
+        { "hebraico": "מִשְׁפַּ֤ט", "transliteral": "miš-paṭ", "traducao_palavra": "juízo de" },
+        { "hebraico": "אֱמֶת֙", "transliteral": "ʾĕ-meṯ", "traducao_palavra": "verdade" },
+        { "hebraico": "יַֽעֲשֶׂ֔ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "praticou" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "אִ֖ישׁ", "transliteral": "ʾîš", "traducao_palavra": "homem" },
+        { "hebraico": "לְאִֽישׁ׃", "transliteral": "lə-ʾîš", "traducao_palavra": "e homem" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Andando nos meus estatutos, e guardando os meus juízos, para agir segundo a verdade; esse é justo, certamente viverá, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "בְּחֻקֹּותַ֧י", "transliteral": "bə-ḥuq-qô-ṯay", "traducao_palavra": "nos meus estatutos" },
+        { "hebraico": "יְהַלֵּ֛ךְ", "transliteral": "yə-hal-lêḵ", "traducao_palavra": "andou" },
+        { "hebraico": "וּמִשְׁפָּטַ֥י", "transliteral": "ū-miš-pā-ṭay", "traducao_palavra": "e os meus juízos" },
+        { "hebraico": "שָׁמַ֖ר", "transliteral": "šā-mar", "traducao_palavra": "guardou" },
+        { "hebraico": "לַעֲשֹׂ֣ות", "transliteral": "la-ʿă-śôṯ", "traducao_palavra": "para agir com" },
+        { "hebraico": "אֱמֶ֑ת", "transliteral": "ʾĕ-meṯ", "traducao_palavra": "verdade" },
+        { "hebraico": "צַדִּ֥יק", "transliteral": "ṣad-dîq", "traducao_palavra": "justo" },
+        { "hebraico": "ה֛וּא", "transliteral": "hû", "traducao_palavra": "[é] ele" },
+        { "hebraico": "חָיֹ֥ה", "transliteral": "ḥā-yōh", "traducao_palavra": "certamente" },
+        { "hebraico": "יִֽחְיֶ֖ה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" },
+        { "hebraico": "נְאֻ֥ם", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de / diz" },
+        { "hebraico": "אֲדֹנָ֥י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E se ele gerar um filho violento, derramador de sangue, que fizer a um irmão qualquer uma destas coisas,",
+      "palavras": [
+        { "hebraico": "וְהֹולִ֥יד", "transliteral": "wə-hô-lîḏ", "traducao_palavra": "e se gerar" },
+        { "hebraico": "בֵּן־פָּרִ֖יץ", "transliteral": "bên-pā-rîṣ", "traducao_palavra": "um filho violento" },
+        { "hebraico": "שֹׁפֵ֣ךְ", "transliteral": "šō-p̄êḵ", "traducao_palavra": "derramador de" },
+        { "hebraico": "דָּ֑ם", "transliteral": "dām", "traducao_palavra": "sangue" },
+        { "hebraico": "וְעָ֣שָׂה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e fizer" },
+        { "hebraico": "אָ֔ח", "transliteral": "ʾāḥ", "traducao_palavra": "a um irmão" },
+        { "hebraico": "מֵאַחַ֖ד", "transliteral": "mê-ʾa-ḥaḏ", "traducao_palavra": "qualquer uma" },
+        { "hebraico": "מֵאֵֽלֶּה׃", "transliteral": "mê-ʾēl-leh", "traducao_palavra": "destas coisas" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E ele não cumprir nenhum daqueles deveres, mas comer sobre os montes, e contaminar a mulher do seu próximo,",
+      "palavras": [
+        { "hebraico": "וְה֣וּא", "transliteral": "wə-hû", "traducao_palavra": "e ele" },
+        { "hebraico": "אֶת־כָּל־אֵ֖לֶּה", "transliteral": "ʾeṯ-kāl-ʾēl-leh", "traducao_palavra": "todas estas coisas" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "עָשָׂ֑ה", "transliteral": "ʿā-śā", "traducao_palavra": "praticou" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "antes" },
+        { "hebraico": "גַ֤ם", "transliteral": "gam", "traducao_palavra": "também" },
+        { "hebraico": "אֶל־הֶֽהָרִים֙", "transliteral": "ʾel-he-hā-rîm", "traducao_palavra": "sobre os montes" },
+        { "hebraico": "אָכַ֔ל", "transliteral": "ʾā-ḵāl", "traducao_palavra": "comeu" },
+        { "hebraico": "וְאֶת־אֵ֥שֶׁת", "transliteral": "wə-ʾeṯ-ʾê-šeṯ", "traducao_palavra": "e a mulher de" },
+        { "hebraico": "רֵעֵ֖הוּ", "transliteral": "rē-ʿê-hû", "traducao_palavra": "seu próximo" },
+        { "hebraico": "טִמֵּֽא׃", "transliteral": "ṭim-mē", "traducao_palavra": "contaminou" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Oprimir ao aflito e necessitado, praticar roubos, não restituir o penhor, e levantar os seus olhos aos ídolos, cometendo abominação,",
+      "palavras": [
+        { "hebraico": "עָנִ֤י", "transliteral": "ʿā-nî", "traducao_palavra": "ao pobre" },
+        { "hebraico": "וְאֶבְיֹון֙", "transliteral": "wə-ʾeḇ-yôn", "traducao_palavra": "e necessitado" },
+        { "hebraico": "הֹונָ֔ה", "transliteral": "hô-nā", "traducao_palavra": "oprimiu" },
+        { "hebraico": "גְּזֵלֹ֣ות", "transliteral": "gə-zê-lôṯ", "traducao_palavra": "roubos" },
+        { "hebraico": "גָּזָ֔ל", "transliteral": "gā-zāl", "traducao_palavra": "cometeu" },
+        { "hebraico": "חֲבֹ֖ל", "transliteral": "ḥă-ḇōl", "traducao_palavra": "penhor" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָשִׁ֑יב", "transliteral": "yā-šîḇ", "traducao_palavra": "restituiu" },
+        { "hebraico": "וְאֶל־הַגִּלּוּלִים֙", "transliteral": "wə-ʾel-hag-gil-lû-lîm", "traducao_palavra": "e aos ídolos" },
+        { "hebraico": "נָשָׂ֣א", "transliteral": "nā-śā", "traducao_palavra": "levantou" },
+        { "hebraico": "עֵינָ֔יו", "transliteral": "ʿê-nāyw", "traducao_palavra": "seus olhos" },
+        { "hebraico": "תֹּועֵבָ֖ה", "transliteral": "tô-ʿê-ḇā", "traducao_palavra": "abominação" },
+        { "hebraico": "עָשָֽׂה׃", "transliteral": "ʿā-śā", "traducao_palavra": "praticou" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Emprestar com usura, e tomar juros; porventura viverá? Não viverá; fez todas estas abominações, certamente morrerá; o seu sangue será sobre ele.",
+      "palavras": [
+        { "hebraico": "בַּנֶּ֧שֶׁךְ", "transliteral": "ban-ne-šeḵ", "traducao_palavra": "com usura" },
+        { "hebraico": "נָתַ֛ן", "transliteral": "nā-ṯan", "traducao_palavra": "emprestou" },
+        { "hebraico": "וְתַרְבִּ֥ית", "transliteral": "wə-ṯar-bîṯ", "traducao_palavra": "e juros" },
+        { "hebraico": "לָקַ֖ח", "transliteral": "lā-qaḥ", "traducao_palavra": "tomou" },
+        { "hebraico": "וָחָ֑י", "transliteral": "wā-ḥāy", "traducao_palavra": "e viverá ele?" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִֽחְיֶ֗ה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" },
+        { "hebraico": "אֵ֣ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־הַתֹּועֵבֹ֤ות", "transliteral": "kāl-hat-tô-ʿê-ḇôṯ", "traducao_palavra": "todas as abominações" },
+        { "hebraico": "הָאֵ֙לֶּה֙", "transliteral": "hā-ʾēl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "עָשָׂ֔ה", "transliteral": "ʿā-śā", "traducao_palavra": "praticou" },
+        { "hebraico": "מֹ֣ות", "transliteral": "môṯ", "traducao_palavra": "certamente" },
+        { "hebraico": "יוּמָ֔ת", "transliteral": "yû-māṯ", "traducao_palavra": "morrerá" },
+        { "hebraico": "דָּמָ֖יו", "transliteral": "dā-māyw", "traducao_palavra": "seu sangue" },
+        { "hebraico": "בֹּ֥ו", "transliteral": "bô", "traducao_palavra": "sobre ele" },
+        { "hebraico": "יִהְיֶֽה׃", "transliteral": "yih-yeh", "traducao_palavra": "será" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E eis que, se este gerar um filho que veja todos os pecados que seu pai fez, e, vendo-os, não cometer coisas semelhantes,",
+      "palavras": [
+        { "hebraico": "וְהִנֵּה֙", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "הֹולִ֣יד", "transliteral": "hô-lîḏ", "traducao_palavra": "gerou" },
+        { "hebraico": "בֵּ֔ן", "transliteral": "bên", "traducao_palavra": "um filho" },
+        { "hebraico": "וַיַּ֕רְא", "transliteral": "way-yar", "traducao_palavra": "e viu" },
+        { "hebraico": "אֶת־כָּל־חַטֹּ֥את", "transliteral": "ʾeṯ-kāl-ḥaṭ-ṭōṯ", "traducao_palavra": "todos os pecados de" },
+        { "hebraico": "אָבִ֖יו", "transliteral": "ʾā-ḇîw", "traducao_palavra": "seu pai" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂ֑ה", "transliteral": "ʿā-śā", "traducao_palavra": "cometeu" },
+        { "hebraico": "וַיִּרְאֶ֕ה", "transliteral": "way-yir-ʾeh", "traducao_palavra": "e viu" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יַעֲשֶׂ֖ה", "transliteral": "ya-ʿă-śeh", "traducao_palavra": "fez" },
+        { "hebraico": "כְּהֵֽן׃", "transliteral": "kə-hên", "traducao_palavra": "como tais coisas" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Não comendo sobre os montes, nem levantando os seus olhos para os ídolos da casa de Israel, nem contaminando a mulher do seu próximo,",
+      "palavras": [
+        { "hebraico": "עַל־הֶֽהָרִים֙", "transliteral": "ʿal-he-hā-rîm", "traducao_palavra": "sobre os montes" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אָכָ֔ל", "transliteral": "ʾā-ḵāl", "traducao_palavra": "comeu" },
+        { "hebraico": "וְעֵינָיו֙", "transliteral": "wə-ʿê-nāyw", "traducao_palavra": "e seus olhos" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "נָשָׂ֔א", "transliteral": "nā-śā", "traducao_palavra": "levantou" },
+        { "hebraico": "אֶל־גִּלּוּלֵ֖י", "transliteral": "ʾel-gil-lû-lê", "traducao_palavra": "para os ídolos de" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "אֶת־אֵ֥שֶׁת", "transliteral": "ʾeṯ-ʾê-šeṯ", "traducao_palavra": "a mulher de" },
+        { "hebraico": "רֵעֵ֖הוּ", "transliteral": "rē-ʿê-hû", "traducao_palavra": "seu próximo" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "טִמֵּֽא׃", "transliteral": "ṭim-mē", "traducao_palavra": "contaminou" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Não oprimindo a ninguém, não retendo o penhor, não praticando roubo, repartindo o seu pão com o faminto, e cobrindo ao nu com roupa,",
+      "palavras": [
+        { "hebraico": "וְאִישׁ֙", "transliteral": "wə-ʾîš", "traducao_palavra": "e a ninguém" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "הֹונָ֔ה", "transliteral": "hô-nā", "traducao_palavra": "oprimiu" },
+        { "hebraico": "חֲבֹל֙", "transliteral": "ḥă-ḇōl", "traducao_palavra": "penhor" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "חָבָ֔ל", "transliteral": "ḥā-ḇāl", "traducao_palavra": "reteve/tomou" },
+        { "hebraico": "וּגְזֵלָ֖ה", "transliteral": "ū-ḡə-zê-lā", "traducao_palavra": "e roubo" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "גָזָ֑ל", "transliteral": "gā-zāl", "traducao_palavra": "cometeu" },
+        { "hebraico": "לַחְמֹו֙", "transliteral": "laḥ-mô", "traducao_palavra": "seu pão" },
+        { "hebraico": "לְרָעֵ֣ב", "transliteral": "lə-rā-ʿēḇ", "traducao_palavra": "ao faminto" },
+        { "hebraico": "נָתָ֔ן", "transliteral": "nā-ṯān", "traducao_palavra": "deu" },
+        { "hebraico": "וְעֵרֹ֖ום", "transliteral": "wə-ʿê-rôm", "traducao_palavra": "e ao nu" },
+        { "hebraico": "כִּסָּה־בָֽגֶד׃", "transliteral": "kis-sā-ḇā-ḡeḏ", "traducao_palavra": "cobriu com veste" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Desviando a sua mão da injustiça, não recebendo usura nem juros, executando os meus juízos, andando nos meus estatutos; o tal não morrerá pela iniquidade de seu pai; certamente viverá.",
+      "palavras": [
+        { "hebraico": "מֵעָנִ֞י", "transliteral": "mē-ʿā-nî", "traducao_palavra": "do pobre/afastando a mão" },
+        { "hebraico": "הֵשִׁיב", "transliteral": "hê-šîḇ", "traducao_palavra": "desviou" },
+        { "hebraico": "יָדֹו", "transliteral": "yā-ḏô", "traducao_palavra": "sua mão" },
+        { "hebraico": "נֶשֶׁךְ", "transliteral": "ne-šeḵ", "traducao_palavra": "usura" },
+        { "hebraico": "וְתַרְבִּית", "transliteral": "wə-ṯar-bîṯ", "traducao_palavra": "e juros" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "לָקָח", "transliteral": "lā-qaḥ", "traducao_palavra": "recebeu" },
+        { "hebraico": "מִשְׁפָּטַי", "transliteral": "miš-pā-ṭay", "traducao_palavra": "meus juízos" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "praticou" },
+        { "hebraico": "בְּחֻקֹּותַי", "transliteral": "bə-ḥuq-qō-ṯay", "traducao_palavra": "nos meus estatutos" },
+        { "hebraico": "הָלָךְ", "transliteral": "hā-lāḵ", "traducao_palavra": "andou" },
+        { "hebraico": "הוּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָמוּת", "transliteral": "yā-mûṯ", "traducao_palavra": "morrerá" },
+        { "hebraico": "בְּעֲוֹן", "transliteral": "bə-ʿă-wōn", "traducao_palavra": "pela iniquidade de" },
+        { "hebraico": "אָבִיו", "transliteral": "ʾā-ḇîw", "traducao_palavra": "seu pai" },
+        { "hebraico": "חָיֹה", "transliteral": "ḥā-yōh", "traducao_palavra": "certamente" },
+        { "hebraico": "יִֽחְיֶה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Quanto ao seu pai, porque praticou opressão, roubou o irmão, e fez o que não era bom no meio do seu povo, eis que ele morrerá na sua iniquidade.",
+      "palavras": [
+        { "hebraico": "אָבִ֞יו", "transliteral": "ʾā-ḇîw", "traducao_palavra": "quanto ao seu pai" },
+        { "hebraico": "כִּֽי־עָשַׁ֣ק", "transliteral": "kî-ʿā-šaq", "traducao_palavra": "porque oprimiu" },
+        { "hebraico": "עֹשֶׁק", "transliteral": "ʿō-šeq", "traducao_palavra": "com opressão" },
+        { "hebraico": "וְגָזַל", "transliteral": "wə-ḡā-zal", "traducao_palavra": "e roubou" },
+        { "hebraico": "גֵּזֶל", "transliteral": "gē-zel", "traducao_palavra": "o irmão/o roubo" },
+        { "hebraico": "אָח", "transliteral": "ʾāḥ", "traducao_palavra": "irmão" },
+        { "hebraico": "וַאֲשֶׁר", "transliteral": "wa-ʾă-šer", "traducao_palavra": "e o que" },
+        { "hebraico": "לֹא־טֹוב", "transliteral": "lō-ṭôḇ", "traducao_palavra": "não era bom" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "fez" },
+        { "hebraico": "בְּתֹ֣וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "עַמָּו", "transliteral": "ʿam-māw", "traducao_palavra": "seu povo" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "מֵ֥ת", "transliteral": "mēṯ", "traducao_palavra": "morrerá" },
+        { "hebraico": "בְּעֲוֹנֹו", "transliteral": "bə-ʿă-wō-nô", "traducao_palavra": "na sua iniquidade" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Mas dizeis: Por que não levará o filho a iniquidade do pai? Porque o filho fez juízo e justiça, guardou todos os meus estatutos, e os praticou, certamente viverá.",
+      "palavras": [
+        { "hebraico": "וַאֲמַרְתֶּ֗ם", "transliteral": "wa-ʾă-mar-tem", "traducao_palavra": "mas dizeis" },
+        { "hebraico": "מַדּ֤וּעַ", "transliteral": "mad-dû-aʿ", "traducao_palavra": "por que" },
+        { "hebraico": "לֹא־נָשָׂא", "transliteral": "lō-nā-śā", "traducao_palavra": "não levará" },
+        { "hebraico": "הַבֵּן", "transliteral": "hab-bên", "traducao_palavra": "o filho" },
+        { "hebraico": "בְּעֲוֹן", "transliteral": "bə-ʿă-wôn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "הָאָב", "transliteral": "hā-ʾāḇ", "traducao_palavra": "o pai" },
+        { "hebraico": "וְהַבֵּן", "transliteral": "wə-hab-bên", "traducao_palavra": "mas o filho" },
+        { "hebraico": "מִשְׁפָּט", "transliteral": "miš-pāṭ", "traducao_palavra": "juízo" },
+        { "hebraico": "וּצְדָקָה", "transliteral": "ū-ṣə-ḏā-qā", "traducao_palavra": "e justiça" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "praticou" },
+        { "hebraico": "אֵת", "transliteral": "ʾēṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "כָּל־חֻקֹּותַי", "transliteral": "kāl-ḥuq-qō-ṯay", "traducao_palavra": "todos os meus estatutos" },
+        { "hebraico": "שָׁמַר", "transliteral": "šā-mar", "traducao_palavra": "guardou" },
+        { "hebraico": "וַיַּעֲשֶׂה", "transliteral": "way-ya-ʿă-śeh", "traducao_palavra": "e os praticou" },
+        { "hebraico": "חָיֹה", "transliteral": "ḥā-yōh", "traducao_palavra": "certamente" },
+        { "hebraico": "יִֽחְיֶה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "A alma que pecar, essa morrerá; o filho não levará a iniquidade do pai, nem o pai levará a iniquidade do filho; a justiça do justo ficará sobre ele, e a impiedade do ímpio cairá sobre ele.",
+      "palavras": [
+        { "hebraico": "הַנֶּ֥פֶשׁ", "transliteral": "han-ne-p̄eš", "traducao_palavra": "a alma" },
+        { "hebraico": "הַחֹטְאֶ֖ת", "transliteral": "ha-ḥōṭ-ʾeṯ", "traducao_palavra": "que pecar" },
+        { "hebraico": "הִ֥יא", "transliteral": "hî", "traducao_palavra": "essa" },
+        { "hebraico": "תָּמֽוּת", "transliteral": "tā-mûṯ", "traducao_palavra": "morrerá" },
+        { "hebraico": "בֵּ֣ן", "transliteral": "bên", "traducao_palavra": "o filho" },
+        { "hebraico": "לֹא־יִשָּׂא", "transliteral": "lō-yiś-śā", "traducao_palavra": "não levará" },
+        { "hebraico": "בְּעֲוֹן", "transliteral": "bə-ʿă-wôn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "הָאָב", "transliteral": "hā-ʾāḇ", "traducao_palavra": "o pai" },
+        { "hebraico": "וְאָב", "transliteral": "wə-ʾāḇ", "traducao_palavra": "e o pai" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִשָּׂא", "transliteral": "yiś-śā", "traducao_palavra": "levará" },
+        { "hebraico": "בְּעֲוֹן", "transliteral": "bə-ʿă-wôn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "הַבֵּ֑ן", "transliteral": "hab-bên", "traducao_palavra": "o filho" },
+        { "hebraico": "צִדְקַ֤ת", "transliteral": "ṣiḏ-qaṯ", "traducao_palavra": "a justiça do" },
+        { "hebraico": "הַצַּדִּיק", "transliteral": "haṣ-ṣad-dîq", "traducao_palavra": "justo" },
+        { "hebraico": "עָלָיו", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele [ficará]" },
+        { "hebraico": "תִּהְיֶה", "transliteral": "tih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "וְרִשְׁעַ֥ת", "transliteral": "wə-riš-ʿaṯ", "traducao_palavra": "e a impiedade do" },
+        { "hebraico": "רָשָׁע", "transliteral": "rā-šāʿ", "traducao_palavra": "ímpio" },
+        { "hebraico": "עָלָיו", "transliteral": "ʿā-lāw", "traducao_palavra": "sobre ele [cairá]" },
+        { "hebraico": "תִּהְיֶֽה׃", "transliteral": "tih-yeh", "traducao_palavra": "será" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "Mas, se o ímpio se converter de todos os pecados que cometeu, e guardar todos os meus estatutos, e fizer juízo e justiça, certamente viverá; não morrerá.",
+      "palavras": [
+        { "hebraico": "וְהָרָשָׁ֗ע", "transliteral": "wə-hā-rā-šāʿ", "traducao_palavra": "mas o ímpio" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "se" },
+        { "hebraico": "יָשׁוּב", "transliteral": "yā-šûḇ", "traducao_palavra": "se converter" },
+        { "hebraico": "מִכָּל", "transliteral": "mik-kāl", "traducao_palavra": "de todos" },
+        { "hebraico": "חַטֹּאותָיו", "transliteral": "ḥaṭ-ṭō-ʾā-ṯāw", "traducao_palavra": "seus pecados" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "cometeu" },
+        { "hebraico": "וְשָׁמַר", "transliteral": "wə-šā-mar", "traducao_palavra": "e guardar" },
+        { "hebraico": "אֶת־כָּל־חֻקֹּותַי", "transliteral": "ʾeṯ-kāl-ḥuq-qō-ṯay", "traducao_palavra": "todos os meus estatutos" },
+        { "hebraico": "וְעָשָׂה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e fizer" },
+        { "hebraico": "מִשְׁפָּט", "transliteral": "miš-pāṭ", "traducao_palavra": "juízo" },
+        { "hebraico": "וּצְדָקָה", "transliteral": "ū-ṣə-ḏā-qā", "traducao_palavra": "e justiça" },
+        { "hebraico": "חָיֹ֥ה", "transliteral": "ḥā-yōh", "traducao_palavra": "certamente" },
+        { "hebraico": "יִֽחְיֶ֖ה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָמֽוּת׃", "transliteral": "yā-mûṯ", "traducao_palavra": "morrerá" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "De todas as transgressões que cometeu não haverá lembrança contra ele; pela justiça que praticou, viverá.",
+      "palavras": [
+        { "hebraico": "כָּל־פְּשָׁעָיו", "transliteral": "kāl-pə-šā-ʿāw", "traducao_palavra": "todas as transgressões dele" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂ֖ה", "transliteral": "ʿā-śā", "traducao_palavra": "cometeu" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִזָּכְרוּ", "transliteral": "yiz-zā-ḵə-rû", "traducao_palavra": "serão lembradas" },
+        { "hebraico": "לֹו", "transliteral": "lô", "traducao_palavra": "contra ele" },
+        { "hebraico": "בְּצִדְקָתֹו", "transliteral": "bə-ṣiḏ-qā-ṯô", "traducao_palavra": "pela sua justiça" },
+        { "hebraico": "אֲשֶׁr", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂ֥ה", "transliteral": "ʿā-śā", "traducao_palavra": "praticou" },
+        { "hebraico": "יִֽחְיֶֽה׃", "transliteral": "yih-yeh", "traducao_palavra": "viverá" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "Desejaria eu, de qualquer maneira, a morte do ímpio? diz o Senhor YHWH; não é antes que se converta dos seus caminhos, e viva?",
+      "palavras": [
+        { "hebraico": "הֶחָפֹ֤ץ", "transliteral": "he-ḥā-p̄ōṣ", "traducao_palavra": "desejaria" },
+        { "hebraico": "אֶחְפֹּץ", "transliteral": "ʾeḥ-p̄ōṣ", "traducao_palavra": "desejaria" },
+        { "hebraico": "מֹ֥ות", "transliteral": "môṯ", "traducao_palavra": "a morte" },
+        { "hebraico": "רָשָׁ֖ע", "transliteral": "rā-šāʿ", "traducao_palavra": "do ímpio" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הֲלֹ֥וא", "transliteral": "hă-lô", "traducao_palavra": "porventura não" },
+        { "hebraico": "בְּשׁוּבֹ֖ו", "transliteral": "bə-šû-ḇô", "traducao_palavra": "é antes que se converta" },
+        { "hebraico": "עַל־דְּרָכָ֖יו", "transliteral": "ʿal-də-rā-ḵāw", "traducao_palavra": "dos seus caminhos" },
+        { "hebraico": "וְחָיָֽה׃", "transliteral": "wə-ḥā-yā", "traducao_palavra": "e viva" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Mas, desviando-se o justo da sua justiça, e cometendo iniquidade, fazendo conforme todas as abominações que faz o ímpio, viverá ele? De todas as suas justiças que tiver feito não se fará memória; na sua transgressão com que transgrediu, e no seu pecado com que pecou, neles morrerá.",
+      "palavras": [
+        { "hebraico": "וּבְשׁוּב", "transliteral": "ū-ḇə-šûḇ", "traducao_palavra": "mas desviando-se" },
+        { "hebraico": "צַדִּיק", "transliteral": "ṣad-dîq", "traducao_palavra": "o justo" },
+        { "hebraico": "מִצִּדְקָתֹו", "transliteral": "miṣ-ṣiḏ-qā-ṯô", "traducao_palavra": "da sua justiça" },
+        { "hebraico": "וְעָשָׂה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e cometendo" },
+        { "hebraico": "עָוֶל", "transliteral": "ʿā-wel", "traducao_palavra": "iniquidade" },
+        { "hebraico": "כְּכֹל", "transliteral": "kə-ḵōl", "traducao_palavra": "conforme todas" },
+        { "hebraico": "הַתֹּועֵבֹות", "transliteral": "hat-tô-ʿê-ḇôṯ", "traducao_palavra": "as abominações" },
+        { "hebraico": "אֲשֶׁר־עָשָׂה", "transliteral": "ʾă-šer-ʿā-śā", "traducao_palavra": "que cometeu" },
+        { "hebraico": "הָרָשָׁע", "transliteral": "hā-rā-šāʿ", "traducao_palavra": "o ímpio" },
+        { "hebraico": "הַיִחְיֶה", "transliteral": "hay-yih-yeh", "traducao_palavra": "viverá ele?" },
+        { "hebraico": "כָּל־צִדְקֹתָתֹו", "transliteral": "kāl-ṣiḏ-qō-ṯā-yw", "traducao_palavra": "toda a sua justiça" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "fez" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תִּזָּכֶרְנָה", "transliteral": "tiz-zā-ḵer-nā", "traducao_palavra": "serão lembradas" },
+        { "hebraico": "בְּמַעֲלֹכֹו", "transliteral": "bə-ma-ʿă-lō-wō", "traducao_palavra": "na sua transgressão" },
+        { "hebraico": "אֲשֶׁר־מָעַל", "transliteral": "ʾă-šer-mā-ʿal", "traducao_palavra": "com que transgrediu" },
+        { "hebraico": "וּבְחַטָּאתֹו", "transliteral": "ū-ḇə-ḥaṭ-ṭā-ṯô", "traducao_palavra": "e no seu pecado" },
+        { "hebraico": "אֲשֶׁר־חָטָא", "transliteral": "ʾă-šer-ḥā-ṭā", "traducao_palavra": "com que pecou" },
+        { "hebraico": "בָּם", "transliteral": "bām", "traducao_palavra": "neles" },
+        { "hebraico": "יָמוּת", "transliteral": "yā-mûṯ", "traducao_palavra": "morrerá" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "Contudo, vós dizeis: O caminho do Senhor não é direito. Ouvi, agora, ó casa de Israel: Não é direito o meu caminho? Não são os vossos caminhos torcidos?",
+      "palavras": [
+        { "hebraico": "וַאֲמַרְתֶּם", "transliteral": "wa-ʾă-mar-tem", "traducao_palavra": "contudo vós dizeis" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִתָּכֵן", "transliteral": "yit-tā-ḵēn", "traducao_palavra": "é direito" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "o caminho do" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "Senhor" },
+        { "hebraico": "שִׁמְעוּ־נָא", "transliteral": "šim-ʿû-nā", "traducao_palavra": "ouvi agora" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "הַדַּרְכִי", "transliteral": "had-dar-ḵî", "traducao_palavra": "o meu caminho" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִכָּכֵן", "transliteral": "yik-kā-ḵēn", "traducao_palavra": "é direito" },
+        { "hebraico": "הֲלֹא", "transliteral": "hă-lô", "traducao_palavra": "porventura não" },
+        { "hebraico": "דַּרְכֵיכֶם", "transliteral": "dar-ḵê-ḵem", "traducao_palavra": "os vossos caminhos" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִכָּקֵנוּ", "transliteral": "yik-kā-qe-nû", "traducao_palavra": "são torcidos" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "Desviando-se o justo da sua justiça, e cometendo iniquidade, morrerá por ela; na iniquidade que cometeu, morrerá.",
+      "palavras": [
+        { "hebraico": "בְּשׁוּב־צַדִּיק", "transliteral": "bə-šûḇ-ṣad-dîq", "traducao_palavra": "desviando-se o justo" },
+        { "hebraico": "מִצִּדְקָתֹו", "transliteral": "miṣ-ṣiḏ-qā-ṯô", "traducao_palavra": "da sua justiça" },
+        { "hebraico": "וְעָשָׂה", "transliteral": "wə-ʿā-śā", "traducao_palavra": "e cometendo" },
+        { "hebraico": "עָוֶל", "transliteral": "ʿā-wel", "traducao_palavra": "iniquidade" },
+        { "hebraico": "וּמֵ֣ת", "transliteral": "ū-mêṯ", "traducao_palavra": "e morrerá" },
+        { "hebraico": "עָלֵיהֶם", "transliteral": "ʿā-lê-hem", "traducao_palavra": "por causa disso" },
+        { "hebraico": "בְּעַוְלֹותֹו", "transliteral": "bə-ʿaw-lō-ṯô", "traducao_palavra": "na iniquidade" },
+        { "hebraico": "אֲשֶׁר־עָשָׂה", "transliteral": "ʾă-šer-ʿā-śā", "traducao_palavra": "que cometeu" },
+        { "hebraico": "יָמוּת", "transliteral": "yā-mûṯ", "traducao_palavra": "morrerá" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Mas, convertendo-se o ímpio da maldade que cometeu, e praticando juízo e justiça, ele conservará a sua alma em vida.",
+      "palavras": [
+        { "hebraico": "וּבְשׁוּב", "transliteral": "ū-ḇə-šûḇ", "traducao_palavra": "mas convertendo-se" },
+        { "hebraico": "רָשָׁע", "transliteral": "rā-šāʿ", "traducao_palavra": "o ímpio" },
+        { "hebraico": "מֵרִשְׁעָתֹו", "transliteral": "mē-riš-ʿā-ṯô", "traducao_palavra": "da maldade" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "cometeu" },
+        { "hebraico": "וַיַּעַשׂ", "transliteral": "way-ya-ʿaś", "traducao_palavra": "e praticar" },
+        { "hebraico": "מִשְׁפָּט", "transliteral": "miš-pāṭ", "traducao_palavra": "juízo" },
+        { "hebraico": "וּצְדָקָה", "transliteral": "ū-ṣə-ḏā-qā", "traducao_palavra": "e justiça" },
+        { "hebraico": "הוּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "אֶת־נַפְשֹׁו", "transliteral": "ʾeṯ-nap̄-šô", "traducao_palavra": "a sua alma" },
+        { "hebraico": "יְחַיֶּה", "transliteral": "yə-ḥay-yeh", "traducao_palavra": "conservará em vida" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Pois, caiu em si, e se desviou de todas as suas transgressões que cometeu; certamente viverá, não morrerá.",
+      "palavras": [
+        { "hebraico": "וַיִּרְאֶה", "transliteral": "way-yir-ʾeh", "traducao_palavra": "pois viu/caiu em si" },
+        { "hebraico": "וַיָּשָׁב", "transliteral": "way-yā-šāḇ", "traducao_palavra": "e desviou-se" },
+        { "hebraico": "מִכָּל", "transliteral": "mik-kāl", "traducao_palavra": "de todas" },
+        { "hebraico": "פְשָׁעָיו", "transliteral": "p̄ə-šā-ʿāw", "traducao_palavra": "as suas transgressões" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "עָשָׂה", "transliteral": "ʿā-śā", "traducao_palavra": "cometeu" },
+        { "hebraico": "חָיֹה", "transliteral": "ḥā-yōh", "traducao_palavra": "certamente" },
+        { "hebraico": "יִֽחְיֶה", "transliteral": "yih-yeh", "traducao_palavra": "viverá" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָמוּת", "transliteral": "yā-mûṯ", "traducao_palavra": "morrerá" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "Contudo, diz a casa de Israel: O caminho do Senhor não é direito. Não são direitos os meus caminhos, ó casa de Israel? E não são torcidos os vossos caminhos?",
+      "palavras": [
+        { "hebraico": "וְאָמְרוּ", "transliteral": "wə-ʾā-mə-rû", "traducao_palavra": "e diz" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִתָּכֵן", "transliteral": "yit-tā-ḵēn", "traducao_palavra": "é direito" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "o caminho do" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "Senhor" },
+        { "hebraico": "הֲדַרְכִי", "transliteral": "hă-ḏar-ḵî", "traducao_palavra": "porventura os meus caminhos" },
+        { "hebraico": "לֹא", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יִכָּכְנוּ", "transliteral": "yik-kā-ḵə-nû", "traducao_palavra": "são direitos" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "Portanto, eu vos julgarei, a cada um conforme o seu caminho, ó casa de Israel, diz o Senhor YHWH: Convertei-vos, e apartai-vos de todas as vossas transgressões, para que a iniquidade vos não sirva de tropeço.",
+      "palavras": [
+        { "hebraico": "לָכֵן", "transliteral": "lā-ḵên", "traducao_palavra": "portanto" },
+        { "hebraico": "אִישׁ", "transliteral": "ʾîš", "traducao_palavra": "a cada um" },
+        { "hebraico": "כִּדְרָכָיו", "transliteral": "kiḏ-rā-ḵāw", "traducao_palavra": "conforme o seu caminho" },
+        { "hebraico": "אֶשְׁפֹּט", "transliteral": "ʾeš-pōwṭ", "traducao_palavra": "eu julgarei" },
+        { "hebraico": "אֶתְכֶם", "transliteral": "ʾeṯ-ḵem", "traducao_palavra": "vós" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָי", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "שׁُבוּ", "transliteral": "šû-ḇû", "traducao_palavra": "convertei-vos" },
+        { "hebraico": "וְהָשִׁיבוּ", "transliteral": "wə-hā-šî-ḇû", "traducao_palavra": "e apartai-vos" },
+        { "hebraico": "מִכָּל", "transliteral": "mik-kāl", "traducao_palavra": "de todas" },
+        { "hebraico": "פִשְׁעֵיכֶם", "transliteral": "p̄iš-ʿê-ḵem", "traducao_palavra": "vossas transgressões" },
+        { "hebraico": "וְלֹֽא", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יִהְיֶה", "transliteral": "yih-yeh", "traducao_palavra": "sirva" },
+        { "hebraico": "לָכֶם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "לְמִכְשֹׁול", "transliteral": "lə-miḵ-šôl", "traducao_palavra": "de tropeço" },
+        { "hebraico": "עָוֹן", "transliteral": "ʿā-wōn", "traducao_palavra": "a iniquidade" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "Lançai de vós todas as vossas transgressões que cometestes, e criai em vós um coração novo e um espírito novo; pois, por que morrereis, ó casa de Israel?",
+      "palavras": [
+        { "hebraico": "הַשְׁלִיכוּ", "transliteral": "haš-lî-ḵû", "traducao_palavra": "lançai" },
+        { "hebraico": "מֵעֲלֵיכֶם", "transliteral": "mē-ʿă-lê-ḵem", "traducao_palavra": "de vós" },
+        { "hebraico": "אֶת־כָּל־פִּשְׁעֵיכֶם", "transliteral": "ʾeṯ-kāl-p̄iš-ʿê-ḵem", "traducao_palavra": "todas as vossas transgressões" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "פְּשַׁעְתֶּם", "transliteral": "pə-šaʿ-tem", "traducao_palavra": "cometestes" },
+        { "hebraico": "בָּם", "transliteral": "bām", "traducao_palavra": "nelas" },
+        { "hebraico": "וַעֲשׂוּ", "transliteral": "wa-ʿă-śû", "traducao_palavra": "e fazei/criai" },
+        { "hebraico": "לָכֶם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "לֵב", "transliteral": "lēḇ", "traducao_palavra": "coração" },
+        { "hebraico": "חָדָשׁ", "transliteral": "ḥā-ḏāš", "traducao_palavra": "novo" },
+        { "hebraico": "וְרוּחַ", "transliteral": "wə-rû-aḥ", "traducao_palavra": "e espírito" },
+        { "hebraico": "חֲדָשָׁה", "transliteral": "ḥă-ḏā-šā", "traducao_palavra": "novo" },
+        { "hebraico": "וְלָמָּה", "transliteral": "wə-lām-mā", "traducao_palavra": "pois por quê" },
+        { "hebraico": "תָמֻתוּ", "transliteral": "tā-mu-ṯû", "traducao_palavra": "morrereis" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "יִשְׂרָאֵל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "Porque não tomo prazer na morte daquele que morre, diz o Senhor YHWH; convertei-vos, pois, e vivei.",
+      "palavras": [
+        { "hebraico": "כִּ֠י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לֹ֤א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֶחְפֹּץ", "transliteral": "ʾeḥ-p̄ōṣ", "traducao_palavra": "tomo prazer" },
+        { "hebraico": "בְּמֹות", "transliteral": "bə-môṯ", "traducao_palavra": "na morte" },
+        { "hebraico": "הַמֵּ֔ת", "transliteral": "ham-mêṯ", "traducao_palavra": "daquele que morre" },
+        { "hebraico": "נְאֻם", "transliteral": "nə-ʾum", "traducao_palavra": "diz" },
+        { "hebraico": "אֲדֹנָ֣י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְשֻׁ֖בוּ", "transliteral": "wə-šu-ḇû", "traducao_palavra": "convertei-vos" },
+        { "hebraico": "וִחְיֽוּ׃", "transliteral": "wih-yû", "traducao_palavra": "e vivei" }
+      ]
+    }
+  }
 }

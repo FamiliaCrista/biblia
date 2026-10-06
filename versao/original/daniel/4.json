@@ -1,6 +1,713 @@
 {
-  "livro": "Daniel - דָּנִיֵּאל - Daniyyel",
+  "livro": "Daniel - דָּנִיֵּאל - Dāniyyēʾl",
   "capítulo": 4,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Eu, Nabucodonosor, estava sossegado em minha casa e próspero no meu palácio.",
+      "palavras": [
+        { "hebraico": "אֲנָ֣ה", "transliteral": "ʾă-nāh", "traducao_palavra": "eu" },
+        { "hebraico": "נְבוּכַדְנֶצַּ֗ר", "transliteral": "nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "שְׁלֵ֤ה", "transliteral": "šə-lēh", "traducao_palavra": "sossegado/tranquilo" },
+        { "hebraico": "הֲוֵית֙", "transliteral": "hă-wêṯ", "traducao_palavra": "estava" },
+        { "hebraico": "בְּבֵיתִ֔י", "transliteral": "bə-ḇê-ṯî", "traducao_palavra": "em minha casa" },
+        { "hebraico": "וְרַעְנַ֖ן", "transliteral": "wə-raʿ-nan", "traducao_palavra": "e próspero/verdejante" },
+        { "hebraico": "בְּהֵיכְלִֽי׃", "transliteral": "bə-hê-ḵə-lî", "traducao_palavra": "no meu palácio" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Tive um sonho que me espantou; e os pensamentos na minha cama e as visões da minha cabeça me perturbaram.",
+      "palavras": [
+        { "hebraico": "חֵ֥לֶם", "transliteral": "ḥê-lem", "traducao_palavra": "um sonho" },
+        { "hebraico": "חֲזֵ֖ית", "transliteral": "ḥă-zêṯ", "traducao_palavra": "vi/tive" },
+        { "hebraico": "וִֽידַחֲלִנַּ֑נִי", "transliteral": "wî-ḏa-ḥă-lin-na-nî", "traducao_palavra": "e me espantou" },
+        { "hebraico": "וְהַרְהֹרִין֙", "transliteral": "wə-har-hō-rîn", "traducao_palavra": "e os pensamentos" },
+        { "hebraico": "עַֽל־מִשְׁכְּבִ֔י", "transliteral": "ʿal-miš-kə-ḇî", "traducao_palavra": "sobre a minha cama" },
+        { "hebraico": "וְחֶזְוֵ֥י", "transliteral": "wə-ḥez-wê", "traducao_palavra": "e as visões de" },
+        { "hebraico": "רֵאשִׁ֖י", "transliteral": "rê-šî", "traducao_palavra": "minha cabeça" },
+        { "hebraico": "יְבַהֲלֻנַּֽנִי׃", "transliteral": "yə-ḇa-hă-lun-na-nî", "traducao_palavra": "me perturbaram" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Por isso expediu-se por mim um decreto para introduzirem à minha presença todos os sábios de Babilônia, para que me fizessem saber a interpretação do sonho.",
+      "palavras": [
+        { "hebraico": "וּמִנִּי֙", "transliteral": "ū-min-nî", "traducao_palavra": "e por mim" },
+        { "hebraico": "שִׂ֣ים", "transliteral": "śîm", "traducao_palavra": "foi posto/expedido" },
+        { "hebraico": "טְעֵ֔ם", "transliteral": "ṭə-ʿêm", "traducao_palavra": "um decreto" },
+        { "hebraico": "לְהַנְעָלָ֣ה", "transliteral": "lə-han-ʿā-lāh", "traducao_palavra": "para introduzir" },
+        { "hebraico": "קָֽדָמַ֔י", "transliteral": "qā-ḏā-may", "traducao_palavra": "diante de mim" },
+        { "hebraico": "לְכֹ֖ל", "transliteral": "lə-ḵōl", "traducao_palavra": "a todos" },
+        { "hebraico": "חַכִּימֵ֣י", "transliteral": "ḥak-kî-mê", "traducao_palavra": "os sábios de" },
+        { "hebraico": "בָבֶ֑ל", "transliteral": "ḇā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "דִּֽי־פְשַׁ֥ר", "transliteral": "dî-p̄ə-šar", "traducao_palavra": "para que a interpretação de" },
+        { "hebraico": "חֶלְמָ֖א", "transliteral": "ḥel-mā", "traducao_palavra": "o sonho" },
+        { "hebraico": "יְהוֹדְעֻנַּֽנִי׃", "transliteral": "yə-hô-ḏə-ʿun-na-nî", "traducao_palavra": "me fizessem saber" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Então entraram os magos, os encantadores, os caldeus e os astrólogos; e eu contei o sonho diante deles, mas não me fizeram saber a sua interpretação.",
+      "palavras": [
+        { "hebraico": "בֵּאדַ֣יִן", "transliteral": "bē-ʾḏa-yin", "traducao_palavra": "então" },
+        { "hebraico": "עָלִּ֗ין", "transliteral": "ʿāl-lîn", "traducao_palavra": "entraram" },
+        { "hebraico": "חַרְטֻמַיָּא֙", "transliteral": "ḥar-ṭu-may-yā", "traducao_palavra": "os magos" },
+        { "hebraico": "אָֽשְׁפַיָּ֔א", "transliteral": "ʾā-šə-p̄ay-yā", "traducao_palavra": "os encantadores" },
+        { "hebraico": "כַּשְׂדָּאֵ֖י", "transliteral": "kaś-dā-ʾê", "traducao_palavra": "os caldeus" },
+        { "hebraico": "וְגָזְרַיָּ֑א", "transliteral": "wə-ḡā-zə-ray-yā", "traducao_palavra": "e os astrólogos" },
+        { "hebraico": "וְחֶלְמָ֗א", "transliteral": "wə-ḥel-mā", "traducao_palavra": "e o sonho" },
+        { "hebraico": "אָמַ֤ר", "transliteral": "ʾā-mar", "traducao_palavra": "contei" },
+        { "hebraico": "אֲנָה֙", "transliteral": "ʾă-nāh", "traducao_palavra": "eu" },
+        { "hebraico": "קֳדָ֣מֵיה֔וֹן", "transliteral": "qŏ-ḏā-mê-hôn", "traducao_palavra": "diante deles" },
+        { "hebraico": "וּפִשְׁרֵ֖הּ", "transliteral": "ū-p̄iš-rēh", "traducao_palavra": "mas sua interpretação" },
+        { "hebraico": "לָא־מְהוֹדְעִ֥ין", "transliteral": "lā-mə-hô-ḏə-ʿîn", "traducao_palavra": "não faziam saber" },
+        { "hebraico": "לִֽי׃", "transliteral": "lî", "traducao_palavra": "a mim" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Mas por fim entrou perante mim Daniel, cujo nome é Beltessazar, segundo o nome do meu deus, e no qual está o espírito dos deuses santos; e eu contei o sonho diante dele:",
+      "palavras": [
+        { "hebraico": "וְעַ֣ד", "transliteral": "wə-ʿaḏ", "traducao_palavra": "e até/por fim" },
+        { "hebraico": "אָחֳרֵ֞ין", "transliteral": "ʾo-ḥŏ-rên", "traducao_palavra": "último" },
+        { "hebraico": "עַ֣ל", "transliteral": "ʿal", "traducao_palavra": "entrou" },
+        { "hebraico": "קָֽדָמַ֧י", "transliteral": "qā-ḏā-may", "traducao_palavra": "perante mim" },
+        { "hebraico": "דָּנִיֵּ֛אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "דִּֽי־שְׁמֵ֥הּ", "transliteral": "dî-šə-mêh", "traducao_palavra": "cujo nome [é]" },
+        { "hebraico": "בֵּלְטְשַׁאצַּ֖ר", "transliteral": "bêl-ṭə-ša-ʾaṣ-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "כְּשֻׁ֣ם", "transliteral": "kə-šum", "traducao_palavra": "segundo o nome de" },
+        { "hebraico": "אֱלָהִ֑י", "transliteral": "ʾĕ-lā-hî", "traducao_palavra": "meu deus" },
+        { "hebraico": "וְדִ֛י", "transliteral": "wə-ḏî", "traducao_palavra": "e em quem" },
+        { "hebraico": "רֽוּחַ־אֱלָהִ֥ין", "transliteral": "rū-aḥ-ʾĕ-lā-hîn", "traducao_palavra": "o espírito dos deuses" },
+        { "hebraico": "קַדִּישִׁ֖ין", "transliteral": "qad-dî-šîn", "traducao_palavra": "santos" },
+        { "hebraico": "בֵּ֑הּ", "transliteral": "bēh", "traducao_palavra": "[está] nele" },
+        { "hebraico": "וְחֶלְמָ֖א", "transliteral": "wə-ḥel-mā", "traducao_palavra": "e o sonho" },
+        { "hebraico": "קָֽדָמ֥וֹהִי", "transliteral": "qā-ḏā-mô-hî", "traducao_palavra": "diante dele" },
+        { "hebraico": "אַמְרֵֽת׃", "transliteral": "ʾam-rêṯ", "traducao_palavra": "contei" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Beltessazar, chefe dos magos, porquanto eu sei que o espírito dos deuses santos está em ti, e nenhum mistério te é difícil, dize-me as visões do meu sonho que tive e a sua interpretação.",
+      "palavras": [
+        { "hebraico": "בֵּלְטְשַׁאצַּר֮", "transliteral": "bêl-ṭə-ša-ʾaṣ-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "רַ֣ב", "transliteral": "raḇ", "traducao_palavra": "chefe de" },
+        { "hebraico": "חַרְטֻמַיָּא֒", "transliteral": "ḥar-ṭu-may-yā", "traducao_palavra": "os magos" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "visto que" },
+        { "hebraico": "אֲנָ֣ה", "transliteral": "ʾă-nāh", "traducao_palavra": "eu" },
+        { "hebraico": "יִדְעֵ֗ת", "transliteral": "yiḏ-ʿêṯ", "traducao_palavra": "sei" },
+        { "hebraico": "דִּ֠י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "ר֣וּחַ", "transliteral": "rū-aḥ", "transliteral_palavra": "o espírito de", "traducao_palavra": "o espírito de" },
+        { "hebraico": "אֱלָהִ֤ין", "transliteral": "ʾĕ-lā-hîn", "traducao_palavra": "deuses" },
+        { "hebraico": "קַדִּישִׁין֙", "transliteral": "qad-dî-šîn", "traducao_palavra": "santos" },
+        { "hebraico": "בָּ֔ךְ", "transliteral": "bāḵ", "traducao_palavra": "está em ti" },
+        { "hebraico": "וְכָל־רָ֖ז", "transliteral": "wə-ḵāl-rāz", "traducao_palavra": "e nenhum mistério/segredo" },
+        { "hebraico": "לָא־אָנֵ֣ס", "transliteral": "lā-ʾā-nês", "traducao_palavra": "não é difícil/pesado" },
+        { "hebraico": "לָ֑ךְ", "transliteral": "lāḵ", "traducao_palavra": "para ti" },
+        { "hebraico": "חֶזְוֵ֨י", "transliteral": "ḥez-wê", "traducao_palavra": "as visões de" },
+        { "hebraico": "חֶלְמִ֧י", "transliteral": "ḥel-mî", "traducao_palavra": "meu sonho" },
+        { "hebraico": "דִֽי־חֲזֵ֛ית", "transliteral": "dî-ḥă-zêṯ", "traducao_palavra": "que vi" },
+        { "hebraico": "וּפִשְׁרֵ֖הּ", "transliteral": "ū-p̄iš-rēh", "traducao_palavra": "e a sua interpretação" },
+        { "hebraico": "אֱמַֽר׃", "transliteral": "ʾĕ-mar", "traducao_palavra": "dize" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Eis as visões da minha cabeça na minha cama: Eu estava olhando, e eis uma árvore no meio da terra, cuja altura era grande.",
+      "palavras": [
+        { "hebraico": "וְחֶזְוֵ֥י", "transliteral": "wə-ḥez-wê", "traducao_palavra": "e as visões de" },
+        { "hebraico": "רֵאשִׁ֖י", "transliteral": "rê-šî", "traducao_palavra": "minha cabeça" },
+        { "hebraico": "עַֽל־מִשְׁכְּבִ֑י", "transliteral": "ʿal-miš-kə-ḇî", "traducao_palavra": "na minha cama" },
+        { "hebraico": "חָזֵ֣ה", "transliteral": "ḥā-zêh", "traducao_palavra": "olhando" },
+        { "hebraico": "הֲוֵ֔ית", "transliteral": "hă-wêṯ", "traducao_palavra": "eu estava" },
+        { "hebraico": "וַאֲל֥וּ", "transliteral": "wa-ʾă-lû", "traducao_palavra": "e eis" },
+        { "hebraico": "אִילָ֛ן", "transliteral": "ʾî-lān", "traducao_palavra": "uma árvore" },
+        { "hebraico": "בְּג֥וֹא", "transliteral": "bə-ḡôʾ", "traducao_palavra": "no meio de" },
+        { "hebraico": "אַרְעָ֖א", "transliteral": "ʾar-ʿā", "traducao_palavra": "a terra" },
+        { "hebraico": "וְרוּמֵ֥הּ", "transliteral": "wə-rû-mêh", "traducao_palavra": "e sua altura" },
+        { "hebraico": "שַׂגִּֽיא׃", "transliteral": "śag-gîʾ", "traducao_palavra": "[era] grande" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Crescia a árvore e tornava-se forte, de modo que a sua altura chegava até ao céu, e era vista até aos confins de toda a terra.",
+      "palavras": [
+        { "hebraico": "רְבָ֥ה", "transliteral": "rə-ḇāh", "traducao_palavra": "crescia" },
+        { "hebraico": "אִֽילָנָ֖א", "transliteral": "ʾî-lā-nā", "traducao_palavra": "a árvore" },
+        { "hebraico": "וּתְקִ֑ף", "transliteral": "ū-ṯə-qip̄", "traducao_palavra": "e se tornava forte" },
+        { "hebraico": "וְרוּמֵהּ֙", "transliteral": "wə-rû-mêh", "traducao_palavra": "e a sua altura" },
+        { "hebraico": "יִמְטֵ֣א", "transliteral": "yim-ṭēʾ", "traducao_palavra": "chegava" },
+        { "hebraico": "לִשְׁמַיָּ֔א", "transliteral": "liš-may-yā", "traducao_palavra": "ao céu" },
+        { "hebraico": "וַחֲזוּתֵ֖הּ", "transliteral": "wa-ḥă-zû-ṯēh", "traducao_palavra": "e a sua visibilidade" },
+        { "hebraico": "לִסְ֥וֹף", "transliteral": "lis-wōp̄", "traducao_palavra": "ao fim de" },
+        { "hebraico": "כָּל־אַרְעָֽא׃", "transliteral": "kāl-ʾar-ʿā", "traducao_palavra": "toda a terra" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "A sua folhagem era formosa, e o seu fruto abundante, e nela havia mantimento para todos; debaixo dela as feras do campo achavam sombra, e nos seus ramos habitavam as aves do céu, e dela se sustentava toda a carne.",
+      "palavras": [
+        { "hebraico": "עָפְיֵ֤הּ", "transliteral": "ʿā-p̄ə-yêh", "traducao_palavra": "sua folhagem" },
+        { "hebraico": "שַׁפִּיר֙", "transliteral": "šap-pîr", "traducao_palavra": "[era] formosa" },
+        { "hebraico": "וְאִנְבֵּ֣הּ", "transliteral": "wə-ʾin-bêh", "traducao_palavra": "e o seu fruto" },
+        { "hebraico": "שַׂגִּ֔יא", "transliteral": "śag-gîʾ", "traducao_palavra": "abundante" },
+        { "hebraico": "וּמָז֨וֹן", "transliteral": "ū-mā-zôn", "traducao_palavra": "e mantimento" },
+        { "hebraico": "לְכֹ֖לָּא־בֵ֑הּ", "transliteral": "lə-ḵōl-lā-ḇēh", "traducao_palavra": "para todos [havia] nela" },
+        { "hebraico": "תַּחְתּ֗וֹהִי", "transliteral": "taḥ-tô-hî", "traducao_palavra": "debaixo dela" },
+        { "hebraico": "תַּטְלֵ֞ל", "transliteral": "taṭ-lêl", "traducao_palavra": "achavam sombra" },
+        { "hebraico": "חֵיוַ֣ת", "transliteral": "ḥê-waṯ", "traducao_palavra": "as feras de" },
+        { "hebraico": "בָּרָ֗א", "transliteral": "bā-rā", "traducao_palavra": "o campo" },
+        { "hebraico": "וּבְעַנְפוֹהִי֙", "transliteral": "ū-ḇə-ʿan-pô-hî", "traducao_palavra": "e nos seus ramos" },
+        { "hebraico": "יְדֻרָן֙", "transliteral": "yə-ḏu-rān", "traducao_palavra": "habitavam" },
+        { "hebraico": "צִפֲּרֵ֣י", "transliteral": "ṣip-pă-rê", "traducao_palavra": "as aves de" },
+        { "hebraico": "שְׁמַיָּ֔א", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "וּמִנֵּ֖הּ", "transliteral": "ū-min-nêh", "traducao_palavra": "e dela" },
+        { "hebraico": "יִתְּזִ֥ין", "transliteral": "yit-tə-zîn", "traducao_palavra": "se sustentava" },
+        { "hebraico": "כָּל־בִּשְׂרָֽא׃", "transliteral": "kāl-biś-rā", "traducao_palavra": "toda a carne" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Eu estava olhando nas visões da minha cabeça na minha cama, e eis um vigia, um santo, descendo do céu.",
+      "palavras": [
+        { "hebraico": "חָזֵ֥ה", "transliteral": "ḥā-zêh", "traducao_palavra": "olhando" },
+        { "hebraico": "הֲוֵ֛ית", "transliteral": "hă-wêṯ", "traducao_palavra": "eu estava" },
+        { "hebraico": "בְּחֶזְוֵ֥י", "transliteral": "bə-ḥez-wê", "traducao_palavra": "nas visões de" },
+        { "hebraico": "רֵאשִׁ֖י", "transliteral": "rê-šî", "traducao_palavra": "minha cabeça" },
+        { "hebraico": "עַֽל־מִשְׁכְּבִ֑י", "transliteral": "ʿal-miš-kə-ḇî", "traducao_palavra": "na minha cama" },
+        { "hebraico": "וַאֲלוּ֙", "transliteral": "wa-ʾă-lû", "traducao_palavra": "e eis" },
+        { "hebraico": "עִ֣יר", "transliteral": "ʿîr", "traducao_palavra": "um vigia" },
+        { "hebraico": "וְקַדִּ֔ישׁ", "transliteral": "wə-qad-dîš", "traducao_palavra": "e santo" },
+        { "hebraico": "מִן־שְׁמַיָּ֖א", "transliteral": "min-šə-may-yā", "traducao_palavra": "do céu" },
+        { "hebraico": "נָחִֽת׃", "transliteral": "nā-ḥiṯ", "traducao_palavra": "descendo" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Ele clamou com força e disse assim: Derrubai a árvore, e cortai-lhe os ramos, sacudi-lhe as folhas e espalhai o seu fruto; fujam as feras de debaixo dela, e as aves dos seus ramos.",
+      "palavras": [
+        { "hebraico": "קָרֵ֨א", "transliteral": "qā-rēʾ", "traducao_palavra": "clamou" },
+        { "hebraico": "בְחַ֜יִל", "transliteral": "ḇə-ḥa-yil", "traducao_palavra": "com força" },
+        { "hebraico": "וְכֵ֣ן", "transliteral": "wə-ḵên", "traducao_palavra": "e assim" },
+        { "hebraico": "אָמַ֗ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "גֹּ֤דּוּ", "transliteral": "god-dû", "traducao_palavra": "derrubai" },
+        { "hebraico": "אִֽילָנָא֙", "transliteral": "ʾî-lā-nā", "traducao_palavra": "a árvore" },
+        { "hebraico": "וְקַצִּ֣צוּ", "transliteral": "wə-qaṣ-ṣi-ṣû", "traducao_palavra": "e cortai" },
+        { "hebraico": "עַנְפוֹהִ֔י", "transliteral": "ʿan-pô-hî", "traducao_palavra": "os seus ramos" },
+        { "hebraico": "אַתַּ֥רוּ", "transliteral": "ʾat-ta-rû", "traducao_palavra": "sacudi/desnudai" },
+        { "hebraico": "עָפְיֵ֖הּ", "transliteral": "ʿā-p̄ə-yêh", "traducao_palavra": "as suas folhas" },
+        { "hebraico": "וּבַדַּ֣רוּ", "transliteral": "ū-ḇad-da-rû", "traducao_palavra": "e espalhai" },
+        { "hebraico": "אִנְבֵּ֑הּ", "transliteral": "ʾin-bêh", "traducao_palavra": "o seu fruto" },
+        { "hebraico": "תְּנֻ֤ד", "transliteral": "tə-nud", "traducao_palavra": "fujam/afastem-se" },
+        { "hebraico": "חֵֽיוְתָא֙", "transliteral": "ḥê-wə-ṯā", "traducao_palavra": "as feras" },
+        { "hebraico": "מִן־תַּחְתּ֔וֹהִי", "transliteral": "min-taḥ-tô-hî", "traducao_palavra": "de debaixo dela" },
+        { "hebraico": "וְצִפְּרַיָּ֖א", "transliteral": "wə-ṣip-pə-ray-yā", "traducao_palavra": "e as aves" },
+        { "hebraico": "מִן־עַנְפֽוֹהִי׃", "transliteral": "min-ʿan-pô-hî", "traducao_palavra": "dos seus ramos" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Contudo deixai na terra o tronco com as suas raízes, atado com cadeias de ferro e de bronze, entre a erva do campo; e seja molhado do orvalho do céu, e com as feras seja a sua porção na erva da terra.",
+      "palavras": [
+        { "hebraico": "בְּרַ֨ם", "transliteral": "bə-ram", "traducao_palavra": "contudo/mas" },
+        { "hebraico": "עִקַּ֤ר", "transliteral": "ʿiq-qar", "traducao_palavra": "o tronco de" },
+        { "hebraico": "שָׁרְשׁ֙וֹהִי֙", "transliteral": "šā-rə-šô-hî", "traducao_palavra": "suas raízes" },
+        { "hebraico": "בְּאַרְעָ֣א", "transliteral": "bə-ʾar-ʿā", "traducao_palavra": "na terra" },
+        { "hebraico": "שְׁבֻ֔קוּ", "transliteral": "šə-ḇu-qu", "traducao_palavra": "deixai" },
+        { "hebraico": "וּבֶֽאֱסוּר֙", "transliteral": "ū-ḇe-ʾĕ-sûr", "traducao_palavra": "e com atadura de" },
+        { "hebraico": "דִּֽי־פַרְזֶ֣ל", "transliteral": "dî-p̄ar-zel", "traducao_palavra": "de ferro" },
+        { "hebraico": "וּנְחָ֔שׁ", "transliteral": "ū-nə-ḥāš", "traducao_palavra": "e bronze" },
+        { "hebraico": "בְּדִתְאָ֖א", "transliteral": "bə-ḏiṯ-ʾā", "traducao_palavra": "na relva tenra" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "de" },
+        { "hebraico": "בָרָ֑א", "transliteral": "ḇā-rā", "traducao_palavra": "o campo" },
+        { "hebraico": "וּבְטַ֤ל", "transliteral": "ū-ḇə-ṭal", "traducao_palavra": "e com o orvalho de" },
+        { "hebraico": "שְׁמַיָּא֙", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "יִצְטַבַּ֔ע", "transliteral": "yiṣ-ṭab-baʿ", "traducao_palavra": "seja molhado" },
+        { "hebraico": "וְעִם־חֵיוְתָ֥א", "transliteral": "wə-ʿim-ḥê-wə-ṯā", "traducao_palavra": "e com os animais" },
+        { "hebraico": "חֲלָקֵ֖הּ", "transliteral": "ḥă-lā-qêh", "traducao_palavra": "[seja] a sua porção" },
+        { "hebraico": "בַּעֲשַׂ֥ב", "transliteral": "ba-ʿă-śaḇ", "traducao_palavra": "na erva de" },
+        { "hebraico": "אַרְעָֽא׃", "transliteral": "ʾar-ʿā", "traducao_palavra": "a terra" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Mude-se o seu coração, para que não seja mais de homem, e seja-lhe dado coração de animal; e passem sobre ele sete tempos.",
+      "palavras": [
+        { "hebraico": "לִבְבֵהּ֙", "transliteral": "liḇ-ḇêh", "traducao_palavra": "o seu coração" },
+        { "hebraico": "מִן־אֲנָשָׁ֣א", "transliteral": "min-ʾă-nā-šā", "traducao_palavra": "de homem" },
+        { "hebraico": "יְשַׁנּ֔וֹן", "transliteral": "yə-šan-nôn", "traducao_palavra": "mudem" },
+        { "hebraico": "וּלְבַ֥ב", "transliteral": "ū-lə-ḇaḇ", "traducao_palavra": "e coração de" },
+        { "hebraico": "חֵיוָ֖ה", "transliteral": "ḥê-wāh", "traducao_palavra": "animal" },
+        { "hebraico": "יִתְיְהִ֣ב", "transliteral": "yit-yə-hiḇ", "traducao_palavra": "seja dado" },
+        { "hebraico": "לֵ֑הּ", "transliteral": "lēh", "traducao_palavra": "a ele" },
+        { "hebraico": "וְשִׁבְעָ֥ה", "transliteral": "wə-šiḇ-ʿāh", "traducao_palavra": "e sete" },
+        { "hebraico": "עִדָּנִ֖ין", "transliteral": "ʿid-dā-nîn", "traducao_palavra": "tempos" },
+        { "hebraico": "יַחְלְפ֥וּן", "transliteral": "yaḥ-lə-p̄ûn", "traducao_palavra": "passem" },
+        { "hebraico": "עֲלֽוֹהִי׃", "transliteral": "ʿă-lô-hî", "traducao_palavra": "sobre ele" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Esta sentença é por decreto dos vigias, e esta ordem por palavra dos santos, a fim de que os viventes saibam que o Altíssimo tem domínio sobre o reino dos homens, e o dá a quem quer, e constitui sobre ele o mais humilde dos homens.",
+      "palavras": [
+        { "hebraico": "בִּגְזֵרַ֤ת", "transliteral": "biḡ-zê-raṯ", "traducao_palavra": "por decreto de" },
+        { "hebraico": "עִירִין֙", "transliteral": "ʿî-rîn", "traducao_palavra": "vigias [é]" },
+        { "hebraico": "פִּתְגָמָ֔א", "transliteral": "piṯ-gā-mā", "traducao_palavra": "a sentença" },
+        { "hebraico": "וּמֵאמַ֥ר", "transliteral": "ū-mê-mar", "traducao_palavra": "e por palavra de" },
+        { "hebraico": "קַדִּישִׁ֖ין", "transliteral": "qad-dî-šîn", "traducao_palavra": "santos [é]" },
+        { "hebraico": "שְׁאֵֽלְתָ֑א", "transliteral": "šə-ʾē-lə-ṯā", "traducao_palavra": "a ordem/demanda" },
+        { "hebraico": "עַד־דִּבְרַ֡ת", "transliteral": "ʿaḏ-diḇ-raṯ", "traducao_palavra": "a fim de" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "יִנְדְּע֣וּן", "transliteral": "yin-də-ʿûn", "traducao_palavra": "saibam" },
+        { "hebraico": "חַ֠יַּיָּא", "transliteral": "ḥay-yay-yā", "traducao_palavra": "os viventes" },
+        { "hebraico": "דִּֽי־שַׁלִּ֨יט", "transliteral": "dî-šal-lîṭ", "traducao_palavra": "que domina" },
+        { "hebraico": "עִלָּאָ֜ה", "transliteral": "ʿil-lā-ʾāh", "traducao_palavra": "o Altíssimo" },
+        { "hebraico": "בְּמַלְכ֣וּת", "transliteral": "bə-mal-ḵûṯ", "traducao_palavra": "no reino de" },
+        { "hebraico": "אֲנָשָׁ֗א", "transliteral": "ʾă-nā-šā", "traducao_palavra": "homens" },
+        { "hebraico": "וּלְמַן־דִּ֤י", "transliteral": "ū-lə-man-dî", "traducao_palavra": "e a quem" },
+        { "hebraico": "יִצְבֵּא֙", "transliteral": "yiṣ-bēʾ", "traducao_palavra": "ele quer" },
+        { "hebraico": "יִתְּנִנַּ֔הּ", "transliteral": "yit-tə-nin-nah", "traducao_palavra": "o dá" },
+        { "hebraico": "וּשְׁפַ֥ל", "transliteral": "ū-šə-p̄al", "traducao_palavra": "e o mais baixo/humilde de" },
+        { "hebraico": "אֲנָשִׁ֖ים", "transliteral": "ʾă-nā-šîm", "traducao_palavra": "homens" },
+        { "hebraico": "יְקִ֥ים", "transliteral": "yə-qîm", "traducao_palavra": "constitui" },
+        { "hebraico": "עֲלַֽיהּ׃", "transliteral": "ʿă-layh", "traducao_palavra": "sobre ele" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Este sonho eu, o rei Nabucodonosor, vi; tu, pois, Beltessazar, dize a interpretação, porquanto todos os sábios do meu reino não puderam fazer-me saber a interpretação; mas tu podes, pois há em ti o espírito dos deuses santos.",
+      "palavras": [
+        { "hebraico": "דְּנָה֩", "transliteral": "də-nāh", "traducao_palavra": "este" },
+        { "hebraico": "חֶלְמָ֨א", "transliteral": "ḥel-mā", "traducao_palavra": "sonho" },
+        { "hebraico": "חֲזֵ֜ית", "transliteral": "ḥă-zêṯ", "traducao_palavra": "vi" },
+        { "hebraico": "אֲנָ֣ה", "transliteral": "ʾă-nāh", "traducao_palavra": "eu" },
+        { "hebraico": "מַלְכָּ֣א", "transliteral": "mal-kā", "traducao_palavra": "o rei" },
+        { "hebraico": "נְבוּכַדְנֶצַּ֗ר", "transliteral": "nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "וְאַנְתְּ֙", "transliteral": "wə-ʾant", "traducao_palavra": "e tu" },
+        { "hebraico": "בֵּלְטְשַׁאצַּ֜ר", "transliteral": "bêl-ṭə-ša-ʾaṣ-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "פִּשְׁרֵ֣א", "transliteral": "piš-rēʾ", "traducao_palavra": "a interpretação" },
+        { "hebraico": "אֱמַ֗ר", "transliteral": "ʾĕ-mar", "traducao_palavra": "dize" },
+        { "hebraico": "כָּל־קֳבֵל֙", "transliteral": "kāl-qŏ-ḇêl", "traducao_palavra": "visto que" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "כָּל־חַכִּימֵ֣י", "transliteral": "kāl-ḥak-kî-mê", "traducao_palavra": "todos os sábios de" },
+        { "hebraico": "מַלְכוּתִ֗י", "transliteral": "mal-ḵû-ṯî", "traducao_palavra": "meu reino" },
+        { "hebraico": "לָֽא־יָכְלִ֤ין", "transliteral": "lā-yā-ḵə-lîn", "traducao_palavra": "não podem" },
+        { "hebraico": "פִּשְׁרָא֙", "transliteral": "piš-rā", "traducao_palavra": "a interpretação" },
+        { "hebraico": "לְהֽוֹדָ֣עֻתַ֔נִי", "transliteral": "lə-hô-ḏā-ʿu-ṯa-nî", "traducao_palavra": "fazer-me saber" },
+        { "hebraico": "וְאַנְתְּ֣", "transliteral": "wə-ʾant", "traducao_palavra": "mas tu" },
+        { "hebraico": "כָּהֵ֔ל", "transliteral": "kā-hêl", "traducao_palavra": "podes" },
+        { "hebraico": "דִּ֛י", "transliteral": "dî", "traducao_palavra": "porque" },
+        { "hebraico": "רֽוּחַ־אֱלָהִ֥ין", "transliteral": "rū-aḥ-ʾĕ-lā-hîn", "traducao_palavra": "o espírito dos deuses" },
+        { "hebraico": "קַדִּישִׁ֖ין", "transliteral": "qad-dî-šîn", "traducao_palavra": "santos" },
+        { "hebraico": "בָּֽךְ׃", "transliteral": "bāḵ", "traducao_palavra": "[está] em ti" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Então Daniel, cujo nome era Beltessazar, ficou estarrecido por uma hora, e os seus pensamentos o perturbavam. Falou o rei e disse: Beltessazar, não te perturbe o sonho, nem a sua interpretação. Respondeu Beltessazar e disse: Senhor meu, seja o sonho para os teus inimigos, e a sua interpretação para os teus adversários!",
+      "palavras": [
+        { "hebraico": "אֱדַ֨יִן", "transliteral": "ʾĕ-ḏa-yin", "traducao_palavra": "então" },
+        { "hebraico": "דָּנִיֵּ֜אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "דִּֽי־שְׁמֵ֣הּ", "transliteral": "dî-šə-mêh", "traducao_palavra": "cujo nome" },
+        { "hebraico": "בֵּלְטְשַׁאצַּ֗ר", "transliteral": "bêl-ṭə-ša-ʾaṣ-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "אֶשְׁתּוֹמַם֙", "transliteral": "ʾeš-tô-mam", "traducao_palavra": "ficou estarrecido/atônito" },
+        { "hebraico": "כְּשָׁעָ֣ה", "transliteral": "kə-šā-ʿāh", "traducao_palavra": "por cerca de uma hora" },
+        { "hebraico": "חֲדָ֔ה", "transliteral": "ḥă-ḏāh", "traducao_palavra": "uma só" },
+        { "hebraico": "וְרַעְיֹנֹ֖הִי", "transliteral": "wə-raʿ-yō-nō-hî", "traducao_palavra": "e seus pensamentos" },
+        { "hebraico": "יְבַהֲלֻנֵּ֑הּ", "transliteral": "yə-ḇa-hă-lun-nēh", "traducao_palavra": "o perturbavam" },
+        { "hebraico": "עָנֵ֨ה", "transliteral": "ʿā-nêh", "traducao_palavra": "falou" },
+        { "hebraico": "מַלְכָּ֜א", "transliteral": "mal-kā", "traducao_palavra": "o rei" },
+        { "hebraico": "וְאָמַ֗ר", "transliteral": "wə-ʾā-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "בֵּלְטְשַׁאצַּר֙", "transliteral": "bêl-ṭə-ša-ʾaṣ-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "חֶלְמָ֤א", "transliteral": "ḥel-mā", "traducao_palavra": "o sonho" },
+        { "hebraico": "וּפִשְׁרֵא֙", "transliteral": "ū-p̄iš-rēʾ", "traducao_palavra": "e a interpretação" },
+        { "hebraico": "אַֽל־יְבַהֲלָ֔ךְ", "transliteral": "ʾal-yə-ḇa-hă-lāḵ", "traducao_palavra": "não te perturbe" },
+        { "hebraico": "עָנֵ֤ה", "transliteral": "ʿā-nêh", "traducao_palavra": "respondeu" },
+        { "hebraico": "בֵלְטְשַׁאצַּר֙", "transliteral": "ḇêl-ṭə-ša-ʾaṣ-ṣar", "traducao_palavra": "Beltessazar" },
+        { "hebraico": "וְאָמַ֔ר", "transliteral": "wə-ʾā-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "מָֽרִיא֙", "transliteral": "mā-rîʾ", "traducao_palavra": "meu senhor" },
+        { "hebraico": "חֶלְמָ֣א", "transliteral": "ḥel-mā", "traducao_palavra": "[seja] o sonho" },
+        { "hebraico": "לְשָׂנְאָ֔יךְ", "transliteral": "lə-śā-nə-ʾāyḵ", "traducao_palavra": "para os teus que te odeiam/inimigos" },
+        { "hebraico": "וּפִשְׁרֵ֖הּ", "transliteral": "ū-p̄iš-rēh", "traducao_palavra": "e a sua interpretação" },
+        { "hebraico": "לְעָרָֽיךְ׃", "transliteral": "lə-ʿā-rāyḵ", "traducao_palavra": "para os teus adversários" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "A árvore que viste, que cresceu e se tornou forte, cuja altura chegava até ao céu, e que era vista por toda a terra;",
+      "palavras": [
+        { "hebraico": "אִֽילָנָא֙", "transliteral": "ʾî-lā-nā", "traducao_palavra": "a árvore" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "חֲזַ֔יְתָ", "transliteral": "ḥă-zay-tā", "traducao_palavra": "viste" },
+        { "hebraico": "דִּ֥י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "רְבָ֖ה", "transliteral": "rə-ḇāh", "traducao_palavra": "cresceu" },
+        { "hebraico": "וּתְקִ֑ף", "transliteral": "ū-ṯə-qip̄", "traducao_palavra": "e se tornou forte" },
+        { "hebraico": "וְרוּמֵהּ֙", "transliteral": "wə-rû-mêh", "traducao_palavra": "e a sua altura" },
+        { "hebraico": "יִמְטֵ֣א", "transliteral": "yim-ṭēʾ", "traducao_palavra": "chegava" },
+        { "hebraico": "לִשְׁמַיָּ֔א", "transliteral": "liš-may-yā", "traducao_palavra": "ao céu" },
+        { "hebraico": "וַחֲזוּתֵ֖הּ", "transliteral": "wa-ḥă-zû-ṯēh", "traducao_palavra": "e que era vista" },
+        { "hebraico": "לְכָל־אַרְעָֽא׃", "transliteral": "lə-ḵāl-ʾar-ʿā", "traducao_palavra": "por toda a terra" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "cuja folhagem era formosa, e o seu fruto abundante, e na qual havia sustento para todos, debaixo da qual habitavam os animais do campo, e em cujos ramos faziam morada as aves do céu:",
+      "palavras": [
+        { "hebraico": "וְעָפְיֵ֤הּ", "transliteral": "wə-ʿā-p̄ə-yêh", "traducao_palavra": "e cuja folhagem" },
+        { "hebraico": "שַׁפִּיר֙", "transliteral": "šap-pîr", "traducao_palavra": "[era] formosa" },
+        { "hebraico": "וְאִנְבֵּ֣הּ", "transliteral": "wə-ʾin-bêh", "traducao_palavra": "e o seu fruto" },
+        { "hebraico": "שַׂגִּ֔יא", "transliteral": "śag-gîʾ", "traducao_palavra": "abundante" },
+        { "hebraico": "וּמָז֨וֹן", "transliteral": "ū-mā-zôn", "traducao_palavra": "e mantimento" },
+        { "hebraico": "לְכֹ֖לָּא־בֵ֑הּ", "transliteral": "lə-ḵōl-lā-ḇēh", "traducao_palavra": "para todos havia nela" },
+        { "hebraico": "תַּחְתּ֗וֹהִי", "transliteral": "taḥ-tô-hî", "traducao_palavra": "debaixo dela" },
+        { "hebraico": "תְּדֻיר֙", "transliteral": "tə-ḏuyr", "traducao_palavra": "habitavam" },
+        { "hebraico": "חֵיוַ֣ת", "transliteral": "ḥê-waṯ", "traducao_palavra": "os animais de" },
+        { "hebraico": "בָּרָ֔א", "transliteral": "bā-rā", "traducao_palavra": "o campo" },
+        { "hebraico": "וּבְעַנְפוֹהִ֔י", "transliteral": "ū-ḇə-ʿan-pô-hî", "traducao_palavra": "e nos seus ramos" },
+        { "hebraico": "יִשְׁכְּנָ֖ן", "transliteral": "yiš-kə-nān", "traducao_palavra": "faziam morada" },
+        { "hebraico": "צִפֲּרֵ֥י", "transliteral": "ṣip-pă-rê", "traducao_palavra": "as aves de" },
+        { "hebraico": "שְׁמַיָּֽא׃", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "És tu, ó rei, que cresceste e te fortaleceste; a tua grandeza cresceu e chegou até ao céu, e o teu domínio até ao fim da terra.",
+      "palavras": [
+        { "hebraico": "אַנְתְּ־ה֣וּא", "transliteral": "ʾant-hû", "traducao_palavra": "és tu" },
+        { "hebraico": "מַלְכָּ֔א", "transliteral": "mal-kā", "traducao_palavra": "ó rei" },
+        { "hebraico": "דִּֽי־רְבַ֖ית", "transliteral": "dî-rə-ḇayṯ", "traducao_palavra": "que cresceste" },
+        { "hebraico": "וּתְקֵ֑פְתְּ", "transliteral": "ū-ṯə-qêp̄t", "traducao_palavra": "e te fortaleceste" },
+        { "hebraico": "וּרְבוּתָ֤ךְ", "transliteral": "ū-rə-ḇû-ṯāḵ", "traducao_palavra": "e a tua grandeza" },
+        { "hebraico": "רְבָת֙", "transliteral": "rə-ḇāṯ", "traducao_palavra": "cresceu" },
+        { "hebraico": "וּמְטָ֣ת", "transliteral": "ū-mə-ṭāṯ", "traducao_palavra": "e chegou" },
+        { "hebraico": "לִשְׁמַיָּ֔א", "transliteral": "liš-may-yā", "traducao_palavra": "ao céu" },
+        { "hebraico": "וְשָׁלְטָנָ֖ךְ", "transliteral": "wə-šāl-ṭā-nāḵ", "traducao_palavra": "e o teu domínio" },
+        { "hebraico": "לִסְ֥וֹף", "transliteral": "lis-wōp̄", "traducao_palavra": "ao fim de" },
+        { "hebraico": "אַרְעָֽא׃", "transliteral": "ʾar-ʿā", "traducao_palavra": "a terra" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E quanto ao que viu o rei, um vigia, um santo, descendo do céu e dizendo: Derrubai a árvore e destruí-a, mas deixai o tronco com as suas raízes na terra, com cadeias de ferro e de bronze, na relva do campo; e seja molhado do orvalho do céu, e a sua porção seja com os animais do campo, até que passem sobre ele sete tempos;",
+      "palavras": [
+        { "hebraico": "וְדִ֣י", "transliteral": "wə-ḏî", "traducao_palavra": "e quanto ao que" },
+        { "hebraico": "חֲזָ֣ה", "transliteral": "ḥă-zāh", "traducao_palavra": "viu" },
+        { "hebraico": "מַלְכָּ֡א", "transliteral": "mal-kā", "traducao_palavra": "o rei" },
+        { "hebraico": "עִ֣יר", "transliteral": "ʿîr", "traducao_palavra": "um vigia" },
+        { "hebraico": "וְקַדִּ֣ישׁ", "transliteral": "wə-qad-dîš", "traducao_palavra": "e santo" },
+        { "hebraico": "נָחִ֣ת", "transliteral": "nā-ḥiṯ", "traducao_palavra": "descendo" },
+        { "hebraico": "מִן־שְׁמַיָּ֡א", "transliteral": "min-šə-may-yā", "traducao_palavra": "do céu" },
+        { "hebraico": "וְאָמַר֩", "transliteral": "wə-ʾā-mar", "traducao_palavra": "e dizendo" },
+        { "hebraico": "גֹּ֨דּוּ", "transliteral": "god-dû", "traducao_palavra": "derrubai" },
+        { "hebraico": "אִֽילָנָ֜א", "transliteral": "ʾî-lā-nā", "traducao_palavra": "a árvore" },
+        { "hebraico": "וְחַבְּל֗וּהִי", "transliteral": "wə-ḥab-bə-lû-hî", "traducao_palavra": "e destruí-a" },
+        { "hebraico": "בְּרַ֨ם", "transliteral": "bə-ram", "traducao_palavra": "mas" },
+        { "hebraico": "עִקַּ֤ר", "transliteral": "ʿiq-qar", "traducao_palavra": "o tronco de" },
+        { "hebraico": "שָׁרְשׁ֙וֹהִי֙", "transliteral": "šā-rə-šô-hî", "traducao_palavra": "suas raízes" },
+        { "hebraico": "בְּאַרְעָ֣א", "transliteral": "bə-ʾar-ʿā", "traducao_palavra": "na terra" },
+        { "hebraico": "שְׁבֻ֔קוּ", "transliteral": "šə-ḇu-qu", "traducao_palavra": "deixai" },
+        { "hebraico": "וּבֶֽאֱסוּר֙", "transliteral": "ū-ḇe-ʾĕ-sûr", "traducao_palavra": "e com atadura de" },
+        { "hebraico": "דִּֽי־פַרְזֶ֣ל", "transliteral": "dî-p̄ar-zel", "traducao_palavra": "ferro" },
+        { "hebraico": "וּנְחָ֔שׁ", "transliteral": "ū-nə-ḥāš", "traducao_palavra": "e bronze" },
+        { "hebraico": "בְּדִתְאָ֖א", "transliteral": "bə-ḏiṯ-ʾā", "traducao_palavra": "na relva tenra" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "de" },
+        { "hebraico": "בָרָ֑א", "transliteral": "ḇā-rā", "traducao_palavra": "o campo" },
+        { "hebraico": "וּבְטַ֧ל", "transliteral": "ū-ḇə-ṭal", "traducao_palavra": "e com o orvalho de" },
+        { "hebraico": "שְׁמַיָּ֣א", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "יִצְטַבַּ֗ע", "transliteral": "yiṣ-ṭab-baʿ", "traducao_palavra": "seja molhado" },
+        { "hebraico": "וְעִם־חֵיוַ֤ת", "transliteral": "wə-ʿim-ḥê-waṯ", "traducao_palavra": "e com os animais de" },
+        { "hebraico": "בָּרָא֙", "transliteral": "bā-rā", "traducao_palavra": "o campo [seja]" },
+        { "hebraico": "חֲלָקֵ֔הּ", "transliteral": "ḥă-lā-qêh", "traducao_palavra": "a sua porção" },
+        { "hebraico": "עַ֛ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "דִּֽי־שִׁבְעָ֥ה", "transliteral": "dî-šiḇ-ʿāh", "traducao_palavra": "que sete" },
+        { "hebraico": "עִדָּנִ֖ין", "transliteral": "ʿid-dā-nîn", "traducao_palavra": "tempos" },
+        { "hebraico": "יַחְלְפ֥וּן", "transliteral": "yaḥ-lə-p̄ûn", "traducao_palavra": "passem" },
+        { "hebraico": "עֲלֽוֹהִי׃", "transliteral": "ʿă-lô-hî", "traducao_palavra": "sobre ele" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "esta é a interpretação, ó rei, e este é o decreto do Altíssimo, que veio sobre o rei, meu senhor:",
+      "palavras": [
+        { "hebraico": "דְּנָ֥ה", "transliteral": "də-nāh", "traducao_palavra": "esta [é]" },
+        { "hebraico": "פִשְׁרָ֖א", "transliteral": "p̄iš-rā", "traducao_palavra": "a interpretação" },
+        { "hebraico": "מַלְכָּ֑א", "transliteral": "mal-kā", "traducao_palavra": "ó rei" },
+        { "hebraico": "וּגְזֵרַ֤ת", "transliteral": "ū-ḡə-zê-raṯ", "traducao_palavra": "e o decreto de" },
+        { "hebraico": "עִלָּאָ֙ה֙", "transliteral": "ʿil-lā-ʾāh", "traducao_palavra": "o Altíssimo" },
+        { "hebraico": "הִ֔יא", "transliteral": "hî", "traducao_palavra": "é este" },
+        { "hebraico": "דִּ֥י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "מְטָ֖ת", "transliteral": "mə-ṭāṯ", "traducao_palavra": "veio" },
+        { "hebraico": "עַל־מָרִ֥י", "transliteral": "ʿal-mā-rî", "traducao_palavra": "sobre o meu senhor" },
+        { "hebraico": "מַלְכָּֽא׃", "transliteral": "mal-kā", "traducao_palavra": "o rei" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Serás expulso dentre os homens, e a tua morada será com os animais do campo, e far-te-ão comer erva como os bois, e serás molhado do orvalho do céu, e passar-se-ão sete tempos sobre ti, até que conheças que o Altíssimo domina sobre o reino dos homens, e o dá a quem quer.",
+      "palavras": [
+        { "hebraico": "וְלָ֣ךְ", "transliteral": "wə-lāḵ", "traducao_palavra": "e a ti" },
+        { "hebraico": "טָֽרְדִ֣ין", "transliteral": "ṭā-rə-ḏîn", "traducao_palavra": "expulsarão" },
+        { "hebraico": "מִן־אֲנָשָׁ֡א", "transliteral": "min-ʾă-nā-šā", "traducao_palavra": "dentre os homens" },
+        { "hebraico": "וְעִם־חֵיוַ֣ת", "transliteral": "wə-ʿim-ḥê-waṯ", "traducao_palavra": "e com os animais de" },
+        { "hebraico": "בָּרָא֩", "transliteral": "bā-rā", "traducao_palavra": "o campo" },
+        { "hebraico": "לֶהֱוֵ֨ה", "transliteral": "le-hĕ-wēh", "traducao_palavra": "será" },
+        { "hebraico": "מְדֹרָ֜ךְ", "transliteral": "mə-ḏō-rāḵ", "traducao_palavra": "a tua morada" },
+        { "hebraico": "וְעִשְׂבָּ֥א", "transliteral": "wə-ʿiś-bā", "traducao_palavra": "e erva" },
+        { "hebraico": "כְתוֹרִ֣ין", "transliteral": "ḵə-ṯô-rîn", "traducao_palavra": "como bois" },
+        { "hebraico": "לָ֣ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "יְטַֽעֲמ֗וּן", "transliteral": "yə-ṭa-ʿă-mûn", "traducao_palavra": "darão a comer" },
+        { "hebraico": "וּמִטַּ֤ל", "transliteral": "ū-miṭ-ṭal", "traducao_palavra": "e do orvalho de" },
+        { "hebraico": "שְׁמַיָּא֙", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "לָ֣ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "מְצַבְּעִ֔ין", "transliteral": "mə-ṣab-bə-ʿîn", "traducao_palavra": "molharão" },
+        { "hebraico": "וְשִׁבְעָ֥ה", "transliteral": "wə-šiḇ-ʿāh", "traducao_palavra": "e sete" },
+        { "hebraico": "עִדָּנִ֖ין", "transliteral": "ʿid-dā-nîn", "traducao_palavra": "tempos" },
+        { "hebraico": "יַחְלְפ֣וּן", "transliteral": "yaḥ-lə-p̄ûn", "traducao_palavra": "passarão" },
+        { "hebraico": "עֲלָ֑יךְ", "transliteral": "ʿă-lāyḵ", "traducao_palavra": "sobre ti" },
+        { "hebraico": "עַ֣ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "דִּֽי־תִנְדַּ֗ע", "transliteral": "dî-ṯin-daʿ", "traducao_palavra": "que conheças/saibas" },
+        { "hebraico": "דִּֽי־שַׁלִּ֤יט", "transliteral": "dî-šal-lîṭ", "traducao_palavra": "que domina" },
+        { "hebraico": "עִלָּאָה֙", "transliteral": "ʿil-lā-ʾāh", "traducao_palavra": "o Altíssimo" },
+        { "hebraico": "בְּמַלְכ֣וּת", "transliteral": "bə-mal-ḵûṯ", "traducao_palavra": "no reino de" },
+        { "hebraico": "אֲנָשָׁ֔א", "transliteral": "ʾă-nā-šā", "traducao_palavra": "homens" },
+        { "hebraico": "וּלְמַן־דִּ֥י", "transliteral": "ū-lə-man-dî", "traducao_palavra": "e a quem" },
+        { "hebraico": "יִצְבֵּ֖א", "transliteral": "yiṣ-bēʾ", "traducao_palavra": "ele quiser" },
+        { "hebraico": "יִתְּנִנַּֽהּ׃", "transliteral": "yit-tə-nin-nah", "traducao_palavra": "o dá" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E quanto ao que foi dito para deixar o tronco com as raízes da árvore: o teu reino te ficará seguro, logo que tenhas conhecido que os céus dominam.",
+      "palavras": [
+        { "hebraico": "וְדִ֣י", "transliteral": "wə-ḏî", "traducao_palavra": "e quanto ao que" },
+        { "hebraico": "אֲמַ֗רוּ", "transliteral": "ʾă-ma-rû", "traducao_palavra": "foi dito/mandaram" },
+        { "hebraico": "לְמִשְׁבַּ֞ק", "transliteral": "lə-miš-baq", "traducao_palavra": "para deixar" },
+        { "hebraico": "עִקַּ֤ר", "transliteral": "ʿiq-qar", "traducao_palavra": "o tronco de" },
+        { "hebraico": "שָׁרְשׁ֙וֹהִי֙", "transliteral": "šā-rə-šô-hî", "traducao_palavra": "suas raízes" },
+        { "hebraico": "דִּ֣י", "transliteral": "dî", "traducao_palavra": "de" },
+        { "hebraico": "אִֽילָנָ֔א", "transliteral": "ʾî-lā-nā", "traducao_palavra": "a árvore" },
+        { "hebraico": "מַלְכוּתָ֖ךְ", "transliteral": "mal-ḵû-ṯāḵ", "traducao_palavra": "o teu reino" },
+        { "hebraico": "לָ֣ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "קַיָּמָ֑ה", "transliteral": "qay-yā-mā", "traducao_palavra": "ficará firme/seguro" },
+        { "hebraico": "מִן־דִּ֣י", "transliteral": "min-dî", "traducao_palavra": "depois que" },
+        { "hebraico": "תִנְדַּ֔ע", "transliteral": "ṯin-daʿ", "traducao_palavra": "souberes/reconheceres" },
+        { "hebraico": "דִּ֥י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "שַׁלִּטִ֖ן", "transliteral": "šal-li-ṭin", "traducao_palavra": "dominam" },
+        { "hebraico": "שְׁמַיָּֽא׃", "transliteral": "šə-may-yā", "traducao_palavra": "os céus" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "Portanto, ó rei, aceita o meu conselho, e desfaz os teus pecados pela justiça, e as tuas iniquidades usando de misericórdia com os pobres; talvez seja uma prolongação da tua tranquilidade.",
+      "palavras": [
+        { "hebraico": "לָהֵ֣ן", "transliteral": "lā-hên", "traducao_palavra": "portanto" },
+        { "hebraico": "מַלְכָּ֗א", "transliteral": "mal-kā", "traducao_palavra": "ó rei" },
+        { "hebraico": "מִלְכִּי֙", "transliteral": "mil-kî", "traducao_palavra": "o meu conselho" },
+        { "hebraico": "יִשְׁפַּ֣ר", "transliteral": "yiš-par", "traducao_palavra": "seja aceito/agradável" },
+        { "hebraico": "עֲלָ֔יךְ", "transliteral": "ʿă-lāyḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "וַחֲטָאָ֤יךְ", "transliteral": "wa-ḥă-ṭā-ʾāyḵ", "traducao_palavra": "e os teus pecados" },
+        { "hebraico": "בְּצִדְקָה֙", "transliteral": "bə-ṣiḏ-qā", "traducao_palavra": "pela justiça" },
+        { "hebraico": "פְרֻ֔ק", "transliteral": "p̄ə-ruq", "traducao_palavra": "desfaz/redime" },
+        { "hebraico": "וַעֲוָיָתָ֖ךְ", "transliteral": "wa-ʿă-wā-yā-ṯāḵ", "traducao_palavra": "e as tuas iniquidades" },
+        { "hebraico": "בְּמִחַ֣ן", "transliteral": "bə-mi-ḥan", "traducao_palavra": "mostrando graça a" },
+        { "hebraico": "עֲנָיִ֑ן", "transliteral": "ʿă-nā-yîn", "traducao_palavra": "os pobres/aflitos" },
+        { "hebraico": "הֵ֛ן", "transliteral": "hên", "traducao_palavra": "se" },
+        { "hebraico": "תֶּהֱוֵ֥א", "transliteral": "te-hĕ-wē", "traducao_palavra": "haverá" },
+        { "hebraico": "אַרְכָ֖ה", "transliteral": "ʾar-kā", "traducao_palavra": "um prolongamento" },
+        { "hebraico": "לִשְׁלֵוְתָֽךְ׃", "transliteral": "liš-lê-wə-ṯāḵ", "traducao_palavra": "da tua tranquilidade" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "Tudo isso veio sobre o rei Nabucodonosor.",
+      "palavras": [
+        { "hebraico": "כֹּ֣לָּא", "transliteral": "kōl-lā", "traducao_palavra": "tudo" },
+        { "hebraico": "מְּטָ֔א", "transliteral": "mə-ṭā", "traducao_palavra": "veio/cumpriu-se" },
+        { "hebraico": "עַל־נְבוּכַדְנֶצַּ֖ר", "transliteral": "ʿal-nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "sobre Nabucodonosor" },
+        { "hebraico": "מַלְכָּֽא׃", "transliteral": "mal-kā", "traducao_palavra": "o rei" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "Ao fim de doze meses, passeava ele sobre o palácio real de Babilônia.",
+      "palavras": [
+        { "hebraico": "לִקְצָ֥ת", "transliteral": "liq-ṣāṯ", "traducao_palavra": "ao cabo/fim de" },
+        { "hebraico": "יַרְחִ֖ין", "transliteral": "yar-ḥîn", "traducao_palavra": "meses" },
+        { "hebraico": "תְּרֵֽי־עֲשַׂ֑ר", "transliteral": "tə-rê-ʿă-śar", "traducao_palavra": "doze" },
+        { "hebraico": "עַל־הֵיכַ֧ל", "transliteral": "ʿal-hê-ḵal", "traducao_palavra": "sobre o palácio de" },
+        { "hebraico": "מַלְכוּתָ֛א", "transliteral": "mal-ḵû-ṯā", "traducao_palavra": "o reino" },
+        { "hebraico": "דִּ֥י", "transliteral": "dî", "traducao_palavra": "de" },
+        { "hebraico": "בָבֶ֖ל", "transliteral": "ḇā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "מְהַלֵּ֥ךְ", "transliteral": "mə-hal-lêḵ", "traducao_palavra": "passeando" },
+        { "hebraico": "הֲוָֽה׃", "transliteral": "hă-wāh", "traducao_palavra": "estava" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Falou o rei e disse: Não é esta a grande Babilônia que eu edifiquei para a casa real, pela força do meu poder, e para glória da minha majestade?",
+      "palavras": [
+        { "hebraico": "עָנֵ֨ה", "transliteral": "ʿā-nêh", "traducao_palavra": "falou" },
+        { "hebraico": "מַלְכָּ֜א", "transliteral": "mal-kā", "traducao_palavra": "o rei" },
+        { "hebraico": "וְאָמַ֗ר", "transliteral": "wə-ʾā-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "הֲלָ֥א", "transliteral": "hă-lā", "traducao_palavra": "não é" },
+        { "hebraico": "דָא־הִיא֙", "transliteral": "ḏā-hî", "traducao_palavra": "esta" },
+        { "hebraico": "בָּבֶ֣ל", "transliteral": "bā-ḇel", "traducao_palavra": "Babilônia" },
+        { "hebraico": "רַבְּתָ֔א", "transliteral": "rab-bə-ṯā", "traducao_palavra": "a grande" },
+        { "hebraico": "דִּֽי־אֲנָ֤ה", "transliteral": "dî-ʾă-nāh", "traducao_palavra": "que eu" },
+        { "hebraico": "בֱנַיְתַהּ֙", "transliteral": "ḇĕ-nay-ṯah", "traducao_palavra": "edifiquei-a" },
+        { "hebraico": "לְבֵ֣ית", "transliteral": "lə-ḇêṯ", "traducao_palavra": "para a casa de" },
+        { "hebraico": "מַלְכ֔וּ", "transliteral": "mal-ḵû", "traducao_palavra": "realeza" },
+        { "hebraico": "בִּתְקַ֥ף", "transliteral": "biṯ-qap̄", "traducao_palavra": "pela força de" },
+        { "hebraico": "חִסְנִ֖י", "transliteral": "ḥis-nî", "traducao_palavra": "meu poder" },
+        { "hebraico": "וְלִיקָ֥ר", "transliteral": "wə-lî-qār", "traducao_palavra": "e para a glória de" },
+        { "hebraico": "הַדְרִֽי׃", "transliteral": "haḏ-rî", "traducao_palavra": "minha majestade" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "Ainda a palavra estava na boca do rei, caiu uma voz do céu: A ti se diz, ó rei Nabucodonosor: Passou de ti o reino.",
+      "palavras": [
+        { "hebraico": "ע֚וֹד", "transliteral": "ʿôḏ", "traducao_palavra": "ainda" },
+        { "hebraico": "מִלְּתָא֙", "transliteral": "mil-lə-ṯā", "traducao_palavra": "a palavra [estava]" },
+        { "hebraico": "בְּפֻ֣ם", "transliteral": "bə-p̄um", "traducao_palavra": "na boca de" },
+        { "hebraico": "מַלְכָּ֔א", "transliteral": "mal-kā", "traducao_palavra": "o rei" },
+        { "hebraico": "קָ֖ל", "transliteral": "qāl", "traducao_palavra": "uma voz" },
+        { "hebraico": "מִן־שְׁמַיָּ֣א", "transliteral": "min-šə-may-yā", "traducao_palavra": "do céu" },
+        { "hebraico": "נְפַ֑ל", "transliteral": "nə-p̄al", "traducao_palavra": "caiu" },
+        { "hebraico": "לָ֤ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "אָֽמְרִין֙", "transliteral": "ʾā-mə-rîn", "traducao_palavra": "dizem" },
+        { "hebraico": "נְבוּכַדְנֶצַּ֣ר", "transliteral": "nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מַלְכָּ֔א", "transliteral": "mal-kā", "traducao_palavra": "ó rei" },
+        { "hebraico": "מַלְכוּתָ֖ה", "transliteral": "mal-ḵû-ṯāh", "traducao_palavra": "o reino" },
+        { "hebraico": "עֲדָ֥ת", "transliteral": "ʿă-ḏāṯ", "traducao_palavra": "passou/afastou-se" },
+        { "hebraico": "מִנָּֽךְ׃", "transliteral": "min-nāḵ", "traducao_palavra": "de ti" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "E serás expulso dentre os homens, e a tua morada será com os animais do campo; far-te-ão comer erva como os bois, e passar-se-ão sete tempos sobre ti, até que conheças que o Altíssimo domina sobre o reino dos homens, e o dá a quem quer.",
+      "palavras": [
+        { "hebraico": "וּמִן־אֲנָשָׁא֩", "transliteral": "ū-min-ʾă-nā-šā", "traducao_palavra": "e dentre os homens" },
+        { "hebraico": "לָ֨ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "טָֽרְדִ֜ין", "transliteral": "ṭā-rə-ḏîn", "traducao_palavra": "expulsarão" },
+        { "hebraico": "וְֽעִם־חֵיוַ֧ת", "transliteral": "wə-ʿim-ḥê-waṯ", "traducao_palavra": "e com os animais de" },
+        { "hebraico": "בָּרָ֣א", "transliteral": "bā-rā", "traducao_palavra": "o campo [será]" },
+        { "hebraico": "מְדֹרָ֗ךְ", "transliteral": "mə-ḏō-rāḵ", "traducao_palavra": "a tua morada" },
+        { "hebraico": "עִשְׂבָּ֤א", "transliteral": "ʿiś-bā", "traducao_palavra": "erva" },
+        { "hebraico": "כְתוֹרִין֙", "transliteral": "ḵə-ṯô-rîn", "traducao_palavra": "como bois" },
+        { "hebraico": "לָ֣ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "יְטַֽעֲמ֔וּן", "transliteral": "yə-ṭa-ʿă-mûn", "traducao_palavra": "darão a comer" },
+        { "hebraico": "וְשִׁבְעָ֥ה", "transliteral": "wə-šiḇ-ʿāh", "traducao_palavra": "e sete" },
+        { "hebraico": "עִדָּנִ֖ין", "transliteral": "ʿid-dā-nîn", "traducao_palavra": "tempos" },
+        { "hebraico": "יַחְלְפ֣וּן", "transliteral": "yaḥ-lə-p̄ûn", "traducao_palavra": "passarão" },
+        { "hebraico": "עֲלָ֑יךְ", "transliteral": "ʿă-lāyḵ", "traducao_palavra": "sobre ti" },
+        { "hebraico": "עַ֣ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "דִּֽי־תִנְדַּ֗ע", "transliteral": "dî-ṯin-daʿ", "traducao_palavra": "que conheças" },
+        { "hebraico": "דִּֽי־שַׁלִּ֤יט", "transliteral": "dî-šal-lîṭ", "traducao_palavra": "que domina" },
+        { "hebraico": "עִלָּאָה֙", "transliteral": "ʿil-lā-ʾāh", "traducao_palavra": "o Altíssimo" },
+        { "hebraico": "בְּמַלְכ֣וּת", "transliteral": "bə-mal-ḵûṯ", "traducao_palavra": "no reino de" },
+        { "hebraico": "אֲנָשָׁ֔א", "transliteral": "ʾă-nā-šā", "traducao_palavra": "homens" },
+        { "hebraico": "וּלְמַן־דִּ֥י", "transliteral": "ū-lə-man-dî", "traducao_palavra": "e a quem" },
+        { "hebraico": "יִצְבֵּ֖א", "transliteral": "yiṣ-bēʾ", "traducao_palavra": "ele quiser" },
+        { "hebraico": "יִתְּנִנַּֽהּ׃", "transliteral": "yit-tə-nin-nah", "traducao_palavra": "o dá" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "Na mesma hora a palavra se cumpriu sobre Nabucodonosor; e foi expulso dentre os homens, e comia erva como os bois, e o seu corpo foi molhado do orvalho do céu, até que lhe cresceram os cabelos como as penas da águia, e as suas unhas como as das aves.",
+      "palavras": [
+        { "hebraico": "בַּהּ־שַׁעֲתָא֩", "transliteral": "bah-ša-ʿă-ṯā", "traducao_palavra": "na mesma hora" },
+        { "hebraico": "מִלְּתָ֨א", "transliteral": "mil-lə-ṯā", "traducao_palavra": "a palavra" },
+        { "hebraico": "סָ֜פַת", "transliteral": "sā-p̄aṯ", "traducao_palavra": "cumpriu-se/consumou-se" },
+        { "hebraico": "עַל־נְבוּכַדְנֶצַּ֗ר", "transliteral": "ʿal-nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "sobre Nabucodonosor" },
+        { "hebraico": "וּמִן־אֲנָשָׁ֣א", "transliteral": "ū-min-ʾă-nā-šā", "traducao_palavra": "e dentre os homens" },
+        { "hebraico": "טְרִ֔יד", "transliteral": "ṭə-rîḏ", "traducao_palavra": "foi expulso" },
+        { "hebraico": "וְעִשְׂבָּ֤א", "transliteral": "wə-ʿiś-bā", "traducao_palavra": "e erva" },
+        { "hebraico": "כְתוֹרִין֙", "transliteral": "ḵə-ṯô-rîn", "traducao_palavra": "como bois" },
+        { "hebraico": "יֵאכֻ֔ל", "transliteral": "yê-ḵul", "traducao_palavra": "comia" },
+        { "hebraico": "וּמִטַּ֥ל", "transliteral": "ū-miṭ-ṭal", "traducao_palavra": "e do orvalho de" },
+        { "hebraico": "שְׁמַיָּ֖א", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "גִּשְׁמֵ֣הּ", "transliteral": "giš-mêh", "traducao_palavra": "seu corpo" },
+        { "hebraico": "יִצְטַבַּ֑ע", "transliteral": "yiṣ-ṭab-baʿ", "traducao_palavra": "foi molhado" },
+        { "hebraico": "עַ֣ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "דִּ֥י", "transliteral": "dî", "traducao_palavra": "que" },
+        { "hebraico": "שַׂעְרֵ֛הּ", "transliteral": "śaʿ-rêh", "traducao_palavra": "seus cabelos" },
+        { "hebraico": "כְּנִשְׁרִ֥ין", "transliteral": "kə-niš-rîn", "traducao_palavra": "como [penas de] águias" },
+        { "hebraico": "רְבָ֖ה", "transliteral": "rə-ḇāh", "traducao_palavra": "cresceram" },
+        { "hebraico": "וְטִפְר֥וֹהִי", "transliteral": "wə-ṭip̄-rô-hî", "traducao_palavra": "e as suas unhas" },
+        { "hebraico": "כְצִפְּרִֽין׃", "transliteral": "ḵə-ṣip-pə-rîn", "traducao_palavra": "como [garras de] aves" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "Mas ao fim daqueles dias eu, Nabucodonosor, levantei os meus olhos ao céu, e tornou-me a vir o meu entendimento, e bendisse o Altíssimo, e louvei e glorifiquei ao que vive para sempre, cujo domínio é um domínio eterno, e cujo reino é de geração em geração.",
+      "palavras": [
+        { "hebraico": "וְלִקְצָ֣ת", "transliteral": "wə-liq-ṣāṯ", "traducao_palavra": "e ao fim de" },
+        { "hebraico": "יוֹמַיָּה֩", "transliteral": "yô-may-yāh", "traducao_palavra": "os dias" },
+        { "hebraico": "אֲנָ֨ה", "transliteral": "ʾă-nāh", "traducao_palavra": "eu" },
+        { "hebraico": "נְבוּכַדְנֶצַּ֜ר", "transliteral": "nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "עַיְנַ֣י", "transliteral": "ʿay-nay", "traducao_palavra": "meus olhos" },
+        { "hebraico": "לִשְׁמַיָּ֣א", "transliteral": "liš-may-yā", "traducao_palavra": "ao céu" },
+        { "hebraico": "זַקְפֵ֗ת", "transliteral": "zaq-p̄êṯ", "traducao_palavra": "levantei" },
+        { "hebraico": "וּמַנְדְּעִי֙", "transliteral": "ū-man-də-ʿî", "traducao_palavra": "e meu entendimento" },
+        { "hebraico": "עֲלַ֣י", "transliteral": "ʿā-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "יְת֔וּב", "transliteral": "yə-ṯûḇ", "traducao_palavra": "voltou" },
+        { "hebraico": "וּלְעִלָּאָ֙ה֙", "transliteral": "ū-lə-ʿil-lā-ʾāh", "traducao_palavra": "e ao Altíssimo" },
+        { "hebraico": "בָּרְכֵ֔ת", "transliteral": "bā-rə-ḵêṯ", "traducao_palavra": "bendisse" },
+        { "hebraico": "וּלְחַ֥י", "transliteral": "ū-lə-ḥay", "traducao_palavra": "e ao que vive" },
+        { "hebraico": "עָלְמָ֖א", "transliteral": "ʿāl-mā", "traducao_palavra": "para sempre" },
+        { "hebraico": "שַׁבְּחֵ֣ת", "transliteral": "šab-bə-ḥêṯ", "traducao_palavra": "louvei" },
+        { "hebraico": "וְהַדְּרֵ֑ת", "transliteral": "wə-had-də-rêṯ", "traducao_palavra": "e glorifiquei" },
+        { "hebraico": "דִּ֤י", "transliteral": "dî", "traducao_palavra": "pois" },
+        { "hebraico": "שָׁלְטָנֵהּ֙", "transliteral": "šāl-ṭā-nêh", "traducao_palavra": "o seu domínio" },
+        { "hebraico": "שָׁלְטָ֣ן", "transliteral": "šāl-ṭān", "traducao_palavra": "[é] domínio" },
+        { "hebraico": "עָלַ֔ם", "transliteral": "ʿā-lam", "traducao_palavra": "eterno" },
+        { "hebraico": "וּמַלְכוּתֵ֖הּ", "transliteral": "ū-mal-ḵû-ṯêh", "traducao_palavra": "e o seu reino" },
+        { "hebraico": "עִם־דָּ֥ר", "transliteral": "ʿim-dār", "traducao_palavra": "[é] de geração" },
+        { "hebraico": "וְדָֽר׃", "transliteral": "wə-ḏār", "traducao_palavra": "em geração" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "E todos os moradores da terra são reputados como nada; e segundo a sua vontade ele opera com o exército do céu e os moradores da terra; não há quem possa estorvar a sua mão, e lhe diga: Que fazes?",
+      "palavras": [
+        { "hebraico": "וְכָל־דָּיְרֵ֤י", "transliteral": "wə-ḵāl-dā-yə-rê", "traducao_palavra": "e todos os moradores de" },
+        { "hebraico": "אַרְעָא֙", "transliteral": "ʾar-ʿā", "traducao_palavra": "a terra" },
+        { "hebraico": "כְּלָ֣ה", "transliteral": "kə-lā", "traducao_palavra": "como nada" },
+        { "hebraico": "חֲשִׁיבִ֔ין", "transliteral": "ḥă-šî-ḇîn", "traducao_palavra": "são considerados" },
+        { "hebraico": "וּֽכְמִצְבְּיֵ֗הּ", "transliteral": "ū-ḵə-miṣ-bə-yêh", "traducao_palavra": "e conforme a sua vontade" },
+        { "hebraico": "עָבֵד֙", "transliteral": "ʿā-ḇêḏ", "traducao_palavra": "ele opera" },
+        { "hebraico": "בְּחֵ֣יל", "transliteral": "bə-ḥêl", "traducao_palavra": "no exército de" },
+        { "hebraico": "שְׁמַיָּ֔א", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "וְדָיְרֵ֖י", "transliteral": "wə-ḏā-yə-rê", "traducao_palavra": "e entre os moradores de" },
+        { "hebraico": "אַרְעָ֑א", "transliteral": "ʾar-ʿā", "traducao_palavra": "a terra" },
+        { "hebraico": "וְלָ֤א", "transliteral": "wə-lā", "traducao_palavra": "e não" },
+        { "hebraico": "אִיתַי֙", "transliteral": "ʾî-ṯay", "traducao_palavra": "há" },
+        { "hebraico": "דִּֽי־יְמַחֵ֣א", "transliteral": "dî-yə-ma-ḥēʾ", "traducao_palavra": "quem detenha" },
+        { "hebraico": "בִידֵ֔הּ", "transliteral": "ḇî-ḏêh", "traducao_palavra": "a sua mão" },
+        { "hebraico": "וְיֵ֥אמַר", "transliteral": "wə-yê-mar", "traducao_palavra": "ou diga" },
+        { "hebraico": "לֵ֖הּ", "transliteral": "lēh", "traducao_palavra": "a ele" },
+        { "hebraico": "מָ֥ה", "transliteral": "māh", "traducao_palavra": "Que" },
+        { "hebraico": "עֲבַֽדְתְּ׃", "transliteral": "ʿă-ḇaḏt", "traducao_palavra": "fizeste?" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "No mesmo tempo voltou a mim o meu entendimento, e para a glória do meu reino voltou a mim a minha majestade e o meu resplendor; e os meus conselheiros e os meus grandes me buscaram; fui restabelecido no meu reino, e a mim se acrescentou excelente grandeza.",
+      "palavras": [
+        { "hebraico": "בֵּהּ־זִמְנָ֞א", "transliteral": "bēh-zim-nā", "traducao_palavra": "no mesmo tempo" },
+        { "hebraico": "מַנְדְּעִ֣י", "transliteral": "man-də-ʿî", "traducao_palavra": "o meu entendimento" },
+        { "hebraico": "יְת֣וּב", "transliteral": "yə-ṯûḇ", "traducao_palavra": "voltou" },
+        { "hebraico": "עֲלַ֗י", "transliteral": "ʿā-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "וְלִיקָ֨ר", "transliteral": "wə-lî-qār", "traducao_palavra": "e para a honra de" },
+        { "hebraico": "מַלְכוּתִ֜י", "transliteral": "mal-ḵû-ṯî", "traducao_palavra": "meu reino" },
+        { "hebraico": "הַדְרִ֤י", "transliteral": "haḏ-rî", "traducao_palavra": "a minha majestade" },
+        { "hebraico": "וְזִוִי֙", "transliteral": "wə-zi-wî", "traducao_palavra": "e o meu esplendor" },
+        { "hebraico": "יְת֣וּב", "transliteral": "yə-ṯûḇ", "traducao_palavra": "voltou" },
+        { "hebraico": "עֲלַ֔י", "transliteral": "ʿā-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "וְלִ֕י", "transliteral": "wə-lî", "traducao_palavra": "e a mim" },
+        { "hebraico": "הַדָּֽבְרַ֥י", "transliteral": "had-dā-ḇə-ray", "traducao_palavra": "meus conselheiros" },
+        { "hebraico": "וְרַבְרְבָנַ֖י", "transliteral": "wə-raḇ-rə-ḇā-nay", "traducao_palavra": "e meus nobres/grandes" },
+        { "hebraico": "יְבַע֑וֹן", "transliteral": "yə-ḇa-ʿôn", "traducao_palavra": "buscaram" },
+        { "hebraico": "וְעַל־מַלְכוּתִ֣י", "transliteral": "wə-ʿal-mal-ḵû-ṯî", "traducao_palavra": "e sobre o meu reino" },
+        { "hebraico": "הָתְקְנַ֔ת", "transliteral": "hāt-qə-naṯ", "traducao_palavra": "fui estabelecido" },
+        { "hebraico": "וּרְב֥וּ", "transliteral": "ū-rə-ḇû", "traducao_palavra": "e grandeza" },
+        { "hebraico": "יַתִּירָ֖ה", "transliteral": "yat-tî-rā", "traducao_palavra": "extraordinária" },
+        { "hebraico": "ה֥וּסְפַת", "transliteral": "hûs-p̄aṯ", "traducao_palavra": "foi acrescentada" },
+        { "hebraico": "לִֽי׃", "transliteral": "lî", "traducao_palavra": "a mim" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "Agora, pois, eu, Nabucodonosor, louvo, exalto e glorifico ao Rei dos céus, porque todas as suas obras são verdade, e os seus caminhos, juízo; e ele pode humilhar aos que andam no orgulho.",
+      "palavras": [
+        { "hebraico": "כְּעַ֞ן", "transliteral": "kə-ʿan", "traducao_palavra": "agora" },
+        { "hebraico": "אֲנָ֣ה", "transliteral": "ʾă-nāh", "traducao_palavra": "eu" },
+        { "hebraico": "נְבוּכַדְנֶצַּ֗ר", "transliteral": "nə-ḇû-ḵaḏ-neṣ-ṣar", "traducao_palavra": "Nabucodonosor" },
+        { "hebraico": "מְשַׁבַּ֨ח", "transliteral": "mə-šab-baḥ", "traducao_palavra": "louvo" },
+        { "hebraico": "וּמְרוֹמֵ֣ם", "transliteral": "ū-mə-rô-mêm", "traducao_palavra": "e exalto" },
+        { "hebraico": "וּמְהַדַּר֮", "transliteral": "ū-mə-had-dar", "traducao_palavra": "e glorifico" },
+        { "hebraico": "לְמֶ֣לֶךְ", "transliteral": "lə-me-leḵ", "traducao_palavra": "ao Rei de" },
+        { "hebraico": "שְׁמַיָּא֒", "transliteral": "šə-may-yā", "traducao_palavra": "o céu" },
+        { "hebraico": "דִּ֤י", "transliteral": "dî", "traducao_palavra": "porque" },
+        { "hebraico": "כָל־מַעֲבָד֙וֹהִי֙", "transliteral": "kāl-ma-ʿă-ḇā-ḏô-hî", "traducao_palavra": "todas as suas obras [são]" },
+        { "hebraico": "קְשֹׁ֔ט", "transliteral": "qə-šōṭ", "traducao_palavra": "verdade" },
+        { "hebraico": "וְאֹרְחָתֵ֖הּ", "transliteral": "wə-ʾōr-ḥā-ṯêh", "traducao_palavra": "e seus caminhos [são]" },
+        { "hebraico": "דִּ֑ין", "transliteral": "dîn", "traducao_palavra": "justiça/juízo" },
+        { "hebraico": "וְדִי֙", "transliteral": "wə-ḏî", "traducao_palavra": "e os que" },
+        { "hebraico": "מַהְלְכִ֣ין", "transliteral": "mah-lə-ḵîn", "traducao_palavra": "andam" },
+        { "hebraico": "בְּגֵוָ֔ה", "transliteral": "bə-ḡê-wā", "traducao_palavra": "com soberba/orgulho" },
+        { "hebraico": "יָכִ֖ל", "transliteral": "yā-ḵil", "traducao_palavra": "ele pode" },
+        { "hebraico": "לַהֲשְׁפָּלָֽה׃", "transliteral": "la-haš-pā-lā", "traducao_palavra": "humilhar" }
+      ]
+    }
+  }
 }

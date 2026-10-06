@@ -1,6 +1,648 @@
 {
-  "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
+  "livro": "Ezequiel - יְחֶזְקֵאל - Yəḥezqēʾl",
   "capítulo": 48,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E estes são os nomes das tribos: desde o extremo norte, ao longo do caminho de Hetlom até a entrada de Hamate, até Hazar-Enã, no termo de Damasco para o norte, junto a Hamate; e terá ele os lados oriental e ocidental; Dã, uma porção.",
+      "palavras": [
+        { "hebraico": "וְאֵ֖לֶּה", "transliteral": "wə-ʾêl-leh", "traducao_palavra": "e estes [são]" },
+        { "hebraico": "שְׁמֹ֣ות", "transliteral": "šəmôṯ", "traducao_palavra": "os nomes de" },
+        { "hebraico": "הַשְּׁבָטִ֑ים", "transliteral": "haš-šə-ḇā-ṭîm", "traducao_palavra": "as tribos" },
+        { "hebraico": "מִקְצֵ֨ה", "transliteral": "miq-ṣēh", "traducao_palavra": "desde o extremo de" },
+        { "hebraico": "צָפֹ֜ונָה", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "o norte" },
+        { "hebraico": "אֶל־יַ֣ד", "transliteral": "ʾel-yaḏ", "traducao_palavra": "ao longo de" },
+        { "hebraico": "דֶּֽרֶךְ־חֶתְלֹ֣ן", "transliteral": "de-reḵ-ḥeṯ-lōn", "traducao_palavra": "o caminho de Hetlom" },
+        { "hebraico": "לְבֹוא־חֲמָ֗ת", "transliteral": "lə-ḇô-ḥă-māṯ", "traducao_palavra": "até a entrada de Hamate" },
+        { "hebraico": "חֲצַ֧ר", "transliteral": "ḥă-ṣar", "traducao_palavra": "Hazar-" },
+        { "hebraico": "עֵינָ֛ן", "transliteral": "ʿê-nān", "traducao_palavra": "Enã" },
+        { "hebraico": "גְּב֥וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "no termo de" },
+        { "hebraico": "דַּמֶּ֛שֶׂק", "transliteral": "dam-me-śeq", "traducao_palavra": "Damasco" },
+        { "hebraico": "צָפֹ֖ונָה", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "ao norte" },
+        { "hebraico": "אֶל־יַ֣ד", "transliteral": "ʾel-yaḏ", "traducao_palavra": "junto a" },
+        { "hebraico": "חֲמָ֑ת", "transliteral": "ḥă-māṯ", "traducao_palavra": "Hamate" },
+        { "hebraico": "וְהָיוּ־לֹ֤ו", "transliteral": "wə-hā-yū-lô", "traducao_palavra": "e serão para ele" },
+        { "hebraico": "פְאַת־קָדִים֙", "transliteral": "p̄ə-ʾaṯ-qā-ḏîm", "traducao_palavra": "o lado oriental" },
+        { "hebraico": "הַיָּ֔ם", "transliteral": "hay-yām", "traducao_palavra": "ao ocidente [o mar]" },
+        { "hebraico": "דָּ֖ן", "transliteral": "dān", "traducao_palavra": "Dã" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E junto ao termo de Dã, desde o lado oriental até o lado ocidental: Aser, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "דָּ֗ן", "transliteral": "dān", "traducao_palavra": "Dã" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "אָשֵׁ֥ר", "transliteral": "ʾā-šêr", "traducao_palavra": "Aser" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E junto ao termo de Aser, desde o lado oriental até o lado ocidental: Naftali, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "אָשֵׁ֗ר", "transliteral": "ʾā-šêr", "traducao_palavra": "Aser" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado" },
+        { "hebraico": "קָדִ֛ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" },
+        { "hebraico": "וְעַד־פְּאַת־יָ֖מָּה", "transliteral": "wə-ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "e até o lado ocidental" },
+        { "hebraico": "נַפְתָּלִ֥י", "transliteral": "nap̄-tā-lî", "traducao_palavra": "Naftali" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E junto ao termo de Naftali, desde o lado oriental até o lado ocidental: Manassés, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "נַפְתָּלִ֗י", "transliteral": "nap̄-tā-lî", "traducao_palavra": "Naftali" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "מְנַשֶּׁ֥ה", "transliteral": "mə-naš-šeh", "traducao_palavra": "Manassés" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E junto ao termo de Manassés, desde o lado oriental até o lado ocidental: Efraim, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "מְנַשֶּׁ֗ה", "transliteral": "mə-naš-šeh", "traducao_palavra": "Manassés" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "אֶפְרַ֥יִם", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E junto ao termo de Efraim, desde o lado oriental até o lado ocidental: Rúben, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "אֶפְרָ֗יִם", "transliteral": "ʾep̄-rā-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "וְעַד־פְּאַת־יָ֖מָּה", "transliteral": "wə-ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "e até o lado ocidental" },
+        { "hebraico": "רְאוּבֵ֥ן", "transliteral": "rə-ʾū-ḇên", "traducao_palavra": "Rúben" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E junto ao termo de Rúben, desde o lado oriental até o lado ocidental: Judá, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "רְאוּבֵ֗ן", "transliteral": "rə-ʾū-ḇên", "traducao_palavra": "Rúben" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "יְהוּדָ֥ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E junto ao termo de Judá, desde o lado oriental até o lado ocidental, será a porção que haveis de separar, de vinte e cinco mil canas de largura, e de comprimento como uma das partes, desde o lado oriental até o lado ocidental; e o santuário estará no meio dela.",
+      "palavras": [
+        { "hebraico": "וְעַל֙", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "יְהוּדָ֔ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "תִּהְיֶ֣ה", "transliteral": "tih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "הַתְּרוּמָ֣ה", "transliteral": "hat-tə-rū-mā", "traducao_palavra": "a oferta/porção dedicada" },
+        { "hebraico": "אֲ‍ֽשֶׁר־תָּרִ֡ימוּ", "transliteral": "ʾă-šer-tā-rî-mū", "traducao_palavra": "que haveis de separar" },
+        { "hebraico": "חֲמִשָּׁה֩", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֨ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֜לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil [de]" },
+        { "hebraico": "רֹ֗חַב", "transliteral": "rō-ḥaḇ", "traducao_palavra": "largura" },
+        { "hebraico": "וְאֹ֗רֶךְ", "transliteral": "wə-ʾō-reḵ", "traducao_palavra": "e comprimento" },
+        { "hebraico": "כְּאַחַ֤ד", "transliteral": "kə-ʾa-ḥaḏ", "traducao_palavra": "como uma de" },
+        { "hebraico": "הַחֲלָקִים֙", "transliteral": "ha-ḥă-lā-qîm", "traducao_palavra": "as porções" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado" },
+        { "hebraico": "קָדִ֛ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "וְהָיָ֥ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e estará" },
+        { "hebraico": "הַמִּקְדָּ֖שׁ", "transliteral": "ham-miq-dāš", "traducao_palavra": "o santuário" },
+        { "hebraico": "בְּתֹוכֹֽו׃", "transliteral": "bə-ṯô-ḵô", "traducao_palavra": "no meio dela" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "A porção que haveis de separar para YHWH será de vinte e cinco mil canas de comprimento e dez mil de largura.",
+      "palavras": [
+        { "hebraico": "הַתְּרוּמָ֕ה", "transliteral": "hat-tə-rū-mā", "traducao_palavra": "a porção dedicada" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "תָּרִ֖ימוּ", "transliteral": "tā-rî-mū", "traducao_palavra": "separareis" },
+        { "hebraico": "לַֽיהוָ֑ה", "transliteral": "lay-hwā", "traducao_palavra": "para YHWH" },
+        { "hebraico": "אֹ֗רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "o comprimento [será de]" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וְרֹ֖חַב", "transliteral": "wə-rō-ḥaḇ", "traducao_palavra": "e largura de" },
+        { "hebraico": "עֲשֶׂ֥רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִֽים׃", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E para eles, para os sacerdotes, será a santa oferta alçada: para o norte, vinte e cinco mil canas de comprimento, e para o ocidente, dez mil de largura, e para o oriente, dez mil de largura, e para o sul, vinte e cinco mil de comprimento; e o santuário de YHWH estará no meio dela.",
+      "palavras": [
+        { "hebraico": "וּ֠לְאֵלֶּה", "transliteral": "ū-lə-ʾêl-leh", "traducao_palavra": "e para estes" },
+        { "hebraico": "תִּהְיֶ֨ה", "transliteral": "tih-yeh", "traducao_palavra": "será" },
+        { "hebraico": "תְרוּמַת־הַקֹּ֜דֶשׁ", "transliteral": "ṯə-rū-maṯ-haq-qō-ḏeš", "traducao_palavra": "a porção santa dedicada" },
+        { "hebraico": "לַכֹּהֲנִ֗ים", "transliteral": "lak-kō-hă-nîm", "traducao_palavra": "aos sacerdotes" },
+        { "hebraico": "צָפֹ֜ונָה", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "para o norte" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וְיָ֙מָּה֙", "transliteral": "wə-yām-mā", "traducao_palavra": "e para o ocidente" },
+        { "hebraico": "רֹ֣חַב", "transliteral": "rō-ḥaḇ", "traducao_palavra": "largura de" },
+        { "hebraico": "עֲשֶׂ֣רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִ֔ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "וְקָדִ֗ימָה", "transliteral": "wə-qā-ḏî-mā", "traducao_palavra": "e para o oriente" },
+        { "hebraico": "רֹ֚חַב", "transliteral": "rō-ḥaḇ", "traducao_palavra": "largura de" },
+        { "hebraico": "עֲשֶׂ֣רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִ֔ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "וְנֶ֕גְבָּה", "transliteral": "wə-neḡ-bā", "traducao_palavra": "e para o sul" },
+        { "hebraico": "אֹ֕רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "comprimento de" },
+        { "hebraico": "חֲמִשָּׁ֥ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֖ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אָ֑לֶף", "transliteral": "ʾā-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וְהָיָ֥ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e estará" },
+        { "hebraico": "מִקְדַּשׁ־יְהוָ֖ה", "transliteral": "miq-daš-YHWH", "traducao_palavra": "o santuário de YHWH" },
+        { "hebraico": "בְּתֹוכֹֽו׃", "transliteral": "bə-ṯô-ḵô", "traducao_palavra": "no meio dela" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Será para os sacerdotes santificados dentre os filhos de Zadoque, que guardaram a minha ordenança e não se desviaram quando os filhos de Israel se desviavam, como se desviaram os levitas.",
+      "palavras": [
+        { "hebraico": "לַכֹּהֲנִ֤ים", "transliteral": "lak-kō-hă-nîm", "traducao_palavra": "para os sacerdotes" },
+        { "hebraico": "הַמְקֻדָּשׁ֙", "transliteral": "ham-qud-dāš", "traducao_palavra": "santificados" },
+        { "hebraico": "מִבְּנֵ֣י", "transliteral": "mib-bə-nê", "traducao_palavra": "dentre os filhos de" },
+        { "hebraico": "צָדֹ֔וק", "transliteral": "ṣā-ḏôq", "traducao_palavra": "Zadoque" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "שָׁמְר֖וּ", "transliteral": "šā-mə-rū", "traducao_palavra": "guardaram" },
+        { "hebraico": "מִשְׁמַרְתִּ֑י", "transliteral": "miš-mar-tî", "traducao_palavra": "o meu encargo" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹֽא־תָע֗וּ", "transliteral": "lō-ṯā-ʿū", "traducao_palavra": "não se desviaram" },
+        { "hebraico": "בִּתְעֹות֙", "transliteral": "biṯ-ʿôṯ", "traducao_palavra": "no desvio de" },
+        { "hebraico": "בְּנֵ֣י", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "כַּאֲשֶׁ֥ר", "transliteral": "ka-ʾă-šer", "traducao_palavra": "conforme" },
+        { "hebraico": "תָּע֖וּ", "transliteral": "tā-ʿū", "traducao_palavra": "se desviaram" },
+        { "hebraico": "הַלְוִיִּֽם׃", "transliteral": "hal-wiy-yim", "traducao_palavra": "os levitas" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E terão uma porção especial da oferta da terra, coisa santíssima, junto ao limite dos levitas.",
+      "palavras": [
+        { "hebraico": "וְהָיְתָ֨ה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e será" },
+        { "hebraico": "לָהֶ֥ם", "transliteral": "lā-hem", "traducao_palavra": "para eles" },
+        { "hebraico": "תְּרוּמִיָּ֛ה", "transliteral": "tə-rū-mî-yā", "traducao_palavra": "uma porção especial" },
+        { "hebraico": "מִתְּרוּמַ֥ת", "transliteral": "mit-tə-rū-maṯ", "traducao_palavra": "da oferta alçada de" },
+        { "hebraico": "הָאָ֖רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "קֹ֣דֶשׁ", "transliteral": "qō-ḏeš", "traducao_palavra": "coisa santa" },
+        { "hebraico": "קָדָשִׁ֑ים", "transliteral": "qā-ḏā-šîm", "traducao_palavra": "das santas [santíssima]" },
+        { "hebraico": "אֶל־גְּב֖וּל", "transliteral": "ʾel-gə-ḇūl", "traducao_palavra": "junto ao termo de" },
+        { "hebraico": "הַלְוִיִּֽם׃", "transliteral": "hal-wiy-yim", "traducao_palavra": "os levitas" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E os levitas terão, paralelamente ao termo dos sacerdotes, vinte e cinco mil canas de comprimento e dez mil de largura; todo o comprimento será de vinte e cinco mil, e a largura de dez mil.",
+      "palavras": [
+        { "hebraico": "וְהַלְוִיִּ֗ם", "transliteral": "wə-hal-wiy-yim", "traducao_palavra": "e os levitas" },
+        { "hebraico": "לְעֻמַּת֙", "transliteral": "lə-ʿum-maṯ", "traducao_palavra": "paralelamente a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "הַכֹּהֲנִ֔ים", "transliteral": "hak-kō-hă-nîm", "traducao_palavra": "os sacerdotes" },
+        { "hebraico": "חֲמִשָּׁ֨ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֥ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֛לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil [de]" },
+        { "hebraico": "אֹ֖רֶךְ", "transliteral": "ʾō-reḵ", "traducao_palavra": "comprimento" },
+        { "hebraico": "וְרֹ֣חַב", "transliteral": "wə-rō-ḥaḇ", "traducao_palavra": "e largura de" },
+        { "hebraico": "עֲשָׂרָ֣ה", "transliteral": "ʿă-śā-rā", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִ֑ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "כָּל־אֹ֗רֶךְ", "transliteral": "kāl-ʾō-reḵ", "traducao_palavra": "todo o comprimento [será de]" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "וְרֹ֖חַב", "transliteral": "wə-rō-ḥaḇ", "traducao_palavra": "e largura de" },
+        { "hebraico": "עֲשֶׂ֥רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִֽים׃", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E nada venderão disto, nem trocarão, nem transferirão as primícias da terra, porque é santo a YHWH.",
+      "palavras": [
+        { "hebraico": "וְלֹא־יִמְכְּר֣וּ", "transliteral": "wə-lō-yim-kə-rū", "traducao_palavra": "e não venderão" },
+        { "hebraico": "מִמֶּ֗נּוּ", "transliteral": "mim-men-nū", "traducao_palavra": "dele" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יָמֵ֛ר", "transliteral": "yā-mêr", "traducao_palavra": "trocarão" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יַעֲבִ֖יר", "transliteral": "ya-ʿă-ḇîr", "traducao_palavra": "transferirão" },
+        { "hebraico": "רֵאשִׁ֣ית", "transliteral": "rê-šîṯ", "traducao_palavra": "as primícias de" },
+        { "hebraico": "הָאָ֑רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "כִּי־קֹ֖דֶשׁ", "transliteral": "kî-qō-ḏeš", "traducao_palavra": "porque santidade [é]" },
+        { "hebraico": "לַיהוָֽה׃", "transliteral": "lay-hwā", "traducao_palavra": "para YHWH" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E os cinco mil restantes da largura, defronte dos vinte e cinco mil, serão para uso comum da cidade, para habitação e para arredores; e a cidade estará no meio dela.",
+      "palavras": [
+        { "hebraico": "וַחֲמֵ֨שֶׁת", "transliteral": "wa-ḥă-mê-šeṯ", "traducao_palavra": "e os cinco" },
+        { "hebraico": "אֲלָפִ֜ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "mil" },
+        { "hebraico": "הַנֹּותָ֣ר", "transliteral": "han-nô-ṯār", "traducao_palavra": "que restam" },
+        { "hebraico": "בָּרֹ֗חַב", "transliteral": "bā-rō-ḥaḇ", "traducao_palavra": "na largura" },
+        { "hebraico": "עַל־פְּנֵ֨י", "transliteral": "ʿal-pə-nê", "traducao_palavra": "ao longo de" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "חֹֽול־ה֕וּא", "transliteral": "ḥôl-hū", "traducao_palavra": "lugar comum é ele" },
+        { "hebraico": "לָעִ֥יר", "transliteral": "lā-ʿîr", "traducao_palavra": "para a cidade" },
+        { "hebraico": "לְמֹושָׁ֖ב", "transliteral": "lə-mô-šāḇ", "traducao_palavra": "para habitação" },
+        { "hebraico": "וּלְמִגְרָ֑שׁ", "transliteral": "ū-lə-miḡ-rāš", "traducao_palavra": "e para área aberta" },
+        { "hebraico": "וְהָיְתָ֥ה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e estará" },
+        { "hebraico": "הָעִ֖יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "בְּתֹוכֹֽו׃", "transliteral": "bə-ṯô-ḵô", "traducao_palavra": "no meio dele" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "E estas serão as suas medidas: o lado do norte, quatro mil e quinhentos; e o lado do sul, quatro mil e quinhentos; e o lado do oriente, quatro mil e quinhentos; e o lado do ocidente, quatro mil e quinhentos.",
+      "palavras": [
+        { "hebraico": "וְאֵ֜לֶּה", "transliteral": "wə-ʾêl-leh", "traducao_palavra": "e estas [são]" },
+        { "hebraico": "מִדֹּתֶ֗יהָ", "transliteral": "mid-dō-ṯê-hā", "traducao_palavra": "as suas medidas" },
+        { "hebraico": "פְּאַ֤ת", "transliteral": "pə-ʾaṯ", "traducao_palavra": "o lado de" },
+        { "hebraico": "צָפֹון֙", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "חֲמֵ֣שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹ֔ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos [quinhentos]" },
+        { "hebraico": "וְאַרְבַּ֥עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִ֖ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares [quatro mil]" },
+        { "hebraico": "וּפְאַת־נֶ֜גֶב", "transliteral": "ū-p̄ə-ʾaṯ-ne-ḡeḇ", "traducao_palavra": "e o lado do sul" },
+        { "hebraico": "חֲמֵ֣שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹות֙", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֥עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִ֔ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "וּמִפְּאַ֣ת", "transliteral": "ū-mip-pə-ʾaṯ", "traducao_palavra": "e do lado de" },
+        { "hebraico": "קָדִ֔ים", "transliteral": "qā-ḏîm", "traducao_palavra": "o oriente" },
+        { "hebraico": "חֲמֵ֥שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹ֖ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֣עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִ֑ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "וּפְאַת־יָ֕מָּה", "transliteral": "ū-p̄ə-ʾaṯ-yām-mā", "traducao_palavra": "e o lado do ocidente" },
+        { "hebraico": "חֲמֵ֥שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹ֖ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֥עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִֽים׃", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E os arredores da cidade serão: para o norte, duzentos e cinqüenta; e para o sul, duzentos e cinqüenta; e para o oriente, duzentos e cinqüenta; e para o ocidente, duzentos e cinqüenta.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֣ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e serão" },
+        { "hebraico": "מִגְרָשׁ֮", "transliteral": "miḡ-rāš", "traducao_palavra": "a área livre/arredores" },
+        { "hebraico": "לָעִיר֒", "transliteral": "lā-ʿîr", "traducao_palavra": "da cidade" },
+        { "hebraico": "צָפֹ֙ונָה֙", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "para o norte" },
+        { "hebraico": "חֲמִשִּׁ֣ים", "transliteral": "ḥă-miš-šîm", "traducao_palavra": "cinqüenta" },
+        { "hebraico": "וּמָאתַ֔יִם", "transliteral": "ū-mā-ṯa-yim", "traducao_palavra": "e duzentos" },
+        { "hebraico": "וְנֶ֖גְבָּה", "transliteral": "wə-neḡ-bā", "traducao_palavra": "e para o sul" },
+        { "hebraico": "חֲמִשִּׁ֣ים", "transliteral": "ḥă-miš-šîm", "traducao_palavra": "cinqüenta" },
+        { "hebraico": "וּמָאתָ֑יִם", "transliteral": "ū-mā-ṯā-yim", "traducao_palavra": "e duzentos" },
+        { "hebraico": "וְקָדִ֙ימָה֙", "transliteral": "wə-qā-ḏî-mā", "traducao_palavra": "e para o oriente" },
+        { "hebraico": "חֲמִשִּׁ֣ים", "transliteral": "ḥă-miš-šîm", "traducao_palavra": "cinqüenta" },
+        { "hebraico": "וּמָאתַ֔יִם", "transliteral": "ū-mā-ṯa-yim", "traducao_palavra": "e duzentos" },
+        { "hebraico": "וְיָ֖מָּה", "transliteral": "wə-yām-mā", "traducao_palavra": "e para o ocidente" },
+        { "hebraico": "חֲמִשִּׁ֥ים", "transliteral": "ḥă-miš-šîm", "traducao_palavra": "cinqüenta" },
+        { "hebraico": "וּמָאתָֽיִם׃", "transliteral": "ū-mā-ṯā-yim", "traducao_palavra": "e duzentos" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E o que restar do comprimento, paralelamente à santa oferta alçada, será de dez mil para o oriente e dez mil para o ocidente; e será defronte da santa oferta alçada; e o seu rendimento servirá de alimento para os trabalhadores da cidade.",
+      "palavras": [
+        { "hebraico": "וְהַנֹּותָ֨ר", "transliteral": "wə-han-nô-ṯār", "traducao_palavra": "e o que restar" },
+        { "hebraico": "בָּאֹ֜רֶךְ", "transliteral": "bā-ʾō-reḵ", "traducao_palavra": "no comprimento" },
+        { "hebraico": "לְעֻמַּ֣ת", "transliteral": "lə-ʿum-maṯ", "traducao_palavra": "paralelamente a" },
+        { "hebraico": "תְּרוּמַ֣ת", "transliteral": "tə-rū-maṯ", "traducao_palavra": "a porção alçada de" },
+        { "hebraico": "הַקֹּ֗דֶשׁ", "transliteral": "haq-qō-ḏeš", "traducao_palavra": "o santuário [santa]" },
+        { "hebraico": "עֲשֶׂ֨רֶת", "transliteral": "ʿă-śe-reṯ", "traducao_palavra": "dez" },
+        { "hebraico": "אֲלָפִ֤ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "קָדִ֙ימָה֙", "transliteral": "qā-ḏî-mā", "traducao_palavra": "para o oriente" },
+        { "hebraico": "וַעֲשֶׂ֤רֶת", "transliteral": "wa-ʿă-śe-reṯ", "traducao_palavra": "e dez" },
+        { "hebraico": "אֲלָפִים֙", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "יָ֔מָּה", "transliteral": "yām-mā", "traducao_palavra": "para o ocidente" },
+        { "hebraico": "וְהָיָ֕ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e estará" },
+        { "hebraico": "לְעֻמַּ֖ת", "transliteral": "lə-ʿum-maṯ", "traducao_palavra": "paralelamente a" },
+        { "hebraico": "תְּרוּמַ֣ת", "transliteral": "tə-rū-maṯ", "traducao_palavra": "a porção alçada de" },
+        { "hebraico": "הַקֹּ֑דֶשׁ", "transliteral": "haq-qō-ḏeš", "traducao_palavra": "o santuário" },
+        { "hebraico": "וְהָיְתָ֤ה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e será" },
+        { "hebraico": "תְבֽוּאָתֹו֙", "transliteral": "ṯə-ḇū-ʾā-ṯô", "traducao_palavra": "o seu rendimento/produto" },
+        { "hebraico": "לְלֶ֔חֶם", "transliteral": "lə-le-ḥem", "traducao_palavra": "para sustento/pão" },
+        { "hebraico": "לְעֹבְדֵ֖י", "transliteral": "lə-ʿō-ḇə-ḏê", "traducao_palavra": "para os trabalhadores de" },
+        { "hebraico": "הָעִֽיר׃", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E os trabalhadores da cidade a cultivarão, dentre todas as tribos de Israel.",
+      "palavras": [
+        { "hebraico": "וְהָעֹבֵ֖ד", "transliteral": "wə-hā-ʿō-ḇêḏ", "traducao_palavra": "e os trabalhadores de" },
+        { "hebraico": "הָעִ֑יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "יַעַבְד֖וּהוּ", "transliteral": "ya-ʿaḇ-ḏū-hū", "traducao_palavra": "a cultivarão" },
+        { "hebraico": "מִכֹּ֖ל", "transliteral": "mik-kōl", "traducao_palavra": "de todas" },
+        { "hebraico": "שִׁבְטֵ֥י", "transliteral": "šiḇ-ṭê", "traducao_palavra": "as tribos de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Toda a porção alçada será de vinte e cinco mil por vinte e cinco mil; em quadrado separareis a porção santa, juntamente com a possessão da cidade.",
+      "palavras": [
+        { "hebraico": "כָּל־הַתְּרוּמָ֗ה", "transliteral": "kāl-hat-tə-rū-mā", "traducao_palavra": "toda a porção alçada" },
+        { "hebraico": "חֲמִשָּׁ֤ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִים֙", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֔לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "בַּחֲמִשָּׁ֥ה", "transliteral": "ba-ḥă-miš-šā", "traducao_palavra": "por cinco" },
+        { "hebraico": "וְעֶשְׂרִ֖ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אָ֑לֶף", "transliteral": "ʾā-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "רְבִיעִית֙", "transliteral": "rə-ḇî-ʿîṯ", "traducao_palavra": "em quadro" },
+        { "hebraico": "תָּרִ֣ימוּ", "transliteral": "tā-rî-mū", "traducao_palavra": "separareis" },
+        { "hebraico": "אֶת־תְּרוּמַ֣ת", "transliteral": "ʾeṯ-tə-rū-maṯ", "traducao_palavra": "a porção alçada de" },
+        { "hebraico": "הַקֹּ֔דֶשׁ", "transliteral": "haq-qō-ḏeš", "traducao_palavra": "o santuário" },
+        { "hebraico": "אֶל־אֲחֻזַּ֖ת", "transliteral": "ʾel-ʾă-ḥuz-zaṯ", "traducao_palavra": "com a possessão de" },
+        { "hebraico": "הָעִֽיר׃", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E o que sobrar pertencerá ao príncipe, deste e do outro lado da porção santa e da possessão da cidade; defronte dos vinte e cinco mil da porção alçada até o termo oriental, e para o ocidente defronte dos vinte e cinco mil até o termo ocidental, paralelamente às porções, pertencerá ao príncipe; e a porção santa e o santuário do templo estarão no meio dele.",
+      "palavras": [
+        { "hebraico": "וְהַנֹּותָ֣ר", "transliteral": "wə-han-nô-ṯār", "traducao_palavra": "e o restante" },
+        { "hebraico": "לַנָּשִׂ֡יא", "transliteral": "lan-nā-śî", "traducao_palavra": "será para o príncipe" },
+        { "hebraico": "מִזֶּ֣ה", "transliteral": "miz-zeh", "traducao_palavra": "deste lado" },
+        { "hebraico": "וּמִזֶּ֣ה", "transliteral": "ū-miz-zeh", "traducao_palavra": "e daquele lado" },
+        { "hebraico": "לִתְרֽוּמַת־הַקֹּ֨דֶשׁ", "transliteral": "liṯ-rū-maṯ-haq-qō-ḏeš", "traducao_palavra": "da santa porção" },
+        { "hebraico": "וְלַאֲחֻזַּ֣ת", "transliteral": "wə-la-ʾă-ḥuz-zaṯ", "traducao_palavra": "e da possessão de" },
+        { "hebraico": "הָעִיר֮", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "אֶל־פְּנֵ֣י", "transliteral": "ʾel-pə-nê", "traducao_palavra": "defronte de" },
+        { "hebraico": "חֲמִשָּׁה֩", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֨ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֜לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil de" },
+        { "hebraico": "תְּרוּמָ֗ה", "transliteral": "tə-rū-mā", "traducao_palavra": "porção alçada" },
+        { "hebraico": "עַד־גְּב֥וּל", "transliteral": "ʿaḏ-gə-ḇūl", "traducao_palavra": "até o termo" },
+        { "hebraico": "קָדִ֛ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" },
+        { "hebraico": "וְיָ֜מָּה", "transliteral": "wə-yām-mā", "traducao_palavra": "e para o ocidente" },
+        { "hebraico": "עַל־פְּנֵ֣י", "transliteral": "ʿal-pə-nê", "traducao_palavra": "defronte de" },
+        { "hebraico": "חֲמִשָּׁ֧ה", "transliteral": "ḥă-miš-šā", "traducao_palavra": "cinco" },
+        { "hebraico": "וְעֶשְׂרִ֛ים", "transliteral": "wə-ʿeś-rîm", "traducao_palavra": "e vinte" },
+        { "hebraico": "אֶ֛לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "עַל־גְּב֥וּל", "transliteral": "ʿal-gə-ḇūl", "traducao_palavra": "junto ao termo" },
+        { "hebraico": "יָ֖מָּה", "transliteral": "yām-mā", "traducao_palavra": "ocidental" },
+        { "hebraico": "לְעֻמַּ֣ת", "transliteral": "lə-ʿum-maṯ", "traducao_palavra": "paralelamente a" },
+        { "hebraico": "חֲלָקִ֑ים", "transliteral": "ḥă-lā-qîm", "traducao_palavra": "as porções" },
+        { "hebraico": "לַנָּשִׂ֗יא", "transliteral": "lan-nā-śî", "traducao_palavra": "será para o príncipe" },
+        { "hebraico": "וְהָֽיְתָה֙", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e estará" },
+        { "hebraico": "תְּרוּמַ֣ת", "transliteral": "tə-rū-maṯ", "traducao_palavra": "a porção alçada de" },
+        { "hebraico": "הַקֹּ֔דֶשׁ", "transliteral": "haq-qō-ḏeš", "traducao_palavra": "o santuário" },
+        { "hebraico": "וּמִקְדַּ֥שׁ", "transliteral": "ū-miq-daš", "traducao_palavra": "e o santuário de" },
+        { "hebraico": "הַבַּ֖יִת", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "בְּתֹוכָֽהּ׃", "transliteral": "bə-ṯô-ḵāh", "traducao_palavra": "no meio dela" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E desde a possessão dos levitas e a possessão da cidade, no meio daquilo que pertencer ao príncipe, entre o termo de Judá e o termo de Benjamim, será para o príncipe.",
+      "palavras": [
+        { "hebraico": "וּמֵאֲחֻזַּ֤ת", "transliteral": "ū-mê-ʾă-ḥuz-zaṯ", "traducao_palavra": "e da possessão de" },
+        { "hebraico": "הַלְוִיִּם֙", "transliteral": "hal-wiy-yim", "traducao_palavra": "os levitas" },
+        { "hebraico": "וּמֵאֲחֻזַּ֣ת", "transliteral": "ū-mê-ʾă-ḥuz-zaṯ", "traducao_palavra": "e da possessão de" },
+        { "hebraico": "הָעִ֔יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "בְּתֹ֛וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "o que" },
+        { "hebraico": "לַנָּשִׂ֖יא", "transliteral": "lan-nā-śî", "traducao_palavra": "ao príncipe" },
+        { "hebraico": "יִֽהְיֶ֑ה", "transliteral": "yih-yeh", "traducao_palavra": "pertencer" },
+        { "hebraico": "בֵּ֣ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "יְהוּדָ֗ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וּבֵין֙", "transliteral": "ū-ḇên", "traducao_palavra": "e entre" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "בִּנְיָמִ֔ן", "transliteral": "bin-yā-min", "traducao_palavra": "Benjamim" },
+        { "hebraico": "לַנָּשִׂ֖יא", "transliteral": "lan-nā-śî", "traducao_palavra": "ao príncipe" },
+        { "hebraico": "יִהְיֶֽה׃", "transliteral": "yih-yeh", "traducao_palavra": "pertencerá" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "Quanto ao restante das tribos: desde o lado oriental até o lado ocidental, Benjamim, uma porção.",
+      "palavras": [
+        { "hebraico": "וְיֶ֖תֶר", "transliteral": "wə-ye-ṯer", "traducao_palavra": "e o restante de" },
+        { "hebraico": "הַשְּׁבָטִ֑ים", "transliteral": "haš-šə-ḇā-ṭîm", "traducao_palavra": "as tribos" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "בִּנְיָמִ֥ן", "transliteral": "bin-yā-min", "traducao_palavra": "Benjamim" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E junto ao termo de Benjamim, desde o lado oriental até o lado ocidental, Simeão, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַ֣ל", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "בִּנְיָמִ֗ן", "transliteral": "bin-yā-min", "traducao_palavra": "Benjamim" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "שִׁמְעֹ֥ון", "transliteral": "šim-ʿôn", "traducao_palavra": "Simeão" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E junto ao termo de Simeão, desde o lado oriental até o lado ocidental, Issacar, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַל֙", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "שִׁמְעֹ֔ון", "transliteral": "šim-ʿôn", "traducao_palavra": "Simeão" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "יִשָּׂשכָ֥ר", "transliteral": "yiś-śā-s-ḵār", "traducao_palavra": "Issacar" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E junto ao termo de Issacar, desde o lado oriental até o lado ocidental, Zebulom, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַל֙", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "יִשָּׂשכָ֔ר", "transliteral": "yiś-śā-s-ḵār", "traducao_palavra": "Issacar" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado de" },
+        { "hebraico": "קָדִ֛ים", "transliteral": "qā-ḏîm", "traducao_palavra": "oriente" },
+        { "hebraico": "עַד־פְּאַת־יָ֖מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "זְבוּלֻ֥ן", "transliteral": "zə-ḇū-lun", "traducao_palavra": "Zebulom" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "E junto ao termo de Zebulom, desde o lado oriental até o lado ocidental, Gade, uma porção.",
+      "palavras": [
+        { "hebraico": "וְעַל֙", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "זְבוּלֻ֔ן", "transliteral": "zə-ḇū-lun", "traducao_palavra": "Zebulom" },
+        { "hebraico": "מִפְּאַ֥ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "desde o lado" },
+        { "hebraico": "קָדִ֖ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" },
+        { "hebraico": "עַד־פְּאַת־יָ֑מָּה", "transliteral": "ʿaḏ-pə-ʾaṯ-yām-mā", "traducao_palavra": "até o lado ocidental" },
+        { "hebraico": "גָּ֖ד", "transliteral": "gāḏ", "traducao_palavra": "Gade" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma [porção]" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "E junto ao termo de Gade, para o lado do sul, para o meio-dia, o limite será desde Tamar até as águas de Meribate-Cades, junto ao ribeiro até o grande mar.",
+      "palavras": [
+        { "hebraico": "וְעַל֙", "transliteral": "wə-ʿal", "traducao_palavra": "e junto a" },
+        { "hebraico": "גְּב֣וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o termo de" },
+        { "hebraico": "גָּ֔ד", "transliteral": "gāḏ", "traducao_palavra": "Gade" },
+        { "hebraico": "אֶל־פְּאַ֖ת", "transliteral": "ʾel-pə-ʾaṯ", "traducao_palavra": "para o lado de" },
+        { "hebraico": "נֶ֣גֶב", "transliteral": "ne-ḡeḇ", "traducao_palavra": "o sul" },
+        { "hebraico": "תֵּימָ֑נָה", "transliteral": "tê-mā-nā", "traducao_palavra": "para o meio-dia" },
+        { "hebraico": "וְהָיָ֨ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será" },
+        { "hebraico": "גְב֜וּל", "transliteral": "gə-ḇūl", "traducao_palavra": "o limite" },
+        { "hebraico": "מִתָּמָ֗ר", "transliteral": "mit-tā-mār", "traducao_palavra": "desde Tamar" },
+        { "hebraico": "מֵ֠י", "transliteral": "mê", "traducao_palavra": "até as águas de" },
+        { "hebraico": "מְרִיבַ֤ת", "transliteral": "mə-rî-ḇaṯ", "traducao_palavra": "contenda de [Meribate-]" },
+        { "hebraico": "קָדֵשׁ֙", "transliteral": "qā-ḏêš", "traducao_palavra": "Cades" },
+        { "hebraico": "נַחֲלָ֔ה", "transliteral": "na-ḥă-lā", "traducao_palavra": "ao ribeiro" },
+        { "hebraico": "עַל־הַיָּ֖ם", "transliteral": "ʿal-hay-yām", "traducao_palavra": "até o mar" },
+        { "hebraico": "הַגָּדֹֽול׃", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "Esta é a terra que sorteareis em herança às tribos de Israel; e estas são as suas porções, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "זֹ֚את", "transliteral": "zōʾṯ", "traducao_palavra": "esta [é]" },
+        { "hebraico": "הָאָ֔רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "אֲשֶׁר־תַּפִּ֥ילוּ", "transliteral": "ʾă-šer-tap-pî-lū", "traducao_palavra": "que fareis cair [por sorte]" },
+        { "hebraico": "מִֽנַּחֲלָ֖ה", "transliteral": "min-na-ḥă-lā", "traducao_palavra": "em herança" },
+        { "hebraico": "לְשִׁבְטֵ֣י", "transliteral": "lə-šiḇ-ṭê", "traducao_palavra": "às tribos de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וְאֵ֙לֶּה֙", "transliteral": "wə-ʾêl-leh", "traducao_palavra": "e estas [são]" },
+        { "hebraico": "מַחְלְקֹותָ֔ם", "transliteral": "maḥ-lə-qô-ṯām", "traducao_palavra": "as suas divisões/porções" },
+        { "hebraico": "נְאֻ֖ם", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "אֲדֹנָ֥י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "E estas são as saídas da cidade: pelo lado do norte, quatro mil e quinhentas medidas.",
+      "palavras": [
+        { "hebraico": "וְאֵ֖לֶּה", "transliteral": "wə-ʾêl-leh", "traducao_palavra": "e estas [são]" },
+        { "hebraico": "תֹּוצְאֹ֣ת", "transliteral": "tô-ṣə-ʾōṯ", "traducao_palavra": "as saídas de" },
+        { "hebraico": "הָעִ֑יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "מִפְּאַ֣ת", "transliteral": "mip-pə-ʾaṯ", "traducao_palavra": "pelo lado de" },
+        { "hebraico": "צָפֹ֔ון", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "o norte" },
+        { "hebraico": "חֲמֵ֥שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹ֖ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֥עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִֽים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "מִדָּֽה׃", "transliteral": "mid-dā", "traducao_palavra": "de medida" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E as portas da cidade serão segundo os nomes das tribos de Israel; três portas para o norte: a porta de Rúben, uma; a porta de Judá, outra; a porta de Levi, outra.",
+      "palavras": [
+        { "hebraico": "וְשַׁעֲרֵ֣י", "transliteral": "wə-ša-ʿă-rê", "traducao_palavra": "e as portas de" },
+        { "hebraico": "הָעִ֗יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "עַל־שְׁמֹות֙", "transliteral": "ʿal-šə-môṯ", "traducao_palavra": "segundo os nomes de" },
+        { "hebraico": "שִׁבְטֵ֣י", "transliteral": "šiḇ-ṭê", "traducao_palavra": "as tribos de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "שְׁעָרִ֥ים", "transliteral": "šə-ʿā-rîm", "traducao_palavra": "portas" },
+        { "hebraico": "שְׁלֹושָׁ֖ה", "transliteral": "šə-lô-šā", "traducao_palavra": "três" },
+        { "hebraico": "צָפֹ֑ונָה", "transliteral": "ṣā-p̄ô-nā", "traducao_palavra": "para o norte" },
+        { "hebraico": "שַׁ֣עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "רְאוּבֵ֞ן", "transliteral": "rə-ʾū-ḇên", "traducao_palavra": "Rúben" },
+        { "hebraico": "אֶחָ֗ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֤עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "יְהוּדָה֙", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "אֶחָ֔ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֥עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "לֵוִ֖י", "transliteral": "lê-wî", "traducao_palavra": "Levi" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "E para o lado oriental, quatro mil e quinhentas medidas, e três portas: a porta de José, uma; a porta de Benjamim, outra; a porta de Dã, outra.",
+      "palavras": [
+        { "hebraico": "וְאֶל־פְּאַ֣ת", "transliteral": "wə-ʾel-pə-ʾaṯ", "traducao_palavra": "e para o lado" },
+        { "hebraico": "קָדִ֗ימָה", "transliteral": "qā-ḏî-mā", "traducao_palavra": "oriental" },
+        { "hebraico": "חֲמֵ֤שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹות֙", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֣עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִ֔ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "וּשְׁעָרִ֖ים", "transliteral": "ū-šə-ʿā-rîm", "traducao_palavra": "e portas" },
+        { "hebraico": "שְׁלֹשָׁ֑ה", "transliteral": "šə-lō-šā", "traducao_palavra": "três" },
+        { "hebraico": "וְשַׁ֨עַר", "transliteral": "wə-ša-ʿar", "traducao_palavra": "e a porta de" },
+        { "hebraico": "יֹוסֵ֜ף", "transliteral": "yô-sêp̄", "traducao_palavra": "José" },
+        { "hebraico": "אֶחָ֗ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֤עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "בִּנְיָמִן֙", "transliteral": "bin-yā-min", "traducao_palavra": "Benjamim" },
+        { "hebraico": "אֶחָ֔ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֥עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "דָּ֖ן", "transliteral": "dān", "traducao_palavra": "Dã" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "E do lado do sul, quatro mil e quinhentas medidas, e três portas: a porta de Simeão, uma; a porta de Issacar, outra; a porta de Zebulom, outra.",
+      "palavras": [
+        { "hebraico": "וּפְאַת־נֶ֗גְבָּה", "transliteral": "ū-p̄ə-ʾaṯ-neḡ-bā", "traducao_palavra": "e o lado do sul" },
+        { "hebraico": "חֲמֵ֤שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹות֙", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֣עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִ֔ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "מִדָּ֑ה", "transliteral": "mid-dā", "traducao_palavra": "de medida" },
+        { "hebraico": "וּשְׁעָרִ֖ים", "transliteral": "ū-šə-ʿā-rîm", "traducao_palavra": "e portas" },
+        { "hebraico": "שְׁלֹשָׁ֑ה", "transliteral": "šə-lō-šā", "traducao_palavra": "três" },
+        { "hebraico": "שַׁ֣עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "שִׁמְעֹ֞ון", "transliteral": "šim-ʿôn", "traducao_palavra": "Simeão" },
+        { "hebraico": "אֶחָ֗ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֤עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "יִשָּׂשכָר֙", "transliteral": "yiś-śā-s-ḵār", "traducao_palavra": "Issacar" },
+        { "hebraico": "אֶחָ֔ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֥עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "זְבוּלֻ֖ן", "transliteral": "zə-ḇū-lun", "traducao_palavra": "Zebulom" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "Do lado do ocidente, quatro mil e quinhentas medidas, e as suas portas, três: a porta de Gade, uma; a porta de Aser, outra; a porta de Naftali, outra.",
+      "palavras": [
+        { "hebraico": "פְּאַת־יָ֕מָּה", "transliteral": "pə-ʾaṯ-yām-mā", "traducao_palavra": "o lado do ocidente" },
+        { "hebraico": "חֲמֵ֥שׁ", "transliteral": "ḥă-mêš", "traducao_palavra": "cinco" },
+        { "hebraico": "מֵאֹ֖ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centos" },
+        { "hebraico": "וְאַרְבַּ֣עַת", "transliteral": "wə-ʾar-ba-ʿaṯ", "traducao_palavra": "e quatro" },
+        { "hebraico": "אֲלָפִ֑ים", "transliteral": "ʾă-lā-p̄îm", "traducao_palavra": "milhares" },
+        { "hebraico": "שַׁעֲרֵיהֶ֣ם", "transliteral": "ša-ʿă-rê-hem", "traducao_palavra": "as suas portas [serão]" },
+        { "hebraico": "שְׁלֹשָׁ֔ה", "transliteral": "šə-lō-šā", "traducao_palavra": "três" },
+        { "hebraico": "שַׁ֣עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "גָּ֞ד", "transliteral": "gāḏ", "traducao_palavra": "Gade" },
+        { "hebraico": "אֶחָ֗ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֤עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "אָשֵׁר֙", "transliteral": "ʾā-šêr", "traducao_palavra": "Aser" },
+        { "hebraico": "אֶחָ֔ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "שַׁ֥עַר", "transliteral": "ša-ʿar", "traducao_palavra": "a porta de" },
+        { "hebraico": "נַפְתָּלִ֖י", "transliteral": "nap̄-tā-lî", "traducao_palavra": "Naftali" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" }
+      ]
+    },
+    "35": {
+      "traducao_completa": "Ao redor terá dezoito mil medidas; e o nome da cidade desde aquele dia será: YHWH-Shamá [YHWH Está Ali].",
+      "palavras": [
+        { "hebraico": "סָבִ֕יב", "transliteral": "sā-ḇîḇ", "traducao_palavra": "ao redor [terá]" },
+        { "hebraico": "שְׁמֹנָ֥ה", "transliteral": "šə-mō-nā", "traducao_palavra": "oito" },
+        { "hebraico": "עָשָׂ֖ר", "transliteral": "ʿā-śār", "traducao_palavra": "dez [dezoito]" },
+        { "hebraico": "אָ֑לֶף", "transliteral": "ʾā-lep̄", "traducao_palavra": "mil [medidas]" },
+        { "hebraico": "וְשֵׁם־הָעִ֥יר", "transliteral": "wə-šêm-hā-ʿîr", "traducao_palavra": "e o nome da cidade" },
+        { "hebraico": "מִיֹּ֖ום", "transliteral": "mî-yôm", "traducao_palavra": "desde o dia [em que]" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "שָֽׁמָּה׃", "transliteral": "šām-mā", "traducao_palavra": "[estiver] ali" }
+      ]
+    }
+  }
 }

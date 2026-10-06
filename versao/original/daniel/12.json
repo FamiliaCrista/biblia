@@ -1,6 +1,235 @@
 {
-  "livro": "Daniel - דָּנִיֵּאל - Daniyyel",
+  "livro": "Daniel - דָּנִיֵּאל - Dāniyyēʾl",
   "capítulo": 12,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E naquele tempo se levantará Miguel, o grande príncipe que se levanta a favor dos filhos do teu povo, e haverá um tempo de angústia, qual nunca houve, desde que houve nação até àquele tempo; mas naquele tempo livrar-se-á o teu povo, todo aquele que for achado escrito no livro.",
+      "palavras": [
+        { "hebraico": "וּבָעֵ֣ת", "transliteral": "ū-ḇā-ʿêṯ", "traducao_palavra": "e no tempo" },
+        { "hebraico": "הַהִיא֩", "transliteral": "ha-hî", "traducao_palavra": "aquele" },
+        { "hebraico": "יַעֲמֹ֨ד", "transliteral": "ya-ʿă-mōḏ", "traducao_palavra": "se levantará" },
+        { "hebraico": "מִֽיכָאֵ֜ל", "transliteral": "mî-ḵā-ʾêl", "traducao_palavra": "Miguel" },
+        { "hebraico": "הַשַּׂ֣ר", "transliteral": "haś-śar", "traducao_palavra": "o príncipe" },
+        { "hebraico": "הַגָּדֹ֗ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "הָעֹמֵד֮", "transliteral": "hā-ʿō-mêḏ", "traducao_palavra": "que está em pé/assiste" },
+        { "hebraico": "עַל־בְּנֵ֣י", "transliteral": "ʿal-bə-nê", "traducao_palavra": "a favor dos filhos de" },
+        { "hebraico": "עַמֶּךָ֒", "transliteral": "ʿam-me-ḵā", "traducao_palavra": "teu povo" },
+        { "hebraico": "וְהָיְתָ֣ה", "transliteral": "wə-hā-yə-ṯā", "traducao_palavra": "e haverá" },
+        { "hebraico": "עֵ֣ת", "transliteral": "ʿêṯ", "traducao_palavra": "um tempo de" },
+        { "hebraico": "צָרָ֔ה", "transliteral": "ṣā-rā", "traducao_palavra": "angústia" },
+        { "hebraico": "אֲשֶׁ֤ר", "transliteral": "ʾă-šer", "traducao_palavra": "qual" },
+        { "hebraico": "לֹֽא־נִהְיְתָה֙", "transliteral": "lō-nih-yə-ṯā", "traducao_palavra": "nunca houve" },
+        { "hebraico": "מִֽהְיֹ֣ות", "transliteral": "mih-yôṯ", "traducao_palavra": "desde que existiu" },
+        { "hebraico": "גֹּ֔וי", "transliteral": "gôy", "traducao_palavra": "uma nação" },
+        { "hebraico": "עַ֖ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "הָעֵ֣ת", "transliteral": "hā-ʿêṯ", "traducao_palavra": "o tempo" },
+        { "hebraico": "הַהִ֑יא", "transliteral": "ha-hî", "traducao_palavra": "aquele" },
+        { "hebraico": "וּבָעֵ֤ת", "transliteral": "ū-ḇā-ʿêṯ", "traducao_palavra": "e no tempo" },
+        { "hebraico": "הַהִיא֙", "transliteral": "ha-hî", "traducao_palavra": "aquele" },
+        { "hebraico": "יִמָּלֵ֣ט", "transliteral": "yim-mā-lêṭ", "traducao_palavra": "será liberto/escapará" },
+        { "hebraico": "עַמְּךָ֔", "transliteral": "ʿam-mə-ḵā", "traducao_palavra": "o teu povo" },
+        { "hebraico": "כָּל־הַנִּמְצָ֖א", "transliteral": "kāl-han-nim-ṣā", "traducao_palavra": "todo aquele que for achado" },
+        { "hebraico": "כָּת֥וּב", "transliteral": "kā-ṯūḇ", "traducao_palavra": "escrito" },
+        { "hebraico": "בַּסֵּֽפֶר׃", "transliteral": "bas-sê-p̄er", "traducao_palavra": "no livro" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna, e outros para vergonha e desprezo eterno.",
+      "palavras": [
+        { "hebraico": "וְרַבִּ֕ים", "transliteral": "wə-rab-bîm", "traducao_palavra": "e muitos" },
+        { "hebraico": "מִיְּשֵׁנֵ֥י", "transliteral": "mî-yə-šê-nê", "traducao_palavra": "dos que dormem em" },
+        { "hebraico": "אַדְמַת־עָפָ֖ר", "transliteral": "ʾaḏ-maṯ-ʿā-p̄ār", "traducao_palavra": "terra de pó" },
+        { "hebraico": "יָקִ֑יצוּ", "transliteral": "yā-qî-ṣû", "traducao_palavra": "despertarão" },
+        { "hebraico": "אֵ֚לֶּה", "transliteral": "ʾêl-leh", "traducao_palavra": "uns" },
+        { "hebraico": "לְחַיֵּ֣י", "transliteral": "lə-ḥay-yê", "traducao_palavra": "para a vida de" },
+        { "hebraico": "עֹולָ֔ם", "transliteral": "ʿô-lām", "traducao_palavra": "eternidade" },
+        { "hebraico": "וְאֵ֥לֶּה", "transliteral": "wə-ʾêl-leh", "traducao_palavra": "e outros" },
+        { "hebraico": "לַחֲרָפֹ֖ות", "transliteral": "la-ḥă-rā-p̄ôṯ", "traducao_palavra": "para vergonhas" },
+        { "hebraico": "לְדִרְאֹ֥ון", "transliteral": "lə-ḏir-ʾôn", "traducao_palavra": "para abominação/horror" },
+        { "hebraico": "עֹולָֽם׃", "transliteral": "ʿô-lām", "traducao_palavra": "eterno" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Os que forem sábios resplandecerão como o resplendor do firmamento; e os que a muitos ensinam a justiça, como as estrelas, sempre e eternamente.",
+      "palavras": [
+        { "hebraico": "וְהַ֨מַּשְׂכִּלִ֔ים", "transliteral": "wə-ham-maś-ki-lîm", "traducao_palavra": "e os sábios/entendidos" },
+        { "hebraico": "יַזְהִ֖רוּ", "transliteral": "yaz-hi-rû", "traducao_palavra": "resplandecerão" },
+        { "hebraico": "כְּזֹ֣הַר", "transliteral": "kə-zō-har", "traducao_palavra": "como o resplendor de" },
+        { "hebraico": "הָרָקִ֑יעַ", "transliteral": "hā-rā-qî-aʿ", "traducao_palavra": "o firmamento" },
+        { "hebraico": "וּמַצְדִּיקֵי֙", "transliteral": "ū-maṣ-dî-qê", "traducao_palavra": "e os que conduzem à justiça" },
+        { "hebraico": "הָֽרַבִּ֔ים", "transliteral": "hā-rab-bîm", "traducao_palavra": "a muitos" },
+        { "hebraico": "כַּכֹּוכָבִ֖ים", "transliteral": "kak-kô-ḵā-ḇîm", "traducao_palavra": "como as estrelas" },
+        { "hebraico": "לְעֹולָ֥ם", "transliteral": "lə-ʿô-lām", "traducao_palavra": "para sempre" },
+        { "hebraico": "וָעֶֽד׃", "transliteral": "wā-ʿeḏ", "traducao_palavra": "e perpetuamente" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E tu, Daniel, fecha estas palavras e sela este livro, até ao tempo do fim; muitos correrão de uma parte para outra, e a ciência se multiplicará.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֣ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "e tu" },
+        { "hebraico": "דָֽנִיֵּ֗אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "סְתֹ֧ם", "transliteral": "sə-ṯōm", "traducao_palavra": "fecha/oculta" },
+        { "hebraico": "הַדְּבָרִ֛ים", "transliteral": "had-də-ḇā-rîm", "traducao_palavra": "as palavras" },
+        { "hebraico": "וַחֲתֹ֥ם", "transliteral": "wa-ḥă-ṯōm", "traducao_palavra": "e sela" },
+        { "hebraico": "הַסֵּ֖פֶר", "transliteral": "has-sê-p̄er", "traducao_palavra": "o livro" },
+        { "hebraico": "עַד־עֵ֣ת", "transliteral": "ʿaḏ-ʿêṯ", "traducao_palavra": "até ao tempo de" },
+        { "hebraico": "קֵ֑ץ", "transliteral": "qêṣ", "traducao_palavra": "o fim" },
+        { "hebraico": "יְשֹׁטְט֥וּ", "transliteral": "yə-šō-ṭə-ṭû", "traducao_palavra": "esquadrinharão/correrão" },
+        { "hebraico": "רַבִּ֖ים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "וְתִרְבֶּ֥ה", "transliteral": "wə-ṯir-beh", "traducao_palavra": "e se multiplicará" },
+        { "hebraico": "הַדָּֽעַת׃", "transliteral": "had-dā-ʿaṯ", "traducao_palavra": "o conhecimento/ciência" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Então eu, Daniel, olhei, e eis que estavam em pé outros dois, um de uma banda, à beira do rio, e o outro da outra banda, à beira do rio.",
+      "palavras": [
+        { "hebraico": "וְרָאִ֙יתִי֙", "transliteral": "wə-rā-ʾî-ṯî", "traducao_palavra": "e olhei" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "דָנִיֵּ֔אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "וְהִנֵּ֛ה", "transliteral": "wə-hin-nêh", "traducao_palavra": "e eis que" },
+        { "hebraico": "שְׁנַ֥יִם", "transliteral": "šə-na-yim", "traducao_palavra": "dois" },
+        { "hebraico": "אֲחֵרִ֖ים", "transliteral": "ʾă-ḥê-rîm", "traducao_palavra": "outros" },
+        { "hebraico": "עֹמְדִ֑ים", "transliteral": "ʿō-mə-ḏîm", "traducao_palavra": "estavam em pé" },
+        { "hebraico": "אֶחָ֥ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "um" },
+        { "hebraico": "מִנָּ֛ה", "transliteral": "min-nā", "traducao_palavra": "de cá" },
+        { "hebraico": "לִשְׂפַ֥ת", "transliteral": "liś-p̄aṯ", "traducao_palavra": "à beira de" },
+        { "hebraico": "הַיְאֹ֖ר", "transliteral": "hay-ʾōr", "traducao_palavra": "o rio" },
+        { "hebraico": "וְאֶחָ֥ד", "transliteral": "wə-ʾe-ḥāḏ", "traducao_palavra": "e um" },
+        { "hebraico": "מִנָּ֖ה", "transliteral": "min-nā", "traducao_palavra": "de lá" },
+        { "hebraico": "לִשְׂפַ֥ת", "transliteral": "liś-p̄aṯ", "traducao_palavra": "à beira de" },
+        { "hebraico": "הַיְאֹֽר׃", "transliteral": "hay-ʾōr", "traducao_palavra": "o rio" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E um disse ao homem vestido de linho, que estava sobre as águas do rio: Quanto tempo haverá até ao fim destas maravilhas?",
+      "palavras": [
+        { "hebraico": "וַיֹּ֗אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "לָאִישׁ֙", "transliteral": "lā-ʾîš", "traducao_palavra": "ao homem" },
+        { "hebraico": "לְב֣וּשׁ", "transliteral": "lə-ḇūš", "traducao_palavra": "vestido de" },
+        { "hebraico": "הַבַּדִּ֔ים", "transliteral": "hab-bad-dîm", "traducao_palavra": "o linho" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estava]" },
+        { "hebraico": "מִמַּ֖עַל", "transliteral": "mim-ma-ʿal", "traducao_palavra": "por cima" },
+        { "hebraico": "לְמֵימֵ֣י", "transliteral": "lə-mê-mê", "traducao_palavra": "das águas de" },
+        { "hebraico": "הַיְאֹ֑ר", "transliteral": "hay-ʾōr", "traducao_palavra": "o rio" },
+        { "hebraico": "עַד־מָתַ֖י", "transliteral": "ʿaḏ-mā-ṯay", "traducao_palavra": "até quando [será]" },
+        { "hebraico": "קֵ֥ץ", "transliteral": "qêṣ", "traducao_palavra": "o fim de" },
+        { "hebraico": "הַפְּלָאֹֽות׃", "transliteral": "hap-pə-lā-ʾôṯ", "traducao_palavra": "estas maravilhas?" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E ouvi o homem vestido de linho, que estava sobre as águas do rio, quando levantou a sua mão direita e a sua mão esquerda ao céu, e jurou por aquele que vive eternamente que isso seria para um tempo, tempos e metade de um tempo; e, quando tiverem acabado de despedaçar o poder do povo santo, todas estas coisas se cumprirão.",
+      "palavras": [
+        { "hebraico": "וָאֶשְׁמַ֞ע", "transliteral": "wā-ʾeš-maʿ", "traducao_palavra": "e ouvi" },
+        { "hebraico": "אֶת־הָאִ֣ישׁ", "transliteral": "ʾeṯ-hā-ʾîš", "traducao_palavra": "o homem" },
+        { "hebraico": "לְב֣וּשׁ", "transliteral": "lə-ḇūš", "traducao_palavra": "vestido de" },
+        { "hebraico": "הַבַּדִּ֗ים", "transliteral": "hab-bad-dîm", "traducao_palavra": "o linho" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estava]" },
+        { "hebraico": "מִמַּעַל֮", "transliteral": "mim-ma-ʿal", "traducao_palavra": "por cima" },
+        { "hebraico": "לְמֵימֵ֣י", "transliteral": "lə-mê-mê", "traducao_palavra": "das águas de" },
+        { "hebraico": "הַיְאֹר֒", "transliteral": "hay-ʾōr", "traducao_palavra": "o rio" },
+        { "hebraico": "וַיָּ֨רֶם", "transliteral": "way-yā-rem", "traducao_palavra": "e levantou" },
+        { "hebraico": "יְמִינֹ֤ו", "transliteral": "yə-mî-nô", "traducao_palavra": "a sua destra" },
+        { "hebraico": "וּשְׂמֹאלֹו֙", "transliteral": "ū-śə-mō-lô", "traducao_palavra": "e a sua esquerda" },
+        { "hebraico": "אֶל־הַשָּׁמַ֔יִם", "transliteral": "ʾel-haš-šā-ma-yim", "traducao_palavra": "ao céu" },
+        { "hebraico": "וַיִּשָּׁבַ֖ע", "transliteral": "way-yiš-šā-ḇaʿ", "traducao_palavra": "e jurou" },
+        { "hebraico": "בְּחֵ֣י", "transliteral": "bə-ḥê", "traducao_palavra": "por aquele que vive de" },
+        { "hebraico": "הָעֹולָ֑ם", "transliteral": "hā-ʿô-lām", "traducao_palavra": "a eternidade" },
+        { "hebraico": "כִּי֩", "transliteral": "kî", "traducao_palavra": "que [será]" },
+        { "hebraico": "לְמֹועֵ֨ד", "transliteral": "lə-mô-ʿêḏ", "traducao_palavra": "por um tempo" },
+        { "hebraico": "מֹֽועֲדִ֜ים", "transliteral": "mô-ʿă-ḏîm", "traducao_palavra": "tempos" },
+        { "hebraico": "וָחֵ֗צִי", "transliteral": "wā-ḥê-ṣî", "traducao_palavra": "e metade" },
+        { "hebraico": "וּכְכַלֹּ֛ות", "transliteral": "ū-ḵə-ḵal-lôṯ", "traducao_palavra": "e quando acabarem de" },
+        { "hebraico": "נַפֵּ֥ץ", "transliteral": "nap-pêṣ", "traducao_palavra": "despedaçar" },
+        { "hebraico": "יַד־עַם־קֹ֖דֶשׁ", "transliteral": "yaḏ-ʿam-qō-ḏeš", "traducao_palavra": "o poder do povo santo" },
+        { "hebraico": "תִּכְלֶ֥ינָה", "transliteral": "tiḵ-le-nā", "traducao_palavra": "se cumprirão" },
+        { "hebraico": "כָל־אֵֽלֶּה׃", "transliteral": "kāl-ʾêl-leh", "traducao_palavra": "todas estas coisas" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Eu, pois, ouvi, mas não entendi; por isso eu disse: Senhor meu, qual será o fim destas coisas?",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֥י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "שָׁמַ֖עְתִּי", "transliteral": "šā-maʿ-tî", "traducao_palavra": "ouvi" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "אָבִ֑ין", "transliteral": "ʾā-ḇîn", "traducao_palavra": "compreendi" },
+        { "hebraico": "וָאֹ֣מְרָ֔ה", "transliteral": "wā-ʾōm-rā", "traducao_palavra": "então disse" },
+        { "hebraico": "אֲדֹנִ֕י", "transliteral": "ʾă-ḏō-nî", "traducao_palavra": "meu senhor" },
+        { "hebraico": "מָ֥ה", "transliteral": "māh", "traducao_palavra": "qual [será]" },
+        { "hebraico": "אַחֲרִ֖ית", "transliteral": "ʾa-ḥă-rîṯ", "traducao_palavra": "o desfecho/fim de" },
+        { "hebraico": "אֵֽלֶּה׃", "transliteral": "ʾêl-leh", "traducao_palavra": "estas coisas?" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E ele disse: Vai, Daniel, porque estas palavras estão fechadas e seladas até ao tempo do fim.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֖אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "לֵ֣ךְ", "transliteral": "lêḵ", "traducao_palavra": "vai" },
+        { "hebraico": "דָּנִיֵּ֑אל", "transliteral": "dā-nî-yêl", "traducao_palavra": "Daniel" },
+        { "hebraico": "כִּֽי־סְתֻמִ֧ים", "transliteral": "kî-sə-ṯu-mîm", "traducao_palavra": "porque fechadas" },
+        { "hebraico": "וַחֲתֻמִ֛ים", "transliteral": "wa-ḥă-ṯu-mîm", "traducao_palavra": "e seladas estão" },
+        { "hebraico": "הַדְּבָרִ֖ים", "transliteral": "had-də-ḇā-rîm", "traducao_palavra": "as palavras" },
+        { "hebraico": "עַד־עֵ֥ת", "transliteral": "ʿaḏ-ʿêṯ", "traducao_palavra": "até ao tempo de" },
+        { "hebraico": "קֵֽץ׃", "transliteral": "qêṣ", "traducao_palavra": "o fim" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Muitos serão purificados, e embranquecidos, e provados; mas os ímpios procederão impiamente, e nenhum dos ímpios entenderá, mas os sábios entenderão.",
+      "palavras": [
+        { "hebraico": "יִ֠תְבָּֽרֲרוּ", "transliteral": "yiṯ-bā-ră-rû", "traducao_palavra": "purificar-se-ão" },
+        { "hebraico": "וְיִֽתְלַבְּנ֤וּ", "transliteral": "wə-yiṯ-lab-bə-nû", "traducao_palavra": "e embranquecer-se-ão" },
+        { "hebraico": "וְיִצָּֽרְפוּ֙", "transliteral": "wə-yiṣ-ṣā-rə-p̄û", "traducao_palavra": "e serão refinados" },
+        { "hebraico": "רַבִּ֔ים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "וְהִרְשִׁ֣יעוּ", "transliteral": "wə-hir-šî-ʿû", "traducao_palavra": "mas agirão impiamente" },
+        { "hebraico": "רְשָׁעִ֔ים", "transliteral": "rə-šā-ʿîm", "traducao_palavra": "os ímpios" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יָבִ֖ינוּ", "transliteral": "yā-ḇî-nû", "traducao_palavra": "entenderão" },
+        { "hebraico": "כָּל־רְשָׁעִ֑ים", "transliteral": "kāl-rə-šā-ʿîm", "traducao_palavra": "nenhum dos ímpios" },
+        { "hebraico": "וְהַמַּשְׂכִּלִ֖ים", "transliteral": "wə-ham-maś-ki-lîm", "traducao_palavra": "mas os sábios" },
+        { "hebraico": "יָבִֽינוּ׃", "transliteral": "yā-ḇî-nû", "traducao_palavra": "entenderão" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E desde o tempo em que o sacrifício contínuo for tirado, e posta a abominação desoladora, haverá mil duzentos e noventa dias.",
+      "palavras": [
+        { "hebraico": "וּמֵעֵת֙", "transliteral": "ū-mê-ʿêṯ", "traducao_palavra": "e desde o tempo em que" },
+        { "hebraico": "הוּסַ֣ר", "transliteral": "hū-sar", "traducao_palavra": "for tirado" },
+        { "hebraico": "הַתָּמִ֔יד", "transliteral": "hat-tā-mîḏ", "traducao_palavra": "o [sacrifício] contínuo" },
+        { "hebraico": "וְלָתֵ֖ת", "transliteral": "wə-lā-ṯêṯ", "traducao_palavra": "e para estabelecer" },
+        { "hebraico": "שִׁקּ֣וּץ", "transliteral": "šiq-qūṣ", "traducao_palavra": "a abominação" },
+        { "hebraico": "שֹׁמֵ֑ם", "transliteral": "šō-mêm", "traducao_palavra": "desoladora" },
+        { "hebraico": "יָמִ֕ים", "transliteral": "yā-mîm", "traducao_palavra": "[haverá] dias" },
+        { "hebraico": "אֶ֖לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "מָאתַ֥יִם", "transliteral": "mā-ṯa-yim", "traducao_palavra": "duzentos" },
+        { "hebraico": "וְתִשְׁעִֽים׃", "transliteral": "wə-ṯiš-ʿîm", "traducao_palavra": "e noventa" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Bem-aventurado aquele que espera e chega aos mil trezentos e trinta e cinco dias.",
+      "palavras": [
+        { "hebraico": "אַשְׁרֵ֥י", "transliteral": "ʾaš-rê", "traducao_palavra": "bem-aventurado" },
+        { "hebraico": "הַֽמְחַכֶּ֖ה", "transliteral": "ham-ḥak-keh", "traducao_palavra": "aquele que espera" },
+        { "hebraico": "וְיַגִּ֑יעַ", "transliteral": "wə-yag-gî-aʿ", "traducao_palavra": "e alcança/chega" },
+        { "hebraico": "לְיָמִ֕ים", "transliteral": "lə-yā-mîm", "traducao_palavra": "a dias" },
+        { "hebraico": "אֶ֕לֶף", "transliteral": "ʾe-lep̄", "traducao_palavra": "mil" },
+        { "hebraico": "שְׁלֹ֥שׁ", "transliteral": "šə-lōš", "traducao_palavra": "três" },
+        { "hebraico": "מֵאֹ֖ות", "transliteral": "mê-ʾôṯ", "traducao_palavra": "centenas [trezentos]" },
+        { "hebraico": "שְׁלֹשִׁ֥ים", "transliteral": "šə-lō-šîm", "traducao_palavra": "e trinta" },
+        { "hebraico": "וַחֲמִשָּֽׁה׃", "transliteral": "wa-ḥă-miš-šā", "traducao_palavra": "e cinco" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Tu, porém, vai até ao fim; porque repousarás, e estarás na tua herança, no fim dos dias.",
+      "palavras": [
+        { "hebraico": "וְאַתָּ֖ה", "transliteral": "wə-ʾat-tā", "traducao_palavra": "tu porém" },
+        { "hebraico": "לֵ֣ךְ", "transliteral": "lêḵ", "traducao_palavra": "vai" },
+        { "hebraico": "לַקֵּ֑ץ", "transliteral": "laq-qêṣ", "traducao_palavra": "para o fim" },
+        { "hebraico": "וְתָנ֛וּחַ", "transliteral": "wə-ṯā-nū-aḥ", "traducao_palavra": "e repousarás" },
+        { "hebraico": "וְתַעֲמֹ֥ד", "transliteral": "wə-ṯa-ʿă-mōḏ", "traducao_palavra": "e te levantarás" },
+        { "hebraico": "לְגֹרָלְךָ֖", "transliteral": "lə-ḡō-rāl-ḵā", "traducao_palavra": "para a tua porção/sorte" },
+        { "hebraico": "לְקֵ֥ץ", "transliteral": "lə-qêṣ", "traducao_palavra": "ao fim de" },
+        { "hebraico": "הַיָּמִֽין׃", "transliteral": "hay-yā-mîn", "traducao_palavra": "os dias" }
+      ]
+    }
+  }
 }

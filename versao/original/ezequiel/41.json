@@ -1,6 +1,494 @@
 {
-  "livro": "Ezequiel - יְחֶזְקֵאל - Yechezqel",
+  "livro": "Ezequiel - יְחֶזְקֵאל - Yeḥezqel",
   "capítulo": 41,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E levou-me ao templo, e mediu os pilares, de seis côvados de largura de um lado, e de seis côvados de largura do outro lado, que era a largura da tenda.",
+      "palavras": [
+        { "hebraico": "وَيَبُو", "transliteral": "way-yā-və-ʾa-nî", "traducao_palavra": "e levou-me" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "ao" },
+        { "hebraico": "הַهֵיכָל", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "templo" },
+        { "hebraico": "וَيَمُد", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶת", "transliteral": "eṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "הָאֵילִים", "transliteral": "hā-ʾê-lîm", "traducao_palavra": "os pilares" },
+        { "hebraico": "שֵׁשׁ", "transliteral": "šēš", "traducao_palavra": "seis" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "רֹחַב", "transliteral": "rō-ḥab", "traducao_palavra": "a largura de" },
+        { "hebraico": "מִפֹּה", "transliteral": "mip-pōw", "traducao_palavra": "um lado" },
+        { "hebraico": "וְשֵׁשׁ", "transliteral": "wə-šēš", "traducao_palavra": "e seis" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "רֹחַב", "transliteral": "rō-ḥab", "traducao_palavra": "a largura de" },
+        { "hebraico": "הָאֹהֶל", "transliteral": "hā-ʾō-hel", "traducao_palavra": "a tenda" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E a largura da porta era de dez côvados; e os lados da porta eram de cinco côvados de um lado e de cinco côvados do outro; e mediu o seu comprimento, quarenta côvados, e a largura, vinte côvados.",
+      "palavras": [
+        { "hebraico": "وְרֹחַב", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura de" },
+        { "hebraico": "הַפֶּתַח", "transliteral": "hap-pe-taḥ", "traducao_palavra": "a porta" },
+        { "hebraico": "עָשָׂר", "transliteral": "ʿe-śer", "traducao_palavra": "dez" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "וְכִתְפּוֹת", "transliteral": "wə-ḵiṯ-pō-wṯ", "traducao_palavra": "e os lados de" },
+        { "hebraico": "הַפֶּתַח", "transliteral": "hap-pe-taḥ", "traducao_palavra": "a porta" },
+        { "hebraico": "חָמֵשׁ", "transliteral": "ḥā-mēš", "traducao_palavra": "cinco" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "מִפֹּה", "transliteral": "mip-pōw", "traducao_palavra": "de um lado" },
+        { "hebraico": "وَحَמِשׁ", "transliteral": "wə-ḥā-mēš", "traducao_palavra": "e cinco" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "מִפֹּה", "transliteral": "mip-pōw", "traducao_palavra": "do outro" },
+        { "hebraico": "וַיָּמָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אָרְכּוֹ", "transliteral": "ʾā-rə-kōw", "traducao_palavra": "seu comprimento" },
+        { "hebraico": "אַרְבָּעִים", "transliteral": "ʾar-bā-ʿîm", "traducao_palavra": "quarenta" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" },
+        { "hebraico": "וְרֹחַב", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura" },
+        { "hebraico": "עֶשְׂרִים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E entrou por dentro, e mediu o pilar da porta, de dois côvados, e a porta, de seis côvados, e a largura da porta, de sete côvados.",
+      "palavras": [
+        { "hebraico": "וּבָא", "transliteral": "ū-wə-bā", "traducao_palavra": "e entrou" },
+        { "hebraico": "לִפְנִימָה", "transliteral": "lip̄-nî-māh", "traducao_palavra": "por dentro" },
+        { "hebraico": "וַיָּמָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֵיל", "transliteral": "ʾêl", "traducao_palavra": "o pilar de" },
+        { "hebraico": "הַפֶּתַח", "transliteral": "hap-pe-taḥ", "traducao_palavra": "a porta" },
+        { "hebraico": "שְׁתַּיִם", "transliteral": "šə-ta-yim", "traducao_palavra": "dois" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "וְהַפֶּתַח", "transliteral": "wə-hap-pe-taḥ", "traducao_palavra": "e a porta" },
+        { "hebraico": "שֵׁשׁ", "transliteral": "šēš", "traducao_palavra": "seis" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "وَرَحَب", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura de" },
+        { "hebraico": "הַפֶּתַח", "transliteral": "hap-pe-taḥ", "traducao_palavra": "a porta" },
+        { "hebraico": "שֶׁבַע", "transliteral": "še-vaʿ", "traducao_palavra": "sete" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E mediu o seu comprimento, de vinte côvados, e a largura, de vinte côvados, diante do templo; e disse-me: Este é o lugar santíssimo.",
+      "palavras": [
+        { "hebraico": "וַיָּמָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶת", "transliteral": "eṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "אָרְכּוֹ", "transliteral": "ʾā-rə-kōw", "traducao_palavra": "seu comprimento" },
+        { "hebraico": "עֶשְׂרִים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" },
+        { "hebraico": "وَرَحَب", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura" },
+        { "hebraico": "עֶשְׂרִים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "diante de" },
+        { "hebraico": "פְּנֵי", "transliteral": "pə-nê", "traducao_palavra": "a face de" },
+        { "hebraico": "הַهֵיכָל", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "o templo" },
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "way-yō-w-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַי", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "זֶה", "transliteral": "zeh", "traducao_palavra": "este" },
+        { "hebraico": "קֹדֶשׁ", "transliteral": "qō-ḏeš", "traducao_palavra": "o santíssimo" },
+        { "hebraico": "הَقِدَشِيم", "transliteral": "haq-qə-ḏā-šîm", "traducao_palavra": "dos santos" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Depois mediu a parede da casa, de seis côvados de espessura; e a largura de cada câmara lateral, de quatro côvados, em redor da casa ao redor.",
+      "palavras": [
+        { "hebraico": "وַיָּמָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "קִיר", "transliteral": "qîr", "traducao_palavra": "a parede de" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "שֵׁשׁ", "transliteral": "šēš", "traducao_palavra": "seis" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "وَرَحَب", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura de" },
+        { "hebraico": "הַטָּלָע", "transliteral": "hat-tā-lāʿ", "traducao_palavra": "a câmara lateral" },
+        { "hebraico": "אַרְבַּע", "transliteral": "ʾar-baʿ", "traducao_palavra": "quatro" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "da casa" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E as câmaras laterais eram câmaras sobre câmaras, três andares, trinta vezes em cada andar; e entravam na parede que pertencia à casa para as câmaras laterais em redor, para que estivessem apoiadas, mas não estivessem presas na parede da casa.",
+      "palavras": [
+        { "hebraico": "וְהַצְּלָעוֹת", "transliteral": "wə-haṣ-ṣə-lā-ʿō-wṯ", "traducao_palavra": "e as câmaras laterais" },
+        { "hebraico": "צֵלָע", "transliteral": "ṣê-lāʿ", "traducao_palavra": "câmara" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "sobre" },
+        { "hebraico": "צֵלָע", "transliteral": "ṣê-lāʿ", "traducao_palavra": "câmara" },
+        { "hebraico": "שָׁלוֹשׁ", "transliteral": "šā-lōš", "traducao_palavra": "três" },
+        { "hebraico": "פְּעָמִים", "transliteral": "pə-ʿā-mîm", "traducao_palavra": "vezes" },
+        { "hebraico": "וּשְׁלֹשִׁים", "transliteral": "ū-šə-lō-šîm", "traducao_palavra": "e trinta" },
+        { "hebraico": "פְּעָמִים", "transliteral": "pə-ʿā-mîm", "traducao_palavra": "vezes" },
+        { "hebraico": "וּבָאוֹת", "transliteral": "ū-bā-ʾō-wṯ", "traducao_palavra": "e entravam" },
+        { "hebraico": "בַקִּיר", "transliteral": "baq-qîr", "traducao_palavra": "na parede" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לַבַּיִת", "transliteral": "lab-bā-yit", "traducao_palavra": "pertencia à casa" },
+        { "hebraico": "לִצְלָעוֹת", "transliteral": "lə-ṣə-lā-ʿō-wṯ", "traducao_palavra": "para as câmaras" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "לִהְיוֹת", "transliteral": "lə-hî-yō-wṯ", "traducao_palavra": "para que estivessem" },
+        { "hebraico": "סְמוּכוֹת", "transliteral": "sə-mû-ḵō-wṯ", "traducao_palavra": "apoiadas" },
+        { "hebraico": "وَلَا", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "יִהְיוּ", "transliteral": "yih-yû", "traducao_palavra": "estivessem" },
+        { "hebraico": "סְמוּכוֹת", "transliteral": "sə-mû-ḵō-wṯ", "traducao_palavra": "presas" },
+        { "hebraico": "בְּקִיר", "transliteral": "bə-qîr", "traducao_palavra": "na parede de" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E as câmaras laterais iam se alargando à medida que subiam em redor da casa; porque a estrutura em redor da casa subia cada vez mais em redor da casa; por isso a largura da casa aumentava à medida que subia; e assim se subia da câmara inferior para a superior, passando pela do meio.",
+      "palavras": [
+        { "hebraico": "وְרָחֲבָה", "transliteral": "wə-rā-ḥă-vāh", "traducao_palavra": "e alargava-se" },
+        { "hebraico": "וְסָבְבָה", "transliteral": "wə-sā-və-vāh", "traducao_palavra": "e subia em redor" },
+        { "hebraico": "לְמַעְלָה", "transliteral": "lə-ma-ʿă-lāh", "traducao_palavra": "para cima" },
+        { "hebraico": "לִצְלָעוֹת", "transliteral": "lə-ṣə-lā-ʿō-wṯ", "traducao_palavra": "as câmaras" },
+        { "hebraico": "כִּי", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "מֻסַבַּב", "transliteral": "mus-sab-baḇ", "traducao_palavra": "a estrutura em redor" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "da casa" },
+        { "hebraico": "לְמַעְלָה", "transliteral": "lə-ma-ʿă-lāh", "traducao_palavra": "para cima" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "עַל", "transliteral": "ʿal", "traducao_palavra": "sobre" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "כֵּן", "transliteral": "kên", "traducao_palavra": "assim" },
+        { "hebraico": "הָרֹחֶב", "transliteral": "hā-rō-ḥeḇ", "traducao_palavra": "a largura" },
+        { "hebraico": "לְמַעְלָה", "transliteral": "lə-ma-ʿă-lāh", "traducao_palavra": "para cima" },
+        { "hebraico": "وَهَتَّحۡتُون", "transliteral": "wə-hat-taḥ-tô-wn", "traducao_palavra": "e a inferior" },
+        { "hebraico": "יַעֲלֶה", "transliteral": "ya-ʿă-leh", "traducao_palavra": "subia" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "para" },
+        { "hebraico": "הָעֶלְיוֹנָה", "transliteral": "hā-ʿel-yō-w-nāh", "traducao_palavra": "a superior" },
+        { "hebraico": "בַּתִּיכוֹנָה", "transliteral": "bat-tî-ḵō-w-nāh", "traducao_palavra": "por meio da do meio" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Vi também que a casa tinha uma altura em redor; os fundamentos das câmaras laterais eram de uma cana inteira de seis côvados até as juntas.",
+      "palavras": [
+        { "hebraico": "وְרָאִיתִי", "transliteral": "wə-rā-ʾî-ṯî", "traducao_palavra": "e vi" },
+        { "hebraico": "לַבַּיִת", "transliteral": "lab-bā-yit", "traducao_palavra": "à casa" },
+        { "hebraico": "גָּבֹהַ", "transliteral": "gā-vō-ah", "traducao_palavra": "uma altura" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "מוּסָדוֹת", "transliteral": "mû-sā-ḏō-wṯ", "traducao_palavra": "os fundamentos de" },
+        { "hebraico": "הַצְּלָעוֹת", "transliteral": "haṣ-ṣə-lā-ʿō-wṯ", "traducao_palavra": "as câmaras" },
+        { "hebraico": "מְלֹא", "transliteral": "məlō", "traducao_palavra": "a plenitude / cana inteira de" },
+        { "hebraico": "הَقَّنِه", "transliteral": "haq-qā-neh", "traducao_palavra": "cana" },
+        { "hebraico": "שֵׁשׁ", "transliteral": "šēš", "traducao_palavra": "seis" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "סָפִי", "transliteral": "sā-p̄î", "traducao_palavra": "até a junta" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "A largura da parede que era para a câmara lateral por fora era de cinco côvados; e o que restava era o espaço livre entre as câmaras laterais que pertenciam à casa.",
+      "palavras": [
+        { "hebraico": "וְרֹחַב", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura de" },
+        { "hebraico": "הַקִּיר", "transliteral": "haq-qîr", "traducao_palavra": "a parede" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לַצֶּלָע", "transliteral": "laṣ-ṣe-lāʿ", "traducao_palavra": "para a câmara lateral" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "para" },
+        { "hebraico": "הַحِحُوص", "transliteral": "ha-ḥi-ṣō-wn", "traducao_palavra": "fora" },
+        { "hebraico": "חָמֵשׁ", "transliteral": "ḥā-mēš", "traducao_palavra": "cinco" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "وَأֲشَر", "transliteral": "wə-ʾă-šer", "traducao_palavra": "e o que" },
+        { "hebraico": "מֻנַּח", "transliteral": "mō-naḥ", "traducao_palavra": "restava" },
+        { "hebraico": "בֵּית", "transliteral": "bêṯ", "traducao_palavra": "casa de" },
+        { "hebraico": "צְלָעוֹת", "transliteral": "ṣə-lā-ʿō-wṯ", "traducao_palavra": "câmaras" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לַבַּיִת", "transliteral": "lab-bā-yit", "traducao_palavra": "pertencia à casa" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E entre as câmaras havia uma largura de vinte côvados ao redor da casa em redor.",
+      "palavras": [
+        { "hebraico": "וּבֵין", "transliteral": "ū-vên", "traducao_palavra": "e entre" },
+        { "hebraico": "הלِشَكُوت", "transliteral": "halaš-šə-kā-wṯ", "traducao_palavra": "as câmaras" },
+        { "hebraico": "רֹחַב", "transliteral": "rō-ḥab", "traducao_palavra": "a largura de" },
+        { "hebraico": "עֶשְׂרִים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "לַבַּיִת", "transliteral": "lab-bā-yit", "traducao_palavra": "da casa" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E as portas das câmaras laterais davam para o espaço livre, uma porta virada para o norte e outra porta para o sul; e a largura do espaço livre era de cinco côvados em redor.",
+      "palavras": [
+        { "hebraico": "وَפِتَح", "transliteral": "wə-p̄e-taḥ", "traducao_palavra": "e a entrada de" },
+        { "hebraico": "הַצֶּלָע", "transliteral": "haṣ-ṣe-lāʿ", "traducao_palavra": "a câmara" },
+        { "hebraico": "לַמֻּנַּח", "transliteral": "lam-mō-naḥ", "traducao_palavra": "para o espaço livre" },
+        { "hebraico": "פֶּתַח", "transliteral": "pê-taḥ", "traducao_palavra": "uma entrada" },
+        { "hebraico": "אֶחָד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "de-rek", "traducao_palavra": "para" },
+        { "hebraico": "הַצָּפוֹן", "transliteral": "haṣ-ṣā-p̄ō-wn", "traducao_palavra": "o norte" },
+        { "hebraico": "وَفِتَح", "transliteral": "wə-p̄e-taḥ", "traducao_palavra": "e uma entrada" },
+        { "hebraico": "שֵׁנִי", "transliteral": "šā-nî", "traducao_palavra": "outra" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "de-rek", "traducao_palavra": "para" },
+        { "hebraico": "הַדָּרוֹם", "transliteral": "had-dā-rō-wm", "traducao_palavra": "o sul" },
+        { "hebraico": "وَرَحَب", "transliteral": "wə-rō-ḥab", "traducao_palavra": "e a largura de" },
+        { "hebraico": "مְקוֹם", "transliteral": "mə-qō-wm", "traducao_palavra": "o lugar de" },
+        { "hebraico": "הַמֻּנַּח", "transliteral": "ham-mō-naḥ", "traducao_palavra": "o espaço livre" },
+        { "hebraico": "חָמֵשׁ", "transliteral": "ḥā-mēš", "traducao_palavra": "cinco" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E o edifício que estava defronte do espaço separado, para o lado do ocidente, tinha setenta côvados de largura; e a parede do edifício tinha cinco côvados de espessura em redor, e o seu comprimento, noventa côvados.",
+      "palavras": [
+        { "hebraico": "وְהַبּِنْיָן", "transliteral": "wə-hab-bin-yān", "traducao_palavra": "e o edifício" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "estava em" },
+        { "hebraico": "פְּנֵי", "transliteral": "pə-nê", "traducao_palavra": "frente a" },
+        { "hebraico": "הַגִּזְרָה", "transliteral": "hag-giz-rāh", "traducao_palavra": "o espaço separado" },
+        { "hebraico": "פְּאַת", "transliteral": "pə-ʾat", "traducao_palavra": "para o lado de" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "de-rek", "traducao_palavra": "o caminho de" },
+        { "hebraico": "הַיָּם", "transliteral": "hay-yām", "traducao_palavra": "o ocidente" },
+        { "hebraico": "רֹחַב", "transliteral": "rō-ḥab", "traducao_palavra": "largura de" },
+        { "hebraico": "שִׁבְעִים", "transliteral": "šiḇ-ʿîm", "traducao_palavra": "setenta" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" },
+        { "hebraico": "وَقِر", "transliteral": "wə-qîr", "traducao_palavra": "e a parede de" },
+        { "hebraico": "הַبּِنْْיָן", "transliteral": "hab-bin-yān", "traducao_palavra": "o edifício" },
+        { "hebraico": "חָמֵשׁ", "transliteral": "ḥā-mēš", "traducao_palavra": "cinco" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "רֹחַב", "transliteral": "rō-ḥab", "traducao_palavra": "largura" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "وَאָרְכּוֹ", "transliteral": "wə-ʾā-rə-kōw", "traducao_palavra": "e seu comprimento" },
+        { "hebraico": "תִּשְׁעִים", "transliteral": "tiš-ʿîm", "traducao_palavra": "noventa" },
+        { "hebraico": "אַמָּה", "transliteral": "ʾam-māh", "traducao_palavra": "côvados" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Assim mediu a casa, cem côvados de comprimento; e o espaço separado, e o edifício, com as suas paredes, cem côvados de comprimento.",
+      "palavras": [
+        { "hebraico": "وַיָּמָד", "transliteral": "way-yā-māḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֶת", "transliteral": "eṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "אֹרֶךְ", "transliteral": "ʾō-rek", "traducao_palavra": "comprimento de" },
+        { "hebraico": "מֵאָה", "transliteral": "mê-ʾâ", "traducao_palavra": "cem" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "وَهَجِزۡر", "transliteral": "wə-hag-giz-rāh", "traducao_palavra": "e o espaço separado" },
+        { "hebraico": "وَהَبَّيِن", "transliteral": "wə-hab-bin-yān", "traducao_palavra": "e o edifício" },
+        { "hebraico": "وَקִרוֹתָיו", "transliteral": "wə-qî-rō-w-tāw", "traducao_palavra": "e suas paredes" },
+        { "hebraico": "אֹרֶךְ", "transliteral": "ʾō-rek", "traducao_palavra": "comprimento de" },
+        { "hebraico": "מֵאָה", "transliteral": "mê-ʾâ", "traducao_palavra": "cem" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E a largura da fachada da casa e do espaço separado para o oriente, de cem côvados.",
+      "palavras": [
+        { "hebraico": "وּרְחַב", "transliteral": "ū-rə-ḥab", "traducao_palavra": "e a largura de" },
+        { "hebraico": "פְּנֵי", "transliteral": "pə-nê", "traducao_palavra": "a fachada de" },
+        { "hebraico": "הַבַּיִת", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "وَהַجִּזְרָה", "transliteral": "wə-hag-giz-rāh", "traducao_palavra": "e o espaço separado" },
+        { "hebraico": "لַקָּדִים", "transliteral": "laq-qā-dîm", "traducao_palavra": "para o oriente" },
+        { "hebraico": "מֵאָה", "transliteral": "mê-ʾâ", "traducao_palavra": "cem" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E mediu o comprimento do edifício defronte do espaço separado que estava aos fundos dele, com as suas galerias de um e de outro lado, cem côvados; e o templo interior e os vestíbulos do pátio.",
+      "palavras": [
+        { "hebraico": "وَمָדַד", "transliteral": "wə-mā-daḏ", "traducao_palavra": "e mediu" },
+        { "hebraico": "אֹרֶךְ", "transliteral": "ʾō-rek", "traducao_palavra": "o comprimento de" },
+        { "hebraico": "הַבִּנְיָן", "transliteral": "hab-bin-yān", "traducao_palavra": "o edifício" },
+        { "hebraico": "אֶל", "transliteral": "ʾel", "traducao_palavra": "defronte de" },
+        { "hebraico": "פְּנֵי", "transliteral": "pə-nê", "traducao_palavra": "a face de" },
+        { "hebraico": "הַגִּזְרָה", "transliteral": "hag-giz-rāh", "traducao_palavra": "o espaço separado" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "מֵאַחֲרָיו", "transliteral": "mê-ʾa-ḥă-rāw", "traducao_palavra": "estava aos fundos dele" },
+        { "hebraico": "וְאַתֻּקֶיהָ", "transliteral": "wə-ʾat-tu-qê-hā", "traducao_palavra": "com as suas galerias" },
+        { "hebraico": "מִזֶּה", "transliteral": "miz-zeh", "traducao_palavra": "de um lado" },
+        { "hebraico": "וּמִזֶּה", "transliteral": "ū-miz-zeh", "traducao_palavra": "e de outro" },
+        { "hebraico": "מֵאָה", "transliteral": "mê-ʾâ", "traducao_palavra": "cem" },
+        { "hebraico": "אַמּוֹת", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "وَهَيْكֶל", "transliteral": "wə-hê-ḵal", "traducao_palavra": "e o templo" },
+        { "hebraico": "הַפְּנִימִי", "transliteral": "hap-pə-nî-mî", "traducao_palavra": "interior" },
+        { "hebraico": "وَأُلَم", "transliteral": "wə-ʾū-lō-wṯ", "traducao_palavra": "e os vestíbulos de" },
+        { "hebraico": "הַחָצֵר", "transliteral": "he-ḥā-ṣêr", "traducao_palavra": "o pátio" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Asombreiras, e as janelas estreitas, e as galerias ao redor dos três andares, defronte da ombreira, revestidas de madeira em redor, desde o chão até as janelas; e as janelas estavam cobertas.",
+      "palavras": [
+        { "hebraico": "הַסִּפִּים", "transliteral": "has-sip-pîm", "traducao_palavra": "as ombreiras" },
+        { "hebraico": "וְהַחֲלַלִים", "transliteral": "wə-ha-ḥă-lā-lîm", "traducao_palavra": "e as janelas" },
+        { "hebraico": "הָאֲטֻמּוֹת", "transliteral": "hā-ʾă-ṭum-mō-wṯ", "traducao_palavra": "estreitas / fechadas" },
+        { "hebraico": "וְהָאֲתֻקִּים", "transliteral": "wə-hā-ʾă-ṯuq-qîm", "traducao_palavra": "e as galerias" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "לִשְׁלֹשְׁתָּם", "transliteral": "liš-lō-šət-tām", "traducao_palavra": "aos três andares" },
+        { "hebraico": "נֶגֶד", "transliteral": "ne-ḡeḏ", "traducao_palavra": "defronte de" },
+        { "hebraico": "הַסַּף", "transliteral": "has-sap̄", "traducao_palavra": "a ombreira" },
+        { "hebraico": "שְׂפוּי", "transliteral": "śə-p̄ûy", "traducao_palavra": "revestido de" },
+        { "hebraico": "עֵץ", "transliteral": "ʿēṣ", "traducao_palavra": "madeira" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "סָבִיב", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "וְהָאָרֶץ", "transliteral": "wə-hā-ʾā-reṣ", "traducao_palavra": "e desde a terra / chão" },
+        { "hebraico": "עַd", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "הַחֲלַלִים", "transliteral": "ha-ḥă-lā-lîm", "traducao_palavra": "as janelas" },
+        { "hebraico": "وَهَحَلَل", "transliteral": "wə-he-ḥă-lā-lîm", "traducao_palavra": "e as janelas" },
+        { "hebraico": "مُكَسُوت", "transliteral": "mŭ-kă-sō-wṯ", "traducao_palavra": "estavam cobertas" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Até acima da porta, até a casa interior e por fora, e por toda a parede em redor, por dentro e por fora, por medida.",
+      "palavras": [
+        { "hebraico": "عַd", "transliteral": "ʿal", "traducao_palavra": "até" },
+        { "hebraico": "مِعَل", "transliteral": "mê-ʿal", "traducao_palavra": "acima de" },
+        { "hebraico": "هَفَّتَح", "transliteral": "hap-pe-taḥ", "traducao_palavra": "a porta" },
+        { "hebraico": "وَعַd", "transliteral": "wə-ʿaḏ", "traducao_palavra": "e até" },
+        { "hebraico": "هَبَّيِت", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "هَفِّنِي", "transliteral": "hap-pə-nî-mî", "traducao_palavra": "interior" },
+        { "hebraico": "وَلِحَحُوص", "transliteral": "ū-lĕ-ḥu-ṣah", "traducao_palavra": "e por fora" },
+        { "hebraico": "وَعَل", "transliteral": "wə-ʿal", "traducao_palavra": "e sobre" },
+        { "hebraico": "كُل", "transliteral": "kāl", "traducao_palavra": "toda" },
+        { "hebraico": "هَقِر", "transliteral": "ha-qîr", "traducao_palavra": "a parede" },
+        { "hebraico": "سَبِيب", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "سَبِيب", "transliteral": "sā-vîb", "traducao_palavra": "em redor" },
+        { "hebraico": "بּَمِدَّه", "transliteral": "bam-mid-dāh", "traducao_palavra": "por medida" },
+        { "hebraico": "هَفِّنِي", "transliteral": "hap-pə-nî-mî", "traducao_palavra": "por dentro" },
+        { "hebraico": "وَهَحِحُوص", "transliteral": "wə-ha-ḥi-ṣō-wn", "traducao_palavra": "e por fora" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E estava feita com querubins e palmeiras; e uma palmeira estava entre querubim e querubim; e cada querubim tinha duas faces.",
+      "palavras": [
+        { "hebraico": "وَعَشׂُو", "transliteral": "wə-ʿā-śû", "traducao_palavra": "e estava feita" },
+        { "hebraico": "كَرُبِيم", "transliteral": "kə-rû-vîm", "traducao_palavra": "com querubins" },
+        { "hebraico": "وَتِمَار", "transliteral": "wə-tə-mā-rîm", "traducao_palavra": "e palmeiras" },
+        { "hebraico": "وَتِمَار", "transliteral": "wə-tə-mā-râh", "traducao_palavra": "e uma palmeira" },
+        { "hebraico": "بּَيْن", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "كَرُب", "transliteral": "kə-rûv", "traducao_palavra": "querubim" },
+        { "hebraico": "أِل", "transliteral": "lĕ-kə-rûv", "traducao_palavra": "e querubim" },
+        { "hebraico": "وَكَرُب", "transliteral": "wə-kə-rûv", "traducao_palavra": "e cada querubim" },
+        { "hebraico": "هَيا", "transliteral": "hā-yāh", "traducao_palavra": "tinha" },
+        { "hebraico": "شْتَيم", "transliteral": "šə-tā-yim", "traducao_palavra": "duas" },
+        { "hebraico": "فَنِيم", "transliteral": "pā-nîm", "traducao_palavra": "faces" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "A face de um homem virada para a palmeira de um lado, e a face de um leão virada para a palmeira do outro lado; assim estava feito por toda a casa em redor.",
+      "palavras": [
+        { "hebraico": "وَفِنِي", "transliteral": "wə-p̄ə-nê", "traducao_palavra": "e a face de" },
+        { "hebraico": "أָדَام", "transliteral": "ʾā-ḏām", "traducao_palavra": "um homem" },
+        { "hebraico": "أِل", "transliteral": "ʾel", "traducao_palavra": "em direção a" },
+        { "hebraico": "هَتَّمَر", "transliteral": "hat-tā-mār", "traducao_palavra": "a palmeira" },
+        { "hebraico": "مِفُو", "transliteral": "mip-pōw", "traducao_palavra": "de um lado" },
+        { "hebraico": "وَفِنِي", "transliteral": "wə-p̄ə-nê", "traducao_palavra": "e a face de" },
+        { "hebraico": "كَفِير", "transliteral": "kə-p̄îr", "traducao_palavra": "um leão" },
+        { "hebraico": "أِل", "transliteral": "ʾel", "traducao_palavra": "em direção a" },
+        { "hebraico": "هَتَّمَر", "transliteral": "hat-tā-mār", "traducao_palavra": "a palmeira" },
+        { "hebraico": "مِفُو", "transliteral": "mip-pōw", "traducao_palavra": "do outro lado" },
+        { "hebraico": "عَشׂُو", "transliteral": "ʿā-śû", "traducao_palavra": "estava feito" },
+        { "hebraico": "أِل", "transliteral": "ʾel", "traducao_palavra": "em" },
+        { "hebraico": "كُل", "transliteral": "kāl", "traducao_palavra": "toda" },
+        { "hebraico": "هَبَّيِت", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "سَبِيب", "transliteral": "sā-vîb", "traducao_palavra": "em redor" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Desde o chão até acima da porta estavam feitos os querubins e as palmeiras, como também na parede do templo.",
+      "palavras": [
+        { "hebraico": "مِن", "transliteral": "min", "traducao_palavra": "desde" },
+        { "hebraico": "هَأَرِص", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "o chão" },
+        { "hebraico": "عַd", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "مِعَل", "transliteral": "mê-ʿal", "traducao_palavra": "acima de" },
+        { "hebraico": "هَفَّتَح", "transliteral": "hap-pe-taḥ", "traducao_palavra": "a porta" },
+        { "hebraico": "هَكَرُبِيم", "transliteral": "ha-kə-rû-vîm", "traducao_palavra": "os querubins" },
+        { "hebraico": "وَهَتَّمَر", "transliteral": "wə-hat-tā-mār", "traducao_palavra": "e as palmeiras" },
+        { "hebraico": "وَقِر", "transliteral": "wə-qîr", "traducao_palavra": "e na parede de" },
+        { "hebraico": "هَهَيْكَل", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "o templo" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "O templo tinha um batente quadrado; e a fachada do santuário era semelhante à fachada do templo.",
+      "palavras": [
+        { "hebraico": "هَهَيْكَل", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "o templo" },
+        { "hebraico": "مِزُز", "transliteral": "mə-zû-zַat", "traducao_palavra": "o batente de" },
+        { "hebraico": "رَبُع", "transliteral": "rā-buaʿ", "traducao_palavra": "quadrado" },
+        { "hebraico": "وَفِنِي", "transliteral": "wə-p̄ə-nê", "traducao_palavra": "e a fachada de" },
+        { "hebraico": "هَقِدِش", "transliteral": "haq-qō-ḏeš", "traducao_palavra": "o santuário" },
+        { "hebraico": "هَمِرِأه", "transliteral": "ham-mar-ʾeh", "traducao_palavra": "aparência / semelhança de" },
+        { "hebraico": "كَمِرِأه", "transliteral": "كَمِرِأه", "traducao_palavra": "como a aparência de" },
+        { "hebraico": "فِنِي", "transliteral": "pə-nê", "traducao_palavra": "a fachada de" },
+        { "hebraico": "هَهَيْكَل", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "o templo" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "O altar de madeira era de três côvados de altura, e o seu comprimento de dois côvados, e os seus cantos, e a sua base, e as suas paredes eram de madeira; e disse-me: Esta é a mesa que está perante YHWH.",
+      "palavras": [
+        { "hebraico": "هَمِزۡبِح", "transliteral": "ham-miz-bêaḥ", "traducao_palavra": "o altar" },
+        { "hebraico": "عِص", "transliteral": "ʿēṣ", "traducao_palavra": "de madeira" },
+        { "hebraico": "شَلُوش", "transliteral": "šā-lōš", "traducao_palavra": "três" },
+        { "hebraico": "آمُّت", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "قَوْمَة", "transliteral": "qô-māh", "traducao_palavra": "de altura" },
+        { "hebraico": "وَأُرِكُو", "transliteral": "wə-ʾā-rə-kōw", "traducao_palavra": "e seu comprimento" },
+        { "hebraico": "شْتَيم", "transliteral": "šə-tā-yim", "traducao_palavra": "dois" },
+        { "hebraico": "آمُّت", "transliteral": "ʾam-mō-wṯ", "traducao_palavra": "côvados" },
+        { "hebraico": "وَپِنُّيو", "transliteral": "wə-piq-qō-w-tāw", "traducao_palavra": "e seus cantos" },
+        { "hebraico": "وَأُرِكُو", "transliteral": "wə-qā-rō-w-tāw", "traducao_palavra": "e suas paredes" },
+        { "hebraico": "وَعِص", "transliteral": "wə-hā-ʿēṣ", "traducao_palavra": "e eram de madeira" },
+        { "hebraico": "وَيَدَبּِر", "transliteral": "way-yō-w-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "أِل", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "زِه", "transliteral": "zeh", "traducao_palavra": "esta" },
+        { "hebraico": "هَשּׁُلِحَن", "transliteral": "haš-šul-ḥān", "traducao_palavra": "é a mesa" },
+        { "hebraico": "أֲشَر", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "لِفِنِي", "transliteral": "lip̄-nê", "traducao_palavra": "está perante" },
+        { "hebraico": "يَهوِه", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E o templo e o santuário tinham duas portas.",
+      "palavras": [
+        { "hebraico": "وَشَتַيִם", "transliteral": "wə-šَتayim", "traducao_palavra": "e duas" },
+        { "hebraico": "دَلَت", "transliteral": "də-lā-ṯō-wṯ", "traducao_palavra": "portas para" },
+        { "hebraico": "هَهَيْكَل", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "o templo" },
+        { "hebraico": "وَلِقِدِش", "transliteral": "wə-laq-qō-ḏeš", "traducao_palavra": "e para o santuário" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E as portas tinham duas folhas cada uma, duas folhas giratórias; duas folhas de um lado e duas do outro.",
+      "palavras": [
+        { "hebraico": "وَدَلَت", "transliteral": "wə-li-də-lā-ṯō-wṯ", "traducao_palavra": "e nas portas" },
+        { "hebraico": "شْتَيم", "transliteral": "šə-tā-yim", "traducao_palavra": "duas" },
+        { "hebraico": "دَلَت", "transliteral": "də-lā-ṯō-wṯ", "traducao_palavra": "folhas" },
+        { "hebraico": "مُسَبَب", "transliteral": "mă-sub-bō-wṯ", "traducao_palavra": "giratórias" },
+        { "hebraico": "شْتَيم", "transliteral": "šə-tā-yim", "traducao_palavra": "duas" },
+        { "hebraico": "لِدَلَت", "transliteral": "lə-də-lā-ṯō-wṯ", "traducao_palavra": "folhas para" },
+        { "hebraico": "أَحَد", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "وَشْتَيم", "transliteral": "wə-šə-tā-yim", "traducao_palavra": "e duas" },
+        { "hebraico": "لِدَلَت", "transliteral": "lə-də-lā-ṯō-wṯ", "traducao_palavra": "folhas para a" },
+        { "hebraico": "مِفُو", "transliteral": "mip-pōw", "traducao_palavra": "outra" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E estavam feitas nelas, nas portas do templo, querubins e palmeiras, como estavam feitas nas paredes; e havia um eSSor de madeira na frente do vestíbulo por fora.",
+      "palavras": [
+        { "hebraico": "وَعَشׂُو", "transliteral": "wə-ʿā-śû", "traducao_palavra": "e estavam feitas" },
+        { "hebraico": "عَلَيها", "transliteral": "ʿă-lê-hem", "traducao_palavra": "nelas" },
+        { "hebraico": "عَل", "transliteral": "ʿal", "traducao_palavra": "sobre" },
+        { "hebraico": "دَلَت", "transliteral": "də-lā-ṯō-wṯ", "traducao_palavra": "as portas de" },
+        { "hebraico": "هَهَيْكَل", "transliteral": "hah-hê-ḵāl", "traducao_palavra": "o templo" },
+        { "hebraico": "كَرُبِيم", "transliteral": "kə-rû-vîm", "traducao_palavra": "querubins" },
+        { "hebraico": "وَتِمَار", "transliteral": "wə-tə-mā-rîm", "traducao_palavra": "e palmeiras" },
+        { "hebraico": "كَاكَّعَشׂُو", "transliteral": "ka-أֲשֶׁר", "traducao_palavra": "como as feitas" },
+        { "hebraico": "عَل", "transliteral": "ʿal", "traducao_palavra": "sobre" },
+        { "hebraico": "هَقِر", "transliteral": "ha-qî-rō-wṯ", "traducao_palavra": "as paredes" },
+        { "hebraico": "وَعَبُت", "transliteral": "wə-ʿa-vûṯ", "traducao_palavra": "e um essor / dossel de" },
+        { "hebraico": "عِص", "transliteral": "ʿēṣ", "traducao_palavra": "madeira" },
+        { "hebraico": "أِل", "transliteral": "ʾel", "traducao_palavra": "na" },
+        { "hebraico": "فِنِي", "transliteral": "pə-nê", "traducao_palavra": "frente de" },
+        { "hebraico": "هَأُلَم", "transliteral": "hā-ʾū-lām", "traducao_palavra": "o vestíbulo" },
+        { "hebraico": "مِحُوص", "transliteral": "mi-ḥûṣ", "traducao_palavra": "por fora" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E havia janelas estreitas e palmeiras de um e de outro lado, nos compartimentos laterais do vestíbulo, e nas paredes da casa.",
+      "palavras": [
+        { "hebraico": "وَحَلَل", "transliteral": "wə-ḥal-lō-wṯ", "traducao_palavra": "e janelas" },
+        { "hebraico": "سِتُم", "transliteral": "sə-tū-mō-wṯ", "traducao_palavra": "estreitas" },
+        { "hebraico": "وَتِمَار", "transliteral": "wə-tə-mā-rîm", "traducao_palavra": "e palmeiras" },
+        { "hebraico": "מִفُو", "transliteral": "mip-pōw", "traducao_palavra": "de um lado" },
+        { "hebraico": "وَمִفُو", "transliteral": "ū-mip-pōw", "traducao_palavra": "e do outro" },
+        { "hebraico": "أِل", "transliteral": "ʾel", "traducao_palavra": "nas" },
+        { "hebraico": "كِتْفُوت", "transliteral": "ḵiṯ-pō-wṯ", "traducao_palavra": "ombreiras / lados de" },
+        { "hebraico": "هَأُلَم", "transliteral": "hā-ʾū-lām", "traducao_palavra": "o vestíbulo" },
+        { "hebraico": "وَصِلَع", "transliteral": "wə-ṣal-ʿō-wṯ", "traducao_palavra": "e compartimentos laterais de" },
+        { "hebraico": "هَبَّيِت", "transliteral": "hab-bā-yit", "traducao_palavra": "a casa" },
+        { "hebraico": "وَهَعَبُت", "transliteral": "wə-he-ʿā-vō-wṯ", "traducao_palavra": "e as vigas / tetos" }
+      ]
+    }
+  }
 }
