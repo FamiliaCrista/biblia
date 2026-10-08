@@ -1,6 +1,303 @@
 {
-  "livro": "Jonas - יוֹנָה - Yonah",
+  "livro": "Jonas - יוֹנָה - Yônā",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E veio a palavra de YHWH a Jonas, filho de Amitai, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִי֙", "transliteral": "way-hî", "traducao_palavra": "e veio/aconteceu" },
+        { "hebraico": "דְּבַר־יְהוָ֔ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־יֹונָ֥ה", "transliteral": "ʾel-yô-nā", "traducao_palavra": "a Jonas" },
+        { "hebraico": "בֶן־אֲמִתַּ֖י", "transliteral": "ben-ʾă-mit-tay", "traducao_palavra": "filho de Amitai" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Levanta-te, vai à grande cidade de Nínive e clama contra ela, porque a sua malícia subiu até à minha presença.",
+      "palavras": [
+        { "hebraico": "ק֠וּם", "transliteral": "qūm", "traducao_palavra": "levanta-te" },
+        { "hebraico": "לֵ֧ךְ", "transliteral": "lêḵ", "traducao_palavra": "vai" },
+        { "hebraico": "אֶל־נִֽינְוֵ֛ה", "transliteral": "ʾel-nî-nə-wêh", "traducao_palavra": "a Nínive" },
+        { "hebraico": "הָעִ֥יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "הַגְּדֹולָ֖ה", "transliteral": "hag-gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "וּקְרָ֣א", "transliteral": "ū-qə-rā", "traducao_palavra": "e clama" },
+        { "hebraico": "עָלֶ֑יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "contra ela" },
+        { "hebraico": "כִּֽי־עָלְתָ֥ה", "transliteral": "kî-ʿā-lə-ṯā", "traducao_palavra": "porque subiu" },
+        { "hebraico": "רָעָתָ֖ם", "transliteral": "rā-ʿā-ṯām", "traducao_palavra": "a malícia deles" },
+        { "hebraico": "לְפָנָֽי׃", "transliteral": "lə-p̄ā-nāy", "traducao_palavra": "perante a minha face" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Mas Jonas se levantou para fugir da presença de YHWH para Társis; e, descendo a Jope, achou um navio que ia para Társis; pagou, pois, a sua passagem e desceu nele, para ir com eles para Társis, para longe da presença de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיָּ֧קָם", "transliteral": "way-yā-qām", "traducao_palavra": "e levantou-se" },
+        { "hebraico": "יֹונָ֛ה", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "לִבְרֹ֥חַ", "transliteral": "liḇ-rō-aḥ", "traducao_palavra": "para fugir" },
+        { "hebraico": "תַּרְשִׁ֖ישָׁה", "transliteral": "tar-šî-šā", "traducao_palavra": "a Társis" },
+        { "hebraico": "מִלִּפְנֵ֣י", "transliteral": "mil-lip̄-nê", "traducao_palavra": "de diante de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וַיֵּ֨רֶד", "transliteral": "way-yê-reḏ", "traducao_palavra": "e desceu a" },
+        { "hebraico": "יָפֹ֜ו", "transliteral": "yā-p̄ô", "traducao_palavra": "Jope" },
+        { "hebraico": "וַיִּמְצָ֥א", "transliteral": "way-yim-ṣā", "traducao_palavra": "e achou" },
+        { "hebraico": "אֳנִיָּ֣ה", "transliteral": "ʾo-nî-yā", "traducao_palavra": "um navio" },
+        { "hebraico": "בָּאָ֣ה", "transliteral": "bā-ʾā", "traducao_palavra": "que ia a" },
+        { "hebraico": "תַרְשִׁ֗ישׁ", "transliteral": "tar-šîš", "traducao_palavra": "Társis" },
+        { "hebraico": "וַיִּתֵּ֨ן", "transliteral": "way-yit-tên", "traducao_palavra": "e pagou" },
+        { "hebraico": "שְׂכָרָ֜הּ", "transliteral": "śə-ḵā-rāh", "traducao_palavra": "a sua passagem" },
+        { "hebraico": "וַיֵּ֤רֶד", "transliteral": "way-yê-reḏ", "traducao_palavra": "e desceu" },
+        { "hebraico": "בָּהּ֙", "transliteral": "bāh", "traducao_palavra": "nele" },
+        { "hebraico": "לָבֹ֤וא", "transliteral": "lā-ḇô", "traducao_palavra": "para ir" },
+        { "hebraico": "עִמָּהֶם֙", "transliteral": "ʿim-mā-hem", "traducao_palavra": "com eles" },
+        { "hebraico": "תַּרְשִׁ֔ישָׁה", "transliteral": "tar-šî-šā", "traducao_palavra": "a Társis" },
+        { "hebraico": "מִלִּפְנֵ֖י", "transliteral": "mil-lip̄-nê", "traducao_palavra": "de diante de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Mas YHWH lançou sobre o mar um grande vento, e houve no mar uma grande tempestade, de sorte que o navio estava a ponto de se quebrar.",
+      "palavras": [
+        { "hebraico": "וַֽיהוָ֗ה", "transliteral": "wa-YHWH", "traducao_palavra": "mas YHWH" },
+        { "hebraico": "הֵטִ֤יל", "transliteral": "hê-ṭîl", "traducao_palavra": "lançou" },
+        { "hebraico": "רֽוּחַ־גְּדֹולָה֙", "transliteral": "rū-aḥ-gə-ḏô-lā", "traducao_palavra": "um grande vento" },
+        { "hebraico": "אֶל־הַיָּ֔ם", "transliteral": "ʾel-hay-yām", "traducao_palavra": "sobre o mar" },
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e houve" },
+        { "hebraico": "סַֽעַר־גָּדֹ֖ול", "transliteral": "sa-ʿar-gā-ḏôl", "traducao_palavra": "uma grande tempestade" },
+        { "hebraico": "בַּיָּ֑ם", "transliteral": "bay-yām", "traducao_palavra": "no mar" },
+        { "hebraico": "וְהָ֣אֳנִיָּ֔ה", "transliteral": "wə-hā-ʾo-nî-yā", "traducao_palavra": "e o navio" },
+        { "hebraico": "חִשְּׁבָ֖ה", "transliteral": "ḥiš-šə-ḇā", "traducao_palavra": "estava a ponto de/pensava" },
+        { "hebraico": "לְהִשָּׁבֵֽר׃", "transliteral": "lə-hiš-šā-ḇêr", "traducao_palavra": "despedaçar-se" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Então os marinheiros temeram, e clamavam cada um ao seu deus, e lançavam ao mar a carga que estava no navio, para o aliviarem; Jonas, porém, havia descido aos compartimentos mais interiores do navio, e se deitara, e dormia profundamente.",
+      "palavras": [
+        { "hebraico": "וַיִּֽירְא֣וּ", "transliteral": "way-yî-rə-ʾû", "traducao_palavra": "e temeram" },
+        { "hebraico": "הַמַּלָּחִ֗ים", "transliteral": "ham-mal-lā-ḥîm", "traducao_palavra": "os marinheiros" },
+        { "hebraico": "וַֽיִּזְעֲקוּ֮", "transliteral": "way-yiz-ʿă-qû", "traducao_palavra": "e clamavam" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "אֶל־אֱלֹהָיו֒", "transliteral": "ʾel-ʾĕ-lō-hāyw", "traducao_palavra": "ao seu deus" },
+        { "hebraico": "וַיָּטִ֨ילוּ", "transliteral": "way-yā-ṭî-lû", "traducao_palavra": "e lançaram" },
+        { "hebraico": "אֶת־הַכֵּלִ֜ים", "transliteral": "ʾeṯ-hak-kê-lîm", "traducao_palavra": "a carga/os utensílios" },
+        { "hebraico": "אֲשֶׁ֤ר", "transliteral": "ʾă-šer", "traducao_palavra": "que estavam" },
+        { "hebraico": "בָּֽאֳנִיָּה֙", "transliteral": "bā-ʾo-nî-yā", "traducao_palavra": "no navio" },
+        { "hebraico": "אֶל־הַיָּ֔ם", "transliteral": "ʾel-hay-yām", "traducao_palavra": "ao mar" },
+        { "hebraico": "לְהָקֵ֖ל", "transliteral": "lə-hā-qêl", "traducao_palavra": "para aliviarem" },
+        { "hebraico": "מֵֽעֲלֵיהֶ֑ם", "transliteral": "mê-ʿă-lê-hem", "traducao_palavra": "o peso de sobre si" },
+        { "hebraico": "וְיֹונָ֗ה", "transliteral": "wə-yô-nā", "traducao_palavra": "Jonas porém" },
+        { "hebraico": "יָרַד֙", "transliteral": "yā-raḏ", "traducao_palavra": "havia descido" },
+        { "hebraico": "אֶל־יַרְכְּתֵ֣י", "transliteral": "ʾel-yar-kə-ṯê", "traducao_palavra": "aos recessos de" },
+        { "hebraico": "הַסְּפִינָ֔ה", "transliteral": "has-sə-p̄î-nā", "traducao_palavra": "o navio" },
+        { "hebraico": "וַיִּשְׁכַּ֖ב", "transliteral": "way-yiš-kaḇ", "traducao_palavra": "e deitara-se" },
+        { "hebraico": "וַיֵּרָדַֽם׃", "transliteral": "way-yê-rā-ḏam", "traducao_palavra": "e dormia profundamente" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E o capitão do navio aproximou-se dele e disse-lhe: Que tens, ó dorminhoco? Levanta-te, clama ao teu Deus; talvez Deus se lembre de nós, para que não pereçamos.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרַ֤ב", "transliteral": "way-yiq-raḇ", "traducao_palavra": "e aproximou-se" },
+        { "hebraico": "אֵלָיו֙", "transliteral": "ʾê-lāyw", "traducao_palavra": "dele" },
+        { "hebraico": "רַ֣ב", "transliteral": "raḇ", "traducao_palavra": "o capitão de" },
+        { "hebraico": "הַחֹבֵ֔ל", "transliteral": "ha-ḥō-ḇêl", "traducao_palavra": "os marinheiros" },
+        { "hebraico": "וַיֹּ֥אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "לֹ֖ו", "transliteral": "lô", "traducao_palavra": "a ele:" },
+        { "hebraico": "מַה־לְּךָ֣", "transliteral": "mah-lə-ḵā", "traducao_palavra": "que tens tu" },
+        { "hebraico": "נִרְדָּ֑ם", "transliteral": "nir-dām", "traducao_palavra": "ó adormecido?" },
+        { "hebraico": "ק֚וּם", "transliteral": "qūm", "traducao_palavra": "levanta-te" },
+        { "hebraico": "קְרָ֣א", "transliteral": "qə-rā", "traducao_palavra": "clama" },
+        { "hebraico": "אֶל־אֱלֹהֶ֔יךָ", "transliteral": "ʾel-ʾĕ-lō-he-ḵā", "traducao_palavra": "ao teu Deus" },
+        { "hebraico": "אוּלַ֞י", "transliteral": "ʾū-lay", "traducao_palavra": "talvez" },
+        { "hebraico": "יִתְעַשֵּׁ֧ת", "transliteral": "yiṯ-ʿaš-šêṯ", "traducao_palavra": "se compadeça/lembre" },
+        { "hebraico": "הָאֱלֹהִ֛ים", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "לָ֖נוּ", "transliteral": "lā-nû", "traducao_palavra": "de nós" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "para que não" },
+        { "hebraico": "נֹאבֵֽד׃", "transliteral": "nō-ḇêḏ", "traducao_palavra": "pereçamos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E diziam cada um ao seu companheiro: Vinde, e lancemos sortes, para que saibamos por causa de quem nos sobreveio este mal. E lançaram sortes, e a sorte caiu sobre Jonas.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמְר֞וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "אֶל־רֵעֵ֗הוּ", "transliteral": "ʾel-rê-ʿê-hū", "traducao_palavra": "ao seu companheiro:" },
+        { "hebraico": "לְכוּ֙", "transliteral": "lə-ḵû", "traducao_palavra": "vinde" },
+        { "hebraico": "וְנַפִּ֣ילָה", "transliteral": "wə-nap-pî-lā", "traducao_palavra": "e lancemos" },
+        { "hebraico": "גֹֽורָלֹ֔ות", "transliteral": "ḡô-rā-lôṯ", "traducao_palavra": "sortes" },
+        { "hebraico": "וְנֵ֣דְעָ֔ה", "transliteral": "wə-nê-ḏə-ʿā", "traducao_palavra": "para que saibamos" },
+        { "hebraico": "בְּשֶׁלְּמִ֛י", "transliteral": "bə-šel-lə-mî", "traducao_palavra": "por causa de quem [é]" },
+        { "hebraico": "הָרָעָ֥ה", "transliteral": "hā-rā-ʿā", "traducao_palavra": "o mal" },
+        { "hebraico": "הַזֹּ֖את", "transliteral": "haz-zōṯ", "traducao_palavra": "este" },
+        { "hebraico": "לָ֑נוּ", "transliteral": "lā-nû", "traducao_palavra": "sobre nós" },
+        { "hebraico": "וַיַּפִּ֙לוּ֙", "transliteral": "way-yap-pî-lû", "traducao_palavra": "e lançaram" },
+        { "hebraico": "גֹּֽורָלֹ֔ות", "transliteral": "gô-rā-lôṯ", "traducao_palavra": "sortes" },
+        { "hebraico": "וַיִּפֹּ֥ל", "transliteral": "way-yip-pōl", "traducao_palavra": "e caiu" },
+        { "hebraico": "הַגֹּורָ֖ל", "transliteral": "hag-gô-rāl", "traducao_palavra": "a sorte" },
+        { "hebraico": "עַל־יֹונָֽה׃", "transliteral": "ʿal-yô-nā", "traducao_palavra": "sobre Jonas" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Então lhe disseram: Declara-nos agora, por causa de quem nos sobreveio este mal? Que ocupação é a tua? Donde vens? Qual é a tua terra? E de que povo és tu?",
+      "palavras": [
+        { "hebraico": "וַיֹּאמְר֣וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "então disseram" },
+        { "hebraico": "אֵלָ֔יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele:" },
+        { "hebraico": "הַגִּידָה־נָּ֣א", "transliteral": "hag-gî-ḏā-nnā", "traducao_palavra": "declara-nos, pedimos-te" },
+        { "hebraico": "לָ֔נוּ", "transliteral": "lā-nû", "traducao_palavra": "a nós" },
+        { "hebraico": "בַּאֲשֶׁ֛ר", "transliteral": "ba-ʾă-šer", "traducao_palavra": "por causa de" },
+        { "hebraico": "לְמִי־הָרָעָ֥ה", "transliteral": "lə-mî-hā-rā-ʿā", "traducao_palavra": "quem [veio] este mal" },
+        { "hebraico": "הַזֹּ֖את", "transliteral": "haz-zōṯ", "traducao_palavra": "este" },
+        { "hebraico": "לָ֑נוּ", "transliteral": "lā-nû", "traducao_palavra": "a nós?" },
+        { "hebraico": "מַה־מְּלַאכְתְּךָ֙", "transliteral": "mah-mə-laḵ-tə-ḵā", "traducao_palavra": "qual é a tua ocupação?" },
+        { "hebraico": "וּמֵאַ֣יִן", "transliteral": "ū-mê-ʾa-yin", "traducao_palavra": "e de onde" },
+        { "hebraico": "תָּבֹ֔וא", "transliteral": "tā-ḇô", "traducao_palavra": "vens?" },
+        { "hebraico": "מָ֣ה", "transliteral": "māh", "traducao_palavra": "qual é" },
+        { "hebraico": "אַרְצֶ֔ךָ", "transliteral": "ʾar-ṣe-ḵā", "traducao_palavra": "a tua terra?" },
+        { "hebraico": "וְאֵֽי־מִזֶּ֥ה", "transliteral": "wə-ʾê-miz-zeh", "traducao_palavra": "e de qual" },
+        { "hebraico": "עַ֖ם", "transliteral": "ʿam", "traducao_palavra": "povo" },
+        { "hebraico": "אָֽתָּה׃", "transliteral": "ʾāt-tā", "traducao_palavra": "és tu?" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E ele lhes respondeu: Eu sou hebreu, e temo a YHWH, o Deus do céu, que fez o mar e a terra seca.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֥אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֲלֵיהֶ֖ם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles:" },
+        { "hebraico": "עִבְרִ֣י", "transliteral": "ʿiḇ-rî", "traducao_palavra": "hebreu" },
+        { "hebraico": "אָנֹ֑כִי", "transliteral": "ʾā-nō-ḵî", "traducao_palavra": "sou eu" },
+        { "hebraico": "וְאֶת־יְהוָ֞ה", "transliteral": "wə-ʾeṯ-YHWH", "traducao_palavra": "e a YHWH" },
+        { "hebraico": "אֱלֹהֵ֤י", "transliteral": "ʾĕ-lō-hê", "traducao_palavra": "o Deus de" },
+        { "hebraico": "הַשָּׁמַ֙יִם֙", "transliteral": "haš-šā-ma-yim", "traducao_palavra": "o céu" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "יָרֵ֔א", "transliteral": "yā-rê", "traducao_palavra": "temo" },
+        { "hebraico": "אֲשֶׁר־עָשָׂ֥ה", "transliteral": "ʾă-šer-ʿā-śā", "traducao_palavra": "que fez" },
+        { "hebraico": "אֶת־הַיָּ֖ם", "transliteral": "ʾeṯ-hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "וְאֶת־הַיַּבָּשָֽׁה׃", "transliteral": "wə-ʾeṯ-hay-yab-bā-šā", "traducao_palavra": "e a terra seca" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Então os homens se encheram de grande temor e disseram-lhe: Que é isto que fizeste? Pois sabiam os homens que ele fugia de diante de YHWH, porque ele lho havia declarado.",
+      "palavras": [
+        { "hebraico": "וַיִּֽירְא֤וּ", "transliteral": "way-yî-rə-ʾû", "traducao_palavra": "e temeram" },
+        { "hebraico": "הָֽאֲנָשִׁים֙", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "יִרְאָ֣ה", "transliteral": "yir-ʾā", "traducao_palavra": "com temor" },
+        { "hebraico": "גְדֹולָ֔ה", "transliteral": "gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "וַיֹּאמְר֥וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אֵלָ֖יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele:" },
+        { "hebraico": "מַה־זֹּ֣את", "transliteral": "mah-zōṯ", "traducao_palavra": "que é isto que" },
+        { "hebraico": "עָשִׂ֑יתָ", "transliteral": "ʿā-śî-ṯā", "traducao_palavra": "fizeste?" },
+        { "hebraico": "כִּֽי־יָדְע֣וּ", "transliteral": "kî-yā-ḏə-ʿû", "traducao_palavra": "porque sabiam" },
+        { "hebraico": "הָאֲנָשִׁ֗ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "כִּֽי־מִלִּפְנֵ֤י", "transliteral": "kî-mil-lip̄-nê", "traducao_palavra": "que de diante de" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "ה֣וּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "בֹרֵ֔חַ", "transliteral": "ḇō-rê-aḥ", "traducao_palavra": "estava fugindo" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הִגִּ֖יד", "transliteral": "hig-gîḏ", "traducao_palavra": "havia declarado" },
+        { "hebraico": "לָהֶֽם׃", "transliteral": "lā-hem", "traducao_palavra": "a eles" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E disseram-lhe: Que te faremos nós, para que o mar se nos acalme? Porque o mar se ia tornando cada vez mais tempestuoso.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמְר֥וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram" },
+        { "hebraico": "אֵלָ֛יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele:" },
+        { "hebraico": "מַה־נַּ֥עֲשֶׂה", "transliteral": "mah-n-na-ʿă-śeh", "traducao_palavra": "que faremos" },
+        { "hebraico": "לָּ֖ךְ", "transliteral": "lāḵ", "traducao_palavra": "a ti" },
+        { "hebraico": "וְיִשְׁתֹּ֤ק", "transliteral": "wə-yiš-tōq", "traducao_palavra": "para que se acalme" },
+        { "hebraico": "הַיָּם֙", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "מֵֽעָלֵ֔ינוּ", "transliteral": "mê-ʿā-lê-nû", "traducao_palavra": "de sobre nós?" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הַיָּ֖ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "הֹולֵ֥ךְ", "transliteral": "hô-lêḵ", "traducao_palavra": "ia" },
+        { "hebraico": "וְסֹעֵֽר׃", "transliteral": "wə-sō-ʿêr", "traducao_palavra": "embravecendo-se mais" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E ele lhes disse: Levantai-me e lançai-me ao mar, e o mar se vos aquietará; porque eu sei que por minha causa vos sobreveio esta grande tempestade.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "אֲלֵיהֶ֗ם", "transliteral": "ʾă-lê-hem", "traducao_palavra": "a eles:" },
+        { "hebraico": "שָׂא֙וּנִי֙", "transliteral": "śā-ʾū-nî", "traducao_palavra": "levantai-me" },
+        { "hebraico": "וַהֲטִילֻ֣נִי", "transliteral": "wa-hă-ṭî-lu-nî", "traducao_palavra": "e lançai-me" },
+        { "hebraico": "אֶל־הַיָּ֔ם", "transliteral": "ʾel-hay-yām", "traducao_palavra": "ao mar" },
+        { "hebraico": "וְיִשְׁתֹּ֥ק", "transliteral": "wə-yiš-tōq", "traducao_palavra": "e se acalmará" },
+        { "hebraico": "הַיָּ֖ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "מֵֽעֲלֵיכֶ֑ם", "transliteral": "mê-ʿă-lê-ḵem", "traducao_palavra": "de sobre vós" },
+        { "hebraico": "כִּ֚י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "יֹודֵ֣עַ", "transliteral": "yô-ḏê-aʿ", "traducao_palavra": "sei" },
+        { "hebraico": "אָ֔נִי", "transliteral": "ʾā-nî", "traducao_palavra": "eu" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "que" },
+        { "hebraico": "בְשֶׁלִּ֔י", "transliteral": "ḇə-šel-lî", "traducao_palavra": "por minha causa" },
+        { "hebraico": "הַסַּ֥עַר", "transliteral": "has-sa-ʿar", "traducao_palavra": "a tempestade" },
+        { "hebraico": "הַגָּדֹ֖ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "הַזֶּ֥ה", "transliteral": "haz-zeh", "traducao_palavra": "esta veio" },
+        { "hebraico": "עֲלֵיכֶֽם׃", "transliteral": "ʿă-lê-ḵem", "traducao_palavra": "sobre vós" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Entretanto, os homens remavam com força para fazer voltar o navio à terra, mas não podiam, porque o mar se ia embravecendo cada vez mais contra eles.",
+      "palavras": [
+        { "hebraico": "וַיַּחְתְּר֣וּ", "transliteral": "way-yaḥ-tə-rû", "traducao_palavra": "entretanto remavam" },
+        { "hebraico": "הָאֲנָשִׁ֗ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "לְהָשִׁ֛יב", "transliteral": "lə-hā-šîḇ", "traducao_palavra": "para voltar" },
+        { "hebraico": "אֶל־הַיַּבָּשָׁ֖ה", "transliteral": "ʾel-hay-yab-bā-šā", "traducao_palavra": "à terra seca" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "mas não" },
+        { "hebraico": "יָכֹ֑לוּ", "transliteral": "yā-ḵō-lû", "traducao_palavra": "puderam" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הַיָּ֔ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "הֹולֵ֥ךְ", "transliteral": "hô-lêḵ", "traducao_palavra": "ia" },
+        { "hebraico": "וְסֹעֵ֖ר", "transliteral": "wə-sō-ʿêr", "traducao_palavra": "embravecendo-se" },
+        { "hebraico": "עֲלֵיהֶֽם׃", "transliteral": "ʿă-lê-hem", "traducao_palavra": "contra eles" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Então clamaram a YHWH e disseram: Ah! YHWH, rogamos-te que não pereçamos por causa da vida deste homem, e não ponhas sobre nós o sangue inocente; porque tu, ó YHWH, fizeste como te aprouve.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרְא֨וּ", "transliteral": "way-yiq-rə-ʾû", "traducao_palavra": "então clamaram" },
+        { "hebraico": "אֶל־יְהוָ֜ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וַיֹּאמְר֗וּ", "transliteral": "way-yō-mə-rû", "traducao_palavra": "e disseram:" },
+        { "hebraico": "אָנָּ֤ה", "transliteral": "ʾān-nā", "traducao_palavra": "ah!" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "אַל־נָ֣א", "transliteral": "ʾal-nā", "traducao_palavra": "não, rogamos-te" },
+        { "hebraico": "נֹאבְדָ֗ה", "transliteral": "nō-ḇə-ḏā", "traducao_palavra": "pereçamos" },
+        { "hebraico": "בְּנֶ֙פֶשׁ֙", "transliteral": "bə-ne-p̄eš", "traducao_palavra": "por causa da vida de" },
+        { "hebraico": "הָאִ֣ישׁ", "transliteral": "hā-ʾîš", "traducao_palavra": "o homem" },
+        { "hebraico": "הַזֶּ֔ה", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "וְאַל־תִּתֵּ֥ן", "transliteral": "wə-ʾal-tit-tên", "traducao_palavra": "e não ponhas" },
+        { "hebraico": "עָלֵ֖ינוּ", "transliteral": "ʿā-lê-nû", "traducao_palavra": "sobre nós" },
+        { "hebraico": "דָּ֣ם", "transliteral": "dām", "traducao_palavra": "sangue" },
+        { "hebraico": "נָקִ֑יא", "transliteral": "nā-qî", "traducao_palavra": "inocente" },
+        { "hebraico": "כִּֽי־אַתָּ֣ה", "transliteral": "kî-ʾat-tā", "traducao_palavra": "porque tu" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "כַּאֲשֶׁ֥ר", "transliteral": "ka-ʾă-šer", "traducao_palavra": "como" },
+        { "hebraico": "חָפַ֖צְתָּ", "transliteral": "ḥā-p̄aṣ-tā", "traducao_palavra": "quiseste" },
+        { "hebraico": "עָשִֽׂיתָ׃", "transliteral": "ʿā-śî-ṯā", "traducao_palavra": "fizeste" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E levantaram a Jonas e o lançaram ao mar; e cessou o mar da sua fúria.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׂאוּ֙", "transliteral": "way-yiś-ʾû", "traducao_palavra": "e levantaram" },
+        { "hebraico": "אֶת־יֹונָ֔ה", "transliteral": "ʾeṯ-yô-nā", "traducao_palavra": "a Jonas" },
+        { "hebraico": "וַיְטִלֻ֖הוּ", "transliteral": "way-ṭi-lu-hū", "traducao_palavra": "e o lançaram" },
+        { "hebraico": "אֶל־הַיָּ֑ם", "transliteral": "ʾel-hay-yām", "traducao_palavra": "ao mar" },
+        { "hebraico": "וַיַּעֲמֹ֥ד", "transliteral": "way-ya-ʿă-mōḏ", "traducao_palavra": "e cessou/aquietou-se" },
+        { "hebraico": "הַיָּ֖ם", "transliteral": "hay-yām", "traducao_palavra": "o mar" },
+        { "hebraico": "מִזַּעְפֹּֽו׃", "transliteral": "miz-zaʿ-pô", "traducao_palavra": "da sua fúria" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Temeram, pois, os homens a YHWH com grande temor; e ofereceram sacrifício a YHWH e fizeram votos.",
+      "palavras": [
+        { "hebraico": "וַיִּֽירְא֧וּ", "transliteral": "way-yî-rə-ʾû", "traducao_palavra": "e temeram" },
+        { "hebraico": "הָאֲנָשִׁ֛ים", "transliteral": "hā-ʾă-nā-šîm", "traducao_palavra": "os homens" },
+        { "hebraico": "יִרְאָ֥ה", "transliteral": "yir-ʾā", "traducao_palavra": "com temor" },
+        { "hebraico": "גְדֹולָ֖ה", "transliteral": "gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "אֶת־יְהוָ֑ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וַיִּֽזְבְּחוּ־זֶ֙בַח֙", "transliteral": "way-yiz-bə-ḥū-ze-ḇaḥ", "traducao_palavra": "e ofereceram sacrifício" },
+        { "hebraico": "לַֽיהוָ֔ה", "transliteral": "la-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וַֽיִּדְּר֖וּ", "transliteral": "way-yid-də-rû", "traducao_palavra": "e fizeram" },
+        { "hebraico": "נְדָרִֽים׃", "transliteral": "nə-ḏā-rîm", "traducao_palavra": "votos" }
+      ]
+    }
+  }
 }

@@ -1,6 +1,106 @@
 {
-  "livro": "Oséias - הוֹשֵׁעַ - Hoshea",
+  "livro": "Oséias - הוֹשֵׁעַ - Hôšēaʿ",
   "capítulo": 3,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E YHWH me disse: Vai outra vez, ama uma mulher amada de seu amigo e adúltera, como o amor de YHWH pelos filhos de Israel, embora eles olhem para outros deuses e amem os bolos de passas de uvas.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֨אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָ֜ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "עֹ֚וד", "transliteral": "ʿôḏ", "traducao_palavra": "outra vez" },
+        { "hebraico": "לֵ֣ךְ", "transliteral": "lêḵ", "traducao_palavra": "vai" },
+        { "hebraico": "אֱֽהַב־אִשָּׁ֔ה", "transliteral": "ʾĕ-haḇ-ʾiš-šā", "traducao_palavra": "ama uma mulher" },
+        { "hebraico": "אֲהֻ֥בַת", "transliteral": "ʾă-hu-ḇaṯ", "traducao_palavra": "amada por um" },
+        { "hebraico": "רֵ֖עַ", "transliteral": "rē-aʿ", "traducao_palavra": "amante/amigo" },
+        { "hebraico": "וּמְנָאָ֑פַת", "transliteral": "ū-mə-nā-ʾā-p̄aṯ", "traducao_palavra": "e adúltera" },
+        { "hebraico": "כְּאַהֲבַ֤ת", "transliteral": "kə-ʾa-hă-ḇaṯ", "traducao_palavra": "como o amor de" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶת־בְּנֵ֣י", "transliteral": "ʾeṯ-bə-nê", "traducao_palavra": "para com os filhos de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וְהֵ֗ם", "transliteral": "wə-hêm", "traducao_palavra": "embora eles" },
+        { "hebraico": "פֹּנִים֙", "transliteral": "pō-nîm", "traducao_palavra": "se voltem" },
+        { "hebraico": "אֶל־אֱלֹהִ֣ים", "transliteral": "ʾel-ʾĕ-lō-hîm", "traducao_palavra": "para deuses" },
+        { "hebraico": "אֲחֵרִ֔ים", "transliteral": "ʾă-ḥê-rîm", "traducao_palavra": "outros" },
+        { "hebraico": "וְאֹהֲבֵ֖י", "transliteral": "wə-ʾō-hă-ḇê", "traducao_palavra": "e amem" },
+        { "hebraico": "אֲשִׁישֵׁ֥י", "transliteral": "ʾă-šî-šê", "traducao_palavra": "bolos de passas de" },
+        { "hebraico": "עֲנָבִֽים׃", "transliteral": "ʿă-nā-ḇîm", "traducao_palavra": "uvas" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E comprei-a para mim por quinze moedas de prata, e um ômer de cevada, e meio ômer de cevada.",
+      "palavras": [
+        { "hebraico": "וָאֶכְּרֶ֥הָ", "transliteral": "wā-ʾek-kə-re-hā", "traducao_palavra": "e comprei-a" },
+        { "hebraico": "לִּ֖י", "transliteral": "lî", "traducao_palavra": "para mim" },
+        { "hebraico": "בַּחֲמִשָּׁ֣ה", "transliteral": "ba-ḥă-miš-šā", "traducao_palavra": "por cinco" },
+        { "hebraico": "עָשָׂ֣ר", "transliteral": "ʿā-śār", "traducao_palavra": "dez [quinze]" },
+        { "hebraico": "כָּ֑סֶף", "transliteral": "kā-sep̄", "traducao_palavra": "[moedas de] prata" },
+        { "hebraico": "וְחֹ֥מֶר", "transliteral": "wə-ḥō-mer", "traducao_palavra": "e um ômer/homer de" },
+        { "hebraico": "שְׂעֹרִ֖ים", "transliteral": "śə-ʿō-rîm", "traducao_palavra": "cevada" },
+        { "hebraico": "וְלֵ֥תֶךְ", "transliteral": "wə-lê-ṯeḵ", "traducao_palavra": "e um léteque [meio ômer] de" },
+        { "hebraico": "שְׂעֹרִֽים׃", "transliteral": "śə-ʿō-rîm", "traducao_palavra": "cevada" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E eu lhe disse: Por muitos dias ficarás para mim; não te prostituirás, nem serás mulher de outro homem; e assim também eu serei para contigo.",
+      "palavras": [
+        { "hebraico": "וָאֹמַ֣ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלֶ֗יהָ", "transliteral": "ʾê-le-hā", "traducao_palavra": "a ela" },
+        { "hebraico": "יָמִ֤ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "רַבִּים֙", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "תֵּ֣שְׁבִי", "transliteral": "tê-šə-ḇî", "traducao_palavra": "esperarás/habitarás" },
+        { "hebraico": "לִ֔י", "transliteral": "lî", "traducao_palavra": "para mim" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "תִזְנִ֔י", "transliteral": "ṯiz-nî", "traducao_palavra": "te prostituirás" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "תִהְיִ֖י", "transliteral": "ṯih-yî", "traducao_palavra": "serás [mulher]" },
+        { "hebraico": "לְאִ֑ישׁ", "transliteral": "lə-ʾîš", "traducao_palavra": "de outro homem" },
+        { "hebraico": "וְגַם־אֲנִ֖י", "transliteral": "wə-ḡam-ʾă-nî", "traducao_palavra": "e também eu serei" },
+        { "hebraico": "אֵלָֽיִךְ׃", "transliteral": "ʾê-lā-yiḵ", "traducao_palavra": "para contigo" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Porque os filhos de Israel ficarão por muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem estátua, e sem éfode, e sem terafins.",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "יָמִ֣ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "רַבִּ֗ים", "transliteral": "rab-bîm", "traducao_palavra": "muitos" },
+        { "hebraico": "יֵשְׁבוּ֙", "transliteral": "yê-šə-ḇû", "traducao_palavra": "ficarão/habitarão" },
+        { "hebraico": "בְּנֵ֣י", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "אֵ֣ין", "transliteral": "ʾên", "traducao_palavra": "sem" },
+        { "hebraico": "מֶ֤לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei" },
+        { "hebraico": "וְאֵ֣ין", "transliteral": "wə-ʾên", "traducao_palavra": "e sem" },
+        { "hebraico": "שָׂ֔ר", "transliteral": "śār", "traducao_palavra": "príncipe/líder" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e sem" },
+        { "hebraico": "זֶ֖בַח", "transliteral": "ze-ḇaḥ", "traducao_palavra": "sacrifício" },
+        { "hebraico": "וְאֵ֣ין", "transliteral": "wə-ʾên", "traducao_palavra": "e sem" },
+        { "hebraico": "מַצֵּבָ֑ה", "transliteral": "maṣ-ṣê-ḇā", "traducao_palavra": "estátua/coluna sagrada" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e sem" },
+        { "hebraico": "אֵפֹ֖וד", "transliteral": "ʾê-p̄ôḏ", "traducao_palavra": "éfode" },
+        { "hebraico": "וּתְרָפִֽים׃", "transliteral": "ū-ṯə-rā-p̄îm", "traducao_palavra": "e terafins" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Depois tornarão os filhos de Israel, e buscarão a YHWH, seu Deus, e a Davi, seu rei; e com temor se achegarão a YHWH e à sua bondade, no fim dos dias.",
+      "palavras": [
+        { "hebraico": "אַחַ֗ר", "transliteral": "ʾa-ḥar", "traducao_palavra": "depois" },
+        { "hebraico": "יָשֻׁ֙בוּ֙", "transliteral": "yā-šu-ḇû", "traducao_palavra": "voltarão" },
+        { "hebraico": "בְּנֵ֣י", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "וּבִקְשׁוּ֙", "transliteral": "ū-ḇiq-šû", "traducao_palavra": "e buscarão" },
+        { "hebraico": "אֶת־יְהוָ֣ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "אֱלֹהֵיהֶ֔ם", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "seu Deus" },
+        { "hebraico": "וְאֵ֖ת", "transliteral": "wə-ʾêṯ", "traducao_palavra": "e a" },
+        { "hebraico": "דָּוִ֣ד", "transliteral": "dā-wiḏ", "traducao_palavra": "Davi" },
+        { "hebraico": "מַלְכָּ֑ם", "transliteral": "mal-kām", "traducao_palavra": "seu rei" },
+        { "hebraico": "וּפָחֲד֧וּ", "transliteral": "ū-p̄ā-ḥă-ḏû", "traducao_palavra": "e com temor tremendo virão" },
+        { "hebraico": "אֶל־יְהוָ֛ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וְאֶל־טוּבֹ֖ו", "transliteral": "wə-ʾel-ṭū-ḇô", "traducao_palavra": "e à sua bondade" },
+        { "hebraico": "בְּאַחֲרִ֥ית", "transliteral": "bə-ʾa-ḥă-rîṯ", "traducao_palavra": "no fim de" },
+        { "hebraico": "הַיָּמִֽים׃", "transliteral": "hay-yā-mîm", "traducao_palavra": "os dias" }
+      ]
+    }
+  }
 }

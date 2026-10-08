@@ -1,6 +1,267 @@
 {
-  "livro": "Amós - עָמוֹס - Amos",
+  "livro": "Amós - עָמוֹס - ʿĀmôs",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "As palavras de Amós, que estava entre os pastores de Tecoa, as quais ele viu a respeito de Israel, nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.",
+      "palavras": [
+        { "hebraico": "דִּבְרֵ֣י", "transliteral": "diḇ-rê", "traducao_palavra": "as palavras de" },
+        { "hebraico": "עָמֹ֔וס", "transliteral": "ʿā-môs", "traducao_palavra": "Amós" },
+        { "hebraico": "אֲשֶׁר־הָיָ֥ה", "transliteral": "ʾă-šer-hā-yā", "traducao_palavra": "que estava" },
+        { "hebraico": "בַנֹּקְדִ֖ים", "transliteral": "ḇan-nō-qə-ḏîm", "traducao_palavra": "entre os pastores de ovelhas" },
+        { "hebraico": "מִתְּקֹ֑ועַ", "transliteral": "mit-tə-qô-aʿ", "traducao_palavra": "de Tecoa" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "חָזָ֣ה", "transliteral": "ḥā-zā", "traducao_palavra": "viu em visão" },
+        { "hebraico": "עַל־יִשְׂרָאֵ֡ל", "transliteral": "ʿal-yiś-rā-ʾêl", "traducao_palavra": "a respeito de Israel" },
+        { "hebraico": "בִּימֵי֩", "transliteral": "bî-mê", "traducao_palavra": "nos dias de" },
+        { "hebraico": "עֻזִּיָּ֨ה", "transliteral": "ʿuz-zî-yā", "traducao_palavra": "Uzias" },
+        { "hebraico": "מֶֽלֶךְ־יְהוּדָ֜ה", "transliteral": "me-leḵ-yə-hū-ḏā", "traducao_palavra": "rei de Judá" },
+        { "hebraico": "וּבִימֵ֞י", "transliteral": "ū-ḇî-mê", "traducao_palavra": "e nos dias de" },
+        { "hebraico": "יָרָבְעָ֤ם", "transliteral": "yā-roḇ-ʿām", "traducao_palavra": "Jeroboão" },
+        { "hebraico": "בֶּן־יֹואָשׁ֙", "transliteral": "ben-yô-ʾāš", "traducao_palavra": "filho de Joás" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "שְׁנָתַ֖יִם", "transliteral": "šə-nā-ṯa-yim", "traducao_palavra": "dois anos" },
+        { "hebraico": "לִפְנֵ֥י", "transliteral": "lip̄-nê", "traducao_palavra": "antes de" },
+        { "hebraico": "הָרָֽעַשׁ׃", "transliteral": "hā-rā-ʿaš", "traducao_palavra": "o terremoto" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E disse: YHWH rugirá de Sião e fará ouvir a sua voz de Jerusalém; e as pastagens dos pastores prantearão, e secar-se-á o cume do Carmelo.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמַ֓ר", "transliteral": "way-yō-mar", "traducao_palavra": "e disse:" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "מִצִּיֹּ֣ון", "transliteral": "miṣ-ṣî-yôn", "traducao_palavra": "de Sião" },
+        { "hebraico": "יִשְׁאָ֔ג", "transliteral": "yiš-ʾāḡ", "traducao_palavra": "rugirá" },
+        { "hebraico": "וּמִירוּשָׁלִַ֖ם", "transliteral": "ū-mî-rū-šā-la-yim", "traducao_palavra": "e de Jerusalém" },
+        { "hebraico": "יִתֵּ֣ן", "transliteral": "yit-tên", "traducao_palavra": "fará ouvir" },
+        { "hebraico": "קֹולֹ֑ו", "transliteral": "qô-lô", "traducao_palavra": "a sua voz" },
+        { "hebraico": "וְאָֽבְלוּ֙", "transliteral": "wə-ʾā-ḇə-lû", "traducao_palavra": "e prantearão" },
+        { "hebraico": "נְאֹ֣ות", "transliteral": "nə-ʾôṯ", "traducao_palavra": "as pastagens de" },
+        { "hebraico": "הָרֹעִ֔ים", "transliteral": "hā-rō-ʿîm", "traducao_palavra": "os pastores" },
+        { "hebraico": "וְיָבֵ֖שׁ", "transliteral": "wə-yā-ḇêš", "traducao_palavra": "e secar-se-á" },
+        { "hebraico": "רֹ֥אשׁ", "transliteral": "rōš", "traducao_palavra": "o cume de" },
+        { "hebraico": "הַכַּרְמֶֽל׃", "transliteral": "hak-kar-mel", "traducao_palavra": "o Carmelo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Assim diz YHWH: Por três transgressões de Damasco, e por quatro, não revogarei o castigo; porque trilharam a Gileade com trilhos de ferro.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "עַל־שְׁלֹשָׁה֙", "transliteral": "ʿal-šə-lō-šā", "traducao_palavra": "por três" },
+        { "hebraico": "פִּשְׁעֵ֣י", "transliteral": "piš-ʿê", "traducao_palavra": "transgressões de" },
+        { "hebraico": "דַמֶּ֔שֶׂק", "transliteral": "dam-me-śeq", "traducao_palavra": "Damasco" },
+        { "hebraico": "וְעַל־אַרְבָּעָ֖ה", "transliteral": "wə-ʿal-ʾar-bā-ʿā", "traducao_palavra": "e por quatro" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲשִׁיבֶ֑נּוּ", "transliteral": "ʾă-šî-ḇen-nû", "traducao_palavra": "revogarei o castigo" },
+        { "hebraico": "עַל־דּוּשָׁ֛ם", "transliteral": "ʿal-dū-šām", "traducao_palavra": "por terem trilhado" },
+        { "hebraico": "בַּחֲרֻצֹ֥ות", "transliteral": "ba-ḥă-ru-ṣôṯ", "traducao_palavra": "com trilhos de" },
+        { "hebraico": "הַבַּרְזֶ֖ל", "transliteral": "hab-bar-zel", "traducao_palavra": "ferro" },
+        { "hebraico": "אֶת־הַגִּלְעָֽד׃", "transliteral": "ʾeṯ-hag-gil-ʿāḏ", "traducao_palavra": "a Gileade" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Por isso porei fogo à casa de Hazael, e ele consumirá os palácios de Ben-Hadade.",
+      "palavras": [
+        { "hebraico": "וְשִׁלַּ֥חְתִּי", "transliteral": "wə-šil-laḥ-tî", "traducao_palavra": "e enviarei" },
+        { "hebraico": "אֵ֖שׁ", "transliteral": "ʾêš", "traducao_palavra": "fogo" },
+        { "hebraico": "בְּבֵ֣ית", "transliteral": "bə-ḇêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "חֲזָאֵ֑ל", "transliteral": "ḥă-zā-ʾêl", "traducao_palavra": "Hazael" },
+        { "hebraico": "וְאָכְלָ֖ה", "transliteral": "wə-ʾā-ḵə-lā", "traducao_palavra": "e consumirá" },
+        { "hebraico": "אַרְמְנֹ֥ות", "transliteral": "ʾar-mə-nôṯ", "traducao_palavra": "os palácios de" },
+        { "hebraico": "בֶּן־הֲדָֽד׃", "transliteral": "ben-hă-ḏāḏ", "traducao_palavra": "Ben-Hadade" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o que tem o cetro de Bete-Éden; e o povo da Síria irá em cativeiro a Quir, diz YHWH.",
+      "palavras": [
+        { "hebraico": "וְשָֽׁבַרְתִּי֙", "transliteral": "wə-šā-ḇar-tî", "traducao_palavra": "e quebrarei" },
+        { "hebraico": "בְּרִ֣יחַ", "transliteral": "bə-rî-aḥ", "traducao_palavra": "o ferrolho de" },
+        { "hebraico": "דַּמֶּ֔שֶׂק", "transliteral": "dam-me-śeq", "traducao_palavra": "Damasco" },
+        { "hebraico": "וְהִכְרַתִּ֤י", "transliteral": "wə-hiḵ-rat-tî", "traducao_palavra": "e exterminarei" },
+        { "hebraico": "יֹושֵׁב֙", "transliteral": "yô-šêḇ", "traducao_palavra": "o morador" },
+        { "hebraico": "מִבִּקְעַת־אָ֔וֶן", "transliteral": "mib-biq-ʿaṯ-ʾā-wen", "traducao_palavra": "do vale de Áven" },
+        { "hebraico": "וְתֹומֵ֥ךְ", "transliteral": "wə-ṯô-mêḵ", "traducao_palavra": "e o que empunha" },
+        { "hebraico": "שֵׁ֖בֶט", "transliteral": "šê-ḇeṭ", "traducao_palavra": "o cetro" },
+        { "hebraico": "מִבֵּ֣ית", "transliteral": "mib-bêṯ", "traducao_palavra": "de Bete-" },
+        { "hebraico": "עֶ֑דֶן", "transliteral": "ʿe-ḏen", "traducao_palavra": "Éden" },
+        { "hebraico": "וְגָל֧וּ", "transliteral": "wə-ḡā-lû", "traducao_palavra": "e irá em cativeiro" },
+        { "hebraico": "עַם־אֲרָ֛ם", "transliteral": "ʿam-ʾă-rām", "traducao_palavra": "o povo de Arã/Síria" },
+        { "hebraico": "קִ֖ירָה", "transliteral": "qî-rā", "traducao_palavra": "a Quir" },
+        { "hebraico": "אָמַ֥ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Assim diz YHWH: Por três transgressões de Gaza, e por quatro, não revogarei o castigo; porque levaram em cativeiro toda a população, para a entregarem a Edom.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "עַל־שְׁלֹשָׁה֙", "transliteral": "ʿal-šə-lō-šā", "traducao_palavra": "por três" },
+        { "hebraico": "פִּשְׁעֵ֣י", "transliteral": "piš-ʿê", "traducao_palavra": "transgressões de" },
+        { "hebraico": "עַזָּ֔ה", "transliteral": "ʿaz-zā", "traducao_palavra": "Gaza" },
+        { "hebraico": "וְעַל־אַרְבָּעָ֖ה", "transliteral": "wə-ʿal-ʾar-bā-ʿā", "traducao_palavra": "e por quatro" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲשִׁיבֶ֑נּוּ", "transliteral": "ʾă-šî-ḇen-nû", "traducao_palavra": "revogarei o castigo" },
+        { "hebraico": "עַל־הַגְלֹותָ֛ם", "transliteral": "ʿal-haḡ-lô-ṯām", "traducao_palavra": "por terem levado cativa" },
+        { "hebraico": "גָּל֥וּת", "transliteral": "gā-lūṯ", "traducao_palavra": "uma população cativa" },
+        { "hebraico": "שְׁלֵמָ֖ה", "transliteral": "šə-lê-mā", "traducao_palavra": "inteira" },
+        { "hebraico": "לְהַסְגִּ֥יר", "transliteral": "lə-has-gîr", "traducao_palavra": "para entregá-la" },
+        { "hebraico": "לֶאֱדֹֽום׃", "transliteral": "le-ʾĕ-ḏôm", "traducao_palavra": "a Edom" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Por isso porei fogo aos muros de Gaza, e ele consumirá os seus palácios.",
+      "palavras": [
+        { "hebraico": "וְשִׁלַּ֥חְתִּי", "transliteral": "wə-šil-laḥ-tî", "traducao_palavra": "e enviarei" },
+        { "hebraico": "אֵ֖שׁ", "transliteral": "ʾêš", "traducao_palavra": "fogo" },
+        { "hebraico": "בְּחֹ֣ומַת", "transliteral": "bə-ḥô-maṯ", "traducao_palavra": "aos muros de" },
+        { "hebraico": "עַזָּ֑ה", "transliteral": "ʿaz-zā", "traducao_palavra": "Gaza" },
+        { "hebraico": "וְאָכְלָ֖ה", "transliteral": "wə-ʾā-ḵə-lā", "traducao_palavra": "e consumirá" },
+        { "hebraico": "אַרְמְנֹתֶֽיהָ׃", "transliteral": "ʾar-mə-nō-ṯe-hā", "traducao_palavra": "os seus palácios" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E exterminarei o morador de Asdode, e o que tem o cetro de Ascalom; e virarei a minha mão contra Ecrom; e o restante dos filisteus perecerá, diz o Senhor YHWH.",
+      "palavras": [
+        { "hebraico": "וְהִכְרַתִּ֤י", "transliteral": "wə-hiḵ-rat-tî", "traducao_palavra": "e exterminarei" },
+        { "hebraico": "יֹושֵׁב֙", "transliteral": "yô-šêḇ", "traducao_palavra": "o morador" },
+        { "hebraico": "מֵֽאַשְׁדֹּ֔וד", "transliteral": "mê-ʾaš-dôḏ", "traducao_palavra": "de Asdode" },
+        { "hebraico": "וְתֹומֵ֥ךְ", "transliteral": "wə-ṯô-mêḵ", "traducao_palavra": "e o que empunha" },
+        { "hebraico": "שֵׁ֖בֶט", "transliteral": "šê-ḇeṭ", "traducao_palavra": "o cetro" },
+        { "hebraico": "מֵֽאַשְׁקְלֹ֑ון", "transliteral": "mê-ʾaš-qə-lôn", "traducao_palavra": "de Ascalom" },
+        { "hebraico": "וַהֲשִׁיבֹ֨ותִי", "transliteral": "wa-hă-šî-ḇô-ṯî", "traducao_palavra": "e virarei" },
+        { "hebraico": "יָדִ֜י", "transliteral": "yā-ḏî", "traducao_palavra": "a minha mão" },
+        { "hebraico": "עַל־עֶקְרֹ֗ון", "transliteral": "ʿal-ʿeq-rôn", "traducao_palavra": "contra Ecrom" },
+        { "hebraico": "וְאָֽבְדוּ֙", "transliteral": "wə-ʾā-ḇə-ḏû", "traducao_palavra": "e perecerá" },
+        { "hebraico": "שְׁאֵרִ֣ית", "transliteral": "šə-ʾê-rîṯ", "traducao_palavra": "o restante de" },
+        { "hebraico": "פְּלִשְׁתִּ֔ים", "transliteral": "pə-liš-tîm", "traducao_palavra": "os filisteus" },
+        { "hebraico": "אָמַ֖ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "אֲדֹנָ֥י", "transliteral": "ʾă-ḏō-nāy", "traducao_palavra": "o Senhor" },
+        { "hebraico": "יְהוִֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Assim diz YHWH: Por três transgressões de Tiro, e por quatro, não revogarei o castigo; porque entregaram todos os cativos a Edom e não se lembraram da aliança de irmãos.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "עַל־שְׁלֹשָׁה֙", "transliteral": "ʿal-šə-lō-šā", "traducao_palavra": "por três" },
+        { "hebraico": "פִּשְׁעֵי־צֹ֔ר", "transliteral": "piš-ʿê-ṣōr", "traducao_palavra": "transgressões de Tiro" },
+        { "hebraico": "וְעַל־אַרְבָּעָ֖ה", "transliteral": "wə-ʿal-ʾar-bā-ʿā", "traducao_palavra": "e por quatro" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲשִׁיבֶ֑נּוּ", "transliteral": "ʾă-šî-ḇen-nû", "traducao_palavra": "revogarei o castigo" },
+        { "hebraico": "עַֽל־הַסְגִּירָ֞ם", "transliteral": "ʿal-has-gî-rām", "traducao_palavra": "por terem entregue" },
+        { "hebraico": "גָּל֤וּת", "transliteral": "gā-lūṯ", "traducao_palavra": "cativos em número" },
+        { "hebraico": "שְׁלֵמָה֙", "transliteral": "šə-lê-mā", "traducao_palavra": "completo" },
+        { "hebraico": "לֶאֱדֹ֔ום", "transliteral": "le-ʾĕ-ḏôm", "traducao_palavra": "a Edom" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "זָכְר֖וּ", "transliteral": "zā-ḵə-rû", "traducao_palavra": "se lembraram de" },
+        { "hebraico": "בְּרִ֥ית", "transliteral": "bə-rîṯ", "traducao_palavra": "a aliança de" },
+        { "hebraico": "אַחִֽים׃", "transliteral": "ʾa-ḥîm", "traducao_palavra": "irmãos" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Por isso porei fogo aos muros de Tiro, e ele consumirá os seus palácios.",
+      "palavras": [
+        { "hebraico": "וְשִׁלַּ֥חְתִּי", "transliteral": "wə-šil-laḥ-tî", "traducao_palavra": "e enviarei" },
+        { "hebraico": "אֵ֖שׁ", "transliteral": "ʾêš", "traducao_palavra": "fogo" },
+        { "hebraico": "בְּחֹ֣ומַת", "transliteral": "bə-ḥô-maṯ", "traducao_palavra": "aos muros de" },
+        { "hebraico": "צֹ֑ר", "transliteral": "ṣōr", "traducao_palavra": "Tiro" },
+        { "hebraico": "וְאָכְלָ֖ה", "transliteral": "wə-ʾā-ḵə-lā", "traducao_palavra": "e consumirá" },
+        { "hebraico": "אַרְמְנֹתֶֽיהָ׃", "transliteral": "ʾar-mə-nō-ṯe-hā", "traducao_palavra": "os seus palácios" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Assim diz YHWH: Por três transgressões de Edom, e por quatro, não revogarei o castigo; porque perseguiu o seu irmão à espada e sufocou as suas compaixões; e a sua ira despedaçou perpetuamente, e reteve o seu furor para sempre.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "עַל־שְׁלֹשָׁה֙", "transliteral": "ʿal-šə-lō-šā", "traducao_palavra": "por três" },
+        { "hebraico": "פִּשְׁעֵ֣י", "transliteral": "piš-ʿê", "traducao_palavra": "transgressões de" },
+        { "hebraico": "אֱדֹ֔ום", "transliteral": "ʾĕ-ḏôm", "traducao_palavra": "Edom" },
+        { "hebraico": "וְעַל־אַרְבָּעָ֖ה", "transliteral": "wə-ʿal-ʾar-bā-ʿā", "traducao_palavra": "e por quatro" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲשִׁיבֶ֑נּוּ", "transliteral": "ʾă-šî-ḇen-nû", "traducao_palavra": "revogarei o castigo" },
+        { "hebraico": "עַל־רָדְפֹ֨ו", "transliteral": "ʿal-rā-ḏə-p̄ô", "traducao_palavra": "por ter perseguido" },
+        { "hebraico": "בַחֶ֤רֶב", "transliteral": "ḇa-ḥe-reḇ", "traducao_palavra": "à espada" },
+        { "hebraico": "אָחִיו֙", "transliteral": "ʾā-ḥîw", "traducao_palavra": "a seu irmão" },
+        { "hebraico": "וְשִׁחֵ֣ת", "transliteral": "wə-ši-ḥêṯ", "traducao_palavra": "e sufocou/destruiu" },
+        { "hebraico": "רַחֲמָ֔יו", "transliteral": "ra-ḥă-māyw", "traducao_palavra": "as suas compaixões" },
+        { "hebraico": "וַיִּטְרֹ֤ף", "transliteral": "way-yiṭ-rōp̄", "traducao_palavra": "e despedaçou" },
+        { "hebraico": "לָעַד֙", "transliteral": "lā-ʿaḏ", "traducao_palavra": "perpetuamente" },
+        { "hebraico": "אַפֹּ֔ו", "transliteral": "ʾap-pô", "traducao_palavra": "a sua ira" },
+        { "hebraico": "וְעֶבְרָתֹ֖ו", "transliteral": "wə-ʿeḇ-rā-ṯô", "traducao_palavra": "e o seu furor" },
+        { "hebraico": "שְׁמָרָ֥ה", "transliteral": "šə-mā-rā", "traducao_palavra": "guardou" },
+        { "hebraico": "נֶֽצַח׃", "transliteral": "ne-ṣaḥ", "traducao_palavra": "para sempre" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Por isso porei fogo a Temã, e ele consumirá os palácios de Bozra.",
+      "palavras": [
+        { "hebraico": "וְשִׁלַּ֥חְתִּי", "transliteral": "wə-šil-laḥ-tî", "traducao_palavra": "e enviarei" },
+        { "hebraico": "אֵ֖שׁ", "transliteral": "ʾêš", "traducao_palavra": "fogo" },
+        { "hebraico": "בְּתֵימָ֑ן", "transliteral": "bə-ṯê-mān", "traducao_palavra": "a Temã" },
+        { "hebraico": "וְאָכְלָ֖ה", "transliteral": "wə-ʾā-ḵə-lā", "traducao_palavra": "e consumirá" },
+        { "hebraico": "אַרְמְנֹ֥ות", "transliteral": "ʾar-mə-nôṯ", "traducao_palavra": "os palácios de" },
+        { "hebraico": "בָּצְרָֽה׃", "transliteral": "boṣ-rā", "traducao_palavra": "Bozra" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Assim diz YHWH: Por três transgressões dos filhos de Amom, e por quatro, não revogarei o castigo; porque rasgaram as mulheres grávidas de Gileade, para dilatarem os seus limites.",
+      "palavras": [
+        { "hebraico": "כֹּ֚ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "עַל־שְׁלֹשָׁה֙", "transliteral": "ʿal-šə-lō-šā", "traducao_palavra": "por três" },
+        { "hebraico": "פִּשְׁעֵ֣י", "transliteral": "piš-ʿê", "traducao_palavra": "transgressões dos" },
+        { "hebraico": "בְנֵֽי־עַמֹּ֔ון", "transliteral": "bə-nê-ʿam-môn", "traducao_palavra": "filhos de Amom" },
+        { "hebraico": "וְעַל־אַרְבָּעָ֖ה", "transliteral": "wə-ʿal-ʾar-bā-ʿā", "traducao_palavra": "e por quatro" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲשִׁיבֶ֑נּוּ", "transliteral": "ʾă-šî-ḇen-nû", "traducao_palavra": "revogarei o castigo" },
+        { "hebraico": "עַל־בִּקְעָם֙", "transliteral": "ʿal-biq-ʿām", "traducao_palavra": "por terem rasgado o ventre de" },
+        { "hebraico": "הָרֹ֣ות", "transliteral": "hā-rôṯ", "traducao_palavra": "as grávidas de" },
+        { "hebraico": "הַגִּלְעָ֔ד", "transliteral": "hag-gil-ʿāḏ", "traducao_palavra": "Gileade" },
+        { "hebraico": "לְמַ֖עַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "a fim de" },
+        { "hebraico": "הַרְחִ֥יב", "transliteral": "har-ḥîḇ", "traducao_palavra": "dilatarem" },
+        { "hebraico": "אֶת־גְּבוּלָֽם׃", "transliteral": "ʾeṯ-gə-ḇū-lām", "traducao_palavra": "o seu território" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Por isso porei fogo aos muros de Rabá, e ele consumirá os seus palácios com alarido no dia da batalha, com tempestade no dia do turbilhão.",
+      "palavras": [
+        { "hebraico": "וְהִצַּ֤תִּי", "transliteral": "wə-hiṣ-ṣat-tî", "traducao_palavra": "e atearei" },
+        { "hebraico": "אֵשׁ֙", "transliteral": "ʾêš", "traducao_palavra": "fogo" },
+        { "hebraico": "בְּחֹ֣ומַת", "transliteral": "bə-ḥô-maṯ", "traducao_palavra": "aos muros de" },
+        { "hebraico": "רַבָּ֔ה", "transliteral": "rab-bā", "traducao_palavra": "Rabá" },
+        { "hebraico": "וְאָכְלָ֖ה", "transliteral": "wə-ʾā-ḵə-lā", "traducao_palavra": "e ele consumirá" },
+        { "hebraico": "אַרְמְנֹותֶ֑יהָ", "transliteral": "ʾar-mə-nô-ṯe-hā", "traducao_palavra": "os seus palácios" },
+        { "hebraico": "בִּתְרוּעָה֙", "transliteral": "biṯ-rū-ʿā", "traducao_palavra": "com alarido de guerra" },
+        { "hebraico": "בְּיֹ֣ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "מִלְחָמָ֔ה", "transliteral": "mil-ḥā-mā", "traducao_palavra": "batalha" },
+        { "hebraico": "בְּסַ֖עַר", "transliteral": "bə-sa-ʿar", "traducao_palavra": "com tempestade" },
+        { "hebraico": "בְּיֹ֥ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "סוּפָֽה׃", "transliteral": "sū-p̄ā", "traducao_palavra": "turbilhão" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E o seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz YHWH.",
+      "palavras": [
+        { "hebraico": "וְהָלַ֥ךְ", "transliteral": "wə-hā-laḵ", "traducao_palavra": "e irá" },
+        { "hebraico": "מַלְכָּ֖ם", "transliteral": "mal-kām", "traducao_palavra": "o seu rei" },
+        { "hebraico": "בַּגֹּולָ֑ה", "transliteral": "bag-gô-lā", "traducao_palavra": "para o cativeiro/exílio" },
+        { "hebraico": "ה֥וּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "וְשָׂרָ֖יו", "transliteral": "wə-śā-rāyw", "traducao_palavra": "e os seus príncipes" },
+        { "hebraico": "יַחְדָּֽו", "transliteral": "yaḥ-dāw", "traducao_palavra": "juntamente" },
+        { "hebraico": "אָמַ֥ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    }
+  }
 }

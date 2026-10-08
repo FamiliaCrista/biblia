@@ -1,6 +1,255 @@
 {
-  "livro": "Oséias - הוֹשֵׁעַ - Hoshea",
+  "livro": "Oséias - הוֹשֵׁעַ - Hôšēaʿ",
   "capítulo": 7,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Ao querer eu curar a Israel, descobriu-se a iniquidade de Efraim e as maldades de Samaria; porque praticam a falsidade; o ladrão entra, e o bando de salteadores despoja por fora.",
+      "palavras": [
+        { "hebraico": "כְּרָפְאִי֙", "transliteral": "kə-rāp̄-ʾî", "traducao_palavra": "ao curar eu" },
+        { "hebraico": "לְיִשְׂרָאֵ֔ל", "transliteral": "lə-yiś-rā-ʾēl", "traducao_palavra": "a Israel" },
+        { "hebraico": "וְנִגְלָ֞ה", "transliteral": "wə-niḡ-lā", "traducao_palavra": "revelou-se/descobriu-se" },
+        { "hebraico": "עֲוֹ֤ן", "transliteral": "ʿă-wōn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "אֶפְרַ֙יִם֙", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "וְרָעֹ֣ות", "transliteral": "wə-rā-ʿôṯ", "traducao_palavra": "e as maldades de" },
+        { "hebraico": "שֹֽׁמְרֹ֔ון", "transliteral": "šō-mə-rôn", "traducao_palavra": "Samaria" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "פָעֲל֖וּ", "transliteral": "p̄ā-ʿă-lû", "traducao_palavra": "praticam" },
+        { "hebraico": "שָׁ֑קֶר", "transliteral": "šā-qer", "traducao_palavra": "a falsidade/engano" },
+        { "hebraico": "וְגַנָּ֣ב", "transliteral": "wə-ḡan-nāḇ", "traducao_palavra": "e o ladrão" },
+        { "hebraico": "יָבֹ֔וא", "transliteral": "yā-ḇô", "traducao_palavra": "entra por dentro" },
+        { "hebraico": "פָּשַׁ֥ט", "transliteral": "pā-šaṭ", "traducao_palavra": "assalta/despoja" },
+        { "hebraico": "גְּד֖וּד", "transliteral": "gə-ḏūḏ", "traducao_palavra": "o bando de salteadores" },
+        { "hebraico": "בַּחֽוּץ׃", "transliteral": "ba-ḥūṣ", "traducao_palavra": "do lado de fora/na rua" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E não dizem no seu coração que eu me lembro de toda a sua maldade; agora, pois, os cercam as suas próprias obras; estão diante da minha face.",
+      "palavras": [
+        { "hebraico": "וּבַל־יֹֽאמְרוּ֙", "transliteral": "ū-ḇal-yō-mə-rû", "traducao_palavra": "e não dizem" },
+        { "hebraico": "לִלְבָבָ֔ם", "transliteral": "lil-ḇā-ḇām", "traducao_palavra": "no seu coração" },
+        { "hebraico": "כָּל־רָעָתָ֖ם", "transliteral": "kāl-rā-ʿā-ṯām", "traducao_palavra": "que de toda a sua maldade" },
+        { "hebraico": "זָכָ֑רְתִּי", "transliteral": "zā-ḵār-tî", "traducao_palavra": "eu me lembro" },
+        { "hebraico": "עַתָּה֙", "transliteral": "ʿat-tā", "traducao_palavra": "agora" },
+        { "hebraico": "סְבָב֣וּם", "transliteral": "sə-ḇā-ḇūm", "traducao_palavra": "os cercam" },
+        { "hebraico": "מַֽעַלְלֵיהֶ֔ם", "transliteral": "ma-ʿal-lê-hem", "traducao_palavra": "as suas obras" },
+        { "hebraico": "נֶ֥גֶד", "transliteral": "ne-ḡeḏ", "traducao_palavra": "diante de" },
+        { "hebraico": "פָּנַ֖י", "transliteral": "pā-nay", "traducao_palavra": "minha face" },
+        { "hebraico": "הָיֽוּ׃", "transliteral": "hā-yû", "traducao_palavra": "estão" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Com a sua maldade alegram o rei, e com as suas mentiras, os príncipes.",
+      "palavras": [
+        { "hebraico": "בְּרָעָתָ֖ם", "transliteral": "bə-rā-ʿā-ṯām", "traducao_palavra": "com a sua maldade" },
+        { "hebraico": "יְשַׂמְּחוּ־מֶ֑לֶךְ", "transliteral": "yə-śam-mə-ḥū-me-leḵ", "traducao_palavra": "alegram o rei" },
+        { "hebraico": "וּבְכַחֲשֵׁיהֶ֖ם", "transliteral": "ū-ḇə-ḵa-ḥă-šê-hem", "traducao_palavra": "e com as suas mentiras" },
+        { "hebraico": "שָׂרִֽים׃", "transliteral": "śā-rîm", "traducao_palavra": "os príncipes" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Todos eles são adúlteros; são semelhantes ao forno aceso pelo padeiro, que cessa de atisar o fogo desde o amassar da massa até que seja levedada.",
+      "palavras": [
+        { "hebraico": "כֻּלָּם֙", "transliteral": "kul-lām", "traducao_palavra": "todos eles [são]" },
+        { "hebraico": "מְנָ֣אֲפִ֔ים", "transliteral": "mə-nā-ʾă-p̄îm", "traducao_palavra": "adúlteros" },
+        { "hebraico": "כְּמֹ֣ו", "transliteral": "kə-mô", "traducao_palavra": "como" },
+        { "hebraico": "תַנּ֔וּר", "transliteral": "tan-nūr", "traducao_palavra": "um forno" },
+        { "hebraico": "בֹּעֵ֖רָה", "transliteral": "bō-ʿê-rā", "traducao_palavra": "aceso" },
+        { "hebraico": "מֵֽאֹפֶ֑ה", "transliteral": "mê-ʾō-p̄eh", "traducao_palavra": "pelo padeiro" },
+        { "hebraico": "יִשְׁבֹּ֣ות", "transliteral": "yiš-bôṯ", "traducao_palavra": "que cessa" },
+        { "hebraico": "מֵעִ֔יר", "transliteral": "mê-ʿîr", "traducao_palavra": "de atiçar o fogo" },
+        { "hebraico": "מִלּ֥וּשׁ", "transliteral": "mil-lūš", "traducao_palavra": "desde o amassar de" },
+        { "hebraico": "בָּצֵ֖ק", "transliteral": "bā-ṣêq", "traducao_palavra": "a massa" },
+        { "hebraico": "עַד־חֻמְצָתֹֽו׃", "transliteral": "ʿaḏ-ḥum-ṣā-ṯô", "traducao_palavra": "até que esteja levedada" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "No dia do nosso rei, os príncipes se tornaram doentes com o ardor do vinho; ele estendeu a sua mão com os escarnecedores.",
+      "palavras": [
+        { "hebraico": "יֹ֣ום", "transliteral": "yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "מַלְכֵּ֔נוּ", "transliteral": "mal-kê-nû", "traducao_palavra": "nosso rei" },
+        { "hebraico": "הֶחֱל֥וּ", "transliteral": "he-ḥĕ-lû", "traducao_palavra": "adoeceram" },
+        { "hebraico": "שָׂרִ֖ים", "transliteral": "śā-rîm", "traducao_palavra": "os príncipes com" },
+        { "hebraico": "חֲמַ֣ת", "transliteral": "ḥă-maṯ", "traducao_palavra": "o ardor de" },
+        { "hebraico": "מִיָּ֑יִן", "transliteral": "mî-yā-yin", "traducao_palavra": "vinho" },
+        { "hebraico": "מָשַׁ֥ךְ", "transliteral": "mā-šaḵ", "traducao_palavra": "estendeu" },
+        { "hebraico": "יָדֹ֖ו", "transliteral": "yā-ḏô", "traducao_palavra": "a sua mão" },
+        { "hebraico": "אֶת־לֹצְצִֽים׃", "transliteral": "ʾeṯ-lō-ṣə-ṣîm", "traducao_palavra": "com os escarnecedores" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Porque prepararam o coração como um forno, enquanto estão de emboscada; toda a noite dorme o seu padeiro; pela manhã arde como fogo de chama.",
+      "palavras": [
+        { "hebraico": "כִּֽי־קֵרְב֧וּ", "transliteral": "kî-qê-rə-ḇû", "traducao_palavra": "porque prepararam/aproximaram" },
+        { "hebraico": "כַתַּנּ֛וּר", "transliteral": "ḵat-tan-nūr", "traducao_palavra": "como um forno" },
+        { "hebraico": "לִבָּ֖ם", "transliteral": "lib-bām", "traducao_palavra": "o seu coração" },
+        { "hebraico": "בְּאָרְבָּ֑ם", "transliteral": "bə-ʾār-bām", "traducao_palavra": "na sua emboscada" },
+        { "hebraico": "כָּל־הַלַּ֙יְלָה֙", "transliteral": "kāl-hal-lay-lā", "traducao_palavra": "toda a noite" },
+        { "hebraico": "יָשֵׁ֣ן", "transliteral": "yā-šên", "traducao_palavra": "dorme" },
+        { "hebraico": "אֹֽפֵיהֶ֔ם", "transliteral": "ʾō-p̄ê-hem", "traducao_palavra": "o padeiro deles" },
+        { "hebraico": "בֹּ֕קֶר", "transliteral": "bō-qer", "traducao_palavra": "de manhã" },
+        { "hebraico": "ה֥וּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "בֹעֵ֖ר", "transliteral": "bō-ʿêr", "traducao_palavra": "arde" },
+        { "hebraico": "כְּאֵ֥שׁ", "transliteral": "kə-ʾêš", "traducao_palavra": "como fogo de" },
+        { "hebraico": "לֶהָבָֽה׃", "transliteral": "le-hā-ḇā", "traducao_palavra": "chama" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Todos eles se abrasam como um forno e devoram os seus juízes; todos os seus reis caem; ninguém há entre eles que clame a mim.",
+      "palavras": [
+        { "hebraico": "כֻּלָּ֤ם", "transliteral": "kul-lām", "traducao_palavra": "todos eles" },
+        { "hebraico": "יֵחַ֙מּוּ֙", "transliteral": "yê-ḥam-mû", "traducao_palavra": "se abrasam" },
+        { "hebraico": "כַּתַּנּ֔וּר", "transliteral": "kat-tan-nūr", "traducao_palavra": "como um forno" },
+        { "hebraico": "וְאָכְל֖וּ", "transliteral": "wə-ʾā-ḵə-lû", "traducao_palavra": "e devoram" },
+        { "hebraico": "אֶת־שֹׁפְטֵיהֶ֑ם", "transliteral": "ʾeṯ-šō-p̄ə-ṭê-hem", "traducao_palavra": "os seus juízes" },
+        { "hebraico": "כָּל־מַלְכֵיהֶ֣ם", "transliteral": "kāl-mal-ḵê-hem", "traducao_palavra": "todos os seus reis" },
+        { "hebraico": "נָפָ֔לוּ", "transliteral": "nā-p̄ā-lû", "traducao_palavra": "caíram" },
+        { "hebraico": "אֵין־קֹרֵ֥א", "transliteral": "ʾên-qō-rê", "traducao_palavra": "não há quem clame" },
+        { "hebraico": "בָהֶ֖ם", "transliteral": "bā-hem", "traducao_palavra": "entre eles" },
+        { "hebraico": "אֵלָֽי׃", "transliteral": "ʾê-lāy", "traducao_palavra": "a mim" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Efraim se mistura com as nações; Efraim é um bolo que não foi virado.",
+      "palavras": [
+        { "hebraico": "אֶפְרַ֕יִם", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "בָּעַמִּ֖ים", "transliteral": "bā-ʿam-mîm", "traducao_palavra": "com os povos" },
+        { "hebraico": "ה֣וּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "יִתְבֹּולָ֑ל", "transliteral": "yiṯ-bô-lāl", "traducao_palavra": "se mistura" },
+        { "hebraico": "אֶפְרַ֛יִם", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "הָיָ֥ה", "transliteral": "hā-yā", "traducao_palavra": "tornou-se" },
+        { "hebraico": "עֻגָ֖ה", "transliteral": "ʿu-ḡā", "traducao_palavra": "um bolo/pão" },
+        { "hebraico": "בְּלִ֥י", "transliteral": "bə-lî", "traducao_palavra": "não" },
+        { "hebraico": "הֲפוּכָֽה׃", "transliteral": "hă-p̄ū-ḵā", "traducao_palavra": "virado" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Estrangeiros lhe devoraram a força, e ele não o sabe; também as cãs já se espalharam sobre ele, e ele não o sabe.",
+      "palavras": [
+        { "hebraico": "אָכְל֤וּ", "transliteral": "ʾā-ḵə-lû", "traducao_palavra": "devoraram" },
+        { "hebraico": "זָרִים֙", "transliteral": "zā-rîm", "traducao_palavra": "estrangeiros" },
+        { "hebraico": "כֹּחֹ֔ו", "transliteral": "kō-ḥô", "traducao_palavra": "a sua força" },
+        { "hebraico": "וְה֖וּא", "transliteral": "wə-hû", "traducao_palavra": "e ele" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não [o]" },
+        { "hebraico": "יָדָ֑ע", "transliteral": "yā-ḏāʿ", "traducao_palavra": "sabe" },
+        { "hebraico": "גַּם־שֵׂיבָה֙", "transliteral": "gam-śê-ḇā", "traducao_palavra": "também cabelos brancos/cãs" },
+        { "hebraico": "זָ֣רְקָה", "transliteral": "zār-qā", "traducao_palavra": "espalharam-se" },
+        { "hebraico": "בֹּ֔ו", "transliteral": "bô", "traducao_palavra": "nele" },
+        { "hebraico": "וְה֖וּא", "transliteral": "wə-hû", "traducao_palavra": "e ele" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não [o]" },
+        { "hebraico": "יָדָֽע׃", "transliteral": "yā-ḏāʿ", "traducao_palavra": "sabe" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E a soberba de Israel testifica abertamente contra ele; contudo, não voltam para YHWH, seu Deus, nem o buscam em tudo isto.",
+      "palavras": [
+        { "hebraico": "וְעָנָ֥ה", "transliteral": "wə-ʿā-nā", "traducao_palavra": "e testifica" },
+        { "hebraico": "גְאֹֽון־יִשְׂרָאֵ֖ל", "transliteral": "gə-ʾôn-yiś-rā-ʾêl", "traducao_palavra": "a soberba de Israel" },
+        { "hebraico": "בְּפָנָ֑יו", "transliteral": "bə-p̄ā-nāyw", "traducao_palavra": "na sua face" },
+        { "hebraico": "וְלֹֽא־שָׁ֙בוּ֙", "transliteral": "wə-lō-šā-ḇû", "traducao_palavra": "e não se voltam" },
+        { "hebraico": "אֶל־יְהוָ֣ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "para YHWH" },
+        { "hebraico": "אֱלֹֽהֵיהֶ֔ם", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "o seu Deus" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "בִקְשֻׁ֖הוּ", "transliteral": "ḇiq-šu-hû", "traducao_palavra": "o buscam" },
+        { "hebraico": "בְּכָל־זֹֽאת׃", "transliteral": "bə-ḵāl-zōṯ", "traducao_palavra": "apesar de tudo isto" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Porque Efraim é como uma pomba ingênua, sem entendimento; chamam o Egito, vão para a Assíria.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e tornou-se" },
+        { "hebraico": "אֶפְרַ֔יִם", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "כְּיֹונָ֥ה", "transliteral": "kə-yô-nā", "traducao_palavra": "como uma pomba" },
+        { "hebraico": "פֹותָ֖ה", "transliteral": "p̄ô-ṯā", "traducao_palavra": "ingênua/néscia" },
+        { "hebraico": "אֵ֣ין", "transliteral": "ʾên", "traducao_palavra": "sem" },
+        { "hebraico": "לֵ֑ב", "transliteral": "lêḇ", "traducao_palavra": "entendimento/coração" },
+        { "hebraico": "מִצְרַ֥יִם", "transliteral": "miṣ-ra-yim", "traducao_palavra": "ao Egito" },
+        { "hebraico": "קָרָ֖אוּ", "transliteral": "qā-rā-ʾû", "traducao_palavra": "chamam" },
+        { "hebraico": "אַשּׁ֥וּר", "transliteral": "ʾaš-šūr", "traducao_palavra": "à Assíria" },
+        { "hebraico": "הָלָֽכוּ׃", "transliteral": "hā-lā-ḵû", "traducao_palavra": "vão" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Quando forem, sobre eles estenderei a minha rede, e como aves do céu os farei descer; castigá-los-ei, conforme o que se tem ouvido na sua congregação.",
+      "palavras": [
+        { "hebraico": "כַּאֲשֶׁ֣ר", "transliteral": "ka-ʾă-šer", "traducao_palavra": "quando" },
+        { "hebraico": "יֵלֵ֗כוּ", "transliteral": "yê-lê-ḵû", "traducao_palavra": "eles forem" },
+        { "hebraico": "אֶפְרֹ֤ושׂ", "transliteral": "ʾep̄-rôś", "traducao_palavra": "estenderei" },
+        { "hebraico": "עֲלֵיהֶם֙", "transliteral": "ʿă-lê-hem", "traducao_palavra": "sobre eles" },
+        { "hebraico": "רִשְׁתִּ֔י", "transliteral": "riš-tî", "traducao_palavra": "a minha rede" },
+        { "hebraico": "כְּעֹ֥וף", "transliteral": "kə-ʿôp̄", "traducao_palavra": "como as aves de" },
+        { "hebraico": "הַשָּׁמַ֖יִם", "transliteral": "haš-šā-ma-yim", "traducao_palavra": "o céu" },
+        { "hebraico": "אֹֽורִידֵ֑ם", "transliteral": "ʾô-rî-ḏêm", "traducao_palavra": "os farei descer" },
+        { "hebraico": "אַיְסִרֵ֕ם", "transliteral": "ʾay-si-rêm", "traducao_palavra": "os castigarei" },
+        { "hebraico": "כְּשֵׁ֥מַע", "transliteral": "kə-šê-maʿ", "traducao_palavra": "conforme o anúncio/notícia" },
+        { "hebraico": "לַעֲדָתָֽם׃", "transliteral": "la-ʿă-ḏā-ṯām", "traducao_palavra": "à sua congregação" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Ai deles! Porque se desviaram de mim; destruição sobre eles! Porque transgrediram contra mim; eu os remiria, mas disseram mentiras contra mim.",
+      "palavras": [
+        { "hebraico": "אֹ֥וי", "transliteral": "ʾôy", "traducao_palavra": "ai" },
+        { "hebraico": "לָהֶ֛ם", "transliteral": "lā-hem", "traducao_palavra": "deles" },
+        { "hebraico": "כִּֽי־נָדְד֥וּ", "transliteral": "kî-nā-ḏə-ḏû", "traducao_palavra": "porque fugiram/se desviaram" },
+        { "hebraico": "מִמֶּ֖נִּי", "transliteral": "mim-men-nî", "traducao_palavra": "de mim" },
+        { "hebraico": "שֹׁ֣ד", "transliteral": "šōḏ", "traducao_palavra": "destruição [venha]" },
+        { "hebraico": "לָהֶם֮", "transliteral": "lā-hem", "traducao_palavra": "sobre eles" },
+        { "hebraico": "כִּֽי־פָשְׁע֣וּ", "transliteral": "kî-p̄ā-šə-ʿû", "traducao_palavra": "porque transgrediram" },
+        { "hebraico": "בִ֔י", "transliteral": "ḇî", "traducao_palavra": "contra mim" },
+        { "hebraico": "וְאָנֹכִ֣י", "transliteral": "wə-ʾā-nō-ḵî", "traducao_palavra": "e eu" },
+        { "hebraico": "אֶפְדֵּ֔ם", "transliteral": "ʾep̄-dêm", "traducao_palavra": "os resgataria" },
+        { "hebraico": "וְהֵ֕מָּה", "transliteral": "wə-hêm-mā", "traducao_palavra": "mas eles" },
+        { "hebraico": "דִּבְּר֥וּ", "transliteral": "dib-bə-rû", "traducao_palavra": "falaram" },
+        { "hebraico": "עָלַ֖י", "transliteral": "ʿā-lay", "traducao_palavra": "contra mim" },
+        { "hebraico": "כְּזָבִֽים׃", "transliteral": "kə-zā-ḇîm", "traducao_palavra": "mentiras" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E não clamam a mim de coração, mas uivam nos seus leitos; para o trigo e para o mosto se ajuntam, mas contra mim se rebelam.",
+      "palavras": [
+        { "hebraico": "וְלֹֽא־זָעֲק֤וּ", "transliteral": "wə-lō-zā-ʿă-qû", "traducao_palavra": "e não clamam" },
+        { "hebraico": "אֵלַי֙", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "בְּלִבָּ֔ם", "transliteral": "bə-lib-bām", "traducao_palavra": "de seu coração" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "quando/mas" },
+        { "hebraico": "יְיֵלִ֖ילוּ", "transliteral": "yə-yê-lî-lû", "traducao_palavra": "uivam" },
+        { "hebraico": "עַל־מִשְׁכְּבֹותָ֑ם", "transliteral": "ʿal-miš-kə-ḇô-ṯām", "traducao_palavra": "nas suas camas" },
+        { "hebraico": "עַל־דָּגָ֧ן", "transliteral": "ʿal-dā-ḡān", "traducao_palavra": "pelo cereal" },
+        { "hebraico": "וְתִירֹ֛ושׁ", "transliteral": "wə-ṯî-rôš", "traducao_palavra": "e pelo vinho novo" },
+        { "hebraico": "יִתְגֹּורָ֖רוּ", "transliteral": "yiṯ-gô-rā-rû", "traducao_palavra": "ajuntam-se/fazem incisões" },
+        { "hebraico": "יָס֥וּרוּ", "transliteral": "yā-sū-rû", "traducao_palavra": "rebelam-se" },
+        { "hebraico": "בִֽי׃", "transliteral": "ḇî", "traducao_palavra": "contra mim" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Eu os disciplinei e lhes fortaleci os braços; contudo, maquinam o mal contra mim.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֣י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "יִסַּ֔רְתִּי", "transliteral": "yis-sar-tî", "traducao_palavra": "os disciplinei" },
+        { "hebraico": "חִזַּ֖קְתִּי", "transliteral": "ḥiz-zaq-tî", "traducao_palavra": "fortaleci" },
+        { "hebraico": "זְרֹֽועֹתָ֑ם", "transliteral": "zə-rô-ʿō-ṯām", "traducao_palavra": "os seus braços" },
+        { "hebraico": "וְאֵלַ֖י", "transliteral": "wə-ʾê-lay", "traducao_palavra": "mas contra mim" },
+        { "hebraico": "יְחַשְּׁבוּ־רָֽע׃", "transliteral": "yə-ḥaš-šə-ḇū-rāʿ", "traducao_palavra": "maquinam o mal" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Eles voltam, mas não para o Altíssimo; tornaram-se como um arco enganoso; cairão à espada os seus príncipes, por causa da insolência da sua língua; este será o seu escárnio na terra do Egito.",
+      "palavras": [
+        { "hebraico": "יָשׁ֣וּבוּ", "transliteral": "yā-šū-ḇû", "traducao_palavra": "voltam" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "עָ֗ל", "transliteral": "ʿāl", "traducao_palavra": "para o Altíssimo" },
+        { "hebraico": "הָיוּ֙", "transliteral": "hā-yû", "traducao_palavra": "tornaram-se" },
+        { "hebraico": "כְּקֶ֣שֶׁת", "transliteral": "kə-qe-šeṯ", "traducao_palavra": "como um arco" },
+        { "hebraico": "רְמִיָּ֔ה", "transliteral": "rə-mî-yā", "traducao_palavra": "enganoso/frouxo" },
+        { "hebraico": "יִפְּל֥וּ", "transliteral": "yip-pə-lû", "traducao_palavra": "cairão" },
+        { "hebraico": "בַחֶ֛רֶב", "transliteral": "ḇa-ḥe-reḇ", "traducao_palavra": "à espada" },
+        { "hebraico": "שָׂרֵיהֶ֖ם", "transliteral": "śā-rê-hem", "traducao_palavra": "os seus príncipes" },
+        { "hebraico": "מִזַּ֣עַם", "transliteral": "miz-za-ʿam", "traducao_palavra": "por causa da fúria/insolência de" },
+        { "hebraico": "לְשֹׁונָ֑ם", "transliteral": "lə-šô-nām", "traducao_palavra": "sua língua" },
+        { "hebraico": "זֹ֥ו", "transliteral": "zô", "traducao_palavra": "este [será]" },
+        { "hebraico": "לַעְגָּ֖ם", "transliteral": "laʿ-gām", "traducao_palavra": "o seu escárnio" },
+        { "hebraico": "בְּאֶ֥רֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra de" },
+        { "hebraico": "מִצְרָֽיִם׃", "transliteral": "miṣ-rā-yim", "traducao_palavra": "Egito" }
+      ]
+    }
+  }
 }

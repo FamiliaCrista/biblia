@@ -1,6 +1,320 @@
 {
-  "livro": "Joel - יוֹאֵל - Yoel",
+  "livro": "Joel - יוֹאֵל - Yôʾēl",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Palavra de YHWH que veio a Joel, filho de Petuel.",
+      "palavras": [
+        { "hebraico": "דְּבַר־יְהוָה֙", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הָיָ֔ה", "transliteral": "hā-yā", "traducao_palavra": "veio/aconteceu" },
+        { "hebraico": "אֶל־יֹואֵ֖ל", "transliteral": "ʾel-yô-ʾêl", "traducao_palavra": "a Joel" },
+        { "hebraico": "בֶּן־פְּתוּאֵֽל׃", "transliteral": "ben-pə-ṯū-ʾêl", "traducao_palavra": "filho de Petuel" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Ouvi isto, ó anciãos, e escutai, todos os moradores da terra: Aconteceu isto em vossos dias, ou nos dias de vossos pais?",
+      "palavras": [
+        { "hebraico": "שִׁמְעוּ־זֹ֣את", "transliteral": "šim-ʿū-zōṯ", "traducao_palavra": "ouvi isto" },
+        { "hebraico": "הַזְּקֵנִ֔ים", "transliteral": "haz-zə-qê-nîm", "traducao_palavra": "ó anciãos" },
+        { "hebraico": "וְהַֽאֲזִ֔ינוּ", "transliteral": "wə-ha-ʾă-zî-nû", "traducao_palavra": "e dai ouvidos/escutai" },
+        { "hebraico": "כֹּ֖ל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "יֹושְׁבֵ֣י", "transliteral": "yô-šə-ḇê", "traducao_palavra": "os moradores de" },
+        { "hebraico": "הָאָ֑רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "הֶהָ֤יְתָה", "transliteral": "he-hā-yə-ṯā", "traducao_palavra": "aconteceu" },
+        { "hebraico": "זֹּאת֙", "transliteral": "zōṯ", "traducao_palavra": "isto" },
+        { "hebraico": "בִּֽימֵיכֶ֔ם", "transliteral": "bî-mê-ḵem", "traducao_palavra": "nos vossos dias" },
+        { "hebraico": "וְאִ֖ם", "transliteral": "wə-ʾim", "traducao_palavra": "ou" },
+        { "hebraico": "בִּימֵ֥י", "transliteral": "bî-mê", "traducao_palavra": "nos dias de" },
+        { "hebraico": "אֲבֹֽתֵיכֶֽם׃", "transliteral": "ʾă-ḇō-ṯê-ḵem", "traducao_palavra": "vossos pais?" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Contai isto a vossos filhos, e vossos filhos a seus filhos, e os filhos destes à outra geração.",
+      "palavras": [
+        { "hebraico": "עָלֶ֖יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "acerca disto" },
+        { "hebraico": "לִבְנֵיכֶ֣ם", "transliteral": "liḇ-nê-ḵem", "traducao_palavra": "a vossos filhos" },
+        { "hebraico": "סַפֵּ֑רוּ", "transliteral": "sap-pê-rû", "traducao_palavra": "contai/relatai" },
+        { "hebraico": "וּבְנֵיכֶם֙", "transliteral": "ū-ḇə-nê-ḵem", "traducao_palavra": "e vossos filhos" },
+        { "hebraico": "לִבְנֵיהֶ֔ם", "transliteral": "liḇ-nê-hem", "traducao_palavra": "a seus filhos" },
+        { "hebraico": "וּבְנֵיהֶ֖ם", "transliteral": "ū-ḇə-nê-hem", "traducao_palavra": "e os filhos destes" },
+        { "hebraico": "לְדֹ֥ור", "transliteral": "lə-ḏôr", "traducao_palavra": "à geração" },
+        { "hebraico": "אַחֵֽר׃", "transliteral": "ʾa-ḥêr", "traducao_palavra": "seguinte/outra" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "O que ficou da lagarta, o gafanhoto o comeu; e o que ficou do gafanhoto, a locusta o comeu; e o que ficou da locusta, o pulgão o comeu.",
+      "palavras": [
+        { "hebraico": "יֶ֤תֶר", "transliteral": "ye-ṯer", "traducao_palavra": "o que sobrou de" },
+        { "hebraico": "הַגָּזָם֙", "transliteral": "hag-gā-zām", "traducao_palavra": "a lagarta/cortador" },
+        { "hebraico": "אָכַ֣ל", "transliteral": "ʾā-ḵal", "traducao_palavra": "comeu" },
+        { "hebraico": "הָֽאַרְבֶּ֔ה", "transliteral": "hā-ʾar-beh", "traducao_palavra": "o gafanhoto" },
+        { "hebraico": "וְיֶ֥תֶר", "transliteral": "wə-ye-ṯer", "traducao_palavra": "e o que sobrou de" },
+        { "hebraico": "הָאַרְבֶּ֖ה", "transliteral": "hā-ʾar-beh", "traducao_palavra": "o gafanhoto" },
+        { "hebraico": "אָכַ֣ל", "transliteral": "ʾā-ḵal", "traducao_palavra": "comeu" },
+        { "hebraico": "הַיָּ֑לֶק", "transliteral": "hay-yā-leq", "traducao_palavra": "o gafanhoto saltador/locusta" },
+        { "hebraico": "וְיֶ֣תֶר", "transliteral": "wə-ye-ṯer", "traducao_palavra": "e o que sobrou de" },
+        { "hebraico": "הַיֶּ֔לֶק", "transliteral": "hay-ye-leq", "traducao_palavra": "o gafanhoto saltador" },
+        { "hebraico": "אָכַ֖ל", "transliteral": "ʾā-ḵal", "traducao_palavra": "comeu" },
+        { "hebraico": "הֶחָסִֽיל׃", "transliteral": "he-ḥā-sîl", "traducao_palavra": "o gafanhoto destruidor/pulgão" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Despertai, ébrios, e chorai; gemei, todos os que bebeis vinho, por causa do mosto, porque tirado é da vossa boca.",
+      "palavras": [
+        { "hebraico": "הָקִ֤יצוּ", "transliteral": "hā-qî-ṣû", "traducao_palavra": "despertai" },
+        { "hebraico": "שִׁכֹּורִים֙", "transliteral": "šik-kô-rîm", "traducao_palavra": "óbrios" },
+        { "hebraico": "וּבְכ֔וּ", "transliteral": "ū-ḇə-ḵû", "traducao_palavra": "e chorai" },
+        { "hebraico": "וְהֵילִ֖ילוּ", "transliteral": "wə-hê-lî-lû", "traducao_palavra": "e uivai/gemei" },
+        { "hebraico": "כָּל־שֹׁ֣תֵי", "transliteral": "kāl-šō-ṯê", "traducao_palavra": "todos os bebedores de" },
+        { "hebraico": "יָ֑יִן", "transliteral": "yā-yin", "traducao_palavra": "vinho" },
+        { "hebraico": "עַל־עָסִ֕יס", "transliteral": "ʿal-ʿā-sîs", "traducao_palavra": "por causa do vinho novo/mosto" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "נִכְרַ֖ת", "transliteral": "niḵ-raṯ", "traducao_palavra": "foi cortado/tirado" },
+        { "hebraico": "מִפִּיכֶֽם׃", "transliteral": "mip-pî-ḵem", "traducao_palavra": "da vossa boca" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Porque uma nação subiu sobre a minha terra, poderosa e inumerável; os seus dentes são dentes de leão, e tem queixadas de leoa.",
+      "palavras": [
+        { "hebraico": "כִּֽי־גֹוי֙", "transliteral": "kî-ḡôy", "traducao_palavra": "porque uma nação" },
+        { "hebraico": "עָלָ֣ה", "transliteral": "ʿā-lā", "traducao_palavra": "subiu" },
+        { "hebraico": "עַל־אַרְצִ֔י", "transliteral": "ʿal-ʾar-ṣî", "traducao_palavra": "sobre a minha terra" },
+        { "hebraico": "עָצ֥וּם", "transliteral": "ʿā-ṣūm", "traducao_palavra": "poderosa" },
+        { "hebraico": "וְאֵ֣ין", "transliteral": "wə-ʾên", "traducao_palavra": "e sem" },
+        { "hebraico": "מִסְפָּ֑ר", "transliteral": "mis-pār", "traducao_palavra": "número/inumerável" },
+        { "hebraico": "שִׁנָּיו֙", "transliteral": "šin-nāyw", "traducao_palavra": "os seus dentes [são]" },
+        { "hebraico": "שִׁנֵּ֣י", "transliteral": "šin-nê", "traducao_palavra": "dentes de" },
+        { "hebraico": "אַרְיֵ֔ה", "transliteral": "ʾar-yêh", "traducao_palavra": "leão" },
+        { "hebraico": "וּֽמְתַלְּעֹ֥ות", "transliteral": "ū-mə-ṯal-lə-ʿôṯ", "traducao_palavra": "e queixadas de" },
+        { "hebraico": "לָבִ֖יא", "transliteral": "lā-ḇî", "traducao_palavra": "leoa" },
+        { "hebraico": "לֹֽו׃", "transliteral": "lô", "traducao_palavra": "tem ele" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Fez da minha vide uma assolação, e descascou a minha figueira; despiu-a totalmente e a lançou por terra; os seus sarmentos se embranqueceram.",
+      "palavras": [
+        { "hebraico": "שָׂ֤ם", "transliteral": "śām", "traducao_palavra": "pôs/fez" },
+        { "hebraico": "גַּפְנִי֙", "transliteral": "gap̄-nî", "traducao_palavra": "a minha vide" },
+        { "hebraico": "לְשַׁמָּ֔ה", "transliteral": "lə-šam-mā", "traducao_palavra": "em desolação" },
+        { "hebraico": "וּתְאֵנָתִ֖י", "transliteral": "ū-ṯə-ʾê-nā-ṯî", "traducao_palavra": "e a minha figueira" },
+        { "hebraico": "לִקְצָפָ֑ה", "transliteral": "liq-ṣā-p̄ā", "traducao_palavra": "em toco descascado/lascas" },
+        { "hebraico": "חָשֹׂ֤ף", "transliteral": "ḥā-śōp̄", "traducao_palavra": "descascando" },
+        { "hebraico": "חֲשָׂפָהּ֙", "transliteral": "ḥă-śā-p̄āh", "traducao_palavra": "descascou-a" },
+        { "hebraico": "וְהִשְׁלִ֔יךְ", "transliteral": "wə-hiš-lîḵ", "traducao_palavra": "e a lançou fora" },
+        { "hebraico": "הִלְבִּ֖ינוּ", "transliteral": "hil-bî-nû", "traducao_palavra": "ficaram brancos" },
+        { "hebraico": "שָׂרִיגֶֽיהָ׃", "transliteral": "śā-rî-ḡe-hā", "traducao_palavra": "os seus ramos/sarmentos" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Lamenta como a virgem cingida de saco pelo marido da sua mocidade.",
+      "palavras": [
+        { "hebraico": "אֱלִ֕י", "transliteral": "ʾĕ-lî", "traducao_palavra": "lamenta/chora" },
+        { "hebraico": "כִּבְתוּלָ֥ה", "transliteral": "kiḇ-ṯū-lā", "traducao_palavra": "como a virgem/jovem" },
+        { "hebraico": "חֲגֻֽרַת־שַׂ֖ק", "transliteral": "ḥă-ḡu-raṯ-śaq", "traducao_palavra": "cingida de pano de saco" },
+        { "hebraico": "עַל־בַּ֥עַל", "transliteral": "ʿal-ba-ʿal", "traducao_palavra": "pelo esposo de" },
+        { "hebraico": "נְעוּרֶֽיהָ׃", "transliteral": "nə-ʿū-re-hā", "traducao_palavra": "sua mocidade" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Cortada está a oferta de manjares e a libação da casa de YHWH; os sacerdotes, ministros de YHWH, estão de luto.",
+      "palavras": [
+        { "hebraico": "הָכְרַ֥ת", "transliteral": "hāḵ-raṯ", "traducao_palavra": "cortada foi" },
+        { "hebraico": "מִנְחָ֛ה", "transliteral": "min-ḥā", "traducao_palavra": "a oferta de cereais" },
+        { "hebraico": "וָנֶ֖סֶךְ", "transliteral": "wā-ne-seḵ", "traducao_palavra": "e a libação" },
+        { "hebraico": "מִבֵּ֣ית", "transliteral": "mib-bêṯ", "traducao_palavra": "da casa de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אָֽבְלוּ֙", "transliteral": "ʾā-ḇə-lû", "traducao_palavra": "estão de luto" },
+        { "hebraico": "הַכֹּ֣הֲנִ֔ים", "transliteral": "hak-kō-hă-nîm", "traducao_palavra": "os sacerdotes" },
+        { "hebraico": "מְשָׁרְתֵ֖י", "transliteral": "mə-šā-rə-ṯê", "traducao_palavra": "ministros de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "O campo está assolado, a terra chora; porque o trigo está destruído, o mosto se secou, o azeite acabou.",
+      "palavras": [
+        { "hebraico": "שֻׁדַּ֣ד", "transliteral": "šud-daḏ", "traducao_palavra": "assolado está" },
+        { "hebraico": "שָׂדֶ֔ה", "transliteral": "śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "אָבְלָ֖ה", "transliteral": "ʾā-ḇə-lā", "traducao_palavra": "está de luto/chora" },
+        { "hebraico": "אֲדָמָ֑ה", "transliteral": "ʾă-ḏā-mā", "traducao_palavra": "a terra/solo" },
+        { "hebraico": "כִּ֚י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "שֻׁדַּ֣ד", "transliteral": "šud-daḏ", "traducao_palavra": "está destruído" },
+        { "hebraico": "דָּגָ֔ן", "transliteral": "dā-ḡān", "traducao_palavra": "o cereal/trigo" },
+        { "hebraico": "הֹובִ֥ישׁ", "transliteral": "hô-ḇîš", "traducao_palavra": "secou-se" },
+        { "hebraico": "תִּירֹ֖ושׁ", "transliteral": "tî-rôš", "traducao_palavra": "o vinho novo" },
+        { "hebraico": "אֻמְלַ֥ל", "transliteral": "ʾum-lal", "traducao_palavra": "desfaleceu/acabou" },
+        { "hebraico": "יִצְהָֽר׃", "transliteral": "yiṣ-hār", "traducao_palavra": "o azeite fresco" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Envergonhai-vos, lavradores, uivai, vinhateiros, por causa do trigo e da cevada; porque a colheita do campo pereceu.",
+      "palavras": [
+        { "hebraico": "הֹבִ֣ישׁוּ", "transliteral": "hō-ḇî-šû", "traducao_palavra": "envergonhai-vos" },
+        { "hebraico": "אִכָּרִ֗ים", "transliteral": "ʾik-kā-rîm", "traducao_palavra": "ó lavradores" },
+        { "hebraico": "הֵילִ֙ילוּ֙", "transliteral": "hê-lî-lû", "traducao_palavra": "uivai" },
+        { "hebraico": "כֹּֽרְמִ֔ים", "transliteral": "kō-rə-mîm", "traducao_palavra": "ó vinhateiros" },
+        { "hebraico": "עַל־חִטָּ֖ה", "transliteral": "ʿal-ḥiṭ-ṭā", "traducao_palavra": "pelo trigo" },
+        { "hebraico": "וְעַל־שְׂעֹרָ֑ה", "transliteral": "wə-ʿal-śə-ʿō-rā", "traducao_palavra": "e pela cevada" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אָבַ֖ד", "transliteral": "ʾā-ḇaḏ", "traducao_palavra": "pereceu" },
+        { "hebraico": "קְצִ֥יר", "transliteral": "qə-ṣîr", "traducao_palavra": "a colheita de" },
+        { "hebraico": "שָׂדֶֽה׃", "transliteral": "śā-ḏeh", "traducao_palavra": "o campo" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "A vide se secou, a figueira se murchou; a romeira também, a palmeira e a macieira; todas as árvores do campo se secaram, e a alegria se secou entre os filhos dos homens.",
+      "palavras": [
+        { "hebraico": "הַגֶּ֥פֶן", "transliteral": "hag-ge-p̄en", "traducao_palavra": "a vide" },
+        { "hebraico": "הֹובִ֛ישָׁה", "transliteral": "hô-ḇî-šā", "traducao_palavra": "secou-se" },
+        { "hebraico": "וְהַתְּאֵנָ֖ה", "transliteral": "wə-hat-tə-ʾê-nā", "traducao_palavra": "e a figueira" },
+        { "hebraico": "אֻמְלָ֑לָה", "transliteral": "ʾum-lā-lā", "traducao_palavra": "murchou" },
+        { "hebraico": "רִמֹּ֞ון", "transliteral": "rim-môn", "traducao_palavra": "a romeira" },
+        { "hebraico": "גַּם־תָּמָ֣ר", "transliteral": "gam-tā-mār", "traducao_palavra": "também a palmeira" },
+        { "hebraico": "וְתַפּ֗וּחַ", "transliteral": "wə-ṯap-pū-aḥ", "traducao_palavra": "e a macieira" },
+        { "hebraico": "כָּל־עֲצֵ֤י", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "הַשָּׂדֶה֙", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "יָבֵ֔שׁוּ", "transliteral": "yā-ḇê-šû", "traducao_palavra": "secaram-se" },
+        { "hebraico": "כִּֽי־הֹבִ֥ישׁ", "transliteral": "kî-hō-ḇîš", "traducao_palavra": "porque secou/cessou" },
+        { "hebraico": "שָׂשֹׂ֖ון", "transliteral": "śā-śôn", "traducao_palavra": "a alegria" },
+        { "hebraico": "מִן־בְּנֵ֥י", "transliteral": "min-bə-nê", "traducao_palavra": "de entre os filhos de" },
+        { "hebraico": "אָדָֽם׃", "transliteral": "ʾā-ḏām", "traducao_palavra": "homens" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Cingi-vos e lamentai, sacerdotes; uivai, ministros do altar; vinde e passai a noite vestidos de panos de saco, ministros do meu Deus; porque a oferta de cereais e a libação foram cortadas da casa de vosso Deus.",
+      "palavras": [
+        { "hebraico": "חִגְר֨וּ", "transliteral": "ḥiḡ-rû", "traducao_palavra": "cingi-vos" },
+        { "hebraico": "וְסִפְד֜וּ", "transliteral": "wə-sip̄-dû", "traducao_palavra": "e lamentai" },
+        { "hebraico": "הַכֹּהֲנִ֗ים", "transliteral": "hak-kō-hă-nîm", "traducao_palavra": "ó sacerdotes" },
+        { "hebraico": "הֵילִ֙ילוּ֙", "transliteral": "hê-lî-lû", "traducao_palavra": "uivai" },
+        { "hebraico": "מְשָׁרְתֵ֣י", "transliteral": "mə-šā-rə-ṯê", "traducao_palavra": "ministros de" },
+        { "hebraico": "מִזְבֵּ֔חַ", "transliteral": "miz-bê-aḥ", "traducao_palavra": "o altar" },
+        { "hebraico": "בֹּ֚אוּ", "transliteral": "bō-ʾû", "traducao_palavra": "vinde" },
+        { "hebraico": "לִ֣ינוּ", "transliteral": "lî-nû", "traducao_palavra": "passai a noite" },
+        { "hebraico": "בַשַּׂקִּ֔ים", "transliteral": "ḇaś-śaq-qîm", "traducao_palavra": "em sacos" },
+        { "hebraico": "מְשָׁרְתֵ֖י", "transliteral": "mə-šā-rə-ṯê", "traducao_palavra": "ministros de" },
+        { "hebraico": "אֱלֹהָ֑י", "transliteral": "ʾĕ-lō-hāy", "traducao_palavra": "meu Deus" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "נִמְנַ֛ע", "transliteral": "nim-naʿ", "traducao_palavra": "foi retida/cortada" },
+        { "hebraico": "מִבֵּ֥ית", "transliteral": "mib-bêṯ", "traducao_palavra": "da casa de" },
+        { "hebraico": "אֱלֹהֵיכֶ֖ם", "transliteral": "ʾĕ-lō-hê-ḵem", "traducao_palavra": "vosso Deus" },
+        { "hebraico": "מִנְחָ֥ה", "transliteral": "min-ḥā", "traducao_palavra": "a oferta de cereais" },
+        { "hebraico": "וָנָֽסֶךְ׃", "transliteral": "wā-nā-seḵ", "traducao_palavra": "e a libação" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Santificai um jejum, convocai uma assembleia solene, ajuntai os anciãos e todos os moradores da terra, na casa de YHWH, vosso Deus, e clamai a YHWH.",
+      "palavras": [
+        { "hebraico": "קַדְּשׁוּ־צֹום֙", "transliteral": "qad-də-šū-ṣôm", "traducao_palavra": "santificai um jejum" },
+        { "hebraico": "קִרְא֣וּ", "transliteral": "qir-ʾû", "traducao_palavra": "convocai" },
+        { "hebraico": "עֲצָרָ֔ה", "transliteral": "ʿă-ṣā-rā", "traducao_palavra": "uma assembleia solene" },
+        { "hebraico": "אִסְפ֣וּ", "transliteral": "ʾis-p̄û", "traducao_palavra": "ajuntai" },
+        { "hebraico": "זְקֵנִ֗ים", "transliteral": "zə-qê-nîm", "traducao_palavra": "os anciãos" },
+        { "hebraico": "כֹּ֚ל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "יֹשְׁבֵ֣י", "transliteral": "yō-šə-ḇê", "traducao_palavra": "os moradores de" },
+        { "hebraico": "הָאָ֔רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "בֵּ֖ית", "transliteral": "bêṯ", "traducao_palavra": "à casa de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֱלֹהֵיכֶ֑ם", "transliteral": "ʾĕ-lō-hê-ḵem", "traducao_palavra": "vosso Deus" },
+        { "hebraico": "וְזַעֲק֖וּ", "transliteral": "wə-za-ʿă-qû", "traducao_palavra": "e clamai" },
+        { "hebraico": "אֶל־יְהוָֽה׃", "transliteral": "ʾel-YHWH", "traducao_palavra": "a YHWH" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Ah! Aquele dia! Porque o dia de YHWH está perto e virá como uma assolação do Todo-Poderoso.",
+      "palavras": [
+        { "hebraico": "אֲהָ֖הּ", "transliteral": "ʾă-hāh", "traducao_palavra": "ah!" },
+        { "hebraico": "לַיֹּ֑ום", "transliteral": "lay-yôm", "traducao_palavra": "para aquele dia" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "קָרֹוב֙", "transliteral": "qā-rôḇ", "traducao_palavra": "perto está" },
+        { "hebraico": "יֹ֣ום", "transliteral": "yôm", "traducao_palavra": "o dia de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וּכְשֹׁ֖ד", "transliteral": "ū-ḵə-šōḏ", "traducao_palavra": "e como assolação/destruição" },
+        { "hebraico": "מִשַּׁדַּ֥י", "transliteral": "miš-šad-day", "traducao_palavra": "do Todo-Poderoso [Shaddai]" },
+        { "hebraico": "יָבֹֽוא׃", "transliteral": "yā-ḇô", "traducao_palavra": "virá" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Porventura não está cortado o mantimento de diante de nossos olhos? A alegria e o regozijo, da casa do nosso Deus?",
+      "palavras": [
+        { "hebraico": "הֲלֹ֛וא", "transliteral": "hă-lô", "traducao_palavra": "porventura não" },
+        { "hebraico": "נֶ֥גֶד", "transliteral": "ne-ḡeḏ", "traducao_palavra": "diante de" },
+        { "hebraico": "עֵינֵ֖ינוּ", "transliteral": "ʿê-nê-nû", "traducao_palavra": "nossos olhos" },
+        { "hebraico": "אֹ֣כֶל", "transliteral": "ʾō-ḵel", "traducao_palavra": "o mantimento" },
+        { "hebraico": "נִכְרָ֑ת", "transliteral": "niḵ-rāṯ", "traducao_palavra": "foi cortado" },
+        { "hebraico": "מִבֵּ֥ית", "transliteral": "mib-bêṯ", "traducao_palavra": "da casa de" },
+        { "hebraico": "אֱלֹהֵ֖ינוּ", "transliteral": "ʾĕ-lō-hê-nû", "traducao_palavra": "nosso Deus" },
+        { "hebraico": "שִׂמְחָ֥ה", "transliteral": "śim-ḥā", "traducao_palavra": "a alegria" },
+        { "hebraico": "וָגִֽיל׃", "transliteral": "wā-ḡîl", "traducao_palavra": "e o regozijo?" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "As sementes apodreceram debaixo dos seus torrões, os celeiros estão desolados, os armazéns foram derrubados, porque se secou o trigo.",
+      "palavras": [
+        { "hebraico": "עָבְשׁ֣וּ", "transliteral": "ʿā-ḇə-šû", "traducao_palavra": "apodreceram" },
+        { "hebraico": "פְרֻדֹ֗ות", "transliteral": "p̄ə-ru-ḏôṯ", "traducao_palavra": "as sementes/grãos" },
+        { "hebraico": "תַּ֚חַת", "transliteral": "ta-ḥaṯ", "traducao_palavra": "debaixo de" },
+        { "hebraico": "מֶגְרְפֹ֣תֵיהֶ֔ם", "transliteral": "meḡ-rə-p̄ō-ṯê-hem", "traducao_palavra": "seus torrões" },
+        { "hebraico": "נָשַׁ֙מּוּ֙", "transliteral": "nā-šam-mû", "traducao_palavra": "estão desolados" },
+        { "hebraico": "אֹֽצָרֹ֔ות", "transliteral": "ʾō-ṣā-rôṯ", "traducao_palavra": "os depósitos/celeiros" },
+        { "hebraico": "נֶהֶרְס֖וּ", "transliteral": "ne-her-sû", "traducao_palavra": "foram derrubados" },
+        { "hebraico": "מַמְּגֻרֹ֑ות", "transliteral": "mam-mə-ḡu-rôṯ", "traducao_palavra": "os celeiros/armazéns" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הֹבִ֖ישׁ", "transliteral": "hō-ḇîš", "traducao_palavra": "secou-se" },
+        { "hebraico": "דָּגָֽן׃", "transliteral": "dā-ḡān", "traducao_palavra": "o cereal/trigo" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "Como geme o gado! As manadas de bois estão confusas, porque não têm pasto; também os rebanhos de ovelhas perecem.",
+      "palavras": [
+        { "hebraico": "מַה־נֶּאֶנְחָ֣ה", "transliteral": "mah-ne-ʾen-ḥā", "traducao_palavra": "como geme" },
+        { "hebraico": "בְהֵמָ֗ה", "transliteral": "ḇə-hê-mā", "traducao_palavra": "o gado/animal" },
+        { "hebraico": "נָבֹ֙כוּ֙", "transliteral": "nā-ḇō-ḵû", "traducao_palavra": "estão perplexas/confusas" },
+        { "hebraico": "עֶדְרֵ֣י", "transliteral": "ʿeḏ-rê", "traducao_palavra": "as manadas de" },
+        { "hebraico": "בָקָ֔ר", "transliteral": "bā-qār", "traducao_palavra": "bois" },
+        { "hebraico": "כִּ֛י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אֵ֥ין", "transliteral": "ʾên", "traducao_palavra": "não há" },
+        { "hebraico": "מִרְעֶ֖ה", "transliteral": "mir-ʿeh", "traducao_palavra": "pastagem" },
+        { "hebraico": "לָהֶ֑ם", "transliteral": "lā-hem", "traducao_palavra": "para elas" },
+        { "hebraico": "גַּם־עֶדְרֵ֥י", "transliteral": "gam-ʿeḏ-rê", "traducao_palavra": "também os rebanhos de" },
+        { "hebraico": "הַצֹּ֖אן", "transliteral": "haṣ-ṣōn", "traducao_palavra": "ovelhas" },
+        { "hebraico": "נֶאְשָֽׁמוּ׃", "transliteral": "neʾ-šā-mû", "traducao_palavra": "perecem/são castigados" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "A ti, ó YHWH, clamo, porque o fogo consumiu os pastos do deserto, e a chama abrasou todas as árvores do campo.",
+      "palavras": [
+        { "hebraico": "אֵלֶ֥יךָ", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "אֶקְרָ֑א", "transliteral": "ʾeq-rā", "traducao_palavra": "eu clamo" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אֵ֗שׁ", "transliteral": "ʾêš", "traducao_palavra": "o fogo" },
+        { "hebraico": "אָֽכְלָה֙", "transliteral": "ʾā-ḵə-lā", "traducao_palavra": "consumiu" },
+        { "hebraico": "נְאֹ֣ות", "transliteral": "nə-ʾôṯ", "traducao_palavra": "as pastagens de" },
+        { "hebraico": "מִדְבָּ֔ר", "transliteral": "miḏ-bār", "traducao_palavra": "o deserto" },
+        { "hebraico": "וְלֶ֣הָבָ֔ה", "transliteral": "wə-le-hā-ḇā", "traducao_palavra": "e a chama" },
+        { "hebraico": "לִהֲטָ֖ה", "transliteral": "li-hă-ṭā", "traducao_palavra": "abrasou" },
+        { "hebraico": "כָּל־עֲצֵ֥י", "transliteral": "kāl-ʿă-ṣê", "traducao_palavra": "todas as árvores de" },
+        { "hebraico": "הַשָּׂדֶֽה׃", "transliteral": "haś-śā-ḏeh", "traducao_palavra": "o campo" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "Também todos os animais do campo bramam a ti; porque as correntes de água se secaram, e o fogo consumiu os pastos do deserto.",
+      "palavras": [
+        { "hebraico": "גַּם־בַּהֲמֹ֥ות", "transliteral": "gam-ba-hă-môṯ", "traducao_palavra": "também os animais de" },
+        { "hebraico": "שָׂדֶ֖ה", "transliteral": "śā-ḏeh", "traducao_palavra": "o campo" },
+        { "hebraico": "תַּעֲרֹ֣וג", "transliteral": "ta-ʿă-rōḡ", "traducao_palavra": "suspiram/bramam" },
+        { "hebraico": "אֵלֶ֑יךָ", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "יָֽבְשׁוּ֙", "transliteral": "yā-ḇə-šû", "traducao_palavra": "secaram-se" },
+        { "hebraico": "אֲפִ֣יקֵי", "transliteral": "ʾă-p̄î-qê", "traducao_palavra": "as correntes/ribeirões de" },
+        { "hebraico": "מָ֔יִם", "transliteral": "mā-yim", "traducao_palavra": "água" },
+        { "hebraico": "וְאֵ֕שׁ", "transliteral": "wə-ʾêš", "traducao_palavra": "e o fogo" },
+        { "hebraico": "אָכְלָ֖ה", "transliteral": "ʾā-ḵə-lā", "traducao_palavra": "consumiu" },
+        { "hebraico": "נְאֹ֥ות", "transliteral": "nə-ʾôṯ", "traducao_palavra": "as pastagens de" },
+        { "hebraico": "הַמִּדְבָּֽר׃", "transliteral": "ham-miḏ-bār", "traducao_palavra": "o deserto" }
+      ]
+    }
+  }
 }

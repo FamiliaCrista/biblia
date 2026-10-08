@@ -1,6 +1,90 @@
 {
-  "livro": "Joel - יוֹאֵל - Yoel",
+  "livro": "Joel - יוֹאֵל - Yôʾēl",
   "capítulo": 3,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E há de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, os vossos jovens terão visões.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֣ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e acontecerá que" },
+        { "hebraico": "אַחֲרֵי־כֵ֗ן", "transliteral": "ʾa-ḥă-rê-ḵên", "traducao_palavra": "depois disto" },
+        { "hebraico": "אֶשְׁפֹּ֤וךְ", "transliteral": "ʾeš-pôḵ", "traducao_palavra": "derramarei" },
+        { "hebraico": "אֶת־רוּחִי֙", "transliteral": "ʾeṯ-rū-ḥî", "traducao_palavra": "o meu Espírito" },
+        { "hebraico": "עַל־כָּל־בָּשָׂ֔ר", "transliteral": "ʿal-kāl-bā-śār", "traducao_palavra": "sobre toda a carne" },
+        { "hebraico": "וְנִבְּא֖וּ", "transliteral": "wə-nib-bə-ʾû", "traducao_palavra": "e profetizarão" },
+        { "hebraico": "בְּנֵיכֶ֣ם", "transliteral": "bə-nê-ḵem", "traducao_palavra": "vossos filhos" },
+        { "hebraico": "וּבְנֹֽותֵיכֶ֑ם", "transliteral": "ū-ḇə-nô-ṯê-ḵem", "traducao_palavra": "e vossas filhas" },
+        { "hebraico": "זִקְנֵיכֶם֙", "transliteral": "ziq-nê-ḵem", "traducao_palavra": "vossos velhos" },
+        { "hebraico": "חֲלֹמֹ֣ות", "transliteral": "ḥă-lō-môṯ", "traducao_palavra": "sonhos" },
+        { "hebraico": "יַחֲלֹמ֔וּן", "transliteral": "ya-ḥă-lō-mûn", "traducao_palavra": "sonharão" },
+        { "hebraico": "בַּח֣וּרֵיכֶ֔ם", "transliteral": "ba-ḥū-rê-ḵem", "traducao_palavra": "vossos jovens" },
+        { "hebraico": "חֶזְיֹנֹ֖ות", "transliteral": "ḥez-yō-nôṯ", "traducao_palavra": "visões" },
+        { "hebraico": "יִרְאֽוּ׃", "transliteral": "yir-ʾû", "traducao_palavra": "verão" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E também sobre os servos e sobre as servas derramarei o meu Espírito naqueles dias.",
+      "palavras": [
+        { "hebraico": "וְגַ֥ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "עַל־הָֽעֲבָדִ֖ים", "transliteral": "ʿal-hā-ʿă-ḇā-ḏîm", "traducao_palavra": "sobre os servos" },
+        { "hebraico": "וְעַל־הַשְּׁפָחֹ֑ות", "transliteral": "wə-ʿal-haš-šə-p̄ā-ḥôṯ", "traducao_palavra": "e sobre as servas" },
+        { "hebraico": "בַּיָּמִ֣ים", "transliteral": "bay-yā-mîm", "traducao_palavra": "nos dias" },
+        { "hebraico": "הָהֵ֔מָּה", "transliteral": "hā-hêm-mā", "traducao_palavra": "aqueles" },
+        { "hebraico": "אֶשְׁפֹּ֖וךְ", "transliteral": "ʾeš-pôḵ", "traducao_palavra": "derramarei" },
+        { "hebraico": "אֶת־רוּחִֽי׃", "transliteral": "ʾeṯ-rū-ḥî", "traducao_palavra": "o meu Espírito" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E mostrarei prodígios no céu e na terra: sangue, e fogo, e colunas de fumaça.",
+      "palavras": [
+        { "hebraico": "וְנָֽתַתִּי֙", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e mostrarei/porei" },
+        { "hebraico": "מֹֽופְתִ֔ים", "transliteral": "mô-p̄ə-ṯîm", "traducao_palavra": "prodígios/sinais" },
+        { "hebraico": "בַּשָּׁמַ֖יִם", "transliteral": "baš-šā-ma-yim", "traducao_palavra": "no céu" },
+        { "hebraico": "וּבָאָ֑רֶץ", "transliteral": "ū-ḇā-ʾā-reṣ", "traducao_palavra": "e na terra:" },
+        { "hebraico": "דָּ֣ם", "transliteral": "dām", "traducao_palavra": "sangue" },
+        { "hebraico": "וָאֵ֔שׁ", "transliteral": "wā-ʾêš", "traducao_palavra": "e fogo" },
+        { "hebraico": "וְתִֽימֲרֹ֖ות", "transliteral": "wə-ṯî-mă-rôṯ", "traducao_palavra": "e colunas de" },
+        { "hebraico": "עָשָֽׁן׃", "transliteral": "ʿā-šān", "traducao_palavra": "fumaça" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e terrível dia de YHWH.",
+      "palavras": [
+        { "hebraico": "הַשֶּׁ֙מֶשׁ֙", "transliteral": "haš-še-meš", "traducao_palavra": "o sol" },
+        { "hebraico": "יֵהָפֵ֣ךְ", "transliteral": "yê-hā-p̄êḵ", "traducao_palavra": "se converterá" },
+        { "hebraico": "לְחֹ֔שֶׁךְ", "transliteral": "lə-ḥō-šeḵ", "traducao_palavra": "em trevas" },
+        { "hebraico": "וְהַיָּרֵ֖חַ", "transliteral": "wə-hay-yā-rê-aḥ", "traducao_palavra": "e a lua" },
+        { "hebraico": "לְדָ֑ם", "transliteral": "lə-ḏām", "traducao_palavra": "em sangue" },
+        { "hebraico": "לִפְנֵ֗י", "transliteral": "lip̄-nê", "traducao_palavra": "antes de" },
+        { "hebraico": "בֹּ֚וא", "transliteral": "bô", "traducao_palavra": "vir" },
+        { "hebraico": "יֹ֣ום", "transliteral": "yôm", "traducao_palavra": "o dia de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הַגָּדֹ֖ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "וְהַנֹּורָֽא׃", "transliteral": "wə-han-nô-rā", "traducao_palavra": "e terrível" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E há de ser que todo aquele que invocar o nome de YHWH será salvo; porque no monte Sião e em Jerusalém haverá livramento, assim como disse YHWH, e entre os sobreviventes, aqueles que YHWH chamar.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֗ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e acontecerá que" },
+        { "hebraico": "כֹּ֧ל", "transliteral": "kōl", "traducao_palavra": "todo" },
+        { "hebraico": "אֲשֶׁר־יִקְרָ֛א", "transliteral": "ʾă-šer-yiq-rā", "traducao_palavra": "aquele que invocar" },
+        { "hebraico": "בְּשֵׁ֥ם", "transliteral": "bə-šêm", "traducao_palavra": "o nome de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "יִמָּלֵ֑ט", "transliteral": "yim-mā-lêṭ", "traducao_palavra": "será salvo/escapará" },
+        { "hebraico": "כִּ֠י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "בְּהַר־צִיֹּ֨ון", "transliteral": "bə-har-ṣî-yôn", "traducao_palavra": "no monte Sião" },
+        { "hebraico": "וּבִירוּשָׁלִַ֜ם", "transliteral": "ū-ḇî-rū-šā-la-yim", "traducao_palavra": "e em Jerusalém" },
+        { "hebraico": "תִּֽהְיֶ֣ה", "transliteral": "tih-yeh", "traducao_palavra": "haverá" },
+        { "hebraico": "פְלֵיטָ֗ה", "transliteral": "p̄ə-lê-ṭā", "traducao_palavra": "livramento/os que escapam" },
+        { "hebraico": "כַּֽאֲשֶׁר֙", "transliteral": "ka-ʾă-šer", "traducao_palavra": "assim como" },
+        { "hebraico": "אָמַ֣ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וּבַ֨שְּׂרִידִ֔ים", "transliteral": "ū-ḇaś-śə-rî-ḏîm", "traducao_palavra": "e entre os sobreviventes/restantes" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "קֹרֵֽא׃", "transliteral": "qō-rê", "traducao_palavra": "chamar" }
+      ]
+    }
+  }
 }

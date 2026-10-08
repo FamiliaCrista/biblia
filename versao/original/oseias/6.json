@@ -1,6 +1,156 @@
 {
-  "livro": "Oséias - הוֹשֵׁעַ - Hoshea",
+  "livro": "Oséias - הוֹשֵׁעַ - Hôšēaʿ",
   "capítulo": 6,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Vinde, e tornemos para YHWH, porque ele despedaçou e nos sarará; feriu e nos atará a ferida.",
+      "palavras": [
+        { "hebraico": "לְכ֖וּ", "transliteral": "lə-ḵû", "traducao_palavra": "vinde" },
+        { "hebraico": "וְנָשׁ֣וּבָה", "transliteral": "wə-nā-šū-ḇā", "traducao_palavra": "e tornemos" },
+        { "hebraico": "אֶל־יְהוָ֑ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "para YHWH" },
+        { "hebraico": "כִּ֛י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "ה֥וּא", "transliteral": "hû", "traducao_palavra": "ele" },
+        { "hebraico": "טָרָ֛ף", "transliteral": "ṭā-rāp̄", "traducao_palavra": "despedaçou" },
+        { "hebraico": "וְיִרְפָּאֵ֖נוּ", "transliteral": "wə-yir-pā-ʾê-nû", "traducao_palavra": "e nos sarará" },
+        { "hebraico": "יַ֥ךְ", "transliteral": "yaḵ", "traducao_palavra": "ele feriu" },
+        { "hebraico": "וְ יַחְבְּשֵֽׁנוּ׃", "transliteral": "wə-yaḥ-bə-šê-nû", "traducao_palavra": "e nos atará [a ferida]" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Depois de dois dias nos dará a vida; ao terceiro dia nos ressuscitará, e viveremos diante dele.",
+      "palavras": [
+        { "hebraico": "יְחַיֵּ֖נוּ", "transliteral": "yə-ḥay-yê-nû", "traducao_palavra": "ele nos dará vida" },
+        { "hebraico": "מִיֹּמָ֑יִם", "transliteral": "mî-yō-mā-yim", "traducao_palavra": "depois de dois dias" },
+        { "hebraico": "בַּיֹּום֙", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַשְּׁלִישִׁ֔י", "transliteral": "haš-šə-lî-šî", "traducao_palavra": "terceiro" },
+        { "hebraico": "יְקִמֵ֖נוּ", "transliteral": "yə-qî-mê-nû", "traducao_palavra": "ele nos levantará/ressuscitará" },
+        { "hebraico": "וְנִחְיֶ֥ה", "transliteral": "wə-niḥ-yeh", "traducao_palavra": "e viveremos" },
+        { "hebraico": "לְפָנָֽיו׃", "transliteral": "lə-p̄ā-nāyw", "traducao_palavra": "diante dele" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Conheçamos e prossigamos em conhecer a YHWH; a sua saída, como a da alva, é certa; e ele virá a nós como a chuva, como a chuva serôdia que rega a terra.",
+      "palavras": [
+        { "hebraico": "וְנֵדְעָ֣ה", "transliteral": "wə-nê-ḏə-ʿā", "traducao_palavra": "conheçamos" },
+        { "hebraico": "נִרְדְּפָ֗ה", "transliteral": "nir-də-p̄ā", "traducao_palavra": "prossigamos/empenhemo-nos" },
+        { "hebraico": "לָדַ֙עַת֙", "transliteral": "lā-ḏa-ʿaṯ", "traducao_palavra": "em conhecer" },
+        { "hebraico": "אֶת־יְהוָ֔ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "כְּשַׁ֖חַר", "transliteral": "kə-ša-ḥar", "traducao_palavra": "como a alvorada" },
+        { "hebraico": "נָכֹ֣ון", "transliteral": "nā-ḵôn", "traducao_palavra": "[é] certa" },
+        { "hebraico": "מֹוצָאֹ֑ו", "transliteral": "mô-ṣā-ʾô", "traducao_palavra": "a sua saída/surgimento" },
+        { "hebraico": "וְיָבֹ֤וא", "transliteral": "wə-yā-ḇô", "traducao_palavra": "e ele virá" },
+        { "hebraico": "כַגֶּ֙שֶׁם֙", "transliteral": "ḵag-ge-šem", "traducao_palavra": "como a chuva copiosa" },
+        { "hebraico": "לָ֔נוּ", "transliteral": "lā-nû", "traducao_palavra": "a nós" },
+        { "hebraico": "כְּמַלְקֹ֖ושׁ", "transliteral": "kə-mal-qôš", "traducao_palavra": "como a chuva serôdia/de primavera" },
+        { "hebraico": "יֹ֥ורֶה", "transliteral": "yô-reh", "traducao_palavra": "[que] rega" },
+        { "hebraico": "אָֽרֶץ׃", "transliteral": "ʾā-reṣ", "traducao_palavra": "a terra" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Que te farei, ó Efraim? Que te farei, ó Judá? Porque a vossa benignidade é como a nuvem da manhã e como o orvalho que logo de madrugada passa.",
+      "palavras": [
+        { "hebraico": "מָ֤ה", "transliteral": "māh", "traducao_palavra": "que" },
+        { "hebraico": "אֶֽעֱשֶׂה־לְּךָ֙", "transliteral": "ʾe-ʿĕ-śeh-lə-ḵā", "traducao_palavra": "farei a ti" },
+        { "hebraico": "אֶפְרַ֔יִם", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "ó Efraim?" },
+        { "hebraico": "מָ֥ה", "transliteral": "māh", "traducao_palavra": "que" },
+        { "hebraico": "אֶעֱשֶׂה־לְּךָ֖", "transliteral": "ʾe-ʿĕ-śeh-lə-ḵā", "traducao_palavra": "farei a ti" },
+        { "hebraico": "יְהוּדָ֑ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "ó Judá?" },
+        { "hebraico": "וְחַסְדְּכֶם֙", "transliteral": "wə-ḥas-də-ḵem", "traducao_palavra": "porque o vosso amor/piedade" },
+        { "hebraico": "כַּעֲנַן־בֹּ֔קֶר", "transliteral": "ka-ʿă-nan-bō-qer", "traducao_palavra": "[é] como a nuvem da manhã" },
+        { "hebraico": "וְכַטַּ֖ל", "transliteral": "wə-ḵaṭ-ṭal", "traducao_palavra": "e como o orvalho" },
+        { "hebraico": "מַשְׁכִּ֥ים", "transliteral": "maš-kîm", "traducao_palavra": "que cedo" },
+        { "hebraico": "הֹלֵֽךְ׃", "transliteral": "hō-lêḵ", "traducao_palavra": "vai-se/desaparece" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Por isso os cortei pelos profetas; pelas palavras da minha boca os matei; e os teus juízos sairão como a luz.",
+      "palavras": [
+        { "hebraico": "עַל־כֵּ֗ן", "transliteral": "ʿal-kên", "traducao_palavra": "por isso" },
+        { "hebraico": "חָצַ֙בְתִּי֙", "transliteral": "ḥā-ṣaḇ-tî", "traducao_palavra": "os despedacei/cortei" },
+        { "hebraico": "בַּנְּבִיאִ֔ים", "transliteral": "ban-nə-ḇî-ʾîm", "traducao_palavra": "por meio dos profetas" },
+        { "hebraico": "הֲרַגְתִּ֖ים", "transliteral": "hă-raḡ-tîm", "traducao_palavra": "matei-os" },
+        { "hebraico": "בְּאִמְרֵי־פִ֑י", "transliteral": "bə-ʾim-rê-p̄î", "traducao_palavra": "pelas palavras da minha boca" },
+        { "hebraico": "וּמִשְׁפָּטֶ֖יךָ", "transliteral": "ū-miš-pā-ṭe-ḵā", "traducao_palavra": "e o teu juízo" },
+        { "hebraico": "אֹ֥ור", "transliteral": "ʾôr", "traducao_palavra": "[como a] luz" },
+        { "hebraico": "יֵצֵֽא׃", "transliteral": "yê-ṣê", "traducao_palavra": "sai/resplandece" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Porque eu quero a misericórdia e não o sacrifício; e o conhecimento de Deus, mais do que os holocaustos.",
+      "palavras": [
+        { "hebraico": "כִּ֛י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "חֶ֥סֶד", "transliteral": "ḥe-seḏ", "traducao_palavra": "misericórdia/amor leal" },
+        { "hebraico": "חָפַ֖צְתִּי", "transliteral": "ḥā-p̄aṣ-tî", "traducao_palavra": "desejo/quero" },
+        { "hebraico": "וְלֹא־זָ֑בַח", "transliteral": "wə-lō-zā-ḇaḥ", "traducao_palavra": "e não sacrifício" },
+        { "hebraico": "וְדַ֥עַת", "transliteral": "wə-ḏa-ʿaṯ", "traducao_palavra": "e o conhecimento de" },
+        { "hebraico": "אֱלֹהִ֖ים", "transliteral": "ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "מֵעֹלֹֽות׃", "transliteral": "mê-ʿō-lôṯ", "traducao_palavra": "mais do que holocaustos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Mas eles, como Adão, transgrediram a aliança; ali se houveram aleivosamente contra mim.",
+      "palavras": [
+        { "hebraico": "וְהֵ֕מָּה", "transliteral": "wə-hêm-mā", "traducao_palavra": "mas eles" },
+        { "hebraico": "כְּאָדָ֖ם", "transliteral": "kə-ʾā-ḏām", "traducao_palavra": "como Adão/homens" },
+        { "hebraico": "עָבְר֣וּ", "transliteral": "ʿā-ḇə-rû", "traducao_palavra": "transgrediram" },
+        { "hebraico": "בְרִ֑ית", "transliteral": "bə-rîṯ", "traducao_palavra": "uma aliança" },
+        { "hebraico": "שָׁ֖ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "בָּ֥גְדוּ", "transliteral": "bā-ḡə-ḏû", "traducao_palavra": "agiram traiçoeiramente" },
+        { "hebraico": "בִֽי׃", "transliteral": "ḇî", "traducao_palavra": "contra mim" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Gileade é a cidade dos que praticam a iniquidade, manchada de sangue.",
+      "palavras": [
+        { "hebraico": "גִּלְעָ֕ד", "transliteral": "gil-ʿāḏ", "traducao_palavra": "Gileade" },
+        { "hebraico": "קִרְיַ֖ת", "transliteral": "qir-yaṯ", "traducao_palavra": "[é] cidade de" },
+        { "hebraico": "פֹּ֣עֲלֵי", "transliteral": "pō-ʿă-lê", "traducao_palavra": "praticantes de" },
+        { "hebraico": "אָ֑וֶן", "transliteral": "ʾā-wen", "traducao_palavra": "iniquidade" },
+        { "hebraico": "עֲקֻבָּ֖ה", "transliteral": "ʿă-qub-bā", "traducao_palavra": "marcada/manchada" },
+        { "hebraico": "מִדָּֽם׃", "transliteral": "mid-dām", "traducao_palavra": "de sangue" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E como as tropas de salteadores esperam alguns, assim é a companhia dos sacerdotes que assassinam no caminho de Siquém; sim, cometem perversidade.",
+      "palavras": [
+        { "hebraico": "וּכְחַכֵּ֨י", "transliteral": "ū-ḵə-ḥak-kê", "traducao_palavra": "e como espreitam" },
+        { "hebraico": "אִ֜ישׁ", "transliteral": "ʾîš", "traducao_palavra": "os homens" },
+        { "hebraico": "גְּדוּדִ֗ים", "transliteral": "gə-ḏū-ḏîm", "traducao_palavra": "de salteadores" },
+        { "hebraico": "חֶ֚בֶר", "transliteral": "ḥe-ḇer", "traducao_palavra": "assim é o bando de" },
+        { "hebraico": "כֹּֽהֲנִ֔ים", "transliteral": "kō-hă-nîm", "traducao_palavra": "sacerdotes" },
+        { "hebraico": "דֶּ֖רֶךְ", "transliteral": "de-reḵ", "traducao_palavra": "[que no] caminho" },
+        { "hebraico": "יְרַצְּחוּ־שֶׁ֑כְמָה", "transliteral": "yə-raṣ-ṣə-ḥū-šeḵ-mā", "traducao_palavra": "assassinam em direção a Siquém" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "certamente" },
+        { "hebraico": "זִמָּ֖ה", "transliteral": "zim-mā", "traducao_palavra": "infâmia/perversidade" },
+        { "hebraico": "עָשֽׂוּ׃", "transliteral": "ʿā-śû", "traducao_palavra": "cometem" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Vejo uma coisa horrenda na casa de Israel; ali está a prostituição de Efraim; Israel está contaminado.",
+      "palavras": [
+        { "hebraico": "בְּבֵית֙", "transliteral": "bə-ḇêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "רָאִ֖יתִי", "transliteral": "rā-ʾî-ṯî", "traducao_palavra": "vejo" },
+        { "hebraico": "שַׁעֲרוּרִיָּ֑ה", "transliteral": "ša-ʿă-rū-rî-yā", "traducao_palavra": "uma coisa horrenda" },
+        { "hebraico": "שָׁ֚ם", "transliteral": "šām", "traducao_palavra": "ali [está]" },
+        { "hebraico": "זְנ֣וּת", "transliteral": "zə-nūṯ", "traducao_palavra": "a prostituição" },
+        { "hebraico": "לְאֶפְרַ֔יִם", "transliteral": "lə-ʾep̄-ra-yim", "traducao_palavra": "de Efraim" },
+        { "hebraico": "נִטְמָ֖א", "transliteral": "niṭ-mā", "traducao_palavra": "está contaminado" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Também para ti, ó Judá, está determinada uma ceifa, quando eu trouxer do cativeiro o meu povo.",
+      "palavras": [
+        { "hebraico": "גַּם־יְהוּדָ֕ה", "transliteral": "gam-yə-hū-ḏā", "traducao_palavra": "também para ti, ó Judá" },
+        { "hebraico": "שָׁ֥ת", "transliteral": "šāṯ", "traducao_palavra": "está posta/designada" },
+        { "hebraico": "קָצִ֖יר", "transliteral": "qā-ṣîr", "traducao_palavra": "uma colheita" },
+        { "hebraico": "לָ֑ךְ", "transliteral": "lāḵ", "traducao_palavra": "para ti" },
+        { "hebraico": "בְּשׁוּבִ֖י", "transliteral": "bə-šū-ḇî", "traducao_palavra": "ao restaurar eu" },
+        { "hebraico": "שְׁב֥וּת", "transliteral": "šə-ḇūṯ", "traducao_palavra": "o cativeiro/sorte de" },
+        { "hebraico": "עַמִּֽי׃", "transliteral": "ʿam-mî", "traducao_palavra": "meu povo" }
+      ]
+    }
+  }
 }

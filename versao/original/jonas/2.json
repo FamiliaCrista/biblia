@@ -1,6 +1,162 @@
 {
-  "livro": "Jonas - יוֹנָה - Yonah",
+  "livro": "Jonas - יוֹנָה - Yônā",
   "capítulo": 2,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Deparou, pois, YHWH um grande peixe, para que tragasse a Jonas; e esteve Jonas nas entranhas do peixe três dias e três noites.",
+      "palavras": [
+        { "hebraico": "וַיְמַ֤ן", "transliteral": "way-man", "traducao_palavra": "e proveu/destinou" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "דָּ֣ג", "transliteral": "dāḡ", "traducao_palavra": "um peixe" },
+        { "hebraico": "גָּדֹ֔ול", "transliteral": "gā-ḏôl", "traducao_palavra": "grande" },
+        { "hebraico": "לִבְלֹ֖עַ", "transliteral": "liḇ-lō-aʿ", "traducao_palavra": "para engolir" },
+        { "hebraico": "אֶת־יֹונָ֑ה", "transliteral": "ʾeṯ-yô-nā", "traducao_palavra": "a Jonas" },
+        { "hebraico": "וַיְהִ֤י", "transliteral": "way-hî", "traducao_palavra": "e esteve" },
+        { "hebraico": "יֹונָה֙", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "בִּמְעֵ֣י", "transliteral": "bim-ʿê", "traducao_palavra": "nas entranhas de" },
+        { "hebraico": "הַדָּ֔ג", "transliteral": "had-dāḡ", "traducao_palavra": "o peixe" },
+        { "hebraico": "שְׁלֹשָׁ֥ה", "transliteral": "šə-lō-šā", "traducao_palavra": "três" },
+        { "hebraico": "יָמִ֖ים", "transliteral": "yā-mîm", "traducao_palavra": "dias" },
+        { "hebraico": "וּשְׁלֹשָׁ֥ה", "transliteral": "ū-šə-lō-šā", "traducao_palavra": "e três" },
+        { "hebraico": "לֵילֹֽות׃", "transliteral": "lê-lôṯ", "traducao_palavra": "noites" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E orou Jonas a YHWH, seu Deus, das entranhas do peixe,",
+      "palavras": [
+        { "hebraico": "וַיִּתְפַּלֵּ֣ל", "transliteral": "way-yiṯ-pal-lêl", "traducao_palavra": "e orou" },
+        { "hebraico": "יֹונָ֔ה", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "אֶל־יְהוָ֖ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "אֱלֹהָ֑יו", "transliteral": "ʾĕ-lō-hāyw", "traducao_palavra": "seu Deus" },
+        { "hebraico": "מִמְּעֵ֖י", "transliteral": "mim-mə-ʿê", "traducao_palavra": "das entranhas de" },
+        { "hebraico": "הַדָּגָֽה׃", "transliteral": "had-dā-ḡā", "traducao_palavra": "o peixe" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "e disse: Na minha angústia clamei a YHWH, e ele me respondeu; do ventre do Seol gritei, e tu ouviste a minha voz.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֗אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse:" },
+        { "hebraico": "קָ֠רָאתִי", "transliteral": "qā-rā-ṯî", "traducao_palavra": "clamei" },
+        { "hebraico": "מִצָּ֥רָה", "transliteral": "miṣ-ṣā-rā", "traducao_palavra": "da angústia" },
+        { "hebraico": "לִ֛י", "transliteral": "lî", "traducao_palavra": "minha" },
+        { "hebraico": "אֶל־יְהוָ֖ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וַֽיַּעֲנֵ֑נִי", "transliteral": "way-ya-ʿă-nê-nî", "traducao_palavra": "e ele me respondeu" },
+        { "hebraico": "מִבֶּ֧טֶן", "transliteral": "mib-be-ṭen", "traducao_palavra": "do ventre de" },
+        { "hebraico": "שְׁאֹ֛ול", "transliteral": "šə-ʾôl", "traducao_palavra": "o Seol" },
+        { "hebraico": "שִׁוַּ֖עְתִּי", "transliteral": "šiw-waʿ-tî", "traducao_palavra": "gritei por socorro" },
+        { "hebraico": "שָׁמַ֥עְתָּ", "transliteral": "šā-maʿ-tā", "traducao_palavra": "tu ouviste" },
+        { "hebraico": "קֹולִֽי׃", "transliteral": "qô-lî", "traducao_palavra": "a minha voz" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Pois me lançaste no profundo, no coração dos mares, e a corrente das águas me cercou; todas as tuas ondas e as tuas vagas passaram sobre mim.",
+      "palavras": [
+        { "hebraico": "וַתַּשְׁלִיכֵ֤נִי", "transliteral": "wat-taš-lî-ḵê-nî", "traducao_palavra": "pois tu me lançaste" },
+        { "hebraico": "מְצוּלָה֙", "transliteral": "mə-ṣū-lā", "traducao_palavra": "no abismo/profundo" },
+        { "hebraico": "בִּלְבַ֣ב", "transliteral": "bil-ḇaḇ", "traducao_palavra": "no coração de" },
+        { "hebraico": "יַמִּ֔ים", "transliteral": "yam-mîm", "traducao_palavra": "os mares" },
+        { "hebraico": "וְנָהָ֖ר", "transliteral": "wə-nā-hār", "traducao_palavra": "e a corrente" },
+        { "hebraico": "יְסֹבְבֵ֑נִי", "transliteral": "yə-sō-ḇə-ḇê-nî", "traducao_palavra": "me cercava" },
+        { "hebraico": "כָּל־מִשְׁבָּרֶ֥יךָ", "transliteral": "kāl-miš-bā-re-ḵā", "traducao_palavra": "todas as tuas ondas" },
+        { "hebraico": "וְגַלֶּ֖יךָ", "transliteral": "wə-ḡal-le-ḵā", "traducao_palavra": "e as tuas vagas" },
+        { "hebraico": "עָלַ֥י", "transliteral": "ʿā-lay", "traducao_palavra": "sobre mim" },
+        { "hebraico": "עָבָֽרוּ׃", "transliteral": "ʿā-ḇā-rû", "traducao_palavra": "passaram" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E eu disse: Lançado estou de diante dos teus olhos; todavia tornarei a olhar para o teu santo templo.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֣י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "אָמַ֔רְתִּי", "transliteral": "ʾā-mar-tî", "traducao_palavra": "disse:" },
+        { "hebraico": "נִגְרַ֖שְׁתִּי", "transliteral": "niḡ-raš-tî", "traducao_palavra": "lançado/expulso estou" },
+        { "hebraico": "מִנֶּ֣גֶד", "transliteral": "min-ne-ḡeḏ", "traducao_palavra": "de diante de" },
+        { "hebraico": "עֵינֶ֑יךָ", "transliteral": "ʿê-ne-ḵā", "traducao_palavra": "teus olhos" },
+        { "hebraico": "אַ֚ךְ", "transliteral": "ʾaḵ", "traducao_palavra": "todavia" },
+        { "hebraico": "אֹוסִ֣יף", "transliteral": "ʾô-sîp̄", "traducao_palavra": "tornarei" },
+        { "hebraico": "לְהַבִּ֔יט", "transliteral": "lə-hab-bîṭ", "traducao_palavra": "a contemplar/olhar" },
+        { "hebraico": "אֶל־הֵיכַ֥ל", "transliteral": "ʾel-hê-ḵal", "traducao_palavra": "para o templo de" },
+        { "hebraico": "קָדְשֶֽׁךָ׃", "transliteral": "qāḏ-še-ḵā", "traducao_palavra": "tua santidade" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "As águas me cercaram até à alma, o abismo me rodeou, e as algas se enrolaram na minha cabeça.",
+      "palavras": [
+        { "hebraico": "אֲפָפ֤וּנִי", "transliteral": "ʾă-p̄ā-p̄ū-nî", "traducao_palavra": "cercaram-me" },
+        { "hebraico": "מַ֙יִם֙", "transliteral": "ma-yim", "traducao_palavra": "as águas" },
+        { "hebraico": "עַד־נֶ֔פֶשׁ", "transliteral": "ʿaḏ-ne-p̄eš", "traducao_palavra": "até à alma/vida" },
+        { "hebraico": "תְּהֹ֖ום", "transliteral": "tə-hôm", "traducao_palavra": "o abismo" },
+        { "hebraico": "יְסֹבְבֵ֑נִי", "transliteral": "yə-sō-ḇə-ḇê-nî", "traducao_palavra": "me rodeou" },
+        { "hebraico": "ס֥וּף", "transliteral": "sūp̄", "traducao_palavra": "algas marinhas" },
+        { "hebraico": "חָב֥וּשׁ", "transliteral": "ḥā-ḇūš", "traducao_palavra": "estavam atadas/enroladas" },
+        { "hebraico": "לְרֹאשִֽׁי׃", "transliteral": "lə-rō-šî", "traducao_palavra": "à minha cabeça" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Desci até aos fundamentos dos montes; a terra com os seus ferrolhos encerrou-se sobre mim para sempre; mas tu fizeste subir a minha vida da perdição, ó YHWH, meu Deus.",
+      "palavras": [
+        { "hebraico": "לְקִצְבֵ֤י", "transliteral": "lə-qiṣ-ḇê", "traducao_palavra": "aos fundamentos/raízes de" },
+        { "hebraico": "הָרִים֙", "transliteral": "hā-rîm", "traducao_palavra": "os montes" },
+        { "hebraico": "יָרַ֔דְתִּי", "transliteral": "yā-raḏ-tî", "traducao_palavra": "desci" },
+        { "hebraico": "הָאָ֛רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "בְּרִחֶ֥יהָ", "transliteral": "bə-ri-ḥe-hā", "traducao_palavra": "com os seus ferrolhos" },
+        { "hebraico": "בַעֲדִ֖י", "transliteral": "ḇa-ʿă-ḏî", "traducao_palavra": "fechou-se sobre mim" },
+        { "hebraico": "לְעֹולָ֑ם", "transliteral": "lə-ʿô-lām", "traducao_palavra": "para sempre" },
+        { "hebraico": "וַתַּ֧עַל", "transliteral": "wat-ta-ʿal", "traducao_palavra": "mas fizeste subir" },
+        { "hebraico": "מִשַּׁ֛חַת", "transliteral": "miš-ša-ḥaṯ", "traducao_palavra": "da cova/corrupção" },
+        { "hebraico": "חַיַּ֖י", "transliteral": "ḥay-yay", "traducao_palavra": "a minha vida" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "אֱלֹהָֽי׃", "transliteral": "ʾĕ-lō-hāy", "traducao_palavra": "meu Deus" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Quando desfalecia em mim a minha alma, lembrei-me de YHWH; e entrou a ti a minha oração, no teu santo templo.",
+      "palavras": [
+        { "hebraico": "בְּהִתְעַטֵּ֤ף", "transliteral": "bə-hiṯ-ʿaṭ-ṭêp̄", "traducao_palavra": "ao desfalecer" },
+        { "hebraico": "עָלַי֙", "transliteral": "ʿā-lay", "traducao_palavra": "dentro de mim" },
+        { "hebraico": "נַפְשִׁ֔י", "transliteral": "nap̄-šî", "traducao_palavra": "a minha alma" },
+        { "hebraico": "אֶת־יְהוָ֖ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "de YHWH" },
+        { "hebraico": "זָכָ֑רְתִּי", "transliteral": "zā-ḵār-tî", "traducao_palavra": "lembrei-me" },
+        { "hebraico": "וַתָּבֹ֤וא", "transliteral": "wat-tā-ḇô", "traducao_palavra": "e entrou" },
+        { "hebraico": "אֵלֶ֙יךָ֙", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "תְּפִלָּתִ֔י", "transliteral": "tə-p̄il-lā-ṯî", "traducao_palavra": "a minha oração" },
+        { "hebraico": "אֶל־הֵיכַ֥ל", "transliteral": "ʾel-hê-ḵal", "traducao_palavra": "no templo de" },
+        { "hebraico": "קָדְשֶֽׁךָ׃", "transliteral": "qāḏ-še-ḵā", "traducao_palavra": "tua santidade" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Os que se apegam aos vãos ídolos abandonam a sua própria misericórdia.",
+      "palavras": [
+        { "hebraico": "מְשַׁמְּרִ֖ים", "transliteral": "mə-šam-mə-rîm", "traducao_palavra": "os que guardam/apegam-se a" },
+        { "hebraico": "הַבְלֵי־שָׁ֑וְא", "transliteral": "haḇ-lê-šāwə", "traducao_palavra": "vaidades ilusórias/ídolos vãos" },
+        { "hebraico": "חַסְדָּ֖ם", "transliteral": "ḥas-dām", "traducao_palavra": "a sua misericórdia" },
+        { "hebraico": "יַעֲזֹֽבוּ׃", "transliteral": "ya-ʿă-zō-ḇû", "traducao_palavra": "abandonam" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Mas eu te oferecerei sacrifício com a voz do agradecimento; o que votei pagarei; de YHWH vem a salvação.",
+      "palavras": [
+        { "hebraico": "וַאֲנִ֗י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "mas eu" },
+        { "hebraico": "בְּקֹ֤ול", "transliteral": "bə-qôl", "traducao_palavra": "com a voz de" },
+        { "hebraico": "תֹּודָה֙", "transliteral": "tô-ḏā", "traducao_palavra": "ação de graças" },
+        { "hebraico": "אֶזְבְּחָה־לָּ֔ךְ", "transliteral": "ʾez-bə-ḥā-llāḵ", "traducao_palavra": "sacrificarei a ti" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "o que" },
+        { "hebraico": "נָדַ֖רְתִּי", "transliteral": "nā-ḏar-tî", "traducao_palavra": "fiz em voto" },
+        { "hebraico": "אֲשַׁלֵּ֑מָה", "transliteral": "ʾă-šal-lê-mā", "traducao_palavra": "cumprirei" },
+        { "hebraico": "יְשׁוּעָ֥תָה", "transliteral": "yə-šū-ʿā-ṯā", "traducao_palavra": "a salvação pertence" },
+        { "hebraico": "לַיהוָֽה׃", "transliteral": "la-YHWH", "traducao_palavra": "a YHWH" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Falou, pois, YHWH ao peixe, e ele vomitou a Jonas na terra seca.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֥אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ordenou/falou" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לַדָּ֑ג", "transliteral": "lad-dāḡ", "traducao_palavra": "ao peixe" },
+        { "hebraico": "וַיָּקֵ֥א", "transliteral": "way-yā-qê", "traducao_palavra": "e ele vomitou" },
+        { "hebraico": "אֶת־יֹונָ֖ה", "transliteral": "ʾeṯ-yô-nā", "traducao_palavra": "a Jonas" },
+        { "hebraico": "אֶל־הַיַּבָּשָֽׁה׃", "transliteral": "ʾel-hay-yab-bā-šā", "traducao_palavra": "na terra seca" }
+      ]
+    }
+  }
 }

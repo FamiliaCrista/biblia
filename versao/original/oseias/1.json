@@ -1,6 +1,169 @@
 {
-  "livro": "Oséias - הוֹשֵׁעַ - Hoshea",
+  "livro": "Oséias - הוֹשֵׁעַ - Hôšēaʿ",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Palavra de YHWH que veio a Oséias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
+      "palavras": [
+        { "hebraico": "דְּבַר־יְהוָ֣ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "הָיָ֗ה", "transliteral": "hā-yā", "traducao_palavra": "veio/aconteceu" },
+        { "hebraico": "אֶל־הֹושֵׁ֙עַ֙", "transliteral": "ʾel-hô-šê-aʿ", "traducao_palavra": "a Oséias" },
+        { "hebraico": "בֶּן־בְּאֵרִ֔י", "transliteral": "ben-bə-ʾê-rî", "traducao_palavra": "filho de Beeri" },
+        { "hebraico": "בִּימֵ֨י", "transliteral": "bî-mê", "traducao_palavra": "nos dias de" },
+        { "hebraico": "עֻזִּיָּ֥ה", "transliteral": "ʿuz-zî-yā", "traducao_palavra": "Uzias" },
+        { "hebraico": "יֹותָ֛ם", "transliteral": "yô-ṯām", "traducao_palavra": "Jotão" },
+        { "hebraico": "אָחָ֥ז", "transliteral": "ʾā-ḥāz", "traducao_palavra": "Acaz" },
+        { "hebraico": "יְחִזְקִיָּ֖ה", "transliteral": "yə-ḥiz-qî-yā", "traducao_palavra": "Ezequias" },
+        { "hebraico": "מַלְכֵ֣י", "transliteral": "mal-ḵê", "traducao_palavra": "reis de" },
+        { "hebraico": "יְהוּדָ֑ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וּבִימֵ֛י", "transliteral": "ū-ḇî-mê", "traducao_palavra": "e nos dias de" },
+        { "hebraico": "יָרָבְעָ֥ם", "transliteral": "yā-roḇ-ʿām", "traducao_palavra": "Jeroboão" },
+        { "hebraico": "בֶּן־יֹואָ֖שׁ", "transliteral": "ben-yô-ʾāš", "traducao_palavra": "filho de Joás" },
+        { "hebraico": "מֶ֥לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Quando YHWH começou a falar por meio de Oséias, disse YHWH a Oséias: Vai, toma para ti uma mulher de prostituições e filhos de prostituição; porque a terra se prostituiu gravemente, desviando-se de YHWH.",
+      "palavras": [
+        { "hebraico": "תְּחִלַּ֥ת", "transliteral": "tə-ḥil-laṯ", "traducao_palavra": "no princípio de" },
+        { "hebraico": "דִּבֶּר־יְהוָ֖ה", "transliteral": "dib-ber-YHWH", "traducao_palavra": "falar YHWH" },
+        { "hebraico": "בְּהֹושֵׁ֑עַ", "transliteral": "bə-hô-šê-aʿ", "traducao_palavra": "por meio de Oséias" },
+        { "hebraico": "וַיֹּ֨אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָ֜ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶל־הֹושֵׁ֗עַ", "transliteral": "ʾel-hô-šê-aʿ", "traducao_palavra": "a Oséias" },
+        { "hebraico": "לֵ֣ךְ", "transliteral": "lêḵ", "traducao_palavra": "vai" },
+        { "hebraico": "קַח־לְךָ֞", "transliteral": "qaḥ-lə-ḵā", "traducao_palavra": "toma para ti" },
+        { "hebraico": "אֵ֤שֶׁת", "transliteral": "ʾê-šeṯ", "traducao_palavra": "uma mulher de" },
+        { "hebraico": "זְנוּנִים֙", "transliteral": "zə-nū-nîm", "traducao_palavra": "prostituições" },
+        { "hebraico": "וְיַלְדֵ֣י", "transliteral": "wə-yal-dê", "traducao_palavra": "e filhos de" },
+        { "hebraico": "זְנוּנִ֔ים", "transliteral": "zə-nū-nîm", "traducao_palavra": "prostituição" },
+        { "hebraico": "כִּֽי־זָנֹ֤ה", "transliteral": "kî-zā-nōh", "traducao_palavra": "porque gravemente prostituindo" },
+        { "hebraico": "תִזְנֶה֙", "transliteral": "ṯiz-neh", "traducao_palavra": "se prostitui" },
+        { "hebraico": "הָאָ֔רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "מֵאַחֲרֵ֖י", "transliteral": "mê-ʾa-ḥă-rê", "traducao_palavra": "afastando-se de seguir a" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Foi, pois, e tomou a Gômer, filha de Diblaim; e ela concebeu e lhe deu à luz um filho.",
+      "palavras": [
+        { "hebraico": "וַיֵּ֙לֶךְ֙", "transliteral": "way-yê-leḵ", "traducao_palavra": "e foi" },
+        { "hebraico": "וַיִּקַּ֔ח", "transliteral": "way-yiq-qaḥ", "traducao_palavra": "e tomou" },
+        { "hebraico": "אֶת־גֹּ֖מֶר", "transliteral": "ʾeṯ-gō-mer", "traducao_palavra": "a Gômer" },
+        { "hebraico": "בַּת־דִּבְלָ֑יִם", "transliteral": "baṯ-diḇ-lā-yim", "traducao_palavra": "filha de Diblaim" },
+        { "hebraico": "וַתַּ֥הַר", "transliteral": "wat-ta-har", "traducao_palavra": "e ela concebeu" },
+        { "hebraico": "וַתֵּֽלֶד־לֹ֖ו", "transliteral": "wat-tê-leḏ-lô", "traducao_palavra": "e deu-lhe à luz" },
+        { "hebraico": "בֵּֽן׃", "transliteral": "bên", "traducao_palavra": "um filho" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E disse-lhe YHWH: Põe-lhe o nome de Jezreel; porque, daqui a pouco, castigarei o sangue de Jezreel sobre a casa de Jeú, e farei cessar o reino da casa de Israel.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֵלָ֔יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele" },
+        { "hebraico": "קְרָ֥א", "transliteral": "qə-rā", "traducao_palavra": "chama" },
+        { "hebraico": "שְׁמֹ֖ו", "transliteral": "šə-mô", "traducao_palavra": "o seu nome" },
+        { "hebraico": "יִזְרְעֵ֑אל", "transliteral": "yiz-rə-ʿêl", "traducao_palavra": "Jezreel" },
+        { "hebraico": "כִּי־עֹ֣וד", "transliteral": "kî-ʿôḏ", "traducao_palavra": "porque ainda" },
+        { "hebraico": "מְעַ֗ט", "transliteral": "mə-ʿaṭ", "traducao_palavra": "um pouco" },
+        { "hebraico": "וּפָ֨קַדְתִּ֜י", "transliteral": "ū-p̄ā-qaḏ-tî", "traducao_palavra": "e castigarei/visitarei" },
+        { "hebraico": "אֶת־דְּמֵ֤י", "transliteral": "ʾeṯ-də-mê", "traducao_palavra": "o sangue de" },
+        { "hebraico": "יִזְרְעֵאל֙", "transliteral": "yiz-rə-ʿêl", "traducao_palavra": "Jezreel" },
+        { "hebraico": "עַל־בֵּ֣ית", "transliteral": "ʿal-bêṯ", "traducao_palavra": "sobre a casa de" },
+        { "hebraico": "יֵה֔וּא", "transliteral": "yê-hû", "traducao_palavra": "Jeú" },
+        { "hebraico": "וְהִשְׁבַּתִּ֔י", "transliteral": "wə-hiš-bat-tî", "traducao_palavra": "e farei cessar" },
+        { "hebraico": "מַמְלְכ֖וּת", "transliteral": "mam-lə-ḵūṯ", "traducao_palavra": "o reino de" },
+        { "hebraico": "בֵּ֥ית", "transliteral": "bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E naquele dia quebrarei o arco de Israel no vale de Jezreel.",
+      "palavras": [
+        { "hebraico": "וְהָיָ֖ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e acontecerá" },
+        { "hebraico": "בַּיֹּ֣ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַה֑וּא", "transliteral": "ha-hû", "traducao_palavra": "aquele" },
+        { "hebraico": "וְשָׁבַרְתִּי֙", "transliteral": "wə-šā-ḇar-tî", "traducao_palavra": "que quebrarei" },
+        { "hebraico": "אֶת־קֶ֣שֶׁת", "transliteral": "ʾeṯ-qe-šeṯ", "traducao_palavra": "o arco de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "בְּעֵ֖מֶק", "transliteral": "bə-ʿê-meq", "traducao_palavra": "no vale de" },
+        { "hebraico": "יִזְרְעֶֽאל׃", "transliteral": "yiz-rə-ʿel", "traducao_palavra": "Jezreel" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E concebeu ela outra vez e deu à luz uma filha; e YHWH disse a Oséias: Põe-lhe o nome de Lo-Ruama; porque não mais me compadecerei da casa de Israel, para de todo lhes perdoar.",
+      "palavras": [
+        { "hebraico": "וַתַּ֤הַר", "transliteral": "wat-ta-har", "traducao_palavra": "e concebeu" },
+        { "hebraico": "עֹוד֙", "transliteral": "ʿôḏ", "traducao_palavra": "outra vez" },
+        { "hebraico": "וַתֵּ֣לֶד", "transliteral": "wat-tê-leḏ", "traducao_palavra": "e deu à luz" },
+        { "hebraico": "בַּ֔ת", "transliteral": "baṯ", "traducao_palavra": "uma filha" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "לֹ֔ו", "transliteral": "lô", "traducao_palavra": "a ele" },
+        { "hebraico": "קְרָ֥א", "transliteral": "qə-rā", "traducao_palavra": "chama" },
+        { "hebraico": "שְׁמָ֖הּ", "transliteral": "šə-māh", "traducao_palavra": "o nome dela" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "Não-" },
+        { "hebraico": "רֻחָ֑מָה", "transliteral": "ru-ḥā-mā", "traducao_palavra": "Favorecida/Compadecida [Lo-Ruama]" },
+        { "hebraico": "כִּ֩י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לֹ֨א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֹוסִ֜יף", "transliteral": "ʾô-sîp̄", "traducao_palavra": "tornarei/tornarei a" },
+        { "hebraico": "עֹ֗וד", "transliteral": "ʿôḏ", "traducao_palavra": "mais" },
+        { "hebraico": "אֲרַחֵם֙", "transliteral": "ʾă-ra-ḥêm", "traducao_palavra": "compadecer-me de" },
+        { "hebraico": "אֶת־בֵּ֣ית", "transliteral": "ʾeṯ-bêṯ", "traducao_palavra": "a casa de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "כִּֽי־נָשֹׂ֥א", "transliteral": "kî-nā-śō", "traducao_palavra": "para que perdoando" },
+        { "hebraico": "אֶשָּׂ֖א", "transliteral": "ʾeś-śā", "traducao_palavra": "lhes perdoe" },
+        { "hebraico": "לָהֶֽם׃", "transliteral": "lā-hem", "traducao_palavra": "a eles" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Mas da casa de Judá me compadecerei e os salvarei por YHWH, seu Deus; pois não os salvarei pelo arco, nem pela espada, nem pela guerra, nem por cavalos, nem por cavaleiros.",
+      "palavras": [
+        { "hebraico": "וְאֶת־בֵּ֤ית", "transliteral": "wə-ʾeṯ-bêṯ", "traducao_palavra": "mas da casa de" },
+        { "hebraico": "יְהוּדָה֙", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "אֲרַחֵ֔ם", "transliteral": "ʾă-ra-ḥêm", "traducao_palavra": "me compadecerei" },
+        { "hebraico": "וְהֹושַׁעְתִּ֖ים", "transliteral": "wə-hô-šaʿ-tîm", "traducao_palavra": "e os salvarei" },
+        { "hebraico": "בַּיהוָ֣ה", "transliteral": "ba-YHWH", "traducao_palavra": "por YHWH" },
+        { "hebraico": "אֱלֹֽהֵיהֶ֑ם", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "o Deus deles" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "אֹושִׁיעֵ֗ם", "transliteral": "ʾô-šî-ʿêm", "traducao_palavra": "os salvarei" },
+        { "hebraico": "בְּקֶ֤שֶׁת", "transliteral": "bə-qe-šeṯ", "traducao_palavra": "por arco" },
+        { "hebraico": "וּבְחֶ֙רֶב֙", "transliteral": "ū-ḇə-ḥe-reḇ", "traducao_palavra": "e por espada" },
+        { "hebraico": "וּבְמִלְחָמָ֔ה", "transliteral": "ū-ḇə-mil-ḥā-mā", "traducao_palavra": "e por guerra" },
+        { "hebraico": "בְּסוּסִ֖ים", "transliteral": "bə-sū-sîm", "traducao_palavra": "por cavalos" },
+        { "hebraico": "וּבְפָרָשִֽׁים׃", "transliteral": "ū-ḇə-p̄ā-rā-šîm", "traducao_palavra": "e por cavaleiros" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E, depois de haver desmamado a Lo-Ruama, concebeu e deu à luz um filho.",
+      "palavras": [
+        { "hebraico": "וַתִּגְמֹ֖ל", "transliteral": "wat-tiḡ-mōl", "traducao_palavra": "e desmamou" },
+        { "hebraico": "אֶת־לֹ֣א", "transliteral": "ʾeṯ-lō", "traducao_palavra": "a Lo-" },
+        { "hebraico": "רֻחָ֑מָה", "transliteral": "ru-ḥā-mā", "traducao_palavra": "Ruama" },
+        { "hebraico": "וַתַּ֖הַר", "transliteral": "wat-ta-har", "traducao_palavra": "e concebeu" },
+        { "hebraico": "וַתֵּ֥לֶד", "transliteral": "wat-tê-leḏ", "traducao_palavra": "e deu à luz" },
+        { "hebraico": "בֵּֽן׃", "transliteral": "bên", "traducao_palavra": "um filho" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E disse YHWH: Põe-lhe o nome de Lo-Ami; porque vós não sois meu povo, nem eu serei vosso Deus.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֕אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "קְרָ֥א", "transliteral": "qə-rā", "traducao_palavra": "chama" },
+        { "hebraico": "שְׁמֹ֖ו", "transliteral": "šə-mô", "traducao_palavra": "o seu nome" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "Não-" },
+        { "hebraico": "עַמִּ֑י", "transliteral": "ʿam-mî", "traducao_palavra": "Meu-Povo [Lo-Ami]" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "אַתֶּם֙", "transliteral": "ʾat-tem", "traducao_palavra": "vós" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não [sois]" },
+        { "hebraico": "עַמִּ֔י", "transliteral": "ʿam-mî", "traducao_palavra": "meu povo" },
+        { "hebraico": "וְאָנֹכִ֖י", "transliteral": "wə-ʾā-nō-ḵî", "traducao_palavra": "e eu" },
+        { "hebraico": "לֹֽא־אֶהְיֶ֥ה", "transliteral": "lō-ʾeh-yeh", "traducao_palavra": "não serei" },
+        { "hebraico": "לָכֶֽם׃", "transliteral": "lā-ḵem", "traducao_palavra": "vosso [Deus]" }
+      ]
+    }
+  }
 }

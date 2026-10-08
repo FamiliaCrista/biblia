@@ -1,6 +1,259 @@
 {
-  "livro": "Oséias - הוֹשֵׁעַ - Hoshea",
+  "livro": "Oséias - הוֹשֵׁעַ - Hôšēaʿ",
   "capítulo": 10,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Israel é uma videira viçosa que dá fruto para si mesmo; conforme a abundância do seu fruto, assim multiplicou os altares; conforme a prosperidade da sua terra, assim fizeram belas estátuas.",
+      "palavras": [
+        { "hebraico": "גֶּ֤פֶן", "transliteral": "ge-p̄en", "traducao_palavra": "uma videira" },
+        { "hebraico": "בֹּוקֵק֙", "transliteral": "bô-qêq", "traducao_palavra": "viçosa/frondosa" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "[é] Israel" },
+        { "hebraico": "פְּרִ֖י", "transliteral": "pə-rî", "traducao_palavra": "fruto" },
+        { "hebraico": "יְשַׁוֶּה־לֹּ֑ו", "transliteral": "yə-šaw-weh-lô", "traducao_palavra": "produz para si" },
+        { "hebraico": "כְּרֹ֣ב", "transliteral": "kə-rōḇ", "traducao_palavra": "conforme a abundância de" },
+        { "hebraico": "לְפִרְיֹ֗ו", "transliteral": "lə-p̄ir-yô", "traducao_palavra": "seu fruto" },
+        { "hebraico": "הִרְבָּה֙", "transliteral": "hir-bā", "traducao_palavra": "multiplicou" },
+        { "hebraico": "לַֽמִּזְבְּחֹ֔ות", "transliteral": "lam-miz-bə-ḥôṯ", "traducao_palavra": "os altares" },
+        { "hebraico": "כְּטֹ֣וב", "transliteral": "kə-ṭôḇ", "traducao_palavra": "conforme a bondade/prosperidade de" },
+        { "hebraico": "לְאַרְצֹ֔ו", "transliteral": "lə-ʾar-ṣô", "traducao_palavra": "sua terra" },
+        { "hebraico": "הֵיטִ֖יבוּ", "transliteral": "hê-ṭî-ḇû", "traducao_palavra": "fizeram belas" },
+        { "hebraico": "מַצֵּבֹֽות׃", "transliteral": "maṣ-ṣê-ḇôṯ", "traducao_palavra": "estátuas/colunas sagradas" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "O seu coração está dividido; agora serão achados culpados; ele derrubará os seus altares e destruirá as suas estátuas.",
+      "palavras": [
+        { "hebraico": "חָלַ֥ק", "transliteral": "ḥā-laq", "traducao_palavra": "está dividido/falso" },
+        { "hebraico": "לִבָּ֖ם", "transliteral": "lib-bām", "traducao_palavra": "o coração deles" },
+        { "hebraico": "עַתָּ֣ה", "transliteral": "ʿat-tā", "traducao_palavra": "agora" },
+        { "hebraico": "יֶאְשָׁ֑מוּ", "transliteral": "yeʾ-šā-mû", "traducao_palavra": "levarão a sua culpa" },
+        { "hebraico": "ה֚וּא", "transliteral": "hû", "traducao_palavra": "ele [Deus]" },
+        { "hebraico": "יַעֲרֹ֣ף", "transliteral": "ya-ʿă-rōp̄", "traducao_palavra": "derrubará/quebrará o pescoço de" },
+        { "hebraico": "מִזְבְּחֹותָ֔ם", "transliteral": "miz-bə-ḥô-ṯām", "traducao_palavra": "seus altares" },
+        { "hebraico": "יְשֹׁדֵ֖ד", "transliteral": "yə-šō-ḏêḏ", "traducao_palavra": "destruirá" },
+        { "hebraico": "מַצֵּבֹותָֽם׃", "transliteral": "maṣ-ṣê-ḇô-ṯām", "traducao_palavra": "suas estátuas sagradas" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Certamente agora dirão: Não temos rei, porque não tememos a YHWH; e o rei, que faria por nós?",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "certamente" },
+        { "hebraico": "עַתָּ֤ה", "transliteral": "ʿat-tā", "traducao_palavra": "agora" },
+        { "hebraico": "יֹֽאמְרוּ֙", "transliteral": "yō-mə-rû", "traducao_palavra": "dirão" },
+        { "hebraico": "אֵ֣ין", "transliteral": "ʾên", "traducao_palavra": "não há" },
+        { "hebraico": "מֶ֣לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "rei" },
+        { "hebraico": "לָ֔נוּ", "transliteral": "lā-nû", "traducao_palavra": "para nós" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "יָרֵ֖אנוּ", "transliteral": "yā-rê-nû", "traducao_palavra": "tememos" },
+        { "hebraico": "אֶת־יְהוָ֑ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וְהַמֶּ֖לֶךְ", "transliteral": "wə-ham-me-leḵ", "traducao_palavra": "e o rei" },
+        { "hebraico": "מַה־יַּֽעֲשֶׂה־לָּֽנוּ׃", "transliteral": "mah-ya-ʿă-śeh-lā-nû", "traducao_palavra": "que faria por nós?" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Falam palavras vãs, jurando falsamente ao fazerem aliança; por isso brota o juízo como erva venenosa nos sulcos dos campos.",
+      "palavras": [
+        { "hebraico": "דִּבְּר֣וּ", "transliteral": "dib-bə-rû", "traducao_palavra": "falam" },
+        { "hebraico": "דְבָרִ֗ים", "transliteral": "də-ḇā-rîm", "traducao_palavra": "palavras meras" },
+        { "hebraico": "אָלֹ֥ות", "transliteral": "ʾā-lôṯ", "traducao_palavra": "juramentos" },
+        { "hebraico": "שָׁוְא֙", "transliteral": "šāwə", "traducao_palavra": "falsos/vãos" },
+        { "hebraico": "כָּרֹ֣ת", "transliteral": "kā-rōṯ", "traducao_palavra": "fazendo" },
+        { "hebraico": "בְּרִ֔ית", "transliteral": "bə-rîṯ", "traducao_palavra": "aliança" },
+        { "hebraico": "וּפָרַ֤ח", "transliteral": "ū-p̄ā-raḥ", "traducao_palavra": "e brota" },
+        { "hebraico": "כָּרֹאשׁ֙", "transliteral": "kā-rōš", "traducao_palavra": "como erva venenosa/losna" },
+        { "hebraico": "מִשְׁפָּ֔ט", "transliteral": "miš-pāṭ", "traducao_palavra": "o juízo" },
+        { "hebraico": "עַ֖ל", "transliteral": "ʿal", "traducao_palavra": "sobre" },
+        { "hebraico": "תַּלְמֵ֥י", "transliteral": "tal-mê", "traducao_palavra": "os sulcos de" },
+        { "hebraico": "שָׂדָֽי׃", "transliteral": "śā-ḏāy", "traducao_palavra": "o campo" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Pelo bezerro de Bete-Áven tremerão os moradores de Samaria; porque o seu povo se lamentará por ele, e os seus sacerdotes idólatras tremerão por causa da sua glória, que se apartou dele.",
+      "palavras": [
+        { "hebraico": "לְעֶגְלֹות֙", "transliteral": "lə-ʿeḡ-lôṯ", "traducao_palavra": "pelos bezerros de" },
+        { "hebraico": "בֵּ֣ית", "transliteral": "bêṯ", "traducao_palavra": "Bete-" },
+        { "hebraico": "אָ֔וֶן", "transliteral": "ʾā-wen", "traducao_palavra": "Áven" },
+        { "hebraico": "יָג֖וּרוּ", "transliteral": "yā-ḡū-rû", "traducao_palavra": "tremerão/temerão" },
+        { "hebraico": "שְׁכַ֣ן", "transliteral": "šə-ḵan", "traducao_palavra": "os moradores de" },
+        { "hebraico": "שֹׁמְרֹ֑ון", "transliteral": "šō-mə-rôn", "traducao_palavra": "Samaria" },
+        { "hebraico": "כִּֽי־אָבַ֨ל", "transliteral": "kî-ʾā-ḇal", "traducao_palavra": "porque está de luto" },
+        { "hebraico": "עָלָ֜יו", "transliteral": "ʿā-lāyw", "traducao_palavra": "por ele" },
+        { "hebraico": "עַמֹּ֗ו", "transliteral": "ʿam-mô", "traducao_palavra": "o seu povo" },
+        { "hebraico": "וּכְמָרָיו֙", "transliteral": "ū-ḵə-mā-rāyw", "traducao_palavra": "e os seus sacerdotes idólatras" },
+        { "hebraico": "עָלָ֣יו", "transliteral": "ʿā-lāyw", "traducao_palavra": "por ele" },
+        { "hebraico": "יָגִ֔ילוּ", "transliteral": "yā-ḡî-lû", "traducao_palavra": "tremerão/gritarão" },
+        { "hebraico": "עַל־כְּבֹודֹ֖ו", "transliteral": "ʿal-kə-ḇô-ḏô", "traducao_palavra": "por causa da sua glória" },
+        { "hebraico": "כִּֽי־גָלָ֥ה", "transliteral": "kî-ḡā-lā", "traducao_palavra": "porque foi levada cativa/afastou-se" },
+        { "hebraico": "מִמֶּֽנּוּ׃", "transliteral": "mim-men-nû", "traducao_palavra": "dele" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Também ele mesmo será levado para a Assíria como um presente ao rei Jarebe; Efraim se cobrirá de vergonha, e Israel se envergonhará do seu próprio conselho.",
+      "palavras": [
+        { "hebraico": "גַּם־אֹותֹו֙", "transliteral": "gam-ʾô-ṯô", "traducao_palavra": "também ele mesmo" },
+        { "hebraico": "לְאַשּׁ֣וּר", "transliteral": "lə-ʾaš-šūr", "traducao_palavra": "à Assíria" },
+        { "hebraico": "יוּבָ֔ל", "transliteral": "yū-ḇāl", "traducao_palavra": "será levado" },
+        { "hebraico": "מִנְחָ֖ה", "transliteral": "min-ḥā", "traducao_palavra": "como tributo/presente" },
+        { "hebraico": "לְמֶ֣לֶךְ", "transliteral": "lə-me-leḵ", "traducao_palavra": "ao rei" },
+        { "hebraico": "יָרֵ֑ב", "transliteral": "yā-rêḇ", "traducao_palavra": "Jarebe [Guerreiro]" },
+        { "hebraico": "בָּשְׁנָה֙", "transliteral": "bā-šə-nā", "traducao_palavra": "vergonha" },
+        { "hebraico": "אֶפְרַ֣יִם", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "יִקָּ֔ח", "transliteral": "yiq-qāḥ", "traducao_palavra": "receberá" },
+        { "hebraico": "וְיֵבֹ֥ושׁ", "transliteral": "wə-yê-ḇôš", "traducao_palavra": "e envergonhar-se-á" },
+        { "hebraico": "יִשְׂרָאֵ֖ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "מֵעֲצָתֹֽו׃", "transliteral": "mê-ʿă-ṣā-ṯô", "traducao_palavra": "do seu conselho" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "O rei de Samaria está desfeito como a espuma sobre a face das águas.",
+      "palavras": [
+        { "hebraico": "נִדְמֶ֥ה", "transliteral": "nid-meh", "traducao_palavra": "está desfeito/destruído" },
+        { "hebraico": "שֹׁמְרֹ֖ון", "transliteral": "šō-mə-rôn", "traducao_palavra": "Samaria [com]" },
+        { "hebraico": "מַלְכָּ֑הּ", "transliteral": "mal-kāh", "traducao_palavra": "o seu rei" },
+        { "hebraico": "כְּקֶ֖צֶף", "transliteral": "kə-qe-ṣep̄", "traducao_palavra": "como espuma/graveto" },
+        { "hebraico": "עַל־פְּנֵי־מָֽיִם׃", "transliteral": "ʿal-pə-nê-mā-yim", "traducao_palavra": "sobre a face das águas" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E os altos de Áven, o pecado de Israel, serão destruídos; espinhos e cardos crescerão sobre os seus altares; e dirão aos montes: Cobri-nos! e aos outeiros: Caí sobre nós!",
+      "palavras": [
+        { "hebraico": "וְנִשְׁמְד֞וּ", "transliteral": "wə-niš-mə-ḏû", "traducao_palavra": "e serão destruídos" },
+        { "hebraico": "בָּמֹ֣ות", "transliteral": "bā-môṯ", "traducao_palavra": "os altos de" },
+        { "hebraico": "אָ֗וֶן", "transliteral": "ʾā-wen", "traducao_palavra": "Áven" },
+        { "hebraico": "חַטַּאת֙", "transliteral": "ḥaṭ-ṭaṯ", "traducao_palavra": "o pecado de" },
+        { "hebraico": "יִשְׂרָאֵ֔ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "קֹ֥וץ", "transliteral": "qôṣ", "traducao_palavra": "espinhos" },
+        { "hebraico": "וְדַרְדַּ֖ר", "transliteral": "wə-ḏar-dar", "traducao_palavra": "e cardos" },
+        { "hebraico": "יַעֲלֶ֣ה", "transliteral": "ya-ʿă-leh", "traducao_palavra": "crescerão" },
+        { "hebraico": "עַל־מִזְבְּחֹותָ֑ם", "transliteral": "ʿal-miz-bə-ḥô-ṯām", "traducao_palavra": "sobre os seus altares" },
+        { "hebraico": "וְאָמְר֤וּ", "transliteral": "wə-ʾā-mə-rû", "traducao_palavra": "e dirão" },
+        { "hebraico": "לֶֽהָרִים֙", "transliteral": "le-hā-rîm", "traducao_palavra": "aos montes" },
+        { "hebraico": "כַּסּ֔וּנוּ", "transliteral": "kas-sū-nû", "traducao_palavra": "cobri-nos" },
+        { "hebraico": "וְלַגְּבָעֹ֖ות", "transliteral": "wə-laḡ-gə-ḇā-ʿôṯ", "traducao_palavra": "e às colinas" },
+        { "hebraico": "נִפְל֥וּ", "transliteral": "nip̄-lû", "traducao_palavra": "caí" },
+        { "hebraico": "עָלֵֽינוּ׃", "transliteral": "ʿā-lê-nû", "traducao_palavra": "sobre nós" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Desde os dias de Gibeá pecaste, ó Israel; ali permaneceram; a batalha em Gibeá contra os filhos da perversidade não os alcançará?",
+      "palavras": [
+        { "hebraico": "מִימֵי֙", "transliteral": "mî-mê", "traducao_palavra": "desde os dias de" },
+        { "hebraico": "הַגִּבְעָ֔ה", "transliteral": "hag-giḇ-ʿā", "traducao_palavra": "Gibeá" },
+        { "hebraico": "חָטָ֖אתָ", "transliteral": "ḥā-ṭā-ṯā", "traducao_palavra": "pecaste" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "ó Israel" },
+        { "hebraico": "שָׁ֣ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "עָמָ֔דוּ", "transliteral": "ʿā-mā-ḏû", "traducao_palavra": "permaneceram" },
+        { "hebraico": "לֹֽא־תַשִּׂיגֵ֧ם", "transliteral": "lō-ṯaś-śî-ḡêm", "traducao_palavra": "não os alcançará" },
+        { "hebraico": "בַּגִּבְעָ֛ה", "transliteral": "bag-giḇ-ʿā", "traducao_palavra": "em Gibeá" },
+        { "hebraico": "מִלְחָמָ֖ה", "transliteral": "mil-ḥā-mā", "traducao_palavra": "a batalha" },
+        { "hebraico": "עַל־בְּנֵ֥י", "transliteral": "ʿal-bə-nê", "traducao_palavra": "contra os filhos de" },
+        { "hebraico": "עַלְוָֽה׃", "transliteral": "ʿal-wā", "traducao_palavra": "perversidade/injustiça?" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "É o meu desejo castigá-los; e os povos se ajuntarão contra eles, quando forem atados por causa das suas duas transgressões.",
+      "palavras": [
+        { "hebraico": "בְּאַוָּתִ֖י", "transliteral": "bə-ʾaw-wā-ṯî", "traducao_palavra": "no meu desejo" },
+        { "hebraico": "וְאֶסֳּרֵ֑ם", "transliteral": "wə-ʾes-so-rêm", "traducao_palavra": "os castigarei/disciplinarei" },
+        { "hebraico": "וְאֻסְּפ֤וּ", "transliteral": "wə-ʾus-sə-p̄û", "traducao_palavra": "e congregar-se-ão" },
+        { "hebraico": "עֲלֵיהֶם֙", "transliteral": "ʿă-lê-hem", "traducao_palavra": "contra eles" },
+        { "hebraico": "עַמִּ֔ים", "transliteral": "ʿam-mîm", "traducao_palavra": "povos" },
+        { "hebraico": "בְּאָסְרָ֖ם", "transliteral": "bə-ʾās-rām", "traducao_palavra": "quando forem atados" },
+        { "hebraico": "לִשְׁתֵּ֥י", "transliteral": "liš-tê", "traducao_palavra": "às suas duas" },
+        { "hebraico": "עֹונֹתָֽם׃", "transliteral": "ʿô-nō-ṯām", "traducao_palavra": "iniquidades/transgressões" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Porque Efraim é uma novilha domada, que gosta de trilhar o grão; mas passei sobre a formosura do seu pescoço; porei arreios sobre Efraim; Judá lavrará, Jacó lhe desfará os torrões.",
+      "palavras": [
+        { "hebraico": "וְאֶפְרַ֜יִם", "transliteral": "wə-ʾep̄-ra-yim", "traducao_palavra": "e Efraim [é]" },
+        { "hebraico": "עֶגְלָ֤ה", "transliteral": "ʿeḡ-lā", "traducao_palavra": "uma novilha" },
+        { "hebraico": "מְלֻמָּדָה֙", "transliteral": "mə-lum-mā-ḏā", "traducao_palavra": "adestrada/domada" },
+        { "hebraico": "אֹהַ֣בְתִּי", "transliteral": "ʾō-haḇ-tî", "traducao_palavra": "que gosta" },
+        { "hebraico": "לָד֔וּשׁ", "transliteral": "lā-ḏūš", "traducao_palavra": "de trilhar o grão" },
+        { "hebraico": "וַאֲנִ֣י", "transliteral": "wa-ʾă-nî", "traducao_palavra": "mas eu" },
+        { "hebraico": "עָבַ֔רְתִּי", "transliteral": "ʿā-ḇar-tî", "traducao_palavra": "passei [o jugo]" },
+        { "hebraico": "עַל־ט֥וּב", "transliteral": "ʿal-ṭūḇ", "traducao_palavra": "sobre a formosura de" },
+        { "hebraico": "צַוָּארָ֑הּ", "transliteral": "ṣaw-wā-rāh", "traducao_palavra": "seu pescoço" },
+        { "hebraico": "אַרְכִּ֤יב", "transliteral": "ʾar-kîḇ", "traducao_palavra": "porei arreios sobre" },
+        { "hebraico": "אֶפְרַ֙יִם֙", "transliteral": "ʾep̄-ra-yim", "traducao_palavra": "Efraim" },
+        { "hebraico": "יַחֲרֹ֣ושׁ", "transliteral": "ya-ḥă-rôš", "traducao_palavra": "lavrará" },
+        { "hebraico": "יְהוּדָ֔ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "יְשַׂדֶּד־לֹ֖ו", "transliteral": "yə-śad-deḏ-lô", "traducao_palavra": "gradecerá para si" },
+        { "hebraico": "יַעֲקֹֽב׃", "transliteral": "ya-ʿă-qōḇ", "traducao_palavra": "Jacó" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Semeai para vós em justiça, colhei segundo a misericórdia; lavrai o campo de pousio; porque é tempo de buscar a YHWH, até que venha e chova a justiça sobre vós.",
+      "palavras": [
+        { "hebraico": "זִרְע֨וּ", "transliteral": "zir-ʿû", "traducao_palavra": "semeai" },
+        { "hebraico": "לָכֶ֤ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "לִצְדָקָה֙", "transliteral": "liṣ-dā-qā", "traducao_palavra": "em retidão/justiça" },
+        { "hebraico": "קִצְר֣וּ", "transliteral": "qiṣ-rû", "traducao_palavra": "colhei" },
+        { "hebraico": "לְפִי־חֶ֔סֶד", "transliteral": "lə-p̄î-ḥe-seḏ", "traducao_palavra": "segundo a misericórdia" },
+        { "hebraico": "נִ֥ירוּ", "transliteral": "nî-rû", "traducao_palavra": "lavrai" },
+        { "hebraico": "לָכֶ֖ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "נִ֑יר", "transliteral": "nîr", "traducao_palavra": "campo novo/pousio" },
+        { "hebraico": "וְעֵת֙", "transliteral": "wə-ʿêṯ", "traducao_palavra": "pois é tempo" },
+        { "hebraico": "לִדְרֹ֣ושׁ", "transliteral": "liḏ-rôš", "traducao_palavra": "de buscar" },
+        { "hebraico": "אֶת־יְהוָ֔ה", "transliteral": "ʾeṯ-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "עַד־יָבֹ֕וא", "transliteral": "ʿaḏ-yā-ḇô", "traducao_palavra": "até que venha" },
+        { "hebraico": "וְיֹרֶ֥ה", "transliteral": "wə-yō-reh", "traducao_palavra": "e faça chover" },
+        { "hebraico": "צֶ֖דֶק", "transliteral": "ṣe-ḏeq", "traducao_palavra": "justiça" },
+        { "hebraico": "לָכֶֽם׃", "transliteral": "lā-ḵem", "traducao_palavra": "sobre vós" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Lavrastes a impiedade, segastes a perversidade e comestes o fruto da mentira; porque confiaste no teu caminho, na multidão dos teus valentes.",
+      "palavras": [
+        { "hebraico": "חֲרַשְׁתֶּם־רֶ֛שַׁע", "transliteral": "ḥă-raš-tem-re-šaʿ", "traducao_palavra": "lavrastes a impiedade" },
+        { "hebraico": "עַוְלָ֥תָה", "transliteral": "ʿaw-lā-ṯā", "traducao_palavra": "a injustiça/perversidade" },
+        { "hebraico": "קְצַרְתֶּ֖ם", "transliteral": "qə-ṣar-tem", "traducao_palavra": "colhestes" },
+        { "hebraico": "אֲכַלְתֶּ֣ם", "transliteral": "ʾă-ḵal-tem", "traducao_palavra": "comestes" },
+        { "hebraico": "פְּרִי־כָ֑חַשׁ", "transliteral": "pə-rî-ḵā-ḥaš", "traducao_palavra": "o fruto da mentira" },
+        { "hebraico": "כִּֽי־בָטַ֥חְתָּ", "transliteral": "kî-ḇā-ṭaḥ-tā", "traducao_palavra": "porque confiaste" },
+        { "hebraico": "בְדַרְכְּךָ֖", "transliteral": "bə-ḏar-kə-ḵā", "traducao_palavra": "no teu próprio caminho" },
+        { "hebraico": "בְּרֹ֥ב", "transliteral": "bə-rōḇ", "traducao_palavra": "na multidão de" },
+        { "hebraico": "גִּבֹּורֶֽיךָ׃", "transliteral": "gib-bô-re-ḵā", "traducao_palavra": "teus guerreiros/valentes" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Portanto, entre o teu povo se levantará tumulto de guerra, e todas as tuas fortalezas serão destruídas, como Salmã destruiu a Bete-Arbel no dia da batalha; a mãe ali foi despedaçada com os filhos.",
+      "palavras": [
+        { "hebraico": "וְקָ֣אם", "transliteral": "wə-qām", "traducao_palavra": "e levantar-se-á" },
+        { "hebraico": "שָׁאֹון֮", "transliteral": "šā-ʾôn", "traducao_palavra": "um tumulto/fragor de guerra" },
+        { "hebraico": "בְּעַמֶּיךָ֒", "transliteral": "bə-ʿam-me-ḵā", "traducao_palavra": "entre o teu povo" },
+        { "hebraico": "וְכָל־מִבְצָרֶ֣יךָ", "transliteral": "wə-ḵāl-miḇ-ṣā-re-ḵā", "traducao_palavra": "e todas as tuas fortalezas" },
+        { "hebraico": "יוּשַּׁ֔ד", "transliteral": "yūš-šaḏ", "traducao_palavra": "serão destruídas" },
+        { "hebraico": "כְּשֹׁ֧ד", "transliteral": "kə-šōḏ", "traducao_palavra": "como a destruição por" },
+        { "hebraico": "שַֽׁלְמַ֛ן", "transliteral": "šal-man", "traducao_palavra": "Salmã de" },
+        { "hebraico": "בֵּ֥ית", "transliteral": "bêṯ", "traducao_palavra": "Bete-" },
+        { "hebraico": "אַֽרְבֵּ֖אל", "transliteral": "ʾar-bêl", "traducao_palavra": "Arbel" },
+        { "hebraico": "בְּיֹ֣ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "מִלְחָמָ֑ה", "transliteral": "mil-ḥā-mā", "traducao_palavra": "batalha" },
+        { "hebraico": "אֵ֥ם", "transliteral": "ʾêm", "traducao_palavra": "a mãe" },
+        { "hebraico": "עַל־בָּנִ֖ים", "transliteral": "ʿal-bā-nîm", "traducao_palavra": "sobre os filhos" },
+        { "hebraico": "רֻטָּֽשָׁה׃", "transliteral": "ruṭ-ṭā-šā", "traducao_palavra": "foi despedaçada" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Assim vos fará Bete-El, por causa da vossa extrema maldade; ao romper da manhã, o rei de Israel será totalmente destruído.",
+      "palavras": [
+        { "hebraico": "כָּ֚כָה", "transliteral": "kā-ḵā", "traducao_palavra": "assim" },
+        { "hebraico": "עָשָׂ֣ה", "transliteral": "ʿā-śā", "traducao_palavra": "fará" },
+        { "hebraico": "לָכֶ֔ם", "transliteral": "lā-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "בֵּֽית־אֵ֕ל", "transliteral": "bêṯ-ʾêl", "traducao_palavra": "Bete-El" },
+        { "hebraico": "מִפְּנֵ֖י", "transliteral": "mip-pə-nê", "traducao_palavra": "por causa de" },
+        { "hebraico": "רָעַ֣ת", "transliteral": "rā-ʿaṯ", "traducao_palavra": "a maldade de" },
+        { "hebraico": "רָעַתְכֶ֑ם", "transliteral": "rā-ʿaṯ-ḵem", "traducao_palavra": "vossa extrema maldade" },
+        { "hebraico": "בַּשַּׁ֕חַר", "transliteral": "baš-ša-ḥar", "traducao_palavra": "na alva/ao romper da manhã" },
+        { "hebraico": "נִדְמֹ֥ה", "transliteral": "nid-mōh", "traducao_palavra": "totalmente destruído" },
+        { "hebraico": "נִדְמָ֖ה", "transliteral": "nid-mā", "traducao_palavra": "será destruído" },
+        { "hebraico": "מֶ֥לֶךְ", "transliteral": "me-leḵ", "traducao_palavra": "o rei de" },
+        { "hebraico": "יִשְׂרָאֵֽל׃", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" }
+      ]
+    }
+  }
 }

@@ -1,0 +1,188 @@
+{
+  "livro": "Joel - יוֹאֵל - Yôʾēl",
+  "capítulo": 4,
+  "titulos": {},
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Porque eis que naqueles dias, e naquele tempo, em que restaurarei o cativeiro de Judá e de Jerusalém,",
+      "palavras": [
+        { "hebraico": "כִּ֠י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הִנֵּ֞ה", "transliteral": "hin-nêh", "traducao_palavra": "eis que" },
+        { "hebraico": "בַּיָּמִ֤ים", "transliteral": "bay-yā-mîm", "traducao_palavra": "nos dias" },
+        { "hebraico": "הָהֵ֙מָּה֙", "transliteral": "hā-hêm-mā", "traducao_palavra": "aqueles" },
+        { "hebraico": "וּבָעֵ֣ת", "transliteral": "ū-ḇā-ʿêṯ", "traducao_palavra": "e no tempo" },
+        { "hebraico": "הַהִ֔יא", "transliteral": "ha-hî", "traducao_palavra": "aquele" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "em que" },
+        { "hebraico": "אָשִׁ֛יב", "transliteral": "ʾā-šîḇ", "traducao_palavra": "restaurarei/mudarei" },
+        { "hebraico": "אֶת־שְׁב֥וּת", "transliteral": "ʾeṯ-šə-ḇūṯ", "traducao_palavra": "a sorte/cativeiro de" },
+        { "hebraico": "יְהוּדָ֖ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וִירוּשָׁלִָֽם׃", "transliteral": "wî-rū-šā-lā-yim", "traducao_palavra": "e Jerusalém" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "congregarei todas as nações e as farei descer ao vale de Josafá; e ali entrarei em juízo com elas por causa do meu povo e da minha herança, Israel, a quem dispersaram entre as nações, repartindo a minha terra.",
+      "palavras": [
+        { "hebraico": "וְקִבַּצְתִּי֙", "transliteral": "wə-qib-baṣ-tî", "traducao_palavra": "e congregarei" },
+        { "hebraico": "אֶת־כָּל־הַגֹּויִ֔ם", "transliteral": "ʾeṯ-kāl-hag-gô-yim", "traducao_palavra": "todas as nações" },
+        { "hebraico": "וְהֹֽורַדְתִּ֔ים", "transliteral": "wə-hô-raḏ-tîm", "traducao_palavra": "e as farei descer" },
+        { "hebraico": "אֶל־עֵ֖מֶק", "transliteral": "ʾel-ʿê-meq", "traducao_palavra": "ao vale de" },
+        { "hebraico": "יְהֹֽושָׁפָ֑ט", "transliteral": "yə-hô-šā-p̄āṭ", "traducao_palavra": "Josafá" },
+        { "hebraico": "וְנִשְׁפַּטְתִּ֨י", "transliteral": "wə-niš-paṭ-tî", "traducao_palavra": "e entrarei em juízo" },
+        { "hebraico": "עִמָּ֜ם", "transliteral": "ʿim-mām", "traducao_palavra": "com elas" },
+        { "hebraico": "שָׁ֗ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "עַל־עַמִּ֨י", "transliteral": "ʿal-ʿam-mî", "traducao_palavra": "por causa do meu povo" },
+        { "hebraico": "וְנַחֲלָתִ֤י", "transliteral": "wə-na-ḥă-lā-ṯî", "traducao_palavra": "e da minha herança" },
+        { "hebraico": "יִשְׂרָאֵל֙", "transliteral": "yiś-rā-ʾêl", "traducao_palavra": "Israel" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "a quem" },
+        { "hebraico": "פִּזְּר֣וּ", "transliteral": "piz-zə-rû", "traducao_palavra": "espalharam" },
+        { "hebraico": "בַגֹּויִ֔ם", "transliteral": "ḇag-gô-yim", "traducao_palavra": "entre as nações" },
+        { "hebraico": "וְאֶת־אַרְצִ֖י", "transliteral": "wə-ʾeṯ-ʾar-ṣî", "traducao_palavra": "e a minha terra" },
+        { "hebraico": "חִלֵּֽקוּ׃", "transliteral": "ḥil-lê-qû", "traducao_palavra": "repartiram" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E lançaram sortes sobre o meu povo, e deram um menino por uma meretriz, e venderam uma menina por vinho, para beberem.",
+      "palavras": [
+        { "hebraico": "וְאֶל־עַמִּ֖י", "transliteral": "wə-ʾel-ʿam-mî", "traducao_palavra": "e sobre o meu povo" },
+        { "hebraico": "יַדּ֣וּ", "transliteral": "yad-dû", "traducao_palavra": "lançaram" },
+        { "hebraico": "גֹורָ֑ל", "transliteral": "ḡô-rāl", "traducao_palavra": "sortes" },
+        { "hebraico": "וַיִּתְּנ֤וּ", "transliteral": "way-yit-tə-nû", "traducao_palavra": "e deram" },
+        { "hebraico": "הַיֶּ֙לֶד֙", "transliteral": "hay-ye-leḏ", "traducao_palavra": "o menino" },
+        { "hebraico": "בַּזֹּונָ֔ה", "transliteral": "baz-zô-nā", "traducao_palavra": "por uma prostituta" },
+        { "hebraico": "וְהַיַּלְדָּ֛ה", "transliteral": "wə-hay-yal-dā", "traducao_palavra": "e a menina" },
+        { "hebraico": "מָכְר֥וּ", "transliteral": "mā-ḵə-rû", "traducao_palavra": "venderam" },
+        { "hebraico": "בַיַּ֖יִן", "transliteral": "ḇay-ya-yin", "traducao_palavra": "por vinho" },
+        { "hebraico": "וַיִּשְׁתּֽוּ׃", "transliteral": "way-yiš-tû", "traducao_palavra": "e beberam" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E também que tendes vós comigo, Tiro e Sidom, e todas as regiões da Filístia? Quereis vingar-vos de mim? Se assim vos vingais de mim, bem depressa farei recair a vossa paga sobre a vossa cabeça.",
+      "palavras": [
+        { "hebraico": "וְ֠גַם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "מָה־אַתֶּ֥ם", "transliteral": "māh-ʾat-tem", "traducao_palavra": "que sois vós" },
+        { "hebraico": "לִי֙", "transliteral": "lî", "traducao_palavra": "para mim" },
+        { "hebraico": "צֹ֣ר", "transliteral": "ṣōr", "traducao_palavra": "ó Tiro" },
+        { "hebraico": "וְצִידֹ֔ון", "transliteral": "wə-ṣî-ḏôn", "traducao_palavra": "e Sidom" },
+        { "hebraico": "וְכֹ֖ל", "transliteral": "wə-ḵōl", "traducao_palavra": "e todas" },
+        { "hebraico": "גְּלִילֹ֣ות", "transliteral": "gə-lî-lôṯ", "traducao_palavra": "as regiões de" },
+        { "hebraico": "פְּלָ֑שֶׁת", "transliteral": "pə-lā-šeṯ", "traducao_palavra": "Filístia?" },
+        { "hebraico": "הַגְּמ֗וּל", "transliteral": "hag-gə-mūl", "traducao_palavra": "uma retribuição/paga" },
+        { "hebraico": "אַתֶּם֙", "transliteral": "ʾat-tem", "traducao_palavra": "vós" },
+        { "hebraico": "מְשַׁלְּמִ֣ים", "transliteral": "mə-šal-lə-mîm", "traducao_palavra": "estais pagando" },
+        { "hebraico": "עָלָ֔י", "transliteral": "ʿā-lāy", "traducao_palavra": "contra mim?" },
+        { "hebraico": "וְאִם־גֹּמְלִ֤ים", "transliteral": "wə-ʾim-gō-mə-lîm", "traducao_palavra": "e se retribuís" },
+        { "hebraico": "אַתֶּם֙", "transliteral": "ʾat-tem", "traducao_palavra": "vós" },
+        { "hebraico": "עָלַ֔י", "transliteral": "ʿā-lay", "traducao_palavra": "contra mim" },
+        { "hebraico": "קַ֣ל", "transliteral": "qal", "traducao_palavra": "com presteza" },
+        { "hebraico": "מְהֵרָ֔ה", "transliteral": "mə-hê-rā", "traducao_palavra": "rapidamente" },
+        { "hebraico": "אָשִׁ֥יב", "transliteral": "ʾā-šîḇ", "traducao_palavra": "farei recair" },
+        { "hebraico": "גְּמֻלְכֶ֖ם", "transliteral": "gə-mul-ḵem", "traducao_palavra": "a vossa recompensa/paga" },
+        { "hebraico": "בְּרֹאשְׁכֶֽם׃", "transliteral": "bə-rōš-ḵem", "traducao_palavra": "sobre a vossa cabeça" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Visto como levastes a minha prata e o meu ouro, e as minhas joias preciosas metestes nos vossos templos;",
+      "palavras": [
+        { "hebraico": "אֲשֶׁר־כַּסְפִּ֥י", "transliteral": "ʾă-šer-kas-pî", "traducao_palavra": "porque a minha prata" },
+        { "hebraico": "וּזְהָבִ֖י", "transliteral": "ū-zə-hā-ḇî", "traducao_palavra": "e o meu ouro" },
+        { "hebraico": "לְקַחְתֶּ֑ם", "transliteral": "lə-qaḥ-tem", "traducao_palavra": "tomastes" },
+        { "hebraico": "וּמַֽחֲמַדַּי֙", "transliteral": "ū-ma-ḥă-mad-day", "traducao_palavra": "e as minhas coisas preciosas" },
+        { "hebraico": "הַטֹּבִ֔ים", "transliteral": "haṭ-ṭō-ḇîm", "traducao_palavra": "boas" },
+        { "hebraico": "הֲבֵאתֶ֖ם", "transliteral": "hă-ḇê-ṯem", "traducao_palavra": "levastes" },
+        { "hebraico": "לְהֵיכְלֵיכֶֽם׃", "transliteral": "lə-hê-ḵə-lê-ḵem", "traducao_palavra": "para os vossos palácios/templos" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "e vendestes os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para os apartar para longe dos seus termos.",
+      "palavras": [
+        { "hebraico": "וּבְנֵ֤י", "transliteral": "ū-ḇə-nê", "traducao_palavra": "e os filhos de" },
+        { "hebraico": "יְהוּדָה֙", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וּבְנֵ֣י", "transliteral": "ū-ḇə-nê", "traducao_palavra": "e os filhos de" },
+        { "hebraico": "יְרוּשָׁלִַ֔ם", "transliteral": "yə-rū-šā-la-yim", "traducao_palavra": "Jerusalém" },
+        { "hebraico": "מְכַרְתֶּ֖ם", "transliteral": "mə-ḵar-tem", "traducao_palavra": "vendestes" },
+        { "hebraico": "לִבְנֵ֣י", "transliteral": "liḇ-nê", "traducao_palavra": "aos filhos de" },
+        { "hebraico": "הַיְּוָנִ֑ים", "transliteral": "hay-yə-wā-nîm", "traducao_palavra": "os gregos/javaneses" },
+        { "hebraico": "לְמַ֥עַן", "transliteral": "lə-ma-ʿan", "traducao_palavra": "a fim de" },
+        { "hebraico": "הַרְחִיקָ֖ם", "transliteral": "har-ḥî-qām", "traducao_palavra": "afastá-los" },
+        { "hebraico": "מֵעַ֥ל", "transliteral": "mê-ʿal", "traducao_palavra": "de sobre" },
+        { "hebraico": "גְּבוּלָֽם׃", "transliteral": "gə-ḇū-lām", "traducao_palavra": "o seu território" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Eis que eu os suscitarei do lugar para onde os vendestes, e farei recair a vossa paga sobre a vossa própria cabeça.",
+      "palavras": [
+        { "hebraico": "הִנְנִ֣י", "transliteral": "hin-nə-nî", "traducao_palavra": "eis que eu" },
+        { "hebraico": "מְעִירָ֔ם", "transliteral": "mə-ʿî-rām", "traducao_palavra": "os despertarei/suscitarei" },
+        { "hebraico": "מִן־הַמָּקֹ֔ום", "transliteral": "min-ham-mā-qôm", "traducao_palavra": "do lugar" },
+        { "hebraico": "אֲשֶׁר־מְכַרְתֶּ֥ם", "transliteral": "ʾă-šer-mə-ḵar-tem", "traducao_palavra": "para onde vendestes" },
+        { "hebraico": "אֹתָ֖ם", "transliteral": "ʾō-ṯām", "traducao_palavra": "a eles" },
+        { "hebraico": "שָׁ֑מָּה", "transliteral": "šām-mā", "traducao_palavra": "para lá" },
+        { "hebraico": "וַהֲשִׁבֹתִ֥י", "transliteral": "wa-hă-ši-ḇō-ṯî", "traducao_palavra": "e farei recair" },
+        { "hebraico": "גְמֻלְכֶ֖ם", "transliteral": "gə-mul-ḵem", "traducao_palavra": "a vossa retribuição" },
+        { "hebraico": "בְּרֹאשְׁכֶֽם׃", "transliteral": "bə-rōš-ḵem", "traducao_palavra": "sobre a vossa cabeça" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E venderei os vossos filhos e as vossas filhas na mão dos filhos de Judá, e eles os venderão aos sabeus, a uma nação remota, porque YHWH o disse.",
+      "palavras": [
+        { "hebraico": "וּמָכַרְתִּ֞י", "transliteral": "ū-mā-ḵar-tî", "traducao_palavra": "e venderei" },
+        { "hebraico": "אֶת־בְּנֵיכֶ֣ם", "transliteral": "ʾeṯ-bə-nê-ḵem", "traducao_palavra": "os vossos filhos" },
+        { "hebraico": "וְאֶת־בְּנֹֽותֵיכֶ֗ם", "transliteral": "wə-ʾeṯ-bə-nô-ṯê-ḵem", "traducao_palavra": "e as vossas filhas" },
+        { "hebraico": "בְּיַד֙", "transliteral": "bə-yaḏ", "traducao_palavra": "na mão de" },
+        { "hebraico": "בְּנֵ֣י", "transliteral": "bə-nê", "traducao_palavra": "os filhos de" },
+        { "hebraico": "יְהוּדָ֔ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וּמְכָר֥וּם", "transliteral": "ū-mə-ḵā-rûm", "traducao_palavra": "e eles os venderão" },
+        { "hebraico": "לִשְׁבָאיִ֖ם", "transliteral": "liš-ḇā-ʾîm", "traducao_palavra": "aos sabeus" },
+        { "hebraico": "אֶל־גֹּ֣וי", "transliteral": "ʾel-gôy", "traducao_palavra": "a uma nação" },
+        { "hebraico": "רָחֹ֑וק", "transliteral": "rā-ḥôq", "traducao_palavra": "distante" },
+        { "hebraico": "כִּ֥י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "דִּבֵּֽר׃", "transliteral": "dib-bêr", "traducao_palavra": "falou/disse" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Proclamai isto entre as nações: Consagrai a guerra, suscitai os valentes; cheguem-se, subam todos os homens de guerra.",
+      "palavras": [
+        { "hebraico": "קִרְאוּ־זֹאת֙", "transliteral": "qir-ʾū-zōṯ", "traducao_palavra": "proclamai isto" },
+        { "hebraico": "בַּגֹּויִ֔ם", "transliteral": "bag-gô-yim", "traducao_palavra": "entre as nações" },
+        { "hebraico": "קַדְּשׁ֖וּ", "transliteral": "qad-də-šû", "traducao_palavra": "consagrai/santificai" },
+        { "hebraico": "מִלְחָמָ֑ה", "transliteral": "mil-ḥā-mā", "traducao_palavra": "a guerra" },
+        { "hebraico": "הָעִ֙ירוּ֙", "transliteral": "hā-ʿî-rû", "traducao_palavra": "suscitai/despertai" },
+        { "hebraico": "הַגִּבֹּורִ֔ים", "transliteral": "hag-gib-bô-rîm", "traducao_palavra": "os valentes" },
+        { "hebraico": "יִגְּשׁ֣וּ", "transliteral": "yiḡ-gə-šû", "traducao_palavra": "cheguem-se" },
+        { "hebraico": "יַֽעֲל֔וּ", "transliteral": "ya-ʿă-lû", "traducao_palavra": "subam" },
+        { "hebraico": "כֹּ֖ל", "transliteral": "kōl", "traducao_palavra": "todos" },
+        { "hebraico": "אַנְשֵׁ֥י", "transliteral": "ʾan-šê", "traducao_palavra": "os homens de" },
+        { "hebraico": "הַמִּלְחָמָֽה׃", "transliteral": "ham-mil-ḥā-mā", "traducao_palavra": "a guerra" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Forjai espadas das vossas relhas de arado e lanças das vossas foices; diga o fraco: Eu sou forte.",
+      "palavras": [
+        { "hebraico": "כֹּ֤תּוּ", "transliteral": "kōt-tû", "traducao_palavra": "forjai/batei" },
+        { "hebraico": "אִתֵּיכֶם֙", "transliteral": "ʾit-tê-ḵem", "traducao_palavra": "as vossas relhas de arado" },
+        { "hebraico": "לַחֲרָבֹ֔ות", "transliteral": "la-ḥă-rā-ḇôṯ", "traducao_palavra": "em espadas" },
+        { "hebraico": "וּמַזְמְרֹֽתֵיכֶ֖ם", "transliteral": "ū-maz-mə-rō-ṯê-ḵem", "traducao_palavra": "e as vossas foices de podar" },
+        { "hebraico": "לִרְמָחִ֑ים", "transliteral": "lir-mā-ḥîm", "traducao_palavra": "em lanças" },
+        { "hebraico": "הַֽחַלָּ֔שׁ", "transliteral": "ha-ḥal-lāš", "traducao_palavra": "o fraco" },
+        { "hebraico": "יֹאמַ֖ר", "transliteral": "yō-mar", "traducao_palavra": "diga:" },
+        { "hebraico": "גִּבֹּ֥ור", "transliteral": "gib-bôr", "traducao_palavra": "forte/valente" },
+        { "hebraico": "אָֽנִי׃", "transliteral": "ʾā-nî", "traducao_palavra": "sou eu" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Apressai-vos, e vinde, todos os povos ao redor, e ajuntai-vos; para ali faze descer, ó YHWH, os teus valentes.",
+      "palavras": [
+        { "hebraico": "ע֘וּשׁוּ", "transliteral": "ʿū-šû", "traducao_palavra": "apressai-vos" },
+        { "hebraico": "וּבֹ֧אוּ", "transliteral": "ū-ḇō-ʾû", "traducao_palavra": "e vinde" },
+        { "hebraico": "כָֽל־הַגֹּויִ֛ם", "transliteral": "ḵāl-hag-gô-yim", "traducao_palavra": "todas as nações" },
+        { "hebraico": "מִסָּבִ֖יב", "transliteral": "mis-sā-ḇîḇ", "traducao_palavra": "ao redor" },
+        { "hebraico": "וְנִקְבָּ֑צוּ", "transliteral": "wə-niq-bā-ṣû", "traducao_palavra": "e reuni-vos" },
+        { "hebraico": "שָׁ֕מָּה", "transliteral": "šām-mā", "traducao_palavra": "para ali" },
+        { "hebraico": "הַֽנְחַ֥ת", "transliteral": "han-ḥaṯ", "traducao_palavra": "faze descer" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "גִּבֹּורֶֽיךָ׃", "transliteral": "gib-bô-re-ḵā", "traducao_palavra": "os teus valentes" }
+      ]
+    }
+  }
+}

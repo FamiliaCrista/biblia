@@ -1,6 +1,212 @@
 {
-  "livro": "Jonas - יוֹנָה - Yonah",
+  "livro": "Jonas - יוֹנָה - Yônā",
   "capítulo": 4,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Mas isso desgostou a Jonas em extremo, e ele ficou irado.",
+      "palavras": [
+        { "hebraico": "וַיֵּ֥רַע", "transliteral": "way-yê-raʿ", "traducao_palavra": "e pareceu mal/desagradou" },
+        { "hebraico": "אֶל־יֹונָ֖ה", "transliteral": "ʾel-yô-nā", "traducao_palavra": "a Jonas" },
+        { "hebraico": "רָעָ֣ה", "transliteral": "rā-ʿā", "traducao_palavra": "com desgosto" },
+        { "hebraico": "גְדֹולָ֑ה", "transliteral": "gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "וַיִּ֖חַר", "transliteral": "way-yi-ḥar", "traducao_palavra": "e acendeu-se a ira" },
+        { "hebraico": "לֹֽו׃", "transliteral": "lô", "traducao_palavra": "nele" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E orou a YHWH, e disse: Ah! YHWH! Não foi isso o que eu disse, estando ainda na minha terra? Por isso me antecipei, fugindo para Társis, pois sabia que és Deus clemente e misericordioso, tardio em irar-se e grande em benignidade, e que te arrependes do mal.",
+      "palavras": [
+        { "hebraico": "וַיִּתְפַּלֵּ֨ל", "transliteral": "way-yiṯ-pal-lêl", "traducao_palavra": "e orou" },
+        { "hebraico": "אֶל־יְהוָ֜ה", "transliteral": "ʾel-YHWH", "traducao_palavra": "a YHWH" },
+        { "hebraico": "וַיֹּאמַ֗ר", "transliteral": "way-yō-mar", "traducao_palavra": "e disse:" },
+        { "hebraico": "אָנָּ֤ה", "transliteral": "ʾān-nā", "traducao_palavra": "ah!" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "הֲלֹא־זֶ֣ה", "transliteral": "hă-lō-zeh", "traducao_palavra": "não era isto" },
+        { "hebraico": "דְבָרִ֗י", "transliteral": "də-ḇā-rî", "traducao_palavra": "a minha palavra" },
+        { "hebraico": "עַד־הֱיֹותִי֙", "transliteral": "ʿaḏ-hĕ-yô-ṯî", "traducao_palavra": "estando eu ainda" },
+        { "hebraico": "עַל־אַדְמָתִ֔י", "transliteral": "ʿal-ʾaḏ-mā-ṯî", "traducao_palavra": "na minha terra?" },
+        { "hebraico": "עַל־כֵּ֥ן", "transliteral": "ʿal-kên", "traducao_palavra": "por isso" },
+        { "hebraico": "קִדַּ֖מְתִּי", "transliteral": "qid-dam-tî", "traducao_palavra": "me antecipei" },
+        { "hebraico": "לִבְרֹ֣חַ", "transliteral": "liḇ-rō-aḥ", "traducao_palavra": "a fugir" },
+        { "hebraico": "תַּרְשִׁ֑ישָׁה", "transliteral": "tar-šî-šā", "traducao_palavra": "para Társis" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "pois" },
+        { "hebraico": "יָדַ֗עְתִּי", "transliteral": "yā-ḏaʿ-tî", "traducao_palavra": "eu sabia" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "que" },
+        { "hebraico": "אַתָּה֙", "transliteral": "ʾat-tā", "traducao_palavra": "tu és" },
+        { "hebraico": "אֵֽל־חַנּ֣וּן", "transliteral": "ʾêl-ḥan-nûn", "traducao_palavra": "Deus clemente" },
+        { "hebraico": "וְרַח֔וּם", "transliteral": "wə-ra-ḥūm", "traducao_palavra": "e misericordioso" },
+        { "hebraico": "אֶ֤רֶךְ", "transliteral": "ʾe-reḵ", "traducao_palavra": "tardio em" },
+        { "hebraico": "אַפַּ֙יִם֙", "transliteral": "ʾap-pa-yim", "traducao_palavra": "irar-se" },
+        { "hebraico": "וְרַב־חֶ֔סֶד", "transliteral": "wə-raḇ-ḥe-seḏ", "traducao_palavra": "e grande em benevolência" },
+        { "hebraico": "וְנִחָ֖ם", "transliteral": "wə-ni-ḥām", "traducao_palavra": "e que se compadece/arrepende" },
+        { "hebraico": "עַל־הָרָעָֽה׃", "transliteral": "ʿal-hā-rā-ʿā", "traducao_palavra": "do mal" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Agora, pois, ó YHWH, tira-me a vida, porque melhor me é morrer do que viver.",
+      "palavras": [
+        { "hebraico": "וְעַתָּ֣ה", "transliteral": "wə-ʿat-tā", "traducao_palavra": "e agora" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "ó YHWH" },
+        { "hebraico": "קַח־נָ֥א", "transliteral": "qaḥ-nā", "traducao_palavra": "toma, peço-te" },
+        { "hebraico": "אֶת־נַפְשִׁ֖י", "transliteral": "ʾeṯ-nap̄-šî", "traducao_palavra": "a minha vida" },
+        { "hebraico": "מִמֶּ֑נִּי", "transliteral": "mim-men-nî", "traducao_palavra": "de mim" },
+        { "hebraico": "כִּ֛י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "טֹ֥וב", "transliteral": "ṭôḇ", "traducao_palavra": "melhor [é]" },
+        { "hebraico": "מֹותִ֖י", "transliteral": "mô-ṯî", "traducao_palavra": "o meu morrer" },
+        { "hebraico": "מֵחַיָּֽי׃", "transliteral": "mê-ḥay-yāy", "traducao_palavra": "do que o meu viver" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E disse YHWH: É razoável essa tua ira?",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "הַהֵיטֵ֖ב", "transliteral": "ha-hê-ṭêḇ", "traducao_palavra": "fazes bem/é razoável que" },
+        { "hebraico": "חָ֥רָה", "transliteral": "ḥā-rā", "traducao_palavra": "se acenda a ira" },
+        { "hebraico": "לָֽךְ׃", "transliteral": "lāḵ", "traducao_palavra": "em ti?" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Então Jonas saiu da cidade, e assentou-se ao oriente da mesma; e ali fez para si uma cabana, e assentou-se debaixo dela, à sombra, até ver o que aconteceria à cidade.",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵ֤א", "transliteral": "way-yê-ṣê", "traducao_palavra": "e saiu" },
+        { "hebraico": "יֹונָה֙", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "מִן־הָעִ֔יר", "transliteral": "min-hā-ʿîr", "traducao_palavra": "da cidade" },
+        { "hebraico": "וַיֵּ֖שֶׁב", "transliteral": "way-yê-šeḇ", "traducao_palavra": "e assentou-se" },
+        { "hebraico": "מִקֶּ֣דֶם", "transliteral": "miq-qe-ḏem", "traducao_palavra": "ao oriente" },
+        { "hebraico": "לָעִ֑יר", "transliteral": "lā-ʿîr", "traducao_palavra": "da cidade" },
+        { "hebraico": "וַיַּעַשׂ֩", "transliteral": "way-ya-ʿaś", "traducao_palavra": "e fez" },
+        { "hebraico": "לֹ֨ו", "transliteral": "lô", "traducao_palavra": "para si" },
+        { "hebraico": "שָׁ֜ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "סֻכָּ֗ה", "transliteral": "suk-kā", "traducao_palavra": "uma cabana" },
+        { "hebraico": "וַיֵּ֤שֶׁב", "transliteral": "way-yê-šeḇ", "traducao_palavra": "e assentou-se" },
+        { "hebraico": "תַּחְתֶּ֙יהָ֙", "transliteral": "taḥ-te-hā", "traducao_palavra": "debaixo dela" },
+        { "hebraico": "בַּצֵּ֔ל", "transliteral": "baṣ-ṣêl", "traducao_palavra": "à sombra" },
+        { "hebraico": "עַ֚ד", "transliteral": "ʿaḏ", "traducao_palavra": "até" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "יִרְאֶ֔ה", "transliteral": "yir-ʾeh", "traducao_palavra": "visse" },
+        { "hebraico": "מַה־יִּהְיֶ֖ה", "transliteral": "mah-yih-yeh", "traducao_palavra": "o que aconteceria" },
+        { "hebraico": "בָּעִֽיר׃", "transliteral": "bā-ʿîr", "traducao_palavra": "à cidade" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E preparou YHWH Deus uma planta, que subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu enfado; e Jonas se alegrou em extremo por causa da planta.",
+      "palavras": [
+        { "hebraico": "וַיְמַ֣ן", "transliteral": "way-man", "traducao_palavra": "e destinou/preparou" },
+        { "hebraico": "יְהוָֽה־אֱ֠לֹהִים", "transliteral": "YHWH-ʾĕ-lō-hîm", "traducao_palavra": "YHWH Deus" },
+        { "hebraico": "קִיקָיֹ֞ון", "transliteral": "qî-qā-yôn", "traducao_palavra": "uma planta/aboboreira" },
+        { "hebraico": "וַיַּ֣עַל", "transliteral": "way-ya-ʿal", "traducao_palavra": "e ela cresceu/subiu" },
+        { "hebraico": "מֵעַ֣ל", "transliteral": "mê-ʿal", "traducao_palavra": "por cima" },
+        { "hebraico": "לְיֹונָ֗ה", "transliteral": "lə-yô-nā", "traducao_palavra": "de Jonas" },
+        { "hebraico": "לִֽהְיֹ֥ות", "transliteral": "lih-yôṯ", "traducao_palavra": "para ser" },
+        { "hebraico": "צֵל֙", "transliteral": "ṣêl", "traducao_palavra": "sombra" },
+        { "hebraico": "עַל־רֹאשֹׁ֔ו", "transliteral": "ʿal-rō-šô", "traducao_palavra": "sobre a sua cabeça" },
+        { "hebraico": "לְהַצִּ֥יל", "transliteral": "lə-haṣ-ṣîl", "traducao_palavra": "para livrar" },
+        { "hebraico": "לֹ֖ו", "transliteral": "lô", "traducao_palavra": "a ele" },
+        { "hebraico": "מֵרָֽעָתֹ֑ו", "transliteral": "mê-rā-ʿā-ṯô", "traducao_palavra": "do seu desgosto/enfado" },
+        { "hebraico": "וַיִּשְׂמַ֥ח", "transliteral": "way-yiś-maḥ", "traducao_palavra": "e alegrou-se" },
+        { "hebraico": "יֹונָ֛ה", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "עַל־הַקִּיקָיֹ֖ון", "transliteral": "ʿal-haq-qî-qā-yôn", "traducao_palavra": "com a planta" },
+        { "hebraico": "שִׂמְחָ֥ה", "transliteral": "śim-ḥā", "traducao_palavra": "com alegria" },
+        { "hebraico": "גְדֹולָֽה׃", "transliteral": "gə-ḏô-lā", "traducao_palavra": "grande" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Mas Deus preparou um verme, no dia seguinte, ao subir da alva, o qual feriu a planta, e esta secou-se.",
+      "palavras": [
+        { "hebraico": "וַיְמַ֤ן", "transliteral": "way-man", "traducao_palavra": "e preparou" },
+        { "hebraico": "הָֽאֱלֹהִים֙", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "תֹּולַ֔עַת", "transliteral": "tô-la-ʿaṯ", "traducao_palavra": "um verme" },
+        { "hebraico": "בַּעֲלֹ֥ות", "transliteral": "ba-ʿă-lôṯ", "traducao_palavra": "ao despontar de" },
+        { "hebraico": "הַשַּׁ֖חַר", "transliteral": "haš-ša-ḥar", "traducao_palavra": "a alvorada" },
+        { "hebraico": "לַֽמָּחֳרָ֑ת", "transliteral": "lam-mā-ḥo-rāṯ", "traducao_palavra": "no dia seguinte" },
+        { "hebraico": "וַתַּ֥ךְ", "transliteral": "wat-taḵ", "traducao_palavra": "e ele feriu" },
+        { "hebraico": "אֶת־הַקִּיקָיֹ֖ון", "transliteral": "ʾeṯ-haq-qî-qā-yôn", "traducao_palavra": "a planta" },
+        { "hebraico": "וַיִּיבָֽשׁ׃", "transliteral": "way-yî-ḇāš", "traducao_palavra": "e secou-se" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E aconteceu que, nascendo o sol, Deus mandou um vento calmoso oriental, e o sol feriu a cabeça de Jonas, e ele desmaiou; e desejou a morte para si, dizendo: Melhor me é morrer do que viver.",
+      "palavras": [
+        { "hebraico": "וַיְהִ֣י", "transliteral": "way-hî", "traducao_palavra": "e aconteceu" },
+        { "hebraico": "כִּזְרֹ֣חַ", "transliteral": "kiz-rō-aḥ", "traducao_palavra": "ao nascer de" },
+        { "hebraico": "הַשֶּׁ֗מֶשׁ", "transliteral": "haš-še-meš", "traducao_palavra": "o sol" },
+        { "hebraico": "וַיְמַ֨ן", "transliteral": "way-man", "traducao_palavra": "que preparou" },
+        { "hebraico": "אֱלֹהִ֜ים", "transliteral": "ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "ר֤וּחַ", "transliteral": "rū-aḥ", "traducao_palavra": "um vento" },
+        { "hebraico": "קָדִים֙", "transliteral": "qā-ḏîm", "traducao_palavra": "oriental" },
+        { "hebraico": "חֲרִישִׁ֔ית", "transliteral": "ḥă-rî-šîṯ", "traducao_palavra": "abrasador" },
+        { "hebraico": "וַתַּ֥ךְ", "transliteral": "wat-taḵ", "traducao_palavra": "e bateu/feriu" },
+        { "hebraico": "הַשֶּׁ֛מֶשׁ", "transliteral": "haš-še-meš", "traducao_palavra": "o sol" },
+        { "hebraico": "עַל־רֹ֥אשׁ", "transliteral": "ʿal-rōš", "traducao_palavra": "sobre a cabeça de" },
+        { "hebraico": "יֹונָ֖ה", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "וַיִּתְעַלָּ֑ף", "transliteral": "way-yiṯ-ʿal-lāp̄", "traducao_palavra": "e ele desmaiou" },
+        { "hebraico": "וַיִּשְׁאַ֤ל", "transliteral": "way-yiš-ʾal", "traducao_palavra": "e pediu" },
+        { "hebraico": "אֶת־נַפְשֹׁו֙", "transliteral": "ʾeṯ-nap̄-šô", "traducao_palavra": "para a sua alma" },
+        { "hebraico": "לָמ֔וּת", "transliteral": "lā-mūṯ", "traducao_palavra": "o morrer" },
+        { "hebraico": "וַיֹּ֕אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse:" },
+        { "hebraico": "טֹ֥וב", "transliteral": "ṭôḇ", "traducao_palavra": "melhor [é]" },
+        { "hebraico": "מֹותִ֖י", "transliteral": "mô-ṯî", "traducao_palavra": "o meu morrer" },
+        { "hebraico": "מֵחַיָּֽי׃", "transliteral": "mê-ḥay-yāy", "traducao_palavra": "do que o meu viver" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Disse Deus a Jonas: É razoável essa tua ira por causa da planta? Ele respondeu: É razoável a minha ira até à morte.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֱלֹהִים֙", "transliteral": "ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶל־יֹונָ֔ה", "transliteral": "ʾel-yô-nā", "traducao_palavra": "a Jonas:" },
+        { "hebraico": "הַהֵיטֵ֥ב", "transliteral": "ha-hê-ṭêḇ", "traducao_palavra": "é razoável" },
+        { "hebraico": "חָרָֽה־לְךָ֖", "transliteral": "ḥā-rā-lə-ḵā", "traducao_palavra": "que te ires" },
+        { "hebraico": "עַל־הַקִּיקָיֹ֑ון", "transliteral": "ʿal-haq-qî-qā-yôn", "traducao_palavra": "por causa da planta?" },
+        { "hebraico": "וַיֹּ֕אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse:" },
+        { "hebraico": "הֵיטֵ֥ב", "transliteral": "hê-ṭêḇ", "traducao_palavra": "é justo/razoável" },
+        { "hebraico": "חָֽרָה־לִ֖י", "transliteral": "ḥā-rā-lî", "traducao_palavra": "que eu me ire" },
+        { "hebraico": "עַד־מָֽוֶת׃", "transliteral": "ʿad-mā-weṯ", "traducao_palavra": "até à morte" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E disse YHWH: Tu tiveste compaixão da planta, pela qual não trabalhaste, nem a fizeste crescer, que numa noite nasceu e numa noite pereceu;",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH:" },
+        { "hebraico": "אַתָּ֥ה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "חַ֙סְתָּ֙", "transliteral": "ḥas-tā", "traducao_palavra": "tiveste compaixão" },
+        { "hebraico": "עַל־הַקִּיקָיֹ֔ון", "transliteral": "ʿal-haq-qî-qā-yôn", "traducao_palavra": "da planta" },
+        { "hebraico": "אֲשֶׁ֛ר", "transliteral": "ʾă-šer", "traducao_palavra": "pela qual" },
+        { "hebraico": "לֹא־עָמַ֥לְתָּ", "transliteral": "lō-ʿā-mal-tā", "traducao_palavra": "não trabalhaste" },
+        { "hebraico": "בֹּ֖ו", "transliteral": "bô", "traducao_palavra": "nela" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "e não" },
+        { "hebraico": "גִדַּלְתֹּ֑ו", "transliteral": "ḡid-dal-tô", "traducao_palavra": "a fizeste crescer" },
+        { "hebraico": "שֶׁבִּן־לַ֥יְלָה", "transliteral": "šeb-bin-lay-lā", "traducao_palavra": "que numa noite" },
+        { "hebraico": "הָיָ֖ה", "transliteral": "hā-yā", "traducao_palavra": "nasceu" },
+        { "hebraico": "וּבִן־לַ֥יְלָה", "transliteral": "ū-ḇin-lay-lā", "traducao_palavra": "e numa noite" },
+        { "hebraico": "אָבָֽד׃", "transliteral": "ʾā-ḇāḏ", "traducao_palavra": "pereceu" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "e não hei de eu ter compaixão da grande cidade de Nínive, em que há mais de cento e vinte mil pessoas que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais?",
+      "palavras": [
+        { "hebraico": "וַֽאֲנִי֙", "transliteral": "wa-ʾă-nî", "traducao_palavra": "e eu" },
+        { "hebraico": "לֹ֣א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אָח֔וּס", "transliteral": "ʾā-ḥūs", "traducao_palavra": "hei de ter compaixão" },
+        { "hebraico": "עַל־נִינְוֵ֖ה", "transliteral": "ʿal-nî-nə-wêh", "traducao_palavra": "de Nínive" },
+        { "hebraico": "הָעִ֣יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "הַגְּדֹולָ֑ה", "transliteral": "hag-gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "em que" },
+        { "hebraico": "יֶשׁ־בָּ֠הּ", "transliteral": "yeš-bāh", "traducao_palavra": "há nela" },
+        { "hebraico": "הַרְבֵּ֨ה", "transliteral": "har-bêh", "traducao_palavra": "mais" },
+        { "hebraico": "מִֽשְׁתֵּים־עֶשְׂרֵ֥ה", "transliteral": "miš-têm-ʿeś-rêh", "traducao_palavra": "de doze" },
+        { "hebraico": "רִבֹּ֛ו", "transliteral": "rib-bô", "traducao_palavra": "miríades [cento e vinte mil]" },
+        { "hebraico": "אָדָ֗ם", "transliteral": "ʾā-ḏām", "traducao_palavra": "pessoas" },
+        { "hebraico": "אֲשֶׁ֤ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "לֹֽא־יָדַע֙", "transliteral": "lō-yā-ḏaʿ", "traducao_palavra": "não sabem discernir" },
+        { "hebraico": "בֵּין־יְמִינֹ֣ו", "transliteral": "bên-yə-mî-nô", "traducao_palavra": "entre a sua direita" },
+        { "hebraico": "לִשְׂמֹאלֹ֔ו", "transliteral": "liś-mō-lô", "traducao_palavra": "e a sua esquerda" },
+        { "hebraico": "וּבְהֵמָ֖ה", "transliteral": "ū-ḇə-hê-mā", "traducao_palavra": "e animais" },
+        { "hebraico": "רַבָּֽה׃", "transliteral": "rab-bā", "traducao_palavra": "muitos?" }
+      ]
+    }
+  }
 }

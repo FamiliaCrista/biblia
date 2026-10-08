@@ -1,6 +1,175 @@
 {
-  "livro": "Jonas - יוֹנָה - Yonah",
+  "livro": "Jonas - יוֹנָה - Yônā",
   "capítulo": 3,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E veio a palavra de YHWH segunda vez a Jonas, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֤י", "transliteral": "way-hî", "traducao_palavra": "e veio/aconteceu" },
+        { "hebraico": "דְבַר־יְהוָה֙", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־יֹונָ֔ה", "transliteral": "ʾel-yô-nā", "traducao_palavra": "a Jonas" },
+        { "hebraico": "שֵׁנִ֖ית", "transliteral": "šê-nîṯ", "traducao_palavra": "segunda vez" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Levanta-te, vai à grande cidade de Nínive, e prega contra ela a mensagem que eu te digo.",
+      "palavras": [
+        { "hebraico": "ק֛וּם", "transliteral": "qūm", "traducao_palavra": "levanta-te" },
+        { "hebraico": "לֵ֥ךְ", "transliteral": "lêḵ", "traducao_palavra": "vai" },
+        { "hebraico": "אֶל־נִֽינְוֵ֖ה", "transliteral": "ʾel-nî-nə-wêh", "traducao_palavra": "a Nínive" },
+        { "hebraico": "הָעִ֣יר", "transliteral": "hā-ʿîr", "traducao_palavra": "a cidade" },
+        { "hebraico": "הַגְּדֹולָ֑ה", "transliteral": "hag-gə-ḏô-lā", "traducao_palavra": "grande" },
+        { "hebraico": "וּקְרָ֤א", "transliteral": "ū-qə-rā", "traducao_palavra": "e proclama/clama" },
+        { "hebraico": "אֵלֶ֙יהָ֙", "transliteral": "ʾê-le-hā", "traducao_palavra": "contra ela" },
+        { "hebraico": "אֶת־הַקְּרִיאָ֔ה", "transliteral": "ʾeṯ-haq-qə-rî-ʾā", "traducao_palavra": "a mensagem/proclamação" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "אָנֹכִ֖י", "transliteral": "ʾā-nō-ḵî", "traducao_palavra": "eu" },
+        { "hebraico": "דֹּבֵ֥ר", "transliteral": "dō-ḇêr", "traducao_palavra": "estou falando" },
+        { "hebraico": "אֵלֶֽיךָ׃", "transliteral": "ʾê-le-ḵā", "traducao_palavra": "a ti" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E levantou-se Jonas, e foi a Nínive, segundo a palavra de YHWH. Ora, Nínive era uma cidade mui grande, de três dias de caminho.",
+      "palavras": [
+        { "hebraico": "וַיָּ֣קָם", "transliteral": "way-yā-qām", "traducao_palavra": "e levantou-se" },
+        { "hebraico": "יֹונָ֗ה", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "וַיֵּ֛לֶךְ", "transliteral": "way-yê-leḵ", "traducao_palavra": "e foi" },
+        { "hebraico": "אֶל־נִֽינְוֶ֖ה", "transliteral": "ʾel-nî-nə-weh", "traducao_palavra": "a Nínive" },
+        { "hebraico": "כִּדְבַ֣ר", "transliteral": "kiḏ-ḇar", "traducao_palavra": "segundo a palavra de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְנִֽינְוֵ֗ה", "transliteral": "wə-nî-nə-wêh", "traducao_palavra": "ora, Nínive" },
+        { "hebraico": "הָיְתָ֤ה", "transliteral": "hā-yə-ṯā", "traducao_palavra": "era" },
+        { "hebraico": "עִיר־גְּדֹולָה֙", "transliteral": "ʿîr-gə-ḏô-lā", "traducao_palavra": "uma cidade grande" },
+        { "hebraico": "לֵֽאלֹהִ֔ים", "transliteral": "lê-lō-hîm", "traducao_palavra": "diante de Deus/extraordinária" },
+        { "hebraico": "מַהֲלַ֖ךְ", "transliteral": "ma-hă-laḵ", "traducao_palavra": "de percurso de" },
+        { "hebraico": "שְׁלֹ֥שֶׁת", "transliteral": "šə-lō-šeṯ", "traducao_palavra": "três" },
+        { "hebraico": "יָמִֽים׃", "transliteral": "yā-mîm", "traducao_palavra": "dias" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E começou Jonas a entrar pela cidade caminho de um dia, e pregava, e dizia: Ainda quarenta dias, e Nínive será subvertida.",
+      "palavras": [
+        { "hebraico": "וַיָּ֤חֶל", "transliteral": "way-yā-ḥel", "traducao_palavra": "e começou" },
+        { "hebraico": "יֹונָה֙", "transliteral": "yô-nā", "traducao_palavra": "Jonas" },
+        { "hebraico": "לָבֹ֣וא", "transliteral": "lā-ḇô", "traducao_palavra": "a entrar" },
+        { "hebraico": "בָעִ֔יר", "transliteral": "ḇā-ʿîr", "traducao_palavra": "na cidade" },
+        { "hebraico": "מַהֲלַ֖ךְ", "transliteral": "ma-hă-laḵ", "traducao_palavra": "caminho de" },
+        { "hebraico": "יֹ֣ום", "transliteral": "yôm", "traducao_palavra": "dia" },
+        { "hebraico": "אֶחָ֑ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "um" },
+        { "hebraico": "וַיִּקְרָא֙", "transliteral": "way-yiq-rā", "traducao_palavra": "e proclamou" },
+        { "hebraico": "וַיֹּאמַ֔ר", "transliteral": "way-yō-mar", "traducao_palavra": "e disse:" },
+        { "hebraico": "עֹ֚וד", "transliteral": "ʿôḏ", "traducao_palavra": "ainda" },
+        { "hebraico": "אַרְבָּעִ֣ים", "transliteral": "ʾar-bā-ʿîm", "traducao_palavra": "quarenta" },
+        { "hebraico": "יֹ֔ום", "transliteral": "yôm", "traducao_palavra": "dias" },
+        { "hebraico": "וְנִֽינְוֵ֖ה", "transliteral": "wə-nî-nə-wêh", "traducao_palavra": "e Nínive" },
+        { "hebraico": "נֶהְפָּֽכֶת׃", "transliteral": "neh-pā-ḵeṯ", "traducao_palavra": "será subvertida/destruída" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E os homens de Nínive creram em Deus; e proclamaram um jejum, e vestiram-se de panos de saco, desde o maior até ao menor.",
+      "palavras": [
+        { "hebraico": "וַֽיַּאֲמִ֛ינוּ", "transliteral": "way-ya-ʾă-mî-nû", "traducao_palavra": "e creram" },
+        { "hebraico": "אַנְשֵׁ֥י", "transliteral": "ʾan-šê", "traducao_palavra": "os homens de" },
+        { "hebraico": "נִֽינְוֵ֖ה", "transliteral": "nî-nə-wêh", "traducao_palavra": "Nínive" },
+        { "hebraico": "בֵּֽאלֹהִ֑ים", "transliteral": "bê-lō-hîm", "traducao_palavra": "em Deus" },
+        { "hebraico": "וַיִּקְרְאוּ־צֹום֙", "transliteral": "way-yiq-rə-ʾū-ṣôm", "traducao_palavra": "e proclamaram um jejum" },
+        { "hebraico": "וַיִּלְבְּשׁ֣וּ", "transliteral": "way-yil-bə-šû", "traducao_palavra": "e vestiram-se de" },
+        { "hebraico": "שַׂקִּ֔ים", "transliteral": "śaq-qîm", "traducao_palavra": "panos de saco" },
+        { "hebraico": "מִגְּדֹולָ֖ם", "transliteral": "miḡ-dô-lām", "traducao_palavra": "desde o maior deles" },
+        { "hebraico": "וְעַד־קְטַנָּֽם׃", "transliteral": "wə-ʿaḏ-qə-ṭan-nām", "traducao_palavra": "até ao menor deles" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Porque a palavra chegou ao rei de Nínive; e ele levantou-se do seu trono, e tirou de si o seu manto, e cobriu-se de pano de saco, e assentou-se sobre a cinza.",
+      "palavras": [
+        { "hebraico": "וַיִּגַּ֤ע", "transliteral": "way-yiḡ-gaʿ", "traducao_palavra": "e chegou" },
+        { "hebraico": "הַדָּבָר֙", "transliteral": "had-dā-ḇār", "traducao_palavra": "a palavra/notícia" },
+        { "hebraico": "אֶל־מֶ֣לֶךְ", "transliteral": "ʾel-me-leḵ", "traducao_palavra": "ao rei de" },
+        { "hebraico": "נִֽינְוֵ֔ה", "transliteral": "nî-nə-wêh", "traducao_palavra": "Nínive" },
+        { "hebraico": "וַיָּ֙קָם֙", "transliteral": "way-yā-qām", "traducao_palavra": "e levantou-se" },
+        { "hebraico": "מִכִּסְאֹ֔ו", "transliteral": "mik-kis-ʾô", "traducao_palavra": "do seu trono" },
+        { "hebraico": "וַיַּעֲבֵ֥ר", "transliteral": "way-ya-ʿă-ḇêr", "traducao_palavra": "e despiu" },
+        { "hebraico": "אַדַּרְתֹּ֖ו", "transliteral": "ʾad-dar-tô", "traducao_palavra": "o seu manto real" },
+        { "hebraico": "מֵֽעָלָ֑יו", "transliteral": "mê-ʿā-lāyw", "traducao_palavra": "de sobre si" },
+        { "hebraico": "וַיְכַ֣ס", "transliteral": "way-ḵas", "traducao_palavra": "e cobriu-se de" },
+        { "hebraico": "שַׂ֔ק", "transliteral": "śaq", "traducao_palavra": "pano de saco" },
+        { "hebraico": "וַיֵּ֖שֶׁב", "transliteral": "way-yê-šeḇ", "traducao_palavra": "e assentou-se" },
+        { "hebraico": "עַל־הָאֵֽפֶר׃", "transliteral": "ʿal-hā-ʾê-p̄er", "traducao_palavra": "sobre a cinza" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E fez proclamar e divulgar em Nínive, por mandado do rei e dos seus grandes, dizendo: Não provem coisa alguma nem homens, nem animais, nem bois, nem ovelhas; não pastem, nem bebam água;",
+      "palavras": [
+        { "hebraico": "וַיַּזְעֵ֗ק", "transliteral": "way-yaz-ʿêq", "traducao_palavra": "e fez apregoar" },
+        { "hebraico": "וַיֹּ֙אמֶר֙", "transliteral": "way-yō-mer", "traducao_palavra": "e divulgar" },
+        { "hebraico": "בְּנִֽינְוֵ֔ה", "transliteral": "bə-nî-nə-wêh", "traducao_palavra": "em Nínive" },
+        { "hebraico": "מִטַּ֧עַם", "transliteral": "miṭ-ṭa-ʿam", "traducao_palavra": "por decreto de" },
+        { "hebraico": "הַמֶּ֛לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "וּגְדֹלָ֖יו", "transliteral": "ū-ḡə-ḏō-lāyw", "traducao_palavra": "e dos seus nobres" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" },
+        { "hebraico": "הָאָדָ֨ם", "transliteral": "hā-ʾā-ḏām", "traducao_palavra": "o homem" },
+        { "hebraico": "וְהַבְּהֵמָ֜ה", "transliteral": "wə-hab-bə-hê-mā", "traducao_palavra": "e o animal" },
+        { "hebraico": "הַבָּקָ֣ר", "transliteral": "hab-bā-qār", "traducao_palavra": "o gado vacum" },
+        { "hebraico": "וְהַצֹּ֗אן", "transliteral": "wə-haṣ-ṣōn", "traducao_palavra": "e o rebanho miúdo" },
+        { "hebraico": "אַֽל־יִטְעֲמוּ֙", "transliteral": "ʾal-yiṭ-ʿă-mû", "traducao_palavra": "não provem" },
+        { "hebraico": "מְא֔וּמָה", "transliteral": "mə-ʾū-mā", "traducao_palavra": "coisa alguma" },
+        { "hebraico": "אַל־יִרְע֖וּ", "transliteral": "ʾal-yir-ʿû", "traducao_palavra": "não pastem" },
+        { "hebraico": "וּמַ֥יִם", "transliteral": "ū-ma-yim", "traducao_palavra": "e água" },
+        { "hebraico": "אַל־יִשְׁתּֽוּ׃", "transliteral": "ʾal-yiš-tû", "traducao_palavra": "não bebam" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "mas os homens e os animais estejam cobertos de panos de saco, e clamem fortemente a Deus, e convertam-se, cada um do seu mau caminho, e da violência que há nas suas mãos.",
+      "palavras": [
+        { "hebraico": "וְיִתְכַּסּ֣וּ", "transliteral": "wə-yiṯ-kas-sû", "traducao_palavra": "mas cubram-se de" },
+        { "hebraico": "שַׂקִּ֗ים", "transliteral": "śaq-qîm", "traducao_palavra": "panos de saco" },
+        { "hebraico": "הָאָדָם֙", "transliteral": "hā-ʾā-ḏām", "traducao_palavra": "o homem" },
+        { "hebraico": "וְהַבְּהֵמָ֔ה", "transliteral": "wə-hab-bə-hê-mā", "traducao_palavra": "e o animal" },
+        { "hebraico": "וְיִקְרְא֥וּ", "transliteral": "wə-yiq-rə-ʾû", "traducao_palavra": "e clamem" },
+        { "hebraico": "אֶל־אֱלֹהִ֖ים", "transliteral": "ʾel-ʾĕ-lō-hîm", "traducao_palavra": "a Deus" },
+        { "hebraico": "בְּחָזְקָ֑ה", "transliteral": "bə-ḥāz-qā", "traducao_palavra": "com força" },
+        { "hebraico": "וְיָשֻׁ֗בוּ", "transliteral": "wə-yā-šu-ḇû", "traducao_palavra": "e convertam-se" },
+        { "hebraico": "אִ֚ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "מִדַּרְכֹּ֣ו", "transliteral": "mid-dar-kô", "traducao_palavra": "do seu caminho" },
+        { "hebraico": "הָרָעָ֔ה", "transliteral": "hā-rā-ʿā", "traducao_palavra": "mau" },
+        { "hebraico": "וּמִן־הֶחָמָ֖ס", "transliteral": "ū-min-he-ḥā-mās", "traducao_palavra": "e da violência" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que está" },
+        { "hebraico": "בְּכַפֵּיהֶֽם׃", "transliteral": "bə-ḵap-pê-hem", "traducao_palavra": "nas suas mãos" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Quem sabe se se voltará Deus, e se arrependerá, e se apartará do furor da sua ira, de sorte que não pereçamos?",
+      "palavras": [
+        { "hebraico": "מִֽי־יֹודֵ֣עַ", "transliteral": "mî-yô-ḏê-aʿ", "traducao_palavra": "quem sabe se" },
+        { "hebraico": "יָשׁ֔וּב", "transliteral": "yā-šūḇ", "traducao_palavra": "se voltará" },
+        { "hebraico": "וְנִחַ֖ם", "transliteral": "wə-ni-ḥam", "traducao_palavra": "e se compadecerá/arrependerá" },
+        { "hebraico": "הָאֱלֹהִ֑ים", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "וְשָׁ֛ב", "transliteral": "wə-šāḇ", "traducao_palavra": "e se apartará" },
+        { "hebraico": "מֵחֲרֹ֥ון", "transliteral": "mê-ḥă-rôn", "traducao_palavra": "do furor de" },
+        { "hebraico": "אַפֹּ֖ו", "transliteral": "ʾap-pô", "traducao_palavra": "sua ira" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "para que não" },
+        { "hebraico": "נֹאבֵֽד׃", "transliteral": "nō-ḇêḏ", "traducao_palavra": "pereçamos?" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E Deus viu as obras deles, como se converteram do seu mau caminho; e Deus se arrependeu do mal que tinha dito lhes faria, e não o fez.",
+      "palavras": [
+        { "hebraico": "וַיַּ֤רְא", "transliteral": "way-yar", "traducao_palavra": "e viu" },
+        { "hebraico": "הָֽאֱלֹהִים֙", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶֽת־מַעֲשֵׂיהֶ֔ם", "transliteral": "ʾeṯ-ma-ʿă-śê-hem", "traducao_palavra": "as obras deles" },
+        { "hebraico": "כִּי־שָׁ֖בוּ", "transliteral": "kî-šā-ḇû", "traducao_palavra": "como se converteram" },
+        { "hebraico": "מִדַּרְכָּ֣ם", "transliteral": "mid-dar-kām", "traducao_palavra": "do seu caminho" },
+        { "hebraico": "הָרָעָ֑ה", "transliteral": "hā-rā-ʿā", "traducao_palavra": "mau" },
+        { "hebraico": "וַיִּנָּ֣חֶם", "transliteral": "way-yin-nā-ḥem", "traducao_palavra": "e arrependeu-se" },
+        { "hebraico": "הָאֱלֹהִ֗ים", "transliteral": "hā-ʾĕ-lō-hîm", "traducao_palavra": "Deus" },
+        { "hebraico": "עַל־הָרָעָ֛ה", "transliteral": "ʿal-hā-rā-ʿā", "traducao_palavra": "do mal" },
+        { "hebraico": "אֲשֶׁר־דִּבֶּ֥ר", "transliteral": "ʾă-šer-dib-ber", "traducao_palavra": "que falara" },
+        { "hebraico": "לַעֲשֹׂות־לָהֶ֖ם", "transliteral": "la-ʿă-śôṯ-lā-hem", "traducao_palavra": "em lhes fazer" },
+        { "hebraico": "וְלֹ֥א", "transliteral": "wə-lō", "traducao_palavra": "e não o" },
+        { "hebraico": "עָשָֽׂה׃", "transliteral": "ʿā-śā", "traducao_palavra": "fez" }
+      ]
+    }
+  }
 }
