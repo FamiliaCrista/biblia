@@ -1,6 +1,199 @@
 {
-  "livro": "Zacarias - זְכַרְיָה - Zekharyah",
+  "livro": "Zacarias - זְכַרְיָה - Zəḵaryā",
   "capítulo": 5,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Tornei a levantar os meus olhos, e olhei, e eis um rolo volante.",
+      "palavras": [
+        { "hebraico": "וָאָשׁ֕וּב", "transliteral": "wā-ʾā-šûḇ", "traducao_palavra": "e tornei a" },
+        { "hebraico": "וָאֶשָּׂ֥א", "transliteral": "wā-ʾeś-śā", "traducao_palavra": "e levantei" },
+        { "hebraico": "עֵינַ֖י", "transliteral": "ʿê-nay", "traducao_palavra": "meus olhos" },
+        { "hebraico": "וָֽאֶרְאֶ֑ה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e vi" },
+        { "hebraico": "וְהִנֵּ֖ה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis" },
+        { "hebraico": "מְגִלָּ֥ה", "transliteral": "mə-ḡil-lā", "traducao_palavra": "um rolo" },
+        { "hebraico": "עָפָֽה׃", "transliteral": "ʿā-p̄ā", "traducao_palavra": "que voava" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E ele me perguntou: Que vês? Eu respondi: Vejo um rolo volante, que tem vinte côvados de comprimento e dez côvados de largura.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "מָ֥ה", "transliteral": "māh", "traducao_palavra": "o que" },
+        { "hebraico": "אַתָּ֖ה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "רֹאֶ֑ה", "transliteral": "rō-ʾeh", "traducao_palavra": "vês" },
+        { "hebraico": "וָאֹמַ֗ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e eu disse" },
+        { "hebraico": "אֲנִ֤י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "רֹאֶה֙", "transliteral": "rō-ʾeh", "traducao_palavra": "vejo" },
+        { "hebraico": "מְגִלָּ֣ה", "transliteral": "mə-ḡil-lā", "traducao_palavra": "um rolo" },
+        { "hebraico": "עָפָ֔ה", "transliteral": "ʿā-p̄ā", "traducao_palavra": "volante" },
+        { "hebraico": "אָרְכָּהּ֙", "transliteral": "ʾār-kāh", "traducao_palavra": "o seu comprimento" },
+        { "hebraico": "עֶשְׂרִ֣ים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "בָּֽאַמָּ֔ה", "transliteral": "bā-ʾam-mā", "traducao_palavra": "em côvados" },
+        { "hebraico": "וְרָחְבָּ֖הּ", "transliteral": "wə-rāḥ-bāh", "traducao_palavra": "e a sua largura" },
+        { "hebraico": "עֶ֥שֶׂר", "transliteral": "ʿe-śer", "traducao_palavra": "dez" },
+        { "hebraico": "בָּאַמָּֽה׃", "transliteral": "bā-ʾam-mā", "traducao_palavra": "em côvados" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Então me disse: Esta é a maldição que sai pela face de toda a terra; porque qualquer que furtar será expulso segundo o que está escrito de um lado, e qualquer que jurar falsamente será expulso segundo o que está escrito do outro lado.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "זֹ֚את", "transliteral": "zōʾṯ", "traducao_palavra": "esta [é]" },
+        { "hebraico": "הָֽאָלָ֔ה", "transliteral": "hā-ʾā-lā", "traducao_palavra": "a maldição" },
+        { "hebraico": "הַיֹּוצֵ֖את", "transliteral": "hay-yô-ṣêṯ", "traducao_palavra": "que sai" },
+        { "hebraico": "עַל־פְּנֵ֣י", "transliteral": "ʿal-pə-nê", "traducao_palavra": "sobre a face de" },
+        { "hebraico": "כָל־הָאָ֑רֶץ", "transliteral": "ḵāl-hā-ʾā-reṣ", "traducao_palavra": "toda a terra" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "כָל־הַגֹּנֵ֗ב", "transliteral": "ḵāl-hag-gō-nêḇ", "traducao_palavra": "todo o que furta" },
+        { "hebraico": "מִזֶּה֙", "transliteral": "miz-zeh", "traducao_palavra": "de um lado" },
+        { "hebraico": "כָּמֹ֣והָ", "transliteral": "kā-mô-hā", "traducao_palavra": "conforme ela" },
+        { "hebraico": "נִקָּ֔ה", "transliteral": "niq-qā", "traducao_palavra": "será desarraigado / expulso" },
+        { "hebraico": "וְכָל־הַנִּשְׁבָּ֔ע", "transliteral": "wə-ḵāl-han-niš-bāʿ", "traducao_palavra": "e todo o que jura falsamente" },
+        { "hebraico": "מִזֶּ֖ה", "transliteral": "miz-zeh", "traducao_palavra": "do outro lado" },
+        { "hebraico": "כָּמֹ֥והָ", "transliteral": "kā-mô-hā", "traducao_palavra": "conforme ela" },
+        { "hebraico": "נִקָּֽה׃", "transliteral": "niq-qā", "traducao_palavra": "será desarraigado / expulso" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Eu a farei sair, diz YHWH dos Exércitos, e ela entrará na casa do ladrão, e na casa do que jurar falsamente pelo meu nome; e pernoitará no meio da sua casa, e a consumirá com a sua madeira e com as suas pedras.",
+      "palavras": [
+        { "hebraico": "הֹוצֵאתִ֗יהָ", "transliteral": "hô-ṣê-ṯî-hā", "traducao_palavra": "eu a farei sair" },
+        { "hebraico": "נְאֻם֙", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֔ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "וּבָ֙אָה֙", "transliteral": "ū-ḇā-ʾā", "traducao_palavra": "e entrará" },
+        { "hebraico": "אֶל־בֵּ֣ית", "transliteral": "ʾel-bêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "הַגַּנָּ֔ב", "transliteral": "hag-gan-nāḇ", "traducao_palavra": "o ladrão" },
+        { "hebraico": "וְאֶל־בֵּ֛ית", "transliteral": "wə-ʾel-bêṯ", "traducao_palavra": "e na casa de" },
+        { "hebraico": "הַנִּשְׁבָּ֥ע", "transliteral": "han-niš-bāʿ", "traducao_palavra": "o que jura" },
+        { "hebraico": "בִּשְׁמִ֖י", "transliteral": "biš-mî", "traducao_palavra": "em meu nome" },
+        { "hebraico": "לַשָּׁ֑קֶר", "transliteral": "laš-šā-qer", "traducao_palavra": "falsamente" },
+        { "hebraico": "וְלָ֙נֶה֙", "transliteral": "wə-lā-neh", "traducao_palavra": "e pernoitará" },
+        { "hebraico": "בְּתֹ֣וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "בֵּיתֹ֔ו", "transliteral": "bê-ṯô", "traducao_palavra": "sua casa" },
+        { "hebraico": "וְכִלַּ֖תּוּ", "transliteral": "wə-ḵil-lat-tû", "traducao_palavra": "e a consumirá" },
+        { "hebraico": "וְאֶת־עֵצָ֥יו", "transliteral": "wə-ʾeṯ-ʿê-ṣāyw", "traducao_palavra": "tanto a sua madeira" },
+        { "hebraico": "וְאֶת־אֲבָנָֽיו׃", "transliteral": "wə-ʾeṯ-ʾă-ḇā-nāyw", "traducao_palavra": "como as suas pedras" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E saiu o anjo que falava comigo, e me disse: Levanta agora os teus olhos, e vê que é isto que sai.",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵ֕א", "transliteral": "way-yê-ṣê", "traducao_palavra": "e saiu" },
+        { "hebraico": "הַמַּלְאָ֖ךְ", "transliteral": "ham-mal-ʾāḵ", "traducao_palavra": "o anjo" },
+        { "hebraico": "הַדֹּבֵ֣ר", "transliteral": "had-dō-ḇêr", "traducao_palavra": "que falava" },
+        { "hebraico": "בִּ֑י", "transliteral": "bî", "traducao_palavra": "comigo" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "שָׂ֣א", "transliteral": "śā", "traducao_palavra": "levanta" },
+        { "hebraico": "נָ֤א", "transliteral": "nā", "traducao_palavra": "agora / peço-te" },
+        { "hebraico": "עֵינֶ֙יךָ֙", "transliteral": "ʿê-ne-ḵā", "traducao_palavra": "os teus olhos" },
+        { "hebraico": "וּרְאֵ֔ה", "transliteral": "ū-rə-ʾēh", "traducao_palavra": "e vê" },
+        { "hebraico": "מָ֖ה", "transliteral": "māh", "traducao_palavra": "o que [é]" },
+        { "hebraico": "הַיֹּוצֵ֥את", "transliteral": "hay-yô-ṣêṯ", "traducao_palavra": "o que sai" },
+        { "hebraico": "הַזֹּֽאת׃", "transliteral": "haz-zōʾṯ", "traducao_palavra": "isto" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E eu disse: Que é isto? Ele disse: É um efa que sai. E disse mais: Esta é a aparência deles em toda a terra.",
+      "palavras": [
+        { "hebraico": "וָאֹמַ֖ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e perguntei" },
+        { "hebraico": "מַה־הִ֑יא", "transliteral": "mah-hî", "traducao_palavra": "que é isto" },
+        { "hebraico": "וַיֹּ֗אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "זֹ֤את", "transliteral": "zōʾṯ", "traducao_palavra": "este [é]" },
+        { "hebraico": "הָֽאֵיפָה֙", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "הַיֹּוצֵ֔את", "transliteral": "hay-yô-ṣêṯ", "traducao_palavra": "que sai" },
+        { "hebraico": "וַיֹּ֕אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "זֹ֥את", "transliteral": "zōʾṯ", "traducao_palavra": "esta [é]" },
+        { "hebraico": "עֵינָ֖ם", "transliteral": "ʿê-nām", "traducao_palavra": "a aparência deles" },
+        { "hebraico": "בְּכָל־הָאָֽרֶץ׃", "transliteral": "bə-ḵāl-hā-ʾā-reṣ", "traducao_palavra": "em toda a terra" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E eis que foi levantada uma tampa de chumbo, e uma mulher estava assentada dentro do efa.",
+      "palavras": [
+        { "hebraico": "וְהִנֵּ֛ה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis que" },
+        { "hebraico": "כִּכַּ֥ר", "transliteral": "kik-kar", "traducao_palavra": "um talento / disco de" },
+        { "hebraico": "עֹפֶ֖רֶת", "transliteral": "ʿō-p̄e-reṯ", "traducao_palavra": "chumbo" },
+        { "hebraico": "נִשֵּׂ֑את", "transliteral": "niś-śêṯ", "traducao_palavra": "era levantado" },
+        { "hebraico": "וְזֹאת֙", "transliteral": "wə-zōʾṯ", "traducao_palavra": "e esta [era]" },
+        { "hebraico": "אִשָּׁ֣ה", "transliteral": "ʾiš-šā", "traducao_palavra": "uma mulher" },
+        { "hebraico": "אַחַ֔ת", "transliteral": "ʾa-ḥaṯ", "traducao_palavra": "uma" },
+        { "hebraico": "יֹושֶׁ֖בֶת", "transliteral": "yô-še-ḇeṯ", "traducao_palavra": "assentada" },
+        { "hebraico": "בְּתֹ֥וךְ", "transliteral": "bə-ṯôḵ", "traducao_palavra": "no meio de" },
+        { "hebraico": "הָאֵיפָֽה׃", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E ele disse: Esta é a Maldade. E a lançou para dentro do efa, e arremessou o peso de chumbo sobre a boca deste.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֙אמֶר֙", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "זֹ֣את", "transliteral": "zōʾṯ", "traducao_palavra": "esta [é]" },
+        { "hebraico": "הָרִשְׁעָ֔ה", "transliteral": "hā-riš-ʿā", "traducao_palavra": "a Maldade / Impiedade" },
+        { "hebraico": "וַיַּשְׁלֵ֥ךְ", "transliteral": "way-yaš-lêḵ", "traducao_palavra": "e lançou" },
+        { "hebraico": "אֹתָ֖הּ", "transliteral": "ʾō-ṯāh", "traducao_palavra": "a ela" },
+        { "hebraico": "אֶל־תֹּ֣וךְ", "transliteral": "ʾel-tôḵ", "traducao_palavra": "para dentro de" },
+        { "hebraico": "הָֽאֵיפָ֑ה", "transliteral": "hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "וַיַּשְׁלֵ֛ךְ", "transliteral": "way-yaš-lêḵ", "traducao_palavra": "e arremessou" },
+        { "hebraico": "אֶת־אֶ֥בֶן", "transliteral": "ʾeṯ-ʾe-ḇen", "traducao_palavra": "a pedra / peso de" },
+        { "hebraico": "הָעֹפֶ֖רֶת", "transliteral": "hā-ʿō-p̄e-reṯ", "traducao_palavra": "chumbo" },
+        { "hebraico": "אֶל־פִּֽיהָ׃", "transliteral": "ʾel-pî-hā", "traducao_palavra": "sobre a sua boca" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E levantei os meus olhos, e olhei, e eis que saíam duas mulheres, e havia vento nas suas asas; tinham asas como asas de cegonha; e levantaram o efa entre a terra e o céu.",
+      "palavras": [
+        { "hebraico": "וָאֶשָּׂ֨א", "transliteral": "wā-ʾeś-śā", "traducao_palavra": "e levantei" },
+        { "hebraico": "עֵינַ֜י", "transliteral": "ʿê-nay", "traducao_palavra": "meus olhos" },
+        { "hebraico": "וָאֵ֗רֶא", "transliteral": "wā-ʾê-re", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּ֣ה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis" },
+        { "hebraico": "שְׁתַּ֤יִם", "transliteral": "šət-ta-yim", "traducao_palavra": "duas" },
+        { "hebraico": "נָשִׁים֙", "transliteral": "nā-šîm", "traducao_palavra": "mulheres" },
+        { "hebraico": "יֹֽוצְאֹ֔ות", "transliteral": "yô-ṣə-ʾôṯ", "traducao_palavra": "que saíam" },
+        { "hebraico": "וְר֥וּחַ", "transliteral": "wə-rû-aḥ", "traducao_palavra": "e vento havia" },
+        { "hebraico": "בְּכַנְפֵיהֶ֖ם", "transliteral": "bə-ḵan-p̄ê-hem", "traducao_palavra": "nas suas asas" },
+        { "hebraico": "וְלָהֵ֣נָּה", "transliteral": "wə-lā-hên-nā", "traducao_palavra": "e tinham elas" },
+        { "hebraico": "כְנָפַ֔יִם", "transliteral": "ḵə-nā-p̄a-yim", "traducao_palavra": "asas" },
+        { "hebraico": "כְּכַנְפֵ֖י", "transliteral": "kə-ḵan-p̄ê", "traducao_palavra": "como asas de" },
+        { "hebraico": "הַחֲסִידָ֑ה", "transliteral": "ha-ḥă-sî-ḏā", "traducao_palavra": "a cegonha" },
+        { "hebraico": "וַתִּשֶּׂ֙אנָה֙", "transliteral": "wat-tiś-śe-nā", "traducao_palavra": "e levantaram" },
+        { "hebraico": "אֶת־הָ֣אֵיפָ֔ה", "transliteral": "ʾeṯ-hā-ʾê-p̄ā", "traducao_palavra": "o efa" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "הָאָ֖רֶץ", "transliteral": "hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "וּבֵ֥ין", "transliteral": "ū-ḇên", "traducao_palavra": "e entre" },
+        { "hebraico": "הַשָּׁמָֽיִם׃", "transliteral": "haš-šā-mā-yim", "traducao_palavra": "os céus" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Então perguntei ao anjo que falava comigo: Para onde levam elas o efa?",
+      "palavras": [
+        { "hebraico": "וָאֹמַ֕ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e perguntei" },
+        { "hebraico": "אֶל־הַמַּלְאָ֖ךְ", "transliteral": "ʾel-ham-mal-ʾāḵ", "traducao_palavra": "ao anjo" },
+        { "hebraico": "הַדֹּבֵ֣ר", "transliteral": "had-dō-ḇêr", "traducao_palavra": "que falava" },
+        { "hebraico": "בִּ֑י", "transliteral": "bî", "traducao_palavra": "comigo" },
+        { "hebraico": "אָ֛נָה", "transliteral": "ʾā-nā", "traducao_palavra": "para onde" },
+        { "hebraico": "הֵ֥מָּה", "transliteral": "hêm-mā", "traducao_palavra": "elas" },
+        { "hebraico": "מֹֽולִכֹ֖ות", "transliteral": "mô-li-ḵôṯ", "traducao_palavra": "levam" },
+        { "hebraico": "אֶת־הָאֵיפָֽה׃", "transliteral": "ʾeṯ-hā-ʾê-p̄ā", "traducao_palavra": "o efa" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E ele me respondeu: Para lhe edificarem uma casa na terra de Sinear; e, quando estiver estabelecida, ela será posta ali sobre a sua própria base.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לִבְנֹֽות־לָ֥הּ", "transliteral": "liḇ-nôṯ-lāh", "traducao_palavra": "para edificar-lhe" },
+        { "hebraico": "בַ֖יִת", "transliteral": "ba-yiṯ", "traducao_palavra": "uma casa" },
+        { "hebraico": "בְּאֶ֣רֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra de" },
+        { "hebraico": "שִׁנְעָ֑ר", "transliteral": "šin-ʿār", "traducao_palavra": "Sinear" },
+        { "hebraico": "וְהוּכַ֛ן", "transliteral": "wə-hû-ḵan", "traducao_palavra": "e será firmada" },
+        { "hebraico": "וְהֻנִּ֥יחָה", "transliteral": "wə-hun-nî-ḥā", "traducao_palavra": "e será posta" },
+        { "hebraico": "שָּׁ֖ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "עַל־מְכֻנָתָֽהּ׃", "transliteral": "ʿal-mə-ḵu-nā-ṯāh", "traducao_palavra": "sobre a sua própria base" }
+      ]
+    }
+  }
 }

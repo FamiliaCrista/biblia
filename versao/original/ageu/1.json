@@ -1,6 +1,282 @@
 {
-  "livro": "Ageu - חַגַּי - Chaggai",
+  "livro": "Ageu - חַגַּי - Ḥaggay",
   "capítulo": 1,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra de YHWH, por intermédio do profeta Ageu, a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jeozadaque, o sumo sacerdote, dizendo:",
+      "palavras": [
+        { "hebraico": "בִּשְׁנַ֤ת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano de" },
+        { "hebraico": "שְׁתַּ֙יִם֙", "transliteral": "šə-ta-yim", "traducao_palavra": "dois [segundo]" },
+        { "hebraico": "לְדָרְיָ֣וֶשׁ", "transliteral": "lə-ḏār-yā-weš", "traducao_palavra": "de Dario" },
+        { "hebraico": "הַמֶּ֔לֶךְ", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei" },
+        { "hebraico": "בַּחֹ֙דֶשׁ֙", "transliteral": "ba-ḥō-ḏeš", "traducao_palavra": "no mês" },
+        { "hebraico": "הַשִּׁשִּׁ֔י", "transliteral": "haš-šiš-šî", "traducao_palavra": "sexto" },
+        { "hebraico": "בְּיֹ֥ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "אֶחָ֖ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "primeiro" },
+        { "hebraico": "לַחֹ֑דֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "הָיָ֨ה", "transliteral": "hā-yā", "traducao_palavra": "veio" },
+        { "hebraico": "דְבַר־יְהוָ֜ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "בְּיַד־חַגַּ֣י", "transliteral": "bə-yaḏ-ḥag-gay", "traducao_palavra": "por intermédio de Ageu" },
+        { "hebraico": "הַנָּבִ֗יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "אֶל־זְרֻבָּבֶ֤ל", "transliteral": "ʾel-zə-rub-bā-ḇel", "traducao_palavra": "a Zorobabel" },
+        { "hebraico": "בֶּן־שְׁאַלְתִּיאֵל֙", "transliteral": "ben-šə-ʾal-tî-ʾêl", "traducao_palavra": "filho de Salatiel" },
+        { "hebraico": "פַּחַ֣ת", "transliteral": "pa-ḥaṯ", "traducao_palavra": "governador de" },
+        { "hebraico": "יְהוּדָ֔ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וְאֶל־יְהֹושֻׁ֧עַ", "transliteral": "wə-ʾel-yə-hô-šu-aʿ", "traducao_palavra": "e a Josué" },
+        { "hebraico": "בֶּן־יְהֹוצָדָ֛ק", "transliteral": "ben-yə-hô-ṣā-ḏāq", "traducao_palavra": "filho de Jeozadaque" },
+        { "hebraico": "הַכֹּהֵ֥ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הַגָּדֹ֖ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o grande [sumo sacerdote]" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Assim fala YHWH dos Exércitos, dizendo: Este povo diz: Não veio ainda o tempo, o tempo em que a casa de YHWH deve ser edificada.",
+      "palavras": [
+        { "hebraico": "כֹּ֥ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֛ר", "transliteral": "ʾā-mar", "traducao_palavra": "fala" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" },
+        { "hebraico": "הָעָ֤ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "הַזֶּה֙", "transliteral": "haz-zeh", "traducao_palavra": "este" },
+        { "hebraico": "אָֽמְר֔וּ", "transliteral": "ʾā-mə-rû", "traducao_palavra": "diz:" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não [é]" },
+        { "hebraico": "עֶת־בֹּ֖א", "transliteral": "ʿeṯ-bō", "traducao_palavra": "chegado o tempo" },
+        { "hebraico": "עֶת־בֵּ֥ית", "transliteral": "ʿeṯ-bêṯ", "traducao_palavra": "o tempo da casa de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לְהִבָּנֹֽות׃", "transliteral": "lə-hib-bā-nôṯ", "traducao_palavra": "para ser edificada." }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Veio, pois, a palavra de YHWH, por intermédio do profeta Ageu, dizendo:",
+      "palavras": [
+        { "hebraico": "וַֽיְהִי֙", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְּבַר־יְהוָ֔ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "בְּיַד־חַגַּ֥י", "transliteral": "bə-yaḏ-ḥag-gay", "traducao_palavra": "por intermédio de Ageu" },
+        { "hebraico": "הַנָּבִ֖יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Acaso é tempo de vós mesmos habitardes em vossas casas apaineladas, enquanto esta casa fica em ruínas?",
+      "palavras": [
+        { "hebraico": "הַעֵ֤ת", "transliteral": "ha-ʿêṯ", "traducao_palavra": "acaso é tempo" },
+        { "hebraico": "לָכֶם֙", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "אַתֶּ֔ם", "transliteral": "ʾat-tem", "traducao_palavra": "vós mesmos" },
+        { "hebraico": "לָשֶׁ֖בֶת", "transliteral": "lā-še-ḇeṯ", "traducao_palavra": "habitardes" },
+        { "hebraico": "בְּבָתֵּיכֶ֣ם", "transliteral": "bə-ḇāt-tê-ḵem", "traducao_palavra": "nas vossas casas" },
+        { "hebraico": "סְפוּנִ֑ים", "transliteral": "sə-p̄ū-nîm", "traducao_palavra": "apaineladas/forradas" },
+        { "hebraico": "וְהַבַּ֥יִת", "transliteral": "wə-hab-ba-yiṯ", "traducao_palavra": "enquanto esta casa" },
+        { "hebraico": "הַזֶּ֖ה", "transliteral": "haz-zeh", "traducao_palavra": "esta" },
+        { "hebraico": "חָרֵֽב׃", "transliteral": "ḥā-rêḇ", "traducao_palavra": "[está] em ruínas?" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Ora, pois, assim diz YHWH dos Exércitos: Considerai os vossos caminhos.",
+      "palavras": [
+        { "hebraico": "וְעַתָּ֕ה", "transliteral": "wə-ʿat-tā", "traducao_palavra": "e agora" },
+        { "hebraico": "כֹּ֥ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֛ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos:" },
+        { "hebraico": "שִׂ֥ימוּ", "transliteral": "śî-mû", "traducao_palavra": "ponde" },
+        { "hebraico": "לְבַבְכֶ֖ם", "transliteral": "lə-ḇaḇ-ḵem", "traducao_palavra": "o vosso coração" },
+        { "hebraico": "עַל־דַּרְכֵיכֶֽם׃", "transliteral": "ʿal-dar-ḵê-ḵem", "traducao_palavra": "nos vossos caminhos." }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Semeastes muito, e recolhestes pouco; comeis, mas não vos fartais; bebeis, mas não vos saciais; vestis-vos, mas ninguém se aquece; e o que recebe salário, recebe-o num saquitel furado.",
+      "palavras": [
+        { "hebraico": "זְרַעְתֶּ֨ם", "transliteral": "zə-raʿ-tem", "traducao_palavra": "semeastes" },
+        { "hebraico": "הַרְבֵּ֜ה", "transliteral": "har-bêh", "traducao_palavra": "muito" },
+        { "hebraico": "וְהָבֵ֣א", "transliteral": "wə-hā-ḇê", "traducao_palavra": "e recolhestes" },
+        { "hebraico": "מְעָט֮", "transliteral": "mə-ʿāṭ", "traducao_palavra": "pouco;" },
+        { "hebraico": "אָכֹ֣ול", "transliteral": "ʾā-ḵôl", "traducao_palavra": "comeis" },
+        { "hebraico": "וְאֵין־לְשָׂבְעָה֒", "transliteral": "wə-ʾên-lə-śāḇ-ʿā", "traducao_palavra": "mas não para vos fartardes;" },
+        { "hebraico": "שָׁתֹו֙", "transliteral": "šā-ṯô", "traducao_palavra": "bebeis" },
+        { "hebraico": "וְאֵין־לְשָׁכְרָ֔ה", "transliteral": "wə-ʾên-lə-šoḵ-rā", "traducao_palavra": "mas não para vos saciardes;" },
+        { "hebraico": "לָבֹ֖ושׁ", "transliteral": "lā-ḇôš", "traducao_palavra": "vestis-vos" },
+        { "hebraico": "וְאֵין־לְחֹ֣ם", "transliteral": "wə-ʾên-lə-ḥōm", "traducao_palavra": "mas não há aquecimento" },
+        { "hebraico": "לֹ֑ו", "transliteral": "lô", "traducao_palavra": "para ninguém;" },
+        { "hebraico": "וְהַ֨מִּשְׂתַּכֵּ֔ר", "transliteral": "wə-ham-miś-tak-kêr", "traducao_palavra": "e o que recebe salário" },
+        { "hebraico": "מִשְׂתַּכֵּ֖ר", "transliteral": "miś-tak-kêr", "traducao_palavra": "recebe salário" },
+        { "hebraico": "אֶל־צְרֹ֥ור", "transliteral": "ʾel-ṣə-rôr", "traducao_palavra": "em bolsa" },
+        { "hebraico": "נָקֽוּב׃", "transliteral": "nā-qūḇ", "traducao_palavra": "furada." }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Assim diz YHWH dos Exércitos: Considerai os vossos caminhos.",
+      "palavras": [
+        { "hebraico": "כֹּ֥ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֛ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos:" },
+        { "hebraico": "שִׂ֥ימוּ", "transliteral": "śî-mû", "traducao_palavra": "ponde" },
+        { "hebraico": "לְבַבְכֶ֖ם", "transliteral": "lə-ḇaḇ-ḵem", "traducao_palavra": "o vosso coração" },
+        { "hebraico": "עַל־דַּרְכֵיכֶֽם׃", "transliteral": "ʿal-dar-ḵê-ḵem", "traducao_palavra": "nos vossos caminhos." }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Subi ao monte, e trazei madeira, e edificai a casa; e dela me agradarei, e serei glorificado, diz YHWH.",
+      "palavras": [
+        { "hebraico": "עֲל֥וּ", "transliteral": "ʿă-lû", "traducao_palavra": "subi" },
+        { "hebraico": "הָהָ֛ר", "transliteral": "hā-hār", "traducao_palavra": "ao monte" },
+        { "hebraico": "וַהֲבֵאתֶ֥ם", "transliteral": "wa-hă-ḇê-ṯem", "traducao_palavra": "e trazei" },
+        { "hebraico": "עֵ֖ץ", "transliteral": "ʿêṣ", "traducao_palavra": "madeira" },
+        { "hebraico": "וּבְנ֣וּ", "transliteral": "ū-ḇə-nû", "traducao_palavra": "e edificai" },
+        { "hebraico": "הַבָּ֑יִת", "transliteral": "hab-bā-yiṯ", "traducao_palavra": "a casa;" },
+        { "hebraico": "וְאֶרְצֶה־בֹּ֥ו", "transliteral": "wə-ʾer-ṣeh-bô", "traducao_palavra": "e dela me agradarei" },
+        { "hebraico": "וְאֶכָּבְדָ֖ה", "transliteral": "wə-ʾek-kā-ḇə-ḏā", "traducao_palavra": "e serei glorificado" },
+        { "hebraico": "אָמַ֥ר", "transliteral": "ʾā-mar", "traducao_palavra": "disse" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH." }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Olhastes para muito, mas eis que veio a ser pouco; e quando o trouxestes para casa, eu assoprei sobre ele. Por que causa? diz YHWH dos Exércitos. Por causa da minha casa, que está em ruínas, enquanto correis cada um de vós à sua própria casa.",
+      "palavras": [
+        { "hebraico": "פָּנֹ֤ה", "transliteral": "pā-nōh", "traducao_palavra": "olhastes" },
+        { "hebraico": "אֶל־הַרְבֵּה֙", "transliteral": "ʾel-har-bêh", "traducao_palavra": "para muito" },
+        { "hebraico": "וְהִנֵּ֣ה", "transliteral": "wə-hin-nêh", "traducao_palavra": "e eis que veio" },
+        { "hebraico": "לִמְעָ֔ט", "transliteral": "lim-ʿāṭ", "traducao_palavra": "a ser pouco;" },
+        { "hebraico": "וַהֲבֵאתֶ֥ם", "transliteral": "wa-hă-ḇê-ṯem", "traducao_palavra": "e quando o trouxestes para" },
+        { "hebraico": "הַבַּ֖יִת", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "casa" },
+        { "hebraico": "וְנָפַ֣חְתִּי", "transliteral": "wə-nā-p̄aḥ-tî", "traducao_palavra": "eu assoprei" },
+        { "hebraico": "בֹ֑ו", "transliteral": "ḇô", "traducao_palavra": "nele." },
+        { "hebraico": "יַ֣עַן", "transliteral": "ya-ʿan", "traducao_palavra": "Por causa de" },
+        { "hebraico": "מֶ֗ה", "transliteral": "meh", "traducao_palavra": "quê?" },
+        { "hebraico": "נְאֻם֙", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֔ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos:" },
+        { "hebraico": "יַ֣עַן", "transliteral": "ya-ʿan", "traducao_palavra": "Por causa de" },
+        { "hebraico": "בֵּיתִ֞י", "transliteral": "bê-ṯî", "traducao_palavra": "minha casa" },
+        { "hebraico": "אֲשֶׁר־ה֣וּא", "transliteral": "ʾă-šer-hû", "traducao_palavra": "que ela está" },
+        { "hebraico": "חָרֵ֔ב", "transliteral": "ḥā-rêḇ", "traducao_palavra": "em ruínas" },
+        { "hebraico": "וְאַתֶּ֥ם", "transliteral": "wə-ʾat-tem", "traducao_palavra": "enquanto vós" },
+        { "hebraico": "רָצִ֖ים", "transliteral": "rā-ṣîm", "traducao_palavra": "correis" },
+        { "hebraico": "אִ֥ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "לְבֵיתֹֽו׃", "transliteral": "lə-ḇê-ṯô", "traducao_palavra": "à sua própria casa." }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Por isso os céus retiveram o seu orvalho de cima de vós, e a terra reteve os seus frutos.",
+      "palavras": [
+        { "hebraico": "עַל־כֵּ֣ן", "transliteral": "ʿal-kên", "traducao_palavra": "por isso" },
+        { "hebraico": "עֲלֵיכֶ֔ם", "transliteral": "ʿă-lê-ḵem", "traducao_palavra": "sobre vós/por vossa causa" },
+        { "hebraico": "כָּלְא֥וּ", "transliteral": "kā-lə-ʾû", "traducao_palavra": "reteram" },
+        { "hebraico": "שָׁמַ֖יִם", "transliteral": "šā-ma-yim", "traducao_palavra": "os céus" },
+        { "hebraico": "מִטָּ֑ל", "transliteral": "miṭ-ṭāl", "traducao_palavra": "o orvalho" },
+        { "hebraico": "וְהָאָ֖רֶץ", "transliteral": "wə-hā-ʾā-reṣ", "traducao_palavra": "e a terra" },
+        { "hebraico": "כָּלְאָ֥ה", "transliteral": "kā-lə-ʾā", "traducao_palavra": "reteve" },
+        { "hebraico": "יְבוּלָֽהּ׃", "transliteral": "yə-ḇū-lāh", "traducao_palavra": "o seu fruto." }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E chamei a seca sobre a terra, e sobre os montes, e sobre o trigo, e sobre o mosto, e sobre o azeite, e sobre o que a terra produz; como também sobre os homens, e sobre os animais, e sobre todo o trabalho das mãos.",
+      "palavras": [
+        { "hebraico": "וָאֶקְרָ֨א", "transliteral": "wā-ʾeq-rā", "traducao_palavra": "e chamei" },
+        { "hebraico": "חֹ֜רֶב", "transliteral": "ḥō-reḇ", "traducao_palavra": "a seca" },
+        { "hebraico": "עַל־הָאָ֣רֶץ", "transliteral": "ʿal-hā-ʾā-reṣ", "traducao_palavra": "sobre a terra" },
+        { "hebraico": "וְעַל־הֶהָרִ֗ים", "transliteral": "wə-ʿal-he-hā-rîm", "traducao_palavra": "e sobre os montes" },
+        { "hebraico": "וְעַל־הַדָּגָן֙", "transliteral": "wə-ʿal-had-dā-ḡān", "traducao_palavra": "e sobre o trigo" },
+        { "hebraico": "וְעַל־הַתִּירֹ֣ושׁ", "transliteral": "wə-ʿal-hat-tî-rôš", "traducao_palavra": "e sobre o vinho novo" },
+        { "hebraico": "וְעַל־הַיִּצְהָ֔ר", "transliteral": "wə-ʿal-hay-yiṣ-hār", "traducao_palavra": "e sobre o azeite" },
+        { "hebraico": "וְעַ֛ל", "transliteral": "wə-ʿal", "traducao_palavra": "e sobre" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "o que" },
+        { "hebraico": "תֹּוצִ֖יא", "transliteral": "tô-ṣî", "traducao_palavra": "produz" },
+        { "hebraico": "הָאֲדָמָ֑ה", "transliteral": "hā-ʾă-ḏā-mā", "traducao_palavra": "o solo" },
+        { "hebraico": "וְעַל־הָאָדָם֙", "transliteral": "wə-ʿal-hā-ʾā-ḏām", "traducao_palavra": "e sobre o homem" },
+        { "hebraico": "וְעַל־הַבְּהֵמָ֔ה", "transliteral": "wə-ʿal-hab-bə-hê-mā", "traducao_palavra": "e sobre os animais" },
+        { "hebraico": "וְעַ֖ל", "transliteral": "wə-ʿal", "traducao_palavra": "e sobre" },
+        { "hebraico": "כָּל־יְגִ֥יעַ", "transliteral": "kāl-yə-ḡî-aʿ", "traducao_palavra": "todo o trabalho de" },
+        { "hebraico": "כַּפָּֽיִם׃", "transliteral": "kap-pā-yim", "traducao_palavra": "mãos." }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Então ouviu Zorobabel, filho de Salatiel, e Josué, filho de Jeozadaque, o sumo sacerdote, e todo o resto do povo, a voz de YHWH, seu Deus, e as palavras do profeta Ageu, como YHWH, seu Deus, o tinha enviado; e temeu o povo diante de YHWH.",
+      "palavras": [
+        { "hebraico": "וַיִּשְׁמַ֣ע", "transliteral": "way-yiš-maʿ", "traducao_palavra": "e ouviu" },
+        { "hebraico": "זְרֻבָּבֶ֣ל", "transliteral": "zə-rub-bā-ḇel", "traducao_palavra": "Zorobabel" },
+        { "hebraico": "בֶּֽן־שַׁלְתִּיאֵ֡ל", "transliteral": "ben-šal-tî-ʾêl", "traducao_palavra": "filho de Salatiel" },
+        { "hebraico": "וִיהֹושֻׁ֣עַ", "transliteral": "wî-hô-šu-aʿ", "traducao_palavra": "e Josué" },
+        { "hebraico": "בֶּן־יְהֹוצָדָק֩", "transliteral": "ben-yə-hô-ṣā-ḏāq", "traducao_palavra": "filho de Jeozadaque" },
+        { "hebraico": "הַכֹּהֵ֨ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הַגָּדֹ֜ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o sumo" },
+        { "hebraico": "וְכֹ֣ל", "transliteral": "wə-ḵōl", "traducao_palavra": "e todo" },
+        { "hebraico": "שְׁאֵרִ֣ית", "transliteral": "šə-ʾê-rîṯ", "traducao_palavra": "o restante de" },
+        { "hebraico": "הָעָ֗ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "בְּקֹול֙", "transliteral": "bə-qôl", "traducao_palavra": "a voz de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֱלֹֽהֵיהֶ֔ם", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "seu Deus" },
+        { "hebraico": "וְעַל־דִּבְרֵי֙", "transliteral": "wə-ʿal-diḇ-rê", "traducao_palavra": "e as palavras de" },
+        { "hebraico": "חַגַּ֣י", "transliteral": "ḥag-gay", "traducao_palavra": "Ageu" },
+        { "hebraico": "הַנָּבִ֔יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "כַּאֲשֶׁ֥ר", "transliteral": "ka-ʾă-šer", "traducao_palavra": "como" },
+        { "hebraico": "שְׁלָחֹ֖ו", "transliteral": "šə-lā-ḥô", "traducao_palavra": "o havia enviado" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֱלֹהֵיהֶ֑ם", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "seu Deus;" },
+        { "hebraico": "וַיִּֽירְא֥וּ", "transliteral": "way-yî-rə-ʾû", "traducao_palavra": "e temeu" },
+        { "hebraico": "הָעָ֖ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo" },
+        { "hebraico": "מִפְּנֵ֥י", "transliteral": "mip-pə-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH." }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Então Ageu, o mensageiro de YHWH, falou ao povo segundo a mensagem de YHWH, dizendo: Eu sou convosco, diz YHWH.",
+      "palavras": [
+        { "hebraico": "וַ֠יֹּאמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e falou" },
+        { "hebraico": "חַגַּ֞י", "transliteral": "ḥag-gay", "traducao_palavra": "Ageu" },
+        { "hebraico": "מַלְאַ֧ךְ", "transliteral": "mal-ʾaḵ", "traducao_palavra": "o mensageiro de" },
+        { "hebraico": "יְהוָ֛ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בְּמַלְאֲכ֥וּת", "transliteral": "bə-mal-ʾă-ḵūṯ", "traducao_palavra": "na incumbência/mensagem de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "לָעָ֣ם", "transliteral": "lā-ʿām", "traducao_palavra": "ao povo" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo:" },
+        { "hebraico": "אֲנִ֥י", "transliteral": "ʾă-nî", "traducao_palavra": "eu estou" },
+        { "hebraico": "אִתְּכֶ֖ם", "transliteral": "ʾit-tə-ḵem", "traducao_palavra": "convosco" },
+        { "hebraico": "נְאֻם־יְהוָֽה׃", "transliteral": "nə-ʾum-YHWH", "traducao_palavra": "declaração de YHWH." }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E YHWH suscitou o espírito de Zorobabel, filho de Salatiel, governador de Judá, e o espírito de Josué, filho de Jeozadaque, o sumo sacerdote, e o espírito de todo o resto do povo; e vieram, e começaram a trabalhar na casa de YHWH dos Exércitos, seu Deus,",
+      "palavras": [
+        { "hebraico": "וַיָּ֣עַר", "transliteral": "way-yā-ʿar", "traducao_palavra": "e despertou" },
+        { "hebraico": "יְהוָ֡ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶת־ר֣וּחַ", "transliteral": "ʾeṯ-rū-aḥ", "traducao_palavra": "o espírito de" },
+        { "hebraico": "זְרֻבָּבֶל֩", "transliteral": "zə-rub-bā-ḇel", "traducao_palavra": "Zorobabel" },
+        { "hebraico": "בֶּן־שַׁלְתִּיאֵ֨ל", "transliteral": "ben-šal-tî-ʾêl", "traducao_palavra": "filho de Salatiel" },
+        { "hebraico": "פַּחַ֥ת", "transliteral": "pa-ḥaṯ", "traducao_palavra": "governador de" },
+        { "hebraico": "יְהוּדָ֗ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "Judá" },
+        { "hebraico": "וְאֶת־ר֙וּחַ֙", "transliteral": "wə-ʾeṯ-rū-aḥ", "traducao_palavra": "e o espírito de" },
+        { "hebraico": "יְהֹושֻׁ֤עַ", "transliteral": "yə-hô-šu-aʿ", "traducao_palavra": "Josué" },
+        { "hebraico": "בֶּן־יְהֹוצָדָק֙", "transliteral": "ben-yə-hô-ṣā-ḏāq", "traducao_palavra": "filho de Jeozadaque" },
+        { "hebraico": "הַכֹּהֵ֣ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הַגָּדֹ֔ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o sumo" },
+        { "hebraico": "וְאֶת־ר֕וּחַ", "transliteral": "wə-ʾeṯ-rū-aḥ", "traducao_palavra": "e o espírito de" },
+        { "hebraico": "כֹּ֖ל", "transliteral": "kōl", "traducao_palavra": "todo" },
+        { "hebraico": "שְׁאֵרִ֣ית", "transliteral": "šə-ʾê-rîṯ", "traducao_palavra": "o restante de" },
+        { "hebraico": "הָעָ֑ם", "transliteral": "hā-ʿām", "traducao_palavra": "o povo;" },
+        { "hebraico": "וַיָּבֹ֙אוּ֙", "transliteral": "way-yā-ḇō-ʾû", "traducao_palavra": "e vieram" },
+        { "hebraico": "וַיַּעֲשׂ֣וּ", "transliteral": "way-ya-ʿă-śû", "traducao_palavra": "e fizeram" },
+        { "hebraico": "מְלָאכָ֔ה", "transliteral": "mə-lā-ḵā", "traducao_palavra": "obra" },
+        { "hebraico": "בְּבֵית־יְהוָ֥ה", "transliteral": "bə-ḇêṯ-YHWH", "traducao_palavra": "na casa de YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "אֱלֹהֵיהֶֽם׃", "transliteral": "ʾĕ-lō-hê-hem", "traducao_palavra": "seu Deus" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "ao vigésimo quarto dia do sexto mês, no segundo ano do rei Dario.",
+      "palavras": [
+        { "hebraico": "בְּיֹ֨ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "עֶשְׂרִ֧ים", "transliteral": "ʿeś-rîm", "traducao_palavra": "vinte" },
+        { "hebraico": "וְאַרְבָּעָ֛ה", "transliteral": "wə-ʾar-bā-ʿā", "traducao_palavra": "e quatro" },
+        { "hebraico": "לַחֹ֖דֶשׁ", "transliteral": "la-ḥō-ḏeš", "traducao_palavra": "do mês" },
+        { "hebraico": "בַּשִּׁשִּׁ֑י", "transliteral": "baš-šiš-šî", "traducao_palavra": "sexto;" },
+        { "hebraico": "בִּשְׁנַ֥ת", "transliteral": "biš-naṯ", "traducao_palavra": "no ano de" },
+        { "hebraico": "שְׁתַּ֖יִם", "transliteral": "šə-ta-yim", "traducao_palavra": "dois [segundo]" },
+        { "hebraico": "לְדָרְיָ֥וֶשׁ", "transliteral": "lə-ḏār-yā-weš", "traducao_palavra": "de Dario" },
+        { "hebraico": "הַמֶּֽלֶךְ׃", "transliteral": "ham-me-leḵ", "traducao_palavra": "o rei." }
+      ]
+    }
+  }
 }

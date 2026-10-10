@@ -1,6 +1,237 @@
 {
-  "livro": "Naum - נַחוּם - Nachum",
+  "livro": "Naum - נַחוּם - Naḥūm",
   "capítulo": 2,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Eis sobre os montes os pés do que anuncia boas-novas, do que proclama a paz! Celebra as tuas festas, ó Judá, cumpre os teus votos; porque o ímpio não tornará mais a passar por ti; ele está inteiramente destruído.",
+      "palavras": [
+        { "hebraico": "הִנֵּ֧ה", "transliteral": "hin-nêh", "traducao_palavra": "eis" },
+        { "hebraico": "עַל־הֶהָרִ֛ים", "transliteral": "ʿal-he-hā-rîm", "traducao_palavra": "sobre os montes" },
+        { "hebraico": "רַגְלֵ֥י", "transliteral": "raḡ-lê", "traducao_palavra": "os pés do que" },
+        { "hebraico": "מְבַשֵּׂ֖ר", "transliteral": "mə-ḇaś-śêr", "traducao_palavra": "anuncia boas-novas" },
+        { "hebraico": "מַשְׁמִ֣יעַ", "transliteral": "maš-mî-aʿ", "traducao_palavra": "proclama" },
+        { "hebraico": "שָׁלֹ֑ום", "transliteral": "šā-lôm", "traducao_palavra": "a paz" },
+        { "hebraico": "חָגִּ֧י", "transliteral": "ḥāg-gî", "traducao_palavra": "celebra" },
+        { "hebraico": "יְהוָ֛ה", "transliteral": "yə-hū-ḏā", "traducao_palavra": "ó Judá" },
+        { "hebraico": "חַגַּ֖יִךְ", "transliteral": "ḥag-ga-yiḵ", "traducao_palavra": "as tuas festas" },
+        { "hebraico": "שַׁלְּמִ֣י", "transliteral": "šal-lə-mî", "traducao_palavra": "cumpre" },
+        { "hebraico": "נְדָרָ֑יִךְ", "transliteral": "nə-ḏā-rā-yiḵ", "traducao_palavra": "os teus votos" },
+        { "hebraico": "כִּ֠י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "לֹא־יֹוסִ֨יף", "transliteral": "lō-yô-sîp̄", "traducao_palavra": "não mais tornará a" },
+        { "hebraico": "עֹ֧וד", "transliteral": "ʿôḏ", "traducao_palavra": "mais" },
+        { "hebraico": "לַעֲבֹור־בָּ֛ךְ", "transliteral": "la-ʿă-ḇor-bāḵ", "traducao_palavra": "passar por ti" },
+        { "hebraico": "בְּלִיַּ֖עַל", "transliteral": "bə-lî-ya-ʿal", "traducao_palavra": "o perverso/ímpio" },
+        { "hebraico": "כֻּלֹּ֥ה", "transliteral": "kul-lōh", "traducao_palavra": "ele todo" },
+        { "hebraico": "נִכְרָֽת׃", "transliteral": "niḵ-rāṯ", "traducao_palavra": "está exterminado" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "O destruidor subiu contra ti. Guarda a fortaleza, vigia o caminho, fortalece os lombos, reforça muito o teu poder.",
+      "palavras": [
+        { "hebraico": "עָלָ֥ה", "transliteral": "ʿā-lā", "traducao_palavra": "subiu" },
+        { "hebraico": "מֵפִ֛יץ", "transliteral": "mê-p̄îṣ", "traducao_palavra": "o dispersador/destruidor" },
+        { "hebraico": "עַל־פָּנַ֖יִךְ", "transliteral": "ʿal-pā-na-yiḵ", "traducao_palavra": "contra ti/diante de ti" },
+        { "hebraico": "נָצֹ֣ור", "transliteral": "nā-ṣôr", "traducao_palavra": "guarda" },
+        { "hebraico": "מְצֻרָ֑ה", "transliteral": "mə-ṣu-rā", "traducao_palavra": "a fortaleza" },
+        { "hebraico": "צַפֵּה־דֶ֙רֶךְ֙", "transliteral": "ṣap-pêh-ḏe-reḵ", "traducao_palavra": "vigia o caminho" },
+        { "hebraico": "חַזֵּ֣ק", "transliteral": "ḥaz-zêq", "traducao_palavra": "fortalece" },
+        { "hebraico": "מָתְנַ֔יִם", "transliteral": "māṯ-na-yim", "traducao_palavra": "os lombos" },
+        { "hebraico": "אַמֵּ֥ץ", "transliteral": "ʾam-mêṣ", "traducao_palavra": "reforça" },
+        { "hebraico": "כֹּ֖חַ", "transliteral": "kō-aḥ", "traducao_palavra": "a força" },
+        { "hebraico": "מְאֹֽד׃", "transliteral": "mə-ʾōḏ", "traducao_palavra": "muito" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Porque YHWH restaura a majestade de Jacó como a majestade de Israel; porque saqueadores os despojaram e corromperam os seus sarmentos.",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "שָׁ֤ב", "transliteral": "šāḇ", "traducao_palavra": "restaura" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶת־גְּאֹ֣ון", "transliteral": "ʾeṯ-gə-ʾôn", "traducao_palavra": "a excelência/majestade de" },
+        { "hebraico": "יַעֲקֹ֔ב", "transliteral": "ya-ʿă-qōḇ", "traducao_palavra": "Jacó" },
+        { "hebraico": "כִּגְאֹ֖ון", "transliteral": "kiḡ-ʾôn", "traducao_palavra": "como a majestade de" },
+        { "hebraico": "יִשְׂרָאֵ֑ל", "transliteral": "yiś-rā-ʾēl", "traducao_palavra": "Israel" },
+        { "hebraico": "כִּ֤י", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "בְזָקוּם֙", "transliteral": "ḇə-zā-qūm", "traducao_palavra": "os despojaram" },
+        { "hebraico": "בֹּֽקְקִ֔ים", "transliteral": "bō-qə-qîm", "traducao_palavra": "saqueadores" },
+        { "hebraico": "וּזְמֹרֵיהֶ֖ם", "transliteral": "ū-zə-mō-rê-hem", "traducao_palavra": "e os seus ramos" },
+        { "hebraico": "שִׁחֵֽתוּ׃", "transliteral": "ši-ḥê-ṯû", "traducao_palavra": "destruíram" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "O escudo dos seus valentes é vermelho, os homens de guerra vestem de escarlate; os carros resplandecem com o aço flamejante no dia da sua preparação, e as lanças de cipreste são brandidas.",
+      "palavras": [
+        { "hebraico": "מָגֵ֨ן", "transliteral": "mā-ḡên", "traducao_palavra": "o escudo de" },
+        { "hebraico": "גִּבֹּרֵ֜יהוּ", "transliteral": "gib-bō-rê-hū", "traducao_palavra": "seus heróis/valentes" },
+        { "hebraico": "מְאָדָּ֗ם", "transliteral": "mə-ʾod-dām", "traducao_palavra": "é vermelho" },
+        { "hebraico": "אַנְשֵׁי־חַ֙יִל֙", "transliteral": "ʾan-šê-ḥa-yil", "traducao_palavra": "os homens valorosos" },
+        { "hebraico": "מְתֻלָּעִ֔ים", "transliteral": "mə-ṯul-lā-ʿîm", "traducao_palavra": "vestem escarlate" },
+        { "hebraico": "בְּאֵשׁ־פְּלָדֹ֥ות", "transliteral": "bə-ʾêš-pə-lā-ḏôṯ", "traducao_palavra": "com fogo de aço" },
+        { "hebraico": "הָרֶ֖כֶב", "transliteral": "hā-re-ḵeḇ", "traducao_palavra": "os carros [resplandecem]" },
+        { "hebraico": "בְּיֹ֣ום", "transliteral": "bə-yôm", "traducao_palavra": "no dia de" },
+        { "hebraico": "הֲכִינֹ֑ו", "transliteral": "hă-ḵî-nô", "traducao_palavra": "sua preparação" },
+        { "hebraico": "וְהַבְּרֹשִׁ֖ים", "transliteral": "wə-hab-bə-rō-šîm", "traducao_palavra": "e as lanças de cipreste" },
+        { "hebraico": "הָרְעָֽלוּ׃", "transliteral": "hār-ʿā-lû", "traducao_palavra": "são agitadas" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Os carros correm furiosamente pelas ruas, entrechocam-se nas praças; a sua aparência é como a de tochas, correm como relâmpagos.",
+      "palavras": [
+        { "hebraico": "בַּֽחוּצֹות֙", "transliteral": "ba-ḥū-ṣôṯ", "traducao_palavra": "pelas ruas" },
+        { "hebraico": "יִתְהֹולְל֣וּ", "transliteral": "yiṯ-hô-lə-lû", "traducao_palavra": "correm em delírio/furiosos" },
+        { "hebraico": "הָרֶ֔כֶב", "transliteral": "hā-re-ḵeḇ", "traducao_palavra": "os carros" },
+        { "hebraico": "יִֽשְׁתַּקְשְׁק֖וּן", "transliteral": "yiš-taq-šə-qūn", "traducao_palavra": "chocam-se/estrepitam" },
+        { "hebraico": "בָּרְחֹבֹ֑ות", "transliteral": "bār-ḥō-ḇôṯ", "traducao_palavra": "nas praças" },
+        { "hebraico": "מַרְאֵיהֶן֙", "transliteral": "mar-ʾê-hen", "traducao_palavra": "a sua aparência é" },
+        { "hebraico": "כַּלַּפִּידִ֔ם", "transliteral": "kal-lap-pî-ḏim", "traducao_palavra": "como tochas" },
+        { "hebraico": "כַּבְּרָקִ֖ים", "transliteral": "kab-bə-rā-qîm", "traducao_palavra": "como relâmpagos" },
+        { "hebraico": "יְרֹוצֵֽצוּ׃", "transliteral": "yə-rô-ṣê-ṣû", "traducao_palavra": "correm velozes" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Ele se lembra dos seus nobres; eles tropeçam na sua marcha; apressam-se para o muro da cidade, e prepara-se a defesa.",
+      "palavras": [
+        { "hebraico": "יִזְכֹּר֙", "transliteral": "yiz-kōr", "traducao_palavra": "ele convoca/lembra-se de" },
+        { "hebraico": "אַדִּירָ֔יו", "transliteral": "ʾad-dî-rāyw", "traducao_palavra": "seus nobres" },
+        { "hebraico": "יִכָּשְׁל֖וּ", "transliteral": "yik-kā-šə-lû", "traducao_palavra": "eles tropeçam" },
+        { "hebraico": "בַהֲלִכָתָ֑ם", "transliteral": "ḇa-hă-li-ḵā-ṯām", "traducao_palavra": "no seu marchar" },
+        { "hebraico": "יְמַֽהֲרוּ֙", "transliteral": "yə-ma-hă-rû", "traducao_palavra": "apressam-se para" },
+        { "hebraico": "חֹֽומָתָ֔הּ", "transliteral": "ḥô-mā-ṯāh", "traducao_palavra": "o muro dela" },
+        { "hebraico": "וְהֻכַ֖ן", "transliteral": "wə-hu-ḵan", "traducao_palavra": "e prepara-se" },
+        { "hebraico": "הַסֹּכֵֽךְ׃", "transliteral": "has-sō-ḵêḵ", "traducao_palavra": "o manto de defesa/abrigo" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "As portas dos rios se abrem, e o palácio desmorona.",
+      "palavras": [
+        { "hebraico": "שַׁעֲרֵ֥י", "transliteral": "ša-ʿă-rê", "traducao_palavra": "as portas de" },
+        { "hebraico": "הַנְּהָרֹ֖ות", "transliteral": "han-nə-hā-rôṯ", "traducao_palavra": "os rios" },
+        { "hebraico": "נִפְתָּ֑חוּ", "transliteral": "nip̄-tā-ḥû", "traducao_palavra": "abrem-se" },
+        { "hebraico": "וְהַֽהֵיכָ֖ל", "transliteral": "wə-ha-hê-ḵāl", "traducao_palavra": "e o palácio" },
+        { "hebraico": "נָמֹֽוג׃", "transliteral": "nā-môḡ", "traducao_palavra": "dissolve-se/derrete-se" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Está decretado: ela é despida e levada cativa, e as suas servas gemem como com voz de pombas, batendo nos seus peitos.",
+      "palavras": [
+        { "hebraico": "וְהֻצַּ֞ב", "transliteral": "wə-huṣ-ṣaḇ", "traducao_palavra": "e está decretado:" },
+        { "hebraico": "גֻּלְּתָ֣ה", "transliteral": "gul-lə-ṯā", "traducao_palavra": "ela é despida" },
+        { "hebraico": "הֹֽעֲלָ֑תָה", "transliteral": "hō-ʿă-lā-ṯā", "traducao_palavra": "e levada cativa" },
+        { "hebraico": "וְאַמְהֹתֶ֗יהָ", "transliteral": "wə-ʾam-hō-ṯe-hā", "traducao_palavra": "e as suas servas" },
+        { "hebraico": "מְנַֽהֲגֹות֙", "transliteral": "mə-na-hă-ḡôṯ", "traducao_palavra": "gemem" },
+        { "hebraico": "כְּקֹ֣ול", "transliteral": "kə-qôl", "traducao_palavra": "como a voz de" },
+        { "hebraico": "יֹונִ֔ים", "transliteral": "yô-nîm", "traducao_palavra": "pombas" },
+        { "hebraico": "מְתֹפְפֹ֖ת", "transliteral": "mə-ṯō-p̄ə-p̄ōṯ", "traducao_palavra": "batendo" },
+        { "hebraico": "עַל־לִבְבֵהֶֽן׃", "transliteral": "ʿal-liḇ-ḇê-hen", "traducao_palavra": "sobre os seus peitos" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Nínive, desde que existe, tem sido como um tanque de águas; porém agora eles fogem. Parai! Parai! clamam; mas ninguém olha para trás.",
+      "palavras": [
+        { "hebraico": "וְנִינְוֵ֥ה", "transliteral": "wə-nî-nə-wêh", "traducao_palavra": "e Nínive" },
+        { "hebraico": "כִבְרֵֽכַת־מַ֖יִם", "transliteral": "ḵiḇ-rê-ḵaṯ-ma-yim", "traducao_palavra": "é como um tanque de águas" },
+        { "hebraico": "מִ֣ימֵי", "transliteral": "mî-mê", "traducao_palavra": "desde os dias de" },
+        { "hebraico": "הִ֑יא", "transliteral": "hî", "traducao_palavra": "sua existência" },
+        { "hebraico": "וְהֵ֣מָּה", "transliteral": "wə-hêm-mā", "traducao_palavra": "mas eles" },
+        { "hebraico": "נָסִ֔ים", "transliteral": "nā-sîm", "traducao_palavra": "fogem" },
+        { "hebraico": "עִמְד֥וּ", "transliteral": "ʿim-ḏû", "traducao_palavra": "parai!" },
+        { "hebraico": "עֲמֹ֖דוּ", "transliteral": "ʿă-mō-ḏû", "traducao_palavra": "parai!" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "mas não há quem" },
+        { "hebraico": "מַפְנֶֽה׃", "transliteral": "map̄-neh", "traducao_palavra": "olhe para trás" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Saqueai a prata, saqueai o ouro! Porque não há fim aos tesouros, há abundância de todo objeto precioso.",
+      "palavras": [
+        { "hebraico": "בֹּ֥זּוּ", "transliteral": "bōz-zû", "traducao_palavra": "saqueai" },
+        { "hebraico": "כֶ֖סֶף", "transliteral": "ḵe-sep̄", "traducao_palavra": "a prata" },
+        { "hebraico": "בֹּ֣זּוּ", "transliteral": "bōz-zû", "traducao_palavra": "saqueai" },
+        { "hebraico": "זָהָ֑ב", "transliteral": "zā-hāḇ", "traducao_palavra": "o ouro" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "e não há" },
+        { "hebraico": "קֵ֙צֶה֙", "transliteral": "qê-ṣeh", "traducao_palavra": "fim" },
+        { "hebraico": "לַתְּכוּנָ֔ה", "transliteral": "lat-tə-ḵū-nā", "traducao_palavra": "à riqueza acumulada" },
+        { "hebraico": "כָּבֹ֔ד", "transliteral": "kā-ḇōḏ", "traducao_palavra": "glória/abundância" },
+        { "hebraico": "מִכֹּ֖ל", "transliteral": "mik-kōl", "traducao_palavra": "de todo" },
+        { "hebraico": "כְּלִ֥י", "transliteral": "kə-lî", "traducao_palavra": "objeto de" },
+        { "hebraico": "חֶמְדָּֽה׃", "transliteral": "ḥem-dā", "traducao_palavra": "desejo/precioso" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Ela está vazia, desolada e saqueada; o coração se derrete, tremem os joelhos, em todos os lombos há dor, e os rostos de todos eles empalidecem.",
+      "palavras": [
+        { "hebraico": "בּוּקָ֥ה", "transliteral": "bū-qā", "traducao_palavra": "vazia" },
+        { "hebraico": "וּמְבוּקָ֖ה", "transliteral": "ū-mə-ḇū-qā", "traducao_palavra": "e desolada" },
+        { "hebraico": "וּמְבֻלָּקָ֑ה", "transliteral": "ū-mə-ḇul-lā-qā", "traducao_palavra": "e devastada!" },
+        { "hebraico": "וְלֵ֨ב", "transliteral": "wə-lêḇ", "traducao_palavra": "e o coração" },
+        { "hebraico": "נָמֵ֜ס", "transliteral": "nā-mês", "traducao_palavra": "se derrete" },
+        { "hebraico": "וּפִ֣ק", "transliteral": "ū-p̄iq", "traducao_palavra": "e tremem" },
+        { "hebraico": "בִּרְכַּ֗יִם", "transliteral": "bir-ka-yim", "traducao_palavra": "os joelhos" },
+        { "hebraico": "וְחַלְחָלָה֙", "transliteral": "wə-ḥal-ḥā-lā", "traducao_palavra": "e há tremores/angústia" },
+        { "hebraico": "בְּכָל־מָתְנַ֔יִם", "transliteral": "bə-ḵāl-māṯ-na-yim", "traducao_palavra": "em todos os lombos" },
+        { "hebraico": "וּפְנֵ֥י", "transliteral": "ū-p̄ə-nê", "traducao_palavra": "e os rostos de" },
+        { "hebraico": "כֻלָּ֖ם", "transliteral": "ḵul-lām", "traducao_palavra": "todos eles" },
+        { "hebraico": "קִבְּצ֥וּ", "transliteral": "qib-bə-ṣû", "traducao_palavra": "adquirem/reúnem" },
+        { "hebraico": "פָארֽוּר׃", "transliteral": "p̄ā-rūr", "traducao_palavra": "palidez" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "Onde está agora o covil dos leões e o pasto dos leõezinhos, onde passeavam o leão, a leoa e o filhote de leão, sem que ninguém os espantasse?",
+      "palavras": [
+        { "hebraico": "אַיֵּ֣ה", "transliteral": "ʾay-yêh", "traducao_palavra": "onde está" },
+        { "hebraico": "מְעֹ֣ון", "transliteral": "mə-ʿôn", "traducao_palavra": "o covil de" },
+        { "hebraico": "אֲרָיֹ֗ות", "transliteral": "ʾă-rā-yôṯ", "traducao_palavra": "leões" },
+        { "hebraico": "וּמִרְעֶ֥ה", "transliteral": "ū-mir-ʿeh", "traducao_palavra": "e a pastagem que" },
+        { "hebraico": "ה֛וּא", "transliteral": "hû", "traducao_palavra": "era" },
+        { "hebraico": "לַכְּפִרִ֖ים", "transliteral": "lak-kə-p̄i-rîm", "traducao_palavra": "para os leõezinhos" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "onde" },
+        { "hebraico": "הָלַךְ֩", "transliteral": "hā-laḵ", "traducao_palavra": "andavam" },
+        { "hebraico": "אַרְיֵ֨ה", "transliteral": "ʾar-yêh", "traducao_palavra": "o leão" },
+        { "hebraico": "לָבִ֥יא", "transliteral": "lā-ḇî", "traducao_palavra": "a leoa" },
+        { "hebraico": "שָׁ֛ם", "transliteral": "šām", "traducao_palavra": "ali" },
+        { "hebraico": "גּ֥וּר", "transliteral": "gūr", "traducao_palavra": "o filhote de" },
+        { "hebraico": "אַרְיֵ֖ה", "transliteral": "ʾar-yêh", "traducao_palavra": "leão" },
+        { "hebraico": "וְאֵ֥ין", "transliteral": "wə-ʾên", "traducao_palavra": "sem haver quem os" },
+        { "hebraico": "מַחֲרִֽיד׃", "transliteral": "ma-ḥă-rîḏ", "traducao_palavra": "espantasse?" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "O leão arrebatava o suficiente para os seus filhotes e estrangulava a presa para as suas leoas; e enchia de presas as suas cavernas e os seus covis de rapina.",
+      "palavras": [
+        { "hebraico": "אַרְיֵ֤ה", "transliteral": "ʾar-yêh", "traducao_palavra": "o leão" },
+        { "hebraico": "טֹרֵף֙", "transliteral": "ṭō-rêp̄", "traducao_palavra": "despedaçava" },
+        { "hebraico": "בְּדֵ֣י", "transliteral": "bə-ḏê", "traducao_palavra": "o suficiente para" },
+        { "hebraico": "גֹֽרֹותָ֔יו", "transliteral": "ḡō-rô-ṯāyw", "traducao_palavra": "os seus filhotes" },
+        { "hebraico": "וּמְחַנֵּ֖ק", "transliteral": "ū-mə-ḥan-nêq", "traducao_palavra": "e estrangulava" },
+        { "hebraico": "לְלִבְאֹתָ֑יו", "transliteral": "lə-liḇ-ʾō-ṯāyw", "traducao_palavra": "para as suas leoas" },
+        { "hebraico": "וַיְמַלֵּא־טֶ֣רֶף", "transliteral": "way-mal-lê-ṭe-rep̄", "traducao_palavra": "e enchia de presas" },
+        { "hebraico": "חֹרָ֔יו", "transliteral": "ḥō-rāyw", "traducao_palavra": "as suas cavernas" },
+        { "hebraico": "וּמְעֹֽנֹתָ֖יו", "transliteral": "ū-mə-ʿō-nō-ṯāyw", "traducao_palavra": "e os seus covis de" },
+        { "hebraico": "טְרֵפָֽה׃", "transliteral": "ṭə-rê-p̄ā", "traducao_palavra": "rapina" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Eis que eu estou contra ti, diz YHWH dos Exércitos; queimarei na fumaça os teus carros, e a espada devorará os teus leõezinhos; exterminarei da terra a tua presa, e não se ouvirá mais a voz dos teus mensageiros.",
+      "palavras": [
+        { "hebraico": "הִנְנִ֣י", "transliteral": "hin-nə-nî", "traducao_palavra": "eis-me aqui" },
+        { "hebraico": "אֵלַ֗יִךְ", "transliteral": "ʾê-la-yiḵ", "traducao_palavra": "contra ti" },
+        { "hebraico": "נְאֻם֙", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֔ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos:" },
+        { "hebraico": "וְהִבְעַרְתִּ֤י", "transliteral": "wə-hiḇ-ʿar-tî", "traducao_palavra": "queimarei" },
+        { "hebraico": "בֶֽעָשָׁן֙", "transliteral": "ḇe-ʿā-šān", "traducao_palavra": "em fumaça" },
+        { "hebraico": "רִכְבָּ֔הּ", "transliteral": "riḵ-bāh", "traducao_palavra": "os seus carros" },
+        { "hebraico": "וּכְפִירַ֖יִךְ", "transliteral": "ū-ḵə-p̄î-ra-yiḵ", "traducao_palavra": "e os teus leõezinhos" },
+        { "hebraico": "תֹּ֣אכַל", "transliteral": "tō-ḵal", "traducao_palavra": "devorará" },
+        { "hebraico": "חָ֑רֶב", "transliteral": "ḥā-reḇ", "traducao_palavra": "a espada" },
+        { "hebraico": "וְהִכְרַתִּ֤י", "transliteral": "wə-hiḵ-rat-tî", "traducao_palavra": "e exterminarei" },
+        { "hebraico": "מֵאֶ֙רֶץ֙", "transliteral": "mê-ʾe-reṣ", "traducao_palavra": "da terra" },
+        { "hebraico": "טַרְפֵּ֔ךְ", "transliteral": "ṭar-pêḵ", "traducao_palavra": "a tua presa" },
+        { "hebraico": "וְלֹֽא־יִשָּׁמַ֥ע", "transliteral": "wə-lō-yiš-šā-maʿ", "traducao_palavra": "e não se ouvirá" },
+        { "hebraico": "עֹ֖וד", "transliteral": "ʿôḏ", "traducao_palavra": "mais" },
+        { "hebraico": "קֹ֥ול", "transliteral": "qôl", "traducao_palavra": "a voz de" },
+        { "hebraico": "מַלְאָכֵֽכֵה׃", "transliteral": "mal-ʾā-ḵê-ḵêh", "traducao_palavra": "teus mensageiros" }
+      ]
+    }
+  }
 }

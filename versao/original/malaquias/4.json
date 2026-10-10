@@ -1,6 +1,119 @@
 {
-  "livro": "Malaquias - מַלְאָכִי - Malakhi",
+  "livro": "Malaquias - מַלְאָכִי - Malʾāḵî",
   "capítulo": 4,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Pois eis que vem o dia, ardendo como fornalha; todos os soberbos e todos os que cometem impiedade serão como o restolho; e o dia que vem os abrasará, diz YHWH dos Exércitos, de sorte que não lhes deixará nem raiz nem ramo.",
+      "palavras": [
+        { "hebraico": "כִּֽי־הִנֵּ֤ה", "transliteral": "kî-hin-nēh", "traducao_palavra": "porque eis que" },
+        { "hebraico": "הַיּוֹם֙", "transliteral": "hay-yôm", "traducao_palavra": "o dia" },
+        { "hebraico": "בָּ֔א", "transliteral": "bā", "traducao_palavra": "vem" },
+        { "hebraico": "בֹּעֵ֖ר", "transliteral": "bō-ʿêr", "traducao_palavra": "ardendo" },
+        { "hebraico": "כַּתַּנּ֑וּר", "transliteral": "kat-tan-nûr", "traducao_palavra": "como fornalha" },
+        { "hebraico": "וְהָי֨וּ", "transliteral": "wə-hā-yû", "traducao_palavra": "e serão" },
+        { "hebraico": "כָל־זֵדִ֜ים", "transliteral": "ḵāl-zê-ḏîm", "traducao_palavra": "todos os soberbos" },
+        { "hebraico": "וְכָל־עֹשֵׂ֤ה", "transliteral": "wə-ḵāl-ʿō-śêh", "traducao_palavra": "e todos os que praticam" },
+        { "hebraico": "רִשְׁעָה֙", "transliteral": "riš-ʿā", "traducao_palavra": "impiedade" },
+        { "hebraico": "קַ֔שׁ", "transliteral": "qaš", "traducao_palavra": "palha / restolho" },
+        { "hebraico": "וְלִהַ֨ט", "transliteral": "wə-li-haṭ", "traducao_palavra": "e abrasará" },
+        { "hebraico": "אֹתָ֜ם", "transliteral": "ʾō-ṯām", "traducao_palavra": "a eles" },
+        { "hebraico": "הַיּ֣וֹם", "transliteral": "hay-yôm", "traducao_palavra": "o dia" },
+        { "hebraico": "הַבָּ֗א", "transliteral": "hab-bā", "traducao_palavra": "que vem" },
+        { "hebraico": "אָמַר֙", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָא֔וֹת", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "אֲשֶׁ֛ר", "transliteral": "ʾă-šer", "traducao_palavra": "o qual" },
+        { "hebraico": "לֹא־יַעֲזֹ֥ב", "transliteral": "lō-ya-ʿă-zōḇ", "traducao_palavra": "não deixará" },
+        { "hebraico": "לָהֶ֖ם", "transliteral": "lā-hem", "traducao_palavra": "a eles" },
+        { "hebraico": "שֹׁ֥רֶשׁ", "transliteral": "šō-reš", "traducao_palavra": "raiz" },
+        { "hebraico": "וְעָנָֽף׃", "transliteral": "wə-ʿā-nāp̄", "traducao_palavra": "nem ramo" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Mas para vós que temeis o meu nome nascerá o sol da justiça, trazendo cura nas suas asas; e saireis e saltareis como bezerros soltos da estrebaria.",
+      "palavras": [
+        { "hebraico": "וְזָרְחָ֨ה", "transliteral": "wə-zār-ḥā", "traducao_palavra": "mas nascerá" },
+        { "hebraico": "לָכֶ֜ם", "transliteral": "lā-ḵem", "traducao_palavra": "para vós" },
+        { "hebraico": "יִרְאֵ֤י", "transliteral": "yir-ʾê", "traducao_palavra": "os que temeis" },
+        { "hebraico": "שְׁמִי֙", "transliteral": "šə-mî", "traducao_palavra": "o meu nome" },
+        { "hebraico": "שֶׁ֣מֶשׁ", "transliteral": "še-meš", "traducao_palavra": "o sol de" },
+        { "hebraico": "צְדָקָ֔ה", "transliteral": "ṣə-ḏā-qā", "traducao_palavra": "justiça" },
+        { "hebraico": "וּמַרְפֵּ֖א", "transliteral": "ū-mar-pê", "traducao_palavra": "e cura" },
+        { "hebraico": "בִּכְנָפֶ֑יהָ", "transliteral": "biḵ-nā-p̄e-hā", "traducao_palavra": "nas suas asas" },
+        { "hebraico": "וִיצָאתֶ֥ם", "transliteral": "wî-ṣā-ṯem", "traducao_palavra": "e saireis" },
+        { "hebraico": "וּפִשְׁתֶּ֖ם", "transliteral": "ū-p̄iš-tem", "traducao_palavra": "e saltareis" },
+        { "hebraico": "כְּעֶגְלֵ֥י", "transliteral": "kə-ʿeḡ-lê", "traducao_palavra": "como bezerros de" },
+        { "hebraico": "מַרְבֵּֽק׃", "transliteral": "mar-bêq", "traducao_palavra": "cevadouro / estrebaria" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E pisareis os ímpios, porque serão cinza debaixo das plantas dos vossos pés, naquele dia que prepararei, diz YHWH dos Exércitos.",
+      "palavras": [
+        { "hebraico": "וְעַסּוֹתֶ֣ם", "transliteral": "wə-ʿas-sô-ṯem", "traducao_palavra": "e pisareis" },
+        { "hebraico": "רְשָׁעִ֔ים", "transliteral": "rə-šā-ʿîm", "traducao_palavra": "aos ímpios" },
+        { "hebraico": "כִּֽי־יִהְי֣וּ", "transliteral": "kî-yih-yû", "traducao_palavra": "porque serão" },
+        { "hebraico": "אֵ֔פֶר", "transliteral": "ʾê-p̄er", "traducao_palavra": "cinza" },
+        { "hebraico": "תַּ֖חַת", "transliteral": "ta-ḥaṯ", "traducao_palavra": "debaixo de" },
+        { "hebraico": "כַּפּ֣וֹת", "transliteral": "kap-pôṯ", "traducao_palavra": "as plantas de" },
+        { "hebraico": "רַגְלֵיכֶ֑ם", "transliteral": "raḡ-lê-ḵem", "traducao_palavra": "vossos pés" },
+        { "hebraico": "בַּיּוֹם֙", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "אֲשֶׁ֣ר", "transliteral": "ʾă-šer", "traducao_palavra": "em que" },
+        { "hebraico": "אֲנִ֣י", "transliteral": "ʾă-nî", "traducao_palavra": "eu" },
+        { "hebraico": "עֹשֶׂ֔ה", "transliteral": "ʿō-śeh", "traducao_palavra": "agir / fizer" },
+        { "hebraico": "אָמַ֖ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֽוֹת׃", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Lembrai-vos da lei de Moisés, meu servo, a qual lhe ordenei em Horebe para todo o Israel, isto é, estatutos e juízos.",
+      "palavras": [
+        { "hebraico": "זִכְר֕וּ", "transliteral": "ziḵ-rû", "traducao_palavra": "lembrai-vos de" },
+        { "hebraico": "תּוֹרַ֖ת", "transliteral": "tô-raṯ", "traducao_palavra": "a lei de" },
+        { "hebraico": "מֹשֶׁ֣ה", "transliteral": "mō-šeh", "traducao_palavra": "Moisés" },
+        { "hebraico": "עַבְדִּ֑י", "transliteral": "ʿaḇ-dî", "traducao_palavra": "meu servo" },
+        { "hebraico": "אֲשֶׁר֩", "transliteral": "ʾă-šer", "traducao_palavra": "a qual" },
+        { "hebraico": "צִוִּ֨יתִי", "transliteral": "ṣiw-wî-ṯî", "traducao_palavra": "ordenei" },
+        { "hebraico": "אוֹת֤וֹ", "transliteral": "ʾō-ṯô", "traducao_palavra": "a ele" },
+        { "hebraico": "בְחֹרֵב֙", "transliteral": "bə-ḥō-rêḇ", "traducao_palavra": "em Horebe" },
+        { "hebraico": "עַל־כָּל־יִשְׂרָאֵ֔ל", "transliteral": "ʿal-kāl-yiś-rā-ʾēl", "traducao_palavra": "para todo o Israel" },
+        { "hebraico": "חֻקִּ֖ים", "transliteral": "ḥuq-qîm", "traducao_palavra": "estatutos" },
+        { "hebraico": "וּמִשְׁפָּטִֽים׃", "transliteral": "ū-miš-pā-ṭîm", "traducao_palavra": "e juízos" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "Eis que vos envio o profeta Elias, antes que venha o grande e terrível dia de YHWH;",
+      "palavras": [
+        { "hebraico": "הִנֵּ֧ה", "transliteral": "hin-nēh", "traducao_palavra": "eis que" },
+        { "hebraico": "אָנֹכִ֛י", "transliteral": "ʾā-nō-ḵî", "traducao_palavra": "eu" },
+        { "hebraico": "שֹׁלֵ֥חַ", "transliteral": "šō-lê-aḥ", "traducao_palavra": "envio" },
+        { "hebraico": "לָכֶ֖ם", "transliteral": "lā-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "אֵ֚ת", "transliteral": "ʾêṯ", "traducao_palavra": "[objeto]" },
+        { "hebraico": "אֵלִיָּ֣ה", "transliteral": "ʾê-lî-yā", "traducao_palavra": "Elias" },
+        { "hebraico": "הַנָּבִ֑יא", "transliteral": "han-nā-ḇî", "traducao_palavra": "o profeta" },
+        { "hebraico": "לִפְנֵ֗י", "transliteral": "lip̄-nê", "traducao_palavra": "antes de" },
+        { "hebraico": "בּ֚וֹא", "transliteral": "bô", "traducao_palavra": "vir" },
+        { "hebraico": "י֣וֹם", "transliteral": "yôm", "traducao_palavra": "o dia de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הַגָּדוֹל", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o grande" },
+        { "hebraico": "וְהַנּוֹרָֽא׃", "transliteral": "wə-han-nô-rā", "traducao_palavra": "e temível" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "e ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição.",
+      "palavras": [
+        { "hebraico": "וְהֵשִׁ֤יב", "transliteral": "wə-hê-šîḇ", "traducao_palavra": "e ele converterá / fará voltar" },
+        { "hebraico": "לֵב־אָבוֹת֙", "transliteral": "lêḇ-ʾā-ḇôṯ", "traducao_palavra": "o coração dos pais" },
+        { "hebraico": "עַל־בָּנִ֔ים", "transliteral": "ʿal-bā-nîm", "traducao_palavra": "aos filhos" },
+        { "hebraico": "וְלֵ֥ב", "transliteral": "wə-lêḇ", "traducao_palavra": "e o coração de" },
+        { "hebraico": "בָּנִ֖ים", "transliteral": "bā-nîm", "traducao_palavra": "filhos" },
+        { "hebraico": "עַל־אֲבוֹתָ֑ם", "transliteral": "ʿal-ʾă-ḇô-ṯām", "traducao_palavra": "a seus pais" },
+        { "hebraico": "פֶּן־אָב֕וֹא", "transliteral": "pen-ʾā-ḇô", "traducao_palavra": "para que não venha eu" },
+        { "hebraico": "וְהִכֵּיתִ֥י", "transliteral": "wə-hik-kê-ṯî", "traducao_palavra": "e fira" },
+        { "hebraico": "אֶת־הָאָ֖רֶץ", "transliteral": "ʾeṯ-hā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "חֵֽרֶם׃", "transliteral": "ḥê-rem", "traducao_palavra": "com maldição / anátema" }
+      ]
+    }
+  }
 }

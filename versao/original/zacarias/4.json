@@ -1,6 +1,238 @@
 {
-  "livro": "Zacarias - זְכַרְיָה - Zekharyah",
+  "livro": "Zacarias - זְכַרְיָה - Zəḵaryā",
   "capítulo": 4,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E voltou o anjo que falava comigo e me despertou, como a um homem que é despertado do seu sono;",
+      "palavras": [
+        { "hebraico": "וַיָּ֕שָׁב", "transliteral": "way-yā-šāḇ", "traducao_palavra": "e voltou" },
+        { "hebraico": "הַמַּלְאָ֖ךְ", "transliteral": "ham-mal-ʾāḵ", "traducao_palavra": "o anjo" },
+        { "hebraico": "הַדֹּבֵ֣ר", "transliteral": "had-dō-ḇêr", "traducao_palavra": "que falava" },
+        { "hebraico": "בִּ֑י", "transliteral": "bî", "traducao_palavra": "comigo" },
+        { "hebraico": "וַיְעִירֵ֕נִי", "transliteral": "way-ʿî-rê-nî", "traducao_palavra": "e despertou-me" },
+        { "hebraico": "כְּאִ֖ישׁ", "transliteral": "kə-ʾîš", "traducao_palavra": "como um homem" },
+        { "hebraico": "אֲשֶׁר־יֵעֹ֥ור", "transliteral": "ʾă-šer-yê-ʿôr", "traducao_palavra": "que é despertado" },
+        { "hebraico": "מִשְּׁנָתֹֽו׃", "transliteral": "miš-šə-nā-ṯô", "traducao_palavra": "do seu sono" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "e me disse: Que vês? E eu respondi: Olhei, e eis um candelabro todo de ouro, e um vaso no seu topo, com sete lâmpadas; e há sete tubos para cada uma das lâmpadas que estão no seu topo;",
+      "palavras": [
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֗י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "מָ֚ה", "transliteral": "māh", "traducao_palavra": "o que" },
+        { "hebraico": "אַתָּ֣ה", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "רֹאֶ֔ה", "transliteral": "rō-ʾeh", "traducao_palavra": "vês" },
+        { "hebraico": "וָאֹמַ֡ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e respondi" },
+        { "hebraico": "רָאִ֣יתִי׀", "transliteral": "rā-ʾî-ṯî", "traducao_palavra": "vi" },
+        { "hebraico": "וְהִנֵּ֣ה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis" },
+        { "hebraico": "מְנֹורַת֩", "transliteral": "mə-nô-raṯ", "traducao_palavra": "um candelabro de" },
+        { "hebraico": "זָהָ֨ב", "transliteral": "zā-hāḇ", "traducao_palavra": "ouro" },
+        { "hebraico": "כֻּלָּ֜הּ", "transliteral": "kul-lāh", "traducao_palavra": "todo ele" },
+        { "hebraico": "וְגֻלָּ֣הּ", "transliteral": "wə-ḡul-lāh", "traducao_palavra": "e o seu vaso" },
+        { "hebraico": "עַל־רֹאשָׁ֗הּ", "transliteral": "ʿal-rō-šāh", "traducao_palavra": "sobre o seu topo" },
+        { "hebraico": "וְשִׁבְעָ֤ה", "transliteral": "wə-šiḇ-ʿā", "traducao_palavra": "e sete" },
+        { "hebraico": "נֵרֹתֶ֙יהָ֙", "transliteral": "nê-rō-ṯe-hā", "traducao_palavra": "lâmpadas dele" },
+        { "hebraico": "עָלֶ֔יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "sobre ele" },
+        { "hebraico": "שִׁבְעָ֤ה", "transliteral": "šiḇ-ʿā", "traducao_palavra": "sete" },
+        { "hebraico": "וְשִׁבְעָה֙", "transliteral": "wə-šiḇ-ʿā", "traducao_palavra": "e sete" },
+        { "hebraico": "מֽוּצָקֹ֔ות", "transliteral": "mû-ṣā-qôṯ", "traducao_palavra": "tubos" },
+        { "hebraico": "לַנֵּרֹ֖ות", "transliteral": "lan-nê-rôṯ", "traducao_palavra": "para as lâmpadas" },
+        { "hebraico": "אֲשֶׁ֥ר", "transliteral": "ʾă-šer", "traducao_palavra": "que [estão]" },
+        { "hebraico": "עַל־רֹאשָֽׁהּ׃", "transliteral": "ʿal-rō-šāh", "traducao_palavra": "sobre o seu topo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "e duas oliveiras junto a ele, uma à direita do vaso e outra à sua esquerda.",
+      "palavras": [
+        { "hebraico": "וּשְׁנַ֥יִם", "transliteral": "ū-šə-na-yim", "traducao_palavra": "e duas" },
+        { "hebraico": "זֵיתִ֖ים", "transliteral": "zê-ṯîm", "traducao_palavra": "oliveiras" },
+        { "hebraico": "עָלֶ֑יהָ", "transliteral": "ʿā-le-hā", "traducao_palavra": "junto a ele" },
+        { "hebraico": "אֶחָ֞ד", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "uma" },
+        { "hebraico": "מִימִ֤ין", "transliteral": "mî-mîn", "traducao_palavra": "à direita de" },
+        { "hebraico": "הַגֻּלָּה֙", "transliteral": "hag-gul-lā", "traducao_palavra": "o vaso" },
+        { "hebraico": "וְאֶחָ֖ד", "transliteral": "wə-ʾe-ḥāḏ", "traducao_palavra": "e outra" },
+        { "hebraico": "עַל־שְׂמֹאלָֽהּ׃", "transliteral": "ʿal-śə-mō-lāh", "traducao_palavra": "à sua esquerda" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Então perguntei ao anjo que falava comigo, dizendo: Que é isto, meu senhor?",
+      "palavras": [
+        { "hebraico": "וָאַ֙עַן֙", "transliteral": "wā-ʾa-ʿan", "traducao_palavra": "e respondi" },
+        { "hebraico": "וָאֹמַ֔ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "אֶל־הַמַּלְאָ֛ךְ", "transliteral": "ʾel-ham-mal-ʾāḵ", "traducao_palavra": "ao anjo" },
+        { "hebraico": "הַדֹּבֵ֥ר", "transliteral": "had-dō-ḇêr", "traducao_palavra": "que falava" },
+        { "hebraico": "בִּ֖י", "transliteral": "bî", "traducao_palavra": "comigo" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "מָה־אֵ֖לֶּה", "transliteral": "māh-ʾêl-leh", "traducao_palavra": "que [são] estes" },
+        { "hebraico": "אֲדֹנִֽי׃", "transliteral": "ʾă-ḏō-nî", "traducao_palavra": "meu senhor" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E respondeu o anjo que falava comigo, e me disse: Não sabes tu o que é isto? E eu disse: Não, meu senhor.",
+      "palavras": [
+        { "hebraico": "וַ֠יַּעַן", "transliteral": "way-ya-ʿan", "traducao_palavra": "e respondeu" },
+        { "hebraico": "הַמַּלְאָ֞ךְ", "transliteral": "ham-mal-ʾāḵ", "traducao_palavra": "o anjo" },
+        { "hebraico": "הַדֹּבֵ֥ר", "transliteral": "had-dō-ḇêr", "traducao_palavra": "que falava" },
+        { "hebraico": "בִּי֙", "transliteral": "bî", "traducao_palavra": "comigo" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַ֔י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "הֲלֹ֥וא", "transliteral": "hă-lô", "traducao_palavra": "porventura não" },
+        { "hebraico": "יָדַ֖עְתָּ", "transliteral": "yā-ḏaʿ-tā", "traducao_palavra": "sabes" },
+        { "hebraico": "מָה־הֵ֣מָּה", "transliteral": "māh-hêm-mā", "traducao_palavra": "o que são" },
+        { "hebraico": "אֵ֑לֶּה", "transliteral": "ʾêl-leh", "traducao_palavra": "estes" },
+        { "hebraico": "וָאֹמַ֖ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e eu disse" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲדֹנִֽי׃", "transliteral": "ʾă-ḏō-nî", "traducao_palavra": "meu senhor" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E ele respondeu e me falou, dizendo: Esta é a palavra de YHWH a Zorobabel, dizendo: Não por força, nem por violência, mas pelo meu Espírito, diz YHWH dos Exércitos.",
+      "palavras": [
+        { "hebraico": "וַיַּ֜עַן", "transliteral": "way-ya-ʿan", "traducao_palavra": "e respondeu" },
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלַי֙", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "זֶ֚ה", "transliteral": "zeh", "traducao_palavra": "esta [é]" },
+        { "hebraico": "דְּבַר־יְהוָ֔ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֶל־זְרֻבָּבֶ֖ל", "transliteral": "ʾel-zə-rub-bā-ḇel", "traducao_palavra": "a Zorobabel" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "לֹ֤א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "בְחַ֙יִל֙", "transliteral": "ḇə-ḥa-yil", "traducao_palavra": "por força / exército" },
+        { "hebraico": "וְלֹ֣א", "transliteral": "wə-lō", "traducao_palavra": "e nem" },
+        { "hebraico": "בְכֹ֔חַ", "transliteral": "ḇə-ḵō-aḥ", "traducao_palavra": "por poder" },
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "mas" },
+        { "hebraico": "אִם־בְּרוּחִ֔י", "transliteral": "ʾim-bə-rû-ḥî", "traducao_palavra": "sim pelo meu Espírito" },
+        { "hebraico": "אָמַ֖ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹֽות׃", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Quem és tu, ó grande monte? Diante de Zorobabel serás uma campina; e ele trará a pedra de remate em meio a aclamações de: Graça, graça a ela!",
+      "palavras": [
+        { "hebraico": "מִֽי־אַתָּ֧ה", "transliteral": "mî-ʾat-tā", "traducao_palavra": "quem és tu" },
+        { "hebraico": "הַֽר־הַגָּדֹ֛ול", "transliteral": "har-hag-gā-ḏôl", "traducao_palavra": "grande monte" },
+        { "hebraico": "לִפְנֵ֥י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "זְרֻבָּבֶ֖ל", "transliteral": "zə-rub-bā-ḇel", "traducao_palavra": "Zorobabel" },
+        { "hebraico": "לְמִישֹׁ֑ר", "transliteral": "lə-mî-šōr", "traducao_palavra": "[tornar-te-ás] campina / planície" },
+        { "hebraico": "וְהֹוצִיא֙", "transliteral": "wə-hô-ṣî", "traducao_palavra": "e ele trará" },
+        { "hebraico": "אֶת־הָאֶ֣בֶן", "transliteral": "ʾeṯ-hā-ʾe-ḇen", "traducao_palavra": "a pedra" },
+        { "hebraico": "הָרֹאשָׁ֔ה", "transliteral": "hā-rō-šā", "traducao_palavra": "principal / de remate" },
+        { "hebraico": "תְּשֻׁאֹ֕ות", "transliteral": "tə-šu-ʾôṯ", "traducao_palavra": "com aclamações de" },
+        { "hebraico": "חֵ֥ן", "transliteral": "ḥên", "traducao_palavra": "graça" },
+        { "hebraico": "חֵ֖ן", "transliteral": "ḥên", "traducao_palavra": "graça" },
+        { "hebraico": "לָֽהּ׃", "transliteral": "lāh", "traducao_palavra": "a ela" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E a palavra de YHWH veio a mim, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "As mãos de Zorobabel têm lançado os fundamentos desta casa; também as suas mãos a rematarão; para que saibais que YHWH dos Exércitos me enviou a vós.",
+      "palavras": [
+        { "hebraico": "יְדֵ֣י", "transliteral": "yə-ḏê", "traducao_palavra": "as mãos de" },
+        { "hebraico": "זְרֻבָּבֶ֗ל", "transliteral": "zə-rub-bā-ḇel", "traducao_palavra": "Zorobabel" },
+        { "hebraico": "יִסְּד֛וּ", "transliteral": "yis-sə-ḏû", "traducao_palavra": "fundamentaram" },
+        { "hebraico": "הַבַּ֥יִת", "transliteral": "hab-ba-yiṯ", "traducao_palavra": "a casa" },
+        { "hebraico": "הַזֶּ֖ה", "transliteral": "haz-zeh", "traducao_palavra": "esta" },
+        { "hebraico": "וְיָדָ֣יו", "transliteral": "wə-yā-ḏāyw", "traducao_palavra": "e as suas mãos" },
+        { "hebraico": "תְּבַצַּ֑עְנָה", "transliteral": "tə-ḇaṣ-ṣaʿ-nā", "traducao_palavra": "a rematarão / completarão" },
+        { "hebraico": "וְיָ֣דַעְתָּ֔", "transliteral": "wə-yā-ḏaʿ-tā", "traducao_palavra": "e saberás" },
+        { "hebraico": "כִּֽי־יְהוָ֥ה", "transliteral": "kî-YHWH", "traducao_palavra": "que YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "שְׁלָחַ֥נִי", "transliteral": "šə-lā-ḥa-nî", "traducao_palavra": "me enviou" },
+        { "hebraico": "אֲלֵיכֶֽם׃", "transliteral": "ʾă-lê-ḵem", "traducao_palavra": "a vós" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Pois quem desprezaria o dia das coisas pequenas? Porque esses sete se alegrarão, vendo o prumo na mão de Zorobabel; estes são os olhos de YHWH, que percorrem toda a terra.",
+      "palavras": [
+        { "hebraico": "כִּ֣י", "transliteral": "kî", "traducao_palavra": "pois" },
+        { "hebraico": "מִ֣י", "transliteral": "mî", "traducao_palavra": "quem" },
+        { "hebraico": "בַז֘", "transliteral": "ḇaz", "traducao_palavra": "despreza" },
+        { "hebraico": "לְיֹ֣ום", "transliteral": "lə-yôm", "traducao_palavra": "o dia de" },
+        { "hebraico": "קְטַנֹּות֒", "transliteral": "qə-ṭan-nôṯ", "traducao_palavra": "coisas pequenas" },
+        { "hebraico": "וְשָׂמְח֗וּ", "transliteral": "wə-śā-mə-ḥû", "traducao_palavra": "e se alegrarão" },
+        { "hebraico": "וְרָא֞וּ", "transliteral": "wə-rā-ʾû", "traducao_palavra": "e verão" },
+        { "hebraico": "אֶת־הָאֶ֧בֶן", "transliteral": "ʾeṯ-hā-ʾe-ḇen", "traducao_palavra": "a pedra de" },
+        { "hebraico": "הַבְּדִ֛יל", "transliteral": "hab-bə-ḏîl", "traducao_palavra": "prumo / chumbo" },
+        { "hebraico": "בְּיַ֥ד", "transliteral": "bə-yaḏ", "traducao_palavra": "na mão de" },
+        { "hebraico": "זְרֻבָּבֶ֖ל", "transliteral": "zə-rub-bā-ḇel", "traducao_palavra": "Zorobabel" },
+        { "hebraico": "שִׁבְעָה־אֵ֑לֶּה", "transliteral": "šiḇ-ʿā-ʾêl-leh", "traducao_palavra": "aqueles sete" },
+        { "hebraico": "עֵינֵ֣י", "transliteral": "ʿê-nê", "traducao_palavra": "[são] os olhos de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "הֵ֥מָּה", "transliteral": "hêm-mā", "traducao_palavra": "que" },
+        { "hebraico": "מְשֹׁוטְטִ֖ים", "transliteral": "mə-šô-ṭə-ṭîm", "traducao_palavra": "percorrem" },
+        { "hebraico": "בְּכָל־הָאָֽרֶץ׃", "transliteral": "bə-ḵāl-hā-ʾā-reṣ", "traducao_palavra": "por toda a terra" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Então respondi, e disse-lhe: Que são estas duas oliveiras à direita e à esquerda do candelabro?",
+      "palavras": [
+        { "hebraico": "וָאַ֙עַן֙", "transliteral": "wā-ʾa-ʿan", "traducao_palavra": "e respondi" },
+        { "hebraico": "וָאֹמַ֣ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלָ֔יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele" },
+        { "hebraico": "מַה־שְּׁנֵ֥י", "transliteral": "mah-šə-nê", "traducao_palavra": "que [são] estas duas" },
+        { "hebraico": "הַזֵּיתִ֖ים", "transliteral": "haz-zê-ṯîm", "traducao_palavra": "oliveiras" },
+        { "hebraico": "הָאֵ֑לֶּה", "transliteral": "hā-ʾêl-leh", "traducao_palavra": "estas" },
+        { "hebraico": "עַל־יְמִ֥ין", "transliteral": "ʿal-yə-mîn", "traducao_palavra": "à direita de" },
+        { "hebraico": "הַמְּנֹורָ֖ה", "transliteral": "ham-mə-nô-rā", "traducao_palavra": "o candelabro" },
+        { "hebraico": "וְעַל־שְׂמֹאולָֽהּ׃", "transliteral": "wə-ʿal-śə-mō-wlāh", "traducao_palavra": "e à sua esquerda" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E respondendo-lhe outra vez, perguntei-lhe: Que são aqueles dois ramos de oliveira que estão junto aos dois tubos de ouro, e que vertem de si azeite dourado?",
+      "palavras": [
+        { "hebraico": "וָאַ֣עַן", "transliteral": "wā-ʾa-ʿan", "traducao_palavra": "e respondi" },
+        { "hebraico": "שֵׁנִ֔ית", "transliteral": "šê-nîṯ", "traducao_palavra": "segunda vez" },
+        { "hebraico": "וָאֹמַ֖ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלָ֑יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele" },
+        { "hebraico": "מַה־שְּׁתֵּ֞י", "transliteral": "mah-šət-tê", "traducao_palavra": "que [são] estes dois" },
+        { "hebraico": "שִׁבֲּלֵ֣י", "transliteral": "šib-bă-lê", "traducao_palavra": "ramos de / espigas de" },
+        { "hebraico": "הַזֵּיתִ֗ים", "transliteral": "haz-zê-ṯîm", "traducao_palavra": "oliveiras" },
+        { "hebraico": "אֲשֶׁר֙", "transliteral": "ʾă-šer", "traducao_palavra": "que [estão]" },
+        { "hebraico": "בְּיַ֗ד", "transliteral": "bə-yaḏ", "traducao_palavra": "junto aos" },
+        { "hebraico": "שְׁנֵי֙", "transliteral": "šə-nê", "traducao_palavra": "dois" },
+        { "hebraico": "צַנְתְּרֹ֣ות", "transliteral": "ṣan-tə-rôṯ", "traducao_palavra": "tubos / condutos de" },
+        { "hebraico": "הַזָּהָ֔ב", "transliteral": "haz-zā-hāḇ", "traducao_palavra": "ouro" },
+        { "hebraico": "הַֽמֲרִיקִ֥ים", "transliteral": "ham-rî-qîm", "traducao_palavra": "que vertem" },
+        { "hebraico": "מֵעֲלֵיהֶ֖ם", "transliteral": "mê-ʿă-lê-hem", "traducao_palavra": "de si" },
+        { "hebraico": "הַזָּהָֽב׃", "transliteral": "haz-zā-hāḇ", "traducao_palavra": "o azeite dourado [ouro]" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E ele me falou, dizendo: Não sabes o que é isto? E eu disse: Não, meu senhor.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֤אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e falou" },
+        { "hebraico": "אֵלַי֙", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "הֲלֹ֥וא", "transliteral": "hă-lô", "traducao_palavra": "porventura não" },
+        { "hebraico": "יָדַ֖עְתָּ", "transliteral": "yā-ḏaʿ-tā", "traducao_palavra": "sabes" },
+        { "hebraico": "מָה־אֵ֑לֶּה", "transliteral": "māh-ʾêl-leh", "traducao_palavra": "o que são estes" },
+        { "hebraico": "וָאֹמַ֖ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "לֹ֥א", "transliteral": "lō", "traducao_palavra": "não" },
+        { "hebraico": "אֲדֹנִֽי׃", "transliteral": "ʾă-ḏō-nî", "traducao_palavra": "meu senhor" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "Então ele disse: Estes são os dois ungidos, que estão em pé diante do Senhor de toda a terra.",
+      "palavras": [
+        { "hebraico": "וַיֹּ֕אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵ֖לֶּה", "transliteral": "ʾêl-leh", "traducao_palavra": "estes [são]" },
+        { "hebraico": "שְׁנֵ֣י", "transliteral": "šə-nê", "traducao_palavra": "os dois" },
+        { "hebraico": "בְנֵֽי־הַיִּצְהָ֑ר", "transliteral": "ḇə-nê-hay-yiṣ-hār", "traducao_palavra": "ungidos [lit. filhos do óleo]" },
+        { "hebraico": "הָעֹמְדִ֖ים", "transliteral": "hā-ʿō-mə-ḏîm", "traducao_palavra": "que estão em pé" },
+        { "hebraico": "עַל־אֲדֹ֥ון", "transliteral": "ʿal-ʾă-ḏôn", "traducao_palavra": "junto ao / diante do Senhor de" },
+        { "hebraico": "כָּל־הָאָֽרֶץ׃", "transliteral": "kāl-hā-ʾā-reṣ", "traducao_palavra": "toda a terra" }
+      ]
+    }
+  }
 }

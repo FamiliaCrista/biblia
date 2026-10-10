@@ -1,6 +1,200 @@
 {
-  "livro": "Zacarias - זְכַרְיָה - Zekharyah",
+  "livro": "Zacarias - זְכַרְיָה - Zəḵaryā",
   "capítulo": 3,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E ele me mostrou o sumo sacerdote Josué, o qual estava em pé diante do anjo de YHWH, e Satanás estava à sua mão direita, para se lhe opor.",
+      "palavras": [
+        { "hebraico": "וַיַּרְאֵ֗נִי", "transliteral": "way-yar-ʾê-nî", "traducao_palavra": "e mostrou-me" },
+        { "hebraico": "אֶת־יְהֹושֻׁ֙עַ֙", "transliteral": "ʾeṯ-yə-hô-šu-aʿ", "traducao_palavra": "a Josué" },
+        { "hebraico": "הַכֹּהֵ֣ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הַגָּדֹ֔ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o grande [o sumo sacerdote]" },
+        { "hebraico": "עֹמֵ֕ד", "transliteral": "ʿō-mêḏ", "traducao_palavra": "estava em pé" },
+        { "hebraico": "לִפְנֵ֖י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "מַלְאַ֣ךְ", "transliteral": "mal-ʾaḵ", "traducao_palavra": "o anjo de" },
+        { "hebraico": "יְהוָ֑ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְהַשָּׂטָ֛ן", "transliteral": "wə-haś-śā-ṭān", "traducao_palavra": "e o Acusador [Satanás]" },
+        { "hebraico": "עֹמֵ֥ד", "transliteral": "ʿō-mêḏ", "traducao_palavra": "estava em pé" },
+        { "hebraico": "עַל־יְמִינֹ֖ו", "transliteral": "ʿal-yə-mî-nô", "traducao_palavra": "à sua direita" },
+        { "hebraico": "לְשִׂטְנֹֽו׃", "transliteral": "lə-śiṭ-nô", "traducao_palavra": "para acusá-lo / opor-se a ele" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "Mas YHWH disse a Satanás: YHWH te repreenda, ó Satanás; sim, YHWH, que escolheu a Jerusalém, te repreenda; não é este um tição tirado do fogo?",
+      "palavras": [
+        { "hebraico": "וַיֹּ֨אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "יְהוָ֜ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֶל־הַשָּׂטָ֗ן", "transliteral": "ʾel-haś-śā-ṭān", "traducao_palavra": "ao Acusador [Satanás]" },
+        { "hebraico": "יִגְעַ֨ר", "transliteral": "yiḡ-ʿar", "traducao_palavra": "repreenda" },
+        { "hebraico": "יְהוָ֤ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בְּךָ֙", "transliteral": "bə-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "הַשָּׂטָ֔ן", "transliteral": "haś-śā-ṭān", "traducao_palavra": "ó Satanás" },
+        { "hebraico": "וְיִגְעַ֤ר", "transliteral": "wə-yiḡ-ʿar", "traducao_palavra": "sim, repreenda" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בְּךָ֔", "transliteral": "bə-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "הַבֹּחֵ֖ר", "transliteral": "hab-bō-ḥêr", "traducao_palavra": "o que escolhe" },
+        { "hebraico": "בִּירוּשָׁלִָ֑ם", "transliteral": "bî-rû-šā-lā-yim", "traducao_palavra": "a Jerusalém" },
+        { "hebraico": "הֲלֹ֧וא", "transliteral": "hă-lô", "traducao_palavra": "porventura não [é]" },
+        { "hebraico": "זֶ֦ה", "transliteral": "zeh", "traducao_palavra": "este" },
+        { "hebraico": "א֥וּד", "transliteral": "ʾûḏ", "traducao_palavra": "um tição" },
+        { "hebraico": "מֻצָּ֖ל", "transliteral": "muṣ-ṣāl", "traducao_palavra": "arrebatado / tirado" },
+        { "hebraico": "מֵאֵֽשׁ׃", "transliteral": "mê-ʾēš", "traducao_palavra": "do fogo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Ora, Josué estava vestido de vestes sujas, e estava em pé diante do anjo.",
+      "palavras": [
+        { "hebraico": "וִיהֹושֻׁ֕עַ", "transliteral": "wî-hô-šu-aʿ", "traducao_palavra": "e Josué" },
+        { "hebraico": "הָיָ֥ה", "transliteral": "hā-yā", "traducao_palavra": "estava" },
+        { "hebraico": "לָבֻ֖שׁ", "transliteral": "lā-ḇuš", "traducao_palavra": "vestido de" },
+        { "hebraico": "בְּגָדִ֣ים", "transliteral": "bə-ḡā-ḏîm", "traducao_palavra": "vestes" },
+        { "hebraico": "צֹואִ֑ים", "transliteral": "ṣô-ʾîm", "traducao_palavra": "sujas" },
+        { "hebraico": "וְעֹמֵ֖ד", "transliteral": "wə-ʿō-mêḏ", "traducao_palavra": "e estava em pé" },
+        { "hebraico": "לִפְנֵ֥י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "הַמַּלְאָֽךְ׃", "transliteral": "ham-mal-ʾāḵ", "traducao_palavra": "o anjo" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E ele respondeu e disse aos que estavam em pé diante dele, dizendo: Tirai-lhe estas vestes sujas. E a ele disse: Eis que fiz passar de ti a tua iniquidade, e te vestirei de roupas finas.",
+      "palavras": [
+        { "hebraico": "וַיַּ֣עַן", "transliteral": "way-ya-ʿan", "traducao_palavra": "e respondeu" },
+        { "hebraico": "וַיֹּ֗אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֶל־הָעֹמְדִ֤ים", "transliteral": "ʾel-hā-ʿō-mə-ḏîm", "traducao_palavra": "aos que estavam em pé" },
+        { "hebraico": "לְפָנָיו֙", "transliteral": "lə-p̄ā-nāyw", "traducao_palavra": "diante dele" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "הָסִ֛ירוּ", "transliteral": "hā-sî-rû", "traducao_palavra": "tirai" },
+        { "hebraico": "הַבְּגָדִ֥ים", "transliteral": "hab-bə-ḡā-ḏîm", "traducao_palavra": "as vestes" },
+        { "hebraico": "הַצֹּאִ֖ים", "transliteral": "haṣ-ṣō-ʾîm", "traducao_palavra": "sujas" },
+        { "hebraico": "מֵעָלָ֑יו", "transliteral": "mê-ʿā-lāyw", "traducao_palavra": "de sobre ele" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלָ֗יו", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele" },
+        { "hebraico": "רְאֵ֨ה", "transliteral": "rə-ʾēh", "traducao_palavra": "vê / eis que" },
+        { "hebraico": "הֶעֱבַ֤רְתִּי", "transliteral": "he-ʿĕ-ḇar-tî", "traducao_palavra": "fiz passar / removi" },
+        { "hebraico": "מֵעָלֶ֙יךָ֙", "transliteral": "mê-ʿā-le-ḵā", "traducao_palavra": "de sobre ti" },
+        { "hebraico": "עֲוֹנֶ֔ךָ", "transliteral": "ʿă-wō-ne-ḵā", "traducao_palavra": "tua iniquidade" },
+        { "hebraico": "וְהַלְבֵּ֥שׁ", "transliteral": "wə-hal-bêš", "traducao_palavra": "e vestirei" },
+        { "hebraico": "אֹתְךָ֖", "transliteral": "ʾō-ṯə-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "מַחֲלָצֹֽות׃", "transliteral": "ma-ḥă-lā-ṣôṯ", "traducao_palavra": "trajes nobres / vestes de gala" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E eu disse: Ponham-lhe um turbante limpo sobre a cabeça. Puseram-lhe, pois, um turbante limpo sobre a cabeça e vestiram-no com roupas; e o anjo de YHWH estava em pé ali.",
+      "palavras": [
+        { "hebraico": "וָאֹמַ֗ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e eu disse" },
+        { "hebraico": "יָשִׂ֤ימוּ", "transliteral": "yā-śî-mû", "traducao_palavra": "ponham" },
+        { "hebraico": "צָנִ֤יף", "transliteral": "ṣā-nîp̄", "traducao_palavra": "um turbante / mitra" },
+        { "hebraico": "טָהֹור֙", "transliteral": "ṭā-hôr", "traducao_palavra": "limpo / puro" },
+        { "hebraico": "עַל־רֹאשֹׁ֔ו", "transliteral": "ʿal-rō-šô", "traducao_palavra": "sobre a cabeça dele" },
+        { "hebraico": "וַיָּשִׂ֨ימוּ", "transliteral": "way-yā-śî-mû", "traducao_palavra": "e puseram" },
+        { "hebraico": "הַצָּנִ֤יף", "transliteral": "haṣ-ṣā-nîp̄", "traducao_palavra": "o turbante" },
+        { "hebraico": "הַטָּהֹור֙", "transliteral": "haṭ-ṭā-hôr", "traducao_palavra": "limpo" },
+        { "hebraico": "עַל־רֹאשֹׁ֔ו", "transliteral": "ʿal-rō-šô", "traducao_palavra": "sobre a cabeça dele" },
+        { "hebraico": "וַיַּלְבִּשֻׁ֖הוּ", "transliteral": "way-yal-bi-šu-hû", "traducao_palavra": "e vestiram-no com" },
+        { "hebraico": "בְּגָדִ֑ים", "transliteral": "bə-ḡā-ḏîm", "traducao_palavra": "vestes" },
+        { "hebraico": "וּמַלְאַ֥ךְ", "transliteral": "ū-mal-ʾaḵ", "traducao_palavra": "e o anjo de" },
+        { "hebraico": "יְהוָ֖ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "עֹמֵֽד׃", "transliteral": "ʿō-mêḏ", "traducao_palavra": "estava em pé" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E o anjo de YHWH protestou a Josué, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיָּ֙עַד֙", "transliteral": "way-yā-ʿaḏ", "traducao_palavra": "e advertiu / protestou" },
+        { "hebraico": "מַלְאַ֣ךְ", "transliteral": "mal-ʾaḵ", "traducao_palavra": "o anjo de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "בִּיהֹושֻׁ֖עַ", "transliteral": "bî-hô-šu-aʿ", "traducao_palavra": "a Josué" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "Assim diz YHWH dos Exércitos: Se andares nos meus caminhos, e se observares o meu preceito, também tu julgarás a minha casa, e também guardarás os meus átrios, e te darei livre acesso entre estes que estão aqui.",
+      "palavras": [
+        { "hebraico": "כֹּה־אָמַ֞ר", "transliteral": "kōh-ʾā-mar", "traducao_palavra": "assim diz" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֗ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "אִם־בִּדְרָכַ֤י", "transliteral": "ʾim-biḏ-rā-ḵay", "traducao_palavra": "se nos meus caminhos" },
+        { "hebraico": "תֵּלֵךְ֙", "transliteral": "tê-lêḵ", "traducao_palavra": "andares" },
+        { "hebraico": "וְאִ֣ם", "transliteral": "wə-ʾim", "traducao_palavra": "e se" },
+        { "hebraico": "אֶת־מִשְׁמַרְתִּ֣י", "transliteral": "ʾeṯ-miš-mar-tî", "traducao_palavra": "o meu encargo / guarda" },
+        { "hebraico": "תִשְׁמֹ֔ר", "transliteral": "tiš-mōr", "traducao_palavra": "guardares" },
+        { "hebraico": "וְגַם־אַתָּה֙", "transliteral": "wə-ḡam-ʾat-tā", "traducao_palavra": "então também tu" },
+        { "hebraico": "תָּדִ֣ין", "transliteral": "tā-ḏîn", "traducao_palavra": "julgarás" },
+        { "hebraico": "אֶת־בֵּיתִ֔י", "transliteral": "ʾeṯ-bê-ṯî", "traducao_palavra": "a minha casa" },
+        { "hebraico": "וְגַ֖ם", "transliteral": "wə-ḡam", "traducao_palavra": "e também" },
+        { "hebraico": "תִּשְׁמֹ֣ר", "transliteral": "tiš-mōr", "traducao_palavra": "guardarás" },
+        { "hebraico": "אֶת־חֲצֵרָ֑י", "transliteral": "ʾeṯ-ḥă-ṣê-rāy", "traducao_palavra": "os meus átrios" },
+        { "hebraico": "וְנָתַתִּ֤י", "transliteral": "wə-nā-ṯat-tî", "traducao_palavra": "e darei" },
+        { "hebraico": "לְךָ֙", "transliteral": "lə-ḵā", "traducao_palavra": "a ti" },
+        { "hebraico": "מַהְלְכִ֔ים", "transliteral": "mah-lə-ḵîm", "traducao_palavra": "lugares para andar / livre acesso" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "הָעֹמְדִ֖ים", "transliteral": "hā-ʿō-mə-ḏîm", "traducao_palavra": "os que estão em pé" },
+        { "hebraico": "הָאֵֽלֶּה׃", "transliteral": "hā-ʾêl-leh", "traducao_palavra": "estes" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti, porque são homens de prodígio; pois eis que eu farei vir o meu servo, o Renovo.",
+      "palavras": [
+        { "hebraico": "שְֽׁמַֽע־נָ֞א", "transliteral": "šə-maʿ-nā", "traducao_palavra": "ouve, pois" },
+        { "hebraico": "יְהֹושֻׁ֣עַ׀", "transliteral": "yə-hô-šu-aʿ", "traducao_palavra": "Josué" },
+        { "hebraico": "הַכֹּהֵ֣ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הַגָּדֹ֗ול", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o grande [o sumo sacerdote]" },
+        { "hebraico": "אַתָּה֙", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "וְרֵעֶ֙יךָ֙", "transliteral": "wə-rê-ʿe-ḵā", "traducao_palavra": "e teus companheiros" },
+        { "hebraico": "הַיֹּשְׁבִ֣ים", "transliteral": "hay-yō-šə-ḇîm", "traducao_palavra": "que estão sentados" },
+        { "hebraico": "לְפָנֶ֔יךָ", "transliteral": "lə-p̄ā-ne-ḵā", "traducao_palavra": "diante de ti" },
+        { "hebraico": "כִּֽי־אַנְשֵׁ֥י", "transliteral": "kî-ʾan-šê", "traducao_palavra": "porque homens de" },
+        { "hebraico": "מֹופֵ֖ת", "transliteral": "mô-p̄êṯ", "traducao_palavra": "prodígio / sinal" },
+        { "hebraico": "הֵ֑מָּה", "transliteral": "hêm-mā", "traducao_palavra": "[são] eles" },
+        { "hebraico": "כִּֽי־הִנְנִ֥י", "transliteral": "kî-hin-nə-nî", "traducao_palavra": "porque eis que eu" },
+        { "hebraico": "מֵבִ֛יא", "transliteral": "mê-ḇî", "traducao_palavra": "farei vir / trarei" },
+        { "hebraico": "אֶת־עַבְדִּ֖י", "transliteral": "ʾeṯ-ʿaḇ-dî", "traducao_palavra": "o meu servo" },
+        { "hebraico": "צֶֽמַח׃", "transliteral": "ṣe-maḥ", "traducao_palavra": "o Renovo / Rebento" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Porque eis aqui a pedra que pus diante de Josué; sobre uma só pedra estão sete olhos; eis que eu esculpirei a sua escultura, diz YHWH dos Exércitos, e tirarei a iniquidade desta terra num só dia.",
+      "palavras": [
+        { "hebraico": "כִּ֣י׀", "transliteral": "kî", "traducao_palavra": "porque" },
+        { "hebraico": "הִנֵּ֣ה", "transliteral": "hin-nēh", "traducao_palavra": "eis" },
+        { "hebraico": "הָאֶ֗בֶן", "transliteral": "hā-ʾe-ḇen", "traducao_palavra": "a pedra" },
+        { "hebraico": "אֲשֶׁ֤ר", "transliteral": "ʾă-šer", "traducao_palavra": "que" },
+        { "hebraico": "נָתַ֙תִּי֙", "transliteral": "nā-ṯat-tî", "traducao_palavra": "pus" },
+        { "hebraico": "לִפְנֵ֣י", "transliteral": "lip̄-nê", "traducao_palavra": "diante de" },
+        { "hebraico": "יְהֹושֻׁ֔עַ", "transliteral": "yə-hô-šu-aʿ", "traducao_palavra": "Josué" },
+        { "hebraico": "עַל־אֶ֥בֶן", "transliteral": "ʿal-ʾe-ḇen", "traducao_palavra": "sobre pedra" },
+        { "hebraico": "אַחַ֖ת", "transliteral": "ʾa-ḥaṯ", "traducao_palavra": "uma" },
+        { "hebraico": "שִׁבְעָ֣ה", "transliteral": "šiḇ-ʿā", "traducao_palavra": "sete" },
+        { "hebraico": "עֵינָ֑יִם", "transliteral": "ʿê-nā-yim", "traducao_palavra": "olhos" },
+        { "hebraico": "הִנְנִ֧י", "transliteral": "hin-nə-nî", "traducao_palavra": "eis que eu" },
+        { "hebraico": "מְפַתֵּ֣חַ", "transliteral": "mə-p̄at-tê-aḥ", "traducao_palavra": "esculpirei / gravarei" },
+        { "hebraico": "פִּתֻּחָ֗הּ", "transliteral": "pit-tu-ḥāh", "traducao_palavra": "a sua escultura" },
+        { "hebraico": "נְאֻם֙", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֔ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "וּמַשְׁתִּ֛י", "transliteral": "ū-maš-tî", "traducao_palavra": "e removerei" },
+        { "hebraico": "אֶת־עֲוֹ֥ן", "transliteral": "ʾeṯ-ʿă-wōn", "traducao_palavra": "a iniquidade de" },
+        { "hebraico": "הָאָֽרֶץ־הַהִ֖יא", "transliteral": "hā-ʾā-reṣ-ha-hî", "traducao_palavra": "aquela terra" },
+        { "hebraico": "בְּיֹ֥ום", "transliteral": "bə-yôm", "traducao_palavra": "em dia" },
+        { "hebraico": "אֶחָֽד׃", "transliteral": "ʾe-ḥāḏ", "traducao_palavra": "um só" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Naquele dia, diz YHWH dos Exércitos, convidareis cada um ao seu companheiro para debaixo da videira e para debaixo da figueira.",
+      "palavras": [
+        { "hebraico": "בַּיֹּ֤ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַהוּא֙", "transliteral": "ha-hû", "traducao_palavra": "aquele" },
+        { "hebraico": "נְאֻם֙", "transliteral": "nə-ʾum", "traducao_palavra": "declaração de" },
+        { "hebraico": "יְהוָ֣ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֔ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "תִּקְרְא֖וּ", "transliteral": "tiq-rə-ʾû", "traducao_palavra": "convidareis" },
+        { "hebraico": "אִ֣ישׁ", "transliteral": "ʾîš", "traducao_palavra": "cada um" },
+        { "hebraico": "לְרֵעֵ֑הוּ", "transliteral": "lə-rê-ʿê-hû", "traducao_palavra": "ao seu companheiro" },
+        { "hebraico": "אֶל־תַּ֥חַת", "transliteral": "ʾel-ta-ḥaṯ", "traducao_palavra": "para debaixo de" },
+        { "hebraico": "גֶּ֖פֶן", "transliteral": "ge-p̄en", "traducao_palavra": "videira" },
+        { "hebraico": "וְאֶל־תַּ֥חַת", "transliteral": "wə-ʾel-ta-ḥaṯ", "traducao_palavra": "e para debaixo de" },
+        { "hebraico": "תְּאֵנָֽה׃", "transliteral": "tə-ʾê-nā", "traducao_palavra": "figueira" }
+      ]
+    }
+  }
 }

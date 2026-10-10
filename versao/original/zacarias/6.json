@@ -1,6 +1,261 @@
 {
-  "livro": "Zacarias - זְכַרְיָה - Zekharyah",
+  "livro": "Zacarias - זְכַרְיָה - Zəḵaryā",
   "capítulo": 6,
   "titulos": {},
-  "versiculos": {}
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E tornei a levantar os meus olhos, e olhei, e eis que quatro carros saíam de entre dois montes, e estes montes eram montes de bronze.",
+      "palavras": [
+        { "hebraico": "וָאָשֻׁ֗ב", "transliteral": "wā-ʾā-šuḇ", "traducao_palavra": "e tornei a" },
+        { "hebraico": "וָאֶשָּׂ֤א", "transliteral": "wā-ʾeś-śā", "traducao_palavra": "e levantei" },
+        { "hebraico": "עֵינַי֙", "transliteral": "ʿê-nay", "traducao_palavra": "meus olhos" },
+        { "hebraico": "וָאֶרְאֶ֔ה", "transliteral": "wā-ʾer-ʾeh", "traducao_palavra": "e olhei" },
+        { "hebraico": "וְהִנֵּ֨ה", "transliteral": "wə-hin-nēh", "traducao_palavra": "e eis" },
+        { "hebraico": "אַרְבַּ֤ע", "transliteral": "ʾar-baʿ", "traducao_palavra": "quatro" },
+        { "hebraico": "מַרְכָּבֹות֙", "transliteral": "mar-kā-ḇôṯ", "traducao_palavra": "carros" },
+        { "hebraico": "יֹֽצְאֹ֔ות", "transliteral": "yō-ṣə-ʾôṯ", "traducao_palavra": "saíam" },
+        { "hebraico": "מִבֵּ֖ין", "transliteral": "mib-bên", "traducao_palavra": "de entre" },
+        { "hebraico": "שְׁנֵ֣י", "transliteral": "šə-nê", "traducao_palavra": "dois" },
+        { "hebraico": "הֶֽהָרִ֑ים", "transliteral": "he-hā-rîm", "traducao_palavra": "os montes" },
+        { "hebraico": "וְהֶהָרִ֖ים", "transliteral": "wə-he-hā-rîm", "traducao_palavra": "e os montes [eram]" },
+        { "hebraico": "הָרֵ֥י", "transliteral": "hā-rê", "traducao_palavra": "montes de" },
+        { "hebraico": "נְחֹֽשֶׁת׃", "transliteral": "nə-ḥō-šeṯ", "traducao_palavra": "bronze" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "No primeiro carro eram cavalos vermelhos, no segundo carro, cavalos pretos,",
+      "palavras": [
+        { "hebraico": "בַּמֶּרְכָּבָ֥ה", "transliteral": "bam-mer-kā-ḇā", "traducao_palavra": "no carro" },
+        { "hebraico": "הָרִאשֹׁנָ֖ה", "transliteral": "hā-ri-šō-nā", "traducao_palavra": "primeiro" },
+        { "hebraico": "סוּסִ֣ים", "transliteral": "sû-sîm", "traducao_palavra": "cavalos" },
+        { "hebraico": "אֲדֻמִּ֑ים", "transliteral": "ʾă-ḏum-mîm", "traducao_palavra": "vermelhos" },
+        { "hebraico": "וּבַמֶּרְכָּבָ֥ה", "transliteral": "ū-ḇam-mer-kā-ḇā", "traducao_palavra": "e no carro" },
+        { "hebraico": "הַשֵּׁנִ֖ית", "transliteral": "haš-šê-nîṯ", "traducao_palavra": "segundo" },
+        { "hebraico": "סוּסִ֥ים", "transliteral": "sû-sîm", "traducao_palavra": "cavalos" },
+        { "hebraico": "שְׁחֹרִֽים׃", "transliteral": "šə-ḥō-rîm", "traducao_palavra": "pretos" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "no terceiro carro, cavalos brancos, e no quarto carro, cavalos malhados, que eram fortes.",
+      "palavras": [
+        { "hebraico": "וּבַמֶּרְכָּבָ֥ה", "transliteral": "ū-ḇam-mer-kā-ḇā", "traducao_palavra": "e no carro" },
+        { "hebraico": "הַשְּׁלִשִׁ֖ית", "transliteral": "haš-šə-li-šîṯ", "traducao_palavra": "terceiro" },
+        { "hebraico": "סוּסִ֣ים", "transliteral": "sû-sîm", "traducao_palavra": "cavalos" },
+        { "hebraico": "לְבָנִ֑ים", "transliteral": "lə-ḇā-nîm", "traducao_palavra": "brancos" },
+        { "hebraico": "וּבַמֶּרְכָּבָה֙", "transliteral": "ū-ḇam-mer-kā-ḇā", "traducao_palavra": "e no carro" },
+        { "hebraico": "הָרְבִעִ֔ית", "transliteral": "hā-rə-ḇi-ʿîṯ", "traducao_palavra": "quarto" },
+        { "hebraico": "סוּסִ֥ים", "transliteral": "sû-sîm", "traducao_palavra": "cavalos" },
+        { "hebraico": "בְּרֻדִּ֖ים", "transliteral": "bə-rud-dîm", "traducao_palavra": "malhados" },
+        { "hebraico": "אֲמֻצִּֽים׃", "transliteral": "ʾă-muṣ-ṣîm", "traducao_palavra": "fortes" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E respondi, dizendo ao anjo que falava comigo: Que é isto, meu senhor?",
+      "palavras": [
+        { "hebraico": "וָאַ֙עַן֙", "transliteral": "wā-ʾa-ʿan", "traducao_palavra": "e respondi" },
+        { "hebraico": "וָֽאֹמַ֔ר", "transliteral": "wā-ʾō-mar", "traducao_palavra": "e disse" },
+        { "hebraico": "אֶל־הַמַּלְאָ֖ךְ", "transliteral": "ʾel-ham-mal-ʾāḵ", "traducao_palavra": "ao anjo" },
+        { "hebraico": "הַדֹּבֵ֣ר", "transliteral": "had-dō-ḇêr", "traducao_palavra": "que falava" },
+        { "hebraico": "בִּ֑י", "transliteral": "bî", "traducao_palavra": "comigo" },
+        { "hebraico": "מָה־אֵ֖לֶּה", "transliteral": "māh-ʾêl-leh", "traducao_palavra": "que são estes" },
+        { "hebraico": "אֲדֹנִֽי׃", "transliteral": "ʾă-ḏō-nî", "traducao_palavra": "meu senhor" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E o anjo respondeu, e me disse: Estes são os quatro espíritos dos céus, que saem de onde estavam perante o Senhor de toda a terra.",
+      "palavras": [
+        { "hebraico": "וַיַּ֥עַן", "transliteral": "way-ya-ʿan", "traducao_palavra": "e respondeu" },
+        { "hebraico": "הַמַּלְאָ֖ךְ", "transliteral": "ham-mal-ʾāḵ", "traducao_palavra": "o anjo" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e disse" },
+        { "hebraico": "אֵלָ֑י", "transliteral": "ʾê-lāy", "traducao_palavra": "a mim" },
+        { "hebraico": "אֵ֗לֶּה", "transliteral": "ʾêl-leh", "traducao_palavra": "estes [são]" },
+        { "hebraico": "אַרְבַּע֙", "transliteral": "ʾar-baʿ", "traducao_palavra": "os quatro" },
+        { "hebraico": "רוּחֹ֣ות", "transliteral": "rû-ḥôṯ", "traducao_palavra": "espíritos / ventos de" },
+        { "hebraico": "הַשָּׁמַ֔יִם", "transliteral": "haš-šā-ma-yim", "traducao_palavra": "os céus" },
+        { "hebraico": "יֹֽוצְאֹ֔ות", "transliteral": "yô-ṣə-ʾôṯ", "traducao_palavra": "que saem" },
+        { "hebraico": "מֵהִתְיַצֵּ֖ב", "transliteral": "mê-hiṯ-yaṣ-ṣêḇ", "traducao_palavra": "de apresentar-se" },
+        { "hebraico": "עַל־אֲדֹ֥ון", "transliteral": "ʿal-ʾă-ḏôn", "traducao_palavra": "perante o Senhor de" },
+        { "hebraico": "כָּל־הָאָֽרֶץ׃", "transliteral": "kāl-hā-ʾā-reṣ", "traducao_palavra": "toda a terra" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "O carro em que estão os cavalos pretos sai para a terra do norte, e os brancos saem após eles, e os malhados saem para a terra do sul.",
+      "palavras": [
+        { "hebraico": "אֲשֶׁר־בָּ֞הּ", "transliteral": "ʾă-šer-bāh", "traducao_palavra": "aquele em que [estão]" },
+        { "hebraico": "הַסּוּסִ֣ים", "transliteral": "has-sû-sîm", "traducao_palavra": "os cavalos" },
+        { "hebraico": "הַשְּׁחֹרִ֗ים", "transliteral": "haš-šə-ḥō-rîm", "traducao_palavra": "pretos" },
+        { "hebraico": "יֹֽצְאִים֙", "transliteral": "yō-ṣə-ʾîm", "traducao_palavra": "saem" },
+        { "hebraico": "אֶל־אֶ֣רֶץ", "transliteral": "ʾel-ʾe-reṣ", "traducao_palavra": "para a terra do" },
+        { "hebraico": "צָפֹ֔ון", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "norte" },
+        { "hebraico": "וְהַלְּבָנִ֔ים", "transliteral": "wə-hal-lə-ḇā-nîm", "traducao_palavra": "e os brancos" },
+        { "hebraico": "יָצְא֖וּ", "transliteral": "yā-ṣə-ʾû", "traducao_palavra": "saem" },
+        { "hebraico": "אֶל־אַחֲרֵיהֶ֑ם", "transliteral": "ʾel-ʾa-ḥă-rê-hem", "traducao_palavra": "após eles" },
+        { "hebraico": "וְהַבְּרֻדִּ֕ים", "transliteral": "wə-hab-bə-rud-dîm", "traducao_palavra": "e os malhados" },
+        { "hebraico": "יָצְא֖וּ", "transliteral": "yā-ṣə-ʾû", "traducao_palavra": "saem" },
+        { "hebraico": "אֶל־אֶ֥רֶץ", "transliteral": "ʾel-ʾe-reṣ", "traducao_palavra": "para a terra do" },
+        { "hebraico": "הַתֵּימָֽן׃", "transliteral": "hat-tê-mān", "traducao_palavra": "sul" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E os cavalos fortes saíam, e procuravam ir para percorrerem a terra. E ele disse: Ide, percorrei a terra. E percorreram a terra.",
+      "palavras": [
+        { "hebraico": "וְהָאֲמֻצִּ֣ים", "transliteral": "wə-hā-ʾă-muṣ-ṣîm", "traducao_palavra": "e os fortes" },
+        { "hebraico": "יָצְא֗וּ", "transliteral": "yā-ṣə-ʾû", "traducao_palavra": "saíam" },
+        { "hebraico": "וַיְבַקְשׁוּ֙", "transliteral": "way-ḇaq-šû", "traducao_palavra": "e procuravam" },
+        { "hebraico": "לָלֶ֙כֶת֙", "transliteral": "lā-le-ḵeṯ", "traducao_palavra": "ir" },
+        { "hebraico": "לְהִתְהַלֵּ֣ךְ", "transliteral": "lə-hiṯ-hal-lêḵ", "traducao_palavra": "para percorrer" },
+        { "hebraico": "בָּאָ֔רֶץ", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "וַיֹּ֣אמֶר", "transliteral": "way-yō-mer", "traducao_palavra": "e ele disse" },
+        { "hebraico": "לְכ֗וּ", "transliteral": "lə-ḵû", "traducao_palavra": "ide" },
+        { "hebraico": "הִתְהַלְּכ֥וּ", "transliteral": "hiṯ-hal-lə-ḵû", "traducao_palavra": "percorrei" },
+        { "hebraico": "בָאָ֛רֶץ", "transliteral": "ḇā-ʾā-reṣ", "traducao_palavra": "a terra" },
+        { "hebraico": "וַתִּתְהַלַּ֖כְנָה", "transliteral": "wat-tiṯ-hal-laḵ-nā", "traducao_palavra": "e percorreram" },
+        { "hebraico": "בָּאָֽרֶץ׃", "transliteral": "bā-ʾā-reṣ", "traducao_palavra": "a terra" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "Então me chamou, e me falou, dizendo: Vê, aqueles que saíram para a terra do norte fizeram repousar o meu Espírito na terra do norte.",
+      "palavras": [
+        { "hebraico": "וַיַּזְעֵ֣ק", "transliteral": "way-yaz-ʿêq", "traducao_palavra": "e clamou" },
+        { "hebraico": "אֹתִ֔י", "transliteral": "ʾō-ṯî", "traducao_palavra": "a mim" },
+        { "hebraico": "וַיְדַבֵּ֥ר", "transliteral": "way-ḏab-bêr", "traducao_palavra": "e falou" },
+        { "hebraico": "אֵלַ֖י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "רְאֵ֗ה", "transliteral": "rə-ʾēh", "traducao_palavra": "vê" },
+        { "hebraico": "הַיֹּֽוצְאִים֙", "transliteral": "hay-yô-ṣə-ʾîm", "traducao_palavra": "os que saem" },
+        { "hebraico": "אֶל־אֶ֣רֶץ", "transliteral": "ʾel-ʾe-reṣ", "traducao_palavra": "para a terra do" },
+        { "hebraico": "צָפֹ֔ון", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "norte" },
+        { "hebraico": "הֵנִ֥יחוּ", "transliteral": "hê-nî-ḥû", "traducao_palavra": "fizeram repousar" },
+        { "hebraico": "אֶת־רוּחִ֖י", "transliteral": "ʾeṯ-rû-ḥî", "traducao_palavra": "o meu Espírito" },
+        { "hebraico": "בְּאֶ֥רֶץ", "transliteral": "bə-ʾe-reṣ", "traducao_palavra": "na terra do" },
+        { "hebraico": "צָפֹֽון׃", "transliteral": "ṣā-p̄ôn", "traducao_palavra": "norte" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E a palavra de YHWH veio a mim, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְהִ֥י", "transliteral": "way-hî", "traducao_palavra": "e veio" },
+        { "hebraico": "דְבַר־יְהוָ֖ה", "transliteral": "də-ḇar-YHWH", "traducao_palavra": "a palavra de YHWH" },
+        { "hebraico": "אֵלַ֥י", "transliteral": "ʾê-lay", "traducao_palavra": "a mim" },
+        { "hebraico": "לֵאמֹֽר׃", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "Recebe dos do cativeiro, de Heldai, de Tobias e de Jedaías; e vem tu no mesmo dia, e entra na casa de Josias, filho de Sofonias, os quais vieram de Babilônia.",
+      "palavras": [
+        { "hebraico": "לָקֹוחַ֙", "transliteral": "lā-qô-aḥ", "traducao_palavra": "toma / recebe" },
+        { "hebraico": "מֵאֵ֣ת", "transliteral": "mê-ʾêṯ", "traducao_palavra": "dos de" },
+        { "hebraico": "הַגֹּולָ֔ה", "transliteral": "hag-gô-lā", "traducao_palavra": "o exílio / cativeiro" },
+        { "hebraico": "מֵחֶלְדַּ֕י", "transliteral": "mê-ḥel-day", "traducao_palavra": "de Heldai" },
+        { "hebraico": "וּמֵאֵ֥ת", "transliteral": "ū-mê-ʾêṯ", "traducao_palavra": "e de" },
+        { "hebraico": "טֹובִיָּ֖ה", "transliteral": "ṭô-ḇî-yā", "traducao_palavra": "Tobias" },
+        { "hebraico": "וּמֵאֵ֣ת", "transliteral": "ū-mê-ʾêṯ", "traducao_palavra": "e de" },
+        { "hebraico": "יְדַֽעְיָ֑ה", "transliteral": "yə-ḏaʿ-yā", "traducao_palavra": "Jedaías" },
+        { "hebraico": "וּבָאתָ֤", "transliteral": "ū-ḇā-ṯā", "traducao_palavra": "e vem" },
+        { "hebraico": "אַתָּה֙", "transliteral": "ʾat-tā", "traducao_palavra": "tu" },
+        { "hebraico": "בַּיֹּ֣ום", "transliteral": "bay-yôm", "traducao_palavra": "no dia" },
+        { "hebraico": "הַה֔וּא", "transliteral": "ha-hû", "traducao_palavra": "aquele" },
+        { "hebraico": "וּבָאתָ֗", "transliteral": "ū-ḇā-ṯā", "traducao_palavra": "e entra" },
+        { "hebraico": "בֵּ֚ית", "transliteral": "bêṯ", "traducao_palavra": "na casa de" },
+        { "hebraico": "יֹאשִׁיָּ֣ה", "transliteral": "yō-šî-yā", "traducao_palavra": "Josias" },
+        { "hebraico": "בֶן־צְפַנְיָ֔ה", "transliteral": "ḇen-ṣə-p̄an-yā", "traducao_palavra": "filho de Sofonias" },
+        { "hebraico": "אֲשֶׁר־בָּ֖אוּ", "transliteral": "ʾă-šer-bā-ʾû", "traducao_palavra": "que vieram" },
+        { "hebraico": "מִבָּבֶֽל׃", "transliteral": "mib-bā-ḇel", "traducao_palavra": "de Babilônia" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "Toma, digo, prata e ouro, e faze coroas, e põe-nas sobre a cabeça do sumo sacerdote Josué, filho de Jeozadaque;",
+      "palavras": [
+        { "hebraico": "וְלָקַחְתָּ֥", "transliteral": "wə-lā-qaḥ-tā", "traducao_palavra": "e tomarás" },
+        { "hebraico": "כֶֽסֶף־וְזָהָ֖ב", "transliteral": "ḵe-sep̄-wə-zā-hāḇ", "traducao_palavra": "prata e ouro" },
+        { "hebraico": "וְעָשִׂ֣יתָ", "transliteral": "wə-ʿā-śî-ṯā", "traducao_palavra": "e farás" },
+        { "hebraico": "עֲטָרֹ֑ות", "transliteral": "ʿă-ṭā-rôṯ", "traducao_palavra": "coroas" },
+        { "hebraico": "וְשַׂמְתָּ֗", "transliteral": "wə-śam-tā", "traducao_palavra": "e as porás" },
+        { "hebraico": "בְּרֹ֛אשׁ", "transliteral": "bə-rōʾš", "traducao_palavra": "na cabeça de" },
+        { "hebraico": "יְהֹושֻׁ֥עַ", "transliteral": "yə-hô-šu-aʿ", "traducao_palavra": "Josué" },
+        { "hebraico": "בֶּן־יְהֹוצָדָ֖ק", "transliteral": "ben-yə-hô-ṣā-ḏāq", "traducao_palavra": "filho de Jeozadaque" },
+        { "hebraico": "הַכֹּהֵ֥ן", "transliteral": "hak-kō-hên", "traducao_palavra": "o sacerdote" },
+        { "hebraico": "הַגָּדֹֽול׃", "transliteral": "hag-gā-ḏôl", "traducao_palavra": "o grande [o sumo sacerdote]" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "e fala-lhe, dizendo: Assim diz YHWH dos Exércitos: Eis o homem cujo nome é o Renovo; ele brotará do seu lugar, e edificará o templo de YHWH.",
+      "palavras": [
+        { "hebraico": "וְאָמַרְתָּ֤", "transliteral": "wə-ʾā-mar-tā", "traducao_palavra": "e dirás" },
+        { "hebraico": "אֵלָיו֙", "transliteral": "ʾê-lāyw", "traducao_palavra": "a ele" },
+        { "hebraico": "לֵאמֹ֔ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "כֹּ֥ה", "transliteral": "kōh", "traducao_palavra": "assim" },
+        { "hebraico": "אָמַ֛ר", "transliteral": "ʾā-mar", "traducao_palavra": "diz" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "לֵאמֹ֑ר", "transliteral": "lê-mōr", "traducao_palavra": "dizendo" },
+        { "hebraico": "הִנֵּה־אִ֞ישׁ", "transliteral": "hin-nēh-ʾîš", "traducao_palavra": "eis um homem" },
+        { "hebraico": "צֶ֤מַח", "transliteral": "ṣe-maḥ", "traducao_palavra": "o Renovo" },
+        { "hebraico": "שְׁמֹו֙", "transliteral": "šə-mô", "traducao_palavra": "[é] seu nome" },
+        { "hebraico": "וּמִתַּחְתָּ֣יו", "transliteral": "ū-mit-taḥ-tāyw", "traducao_palavra": "e do seu lugar" },
+        { "hebraico": "יִצְמָ֔ח", "transliteral": "yiṣ-māḥ", "traducao_palavra": "brotará" },
+        { "hebraico": "וּבָנָ֖ה", "transliteral": "ū-ḇā-nā", "traducao_palavra": "e edificará" },
+        { "hebraico": "אֶת־הֵיכַ֥ל", "transliteral": "ʾeṯ-hê-ḵal", "traducao_palavra": "o templo de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Ele mesmo edificará o templo de YHWH, e ele levará a glória, e se assentará e dominará no seu trono; e será sacerdote no seu trono, e haverá conselho de paz entre ambos.",
+      "palavras": [
+        { "hebraico": "וְ֠הוּא", "transliteral": "wə-hû", "traducao_palavra": "e ele" },
+        { "hebraico": "יִבְנֶ֞ה", "transliteral": "yib-neh", "traducao_palavra": "edificará" },
+        { "hebraico": "אֶת־הֵיכַ֤ל", "transliteral": "ʾeṯ-hê-ḵal", "traducao_palavra": "o templo de" },
+        { "hebraico": "יְהוָה֙", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וְהֽוּא־יִשָּׂ֣א", "transliteral": "wə-hû-yiś-śā", "traducao_palavra": "e ele levará" },
+        { "hebraico": "הֹ֔וד", "transliteral": "hôḏ", "traducao_palavra": "a glória / majestade" },
+        { "hebraico": "וְיָשַׁ֥ב", "transliteral": "wə-yā-šaḇ", "traducao_palavra": "e se assentará" },
+        { "hebraico": "וּמָשַׁ֖ל", "transliteral": "ū-mā-šal", "traducao_palavra": "e dominará" },
+        { "hebraico": "עַל־כִּסְאֹ֑ו", "transliteral": "ʿal-kis-ʾô", "traducao_palavra": "no seu trono" },
+        { "hebraico": "וְהָיָ֤ה", "transliteral": "wə-hā-yā", "traducao_palavra": "e será" },
+        { "hebraico": "כֹהֵן֙", "transliteral": "ḵō-hên", "traducao_palavra": "sacerdote" },
+        { "hebraico": "עַל־כִּסְאֹ֔ו", "transliteral": "ʿal-kis-ʾô", "traducao_palavra": "no seu trono" },
+        { "hebraico": "וַעֲצַ֣ת", "transliteral": "wa-ʿă-ṣaṯ", "traducao_palavra": "e o conselho de" },
+        { "hebraico": "שָׁלֹ֔ום", "transliteral": "šā-lôm", "traducao_palavra": "paz" },
+        { "hebraico": "תִּהְיֶ֖ה", "transliteral": "tih-yeh", "traducao_palavra": "haverá" },
+        { "hebraico": "בֵּ֥ין", "transliteral": "bên", "traducao_palavra": "entre" },
+        { "hebraico": "שְׁנֵיהֶֽם׃", "transliteral": "šə-nê-hem", "traducao_palavra": "ambos" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E as coroas servirão a Helém, e a Tobias, e a Jedaías, e a Hem, filho de Sofonias, de memorial no templo de YHWH.",
+      "palavras": [
+        { "hebraico": "וְהָעֲטָרֹ֗ת", "transliteral": "wə-hā-ʿă-ṭā-rōṯ", "traducao_palavra": "e as coroas" },
+        { "hebraico": "תִּֽהְיֶה֙", "transliteral": "tih-yeh", "traducao_palavra": "serão" },
+        { "hebraico": "לְחֵ֙לֶם֙", "transliteral": "lə-ḥê-lem", "traducao_palavra": "para Helém" },
+        { "hebraico": "וּלְטֹובִיָּ֣ה", "transliteral": "ū-lə-ṭô-ḇî-yā", "traducao_palavra": "e para Tobias" },
+        { "hebraico": "וְלִידַֽעְיָ֔ה", "transliteral": "wə-lî-ḏaʿ-yā", "traducao_palavra": "e para Jedaías" },
+        { "hebraico": "וּלְחֵ֖ן", "transliteral": "ū-lə-ḥên", "traducao_palavra": "e para Hem" },
+        { "hebraico": "בֶּן־צְפַנְיָ֑ה", "transliteral": "ben-ṣə-p̄an-yā", "traducao_palavra": "filho de Sofonias" },
+        { "hebraico": "לְזִכָּרֹ֖ון", "transliteral": "lə-zik-kā-rôn", "traducao_palavra": "de memorial" },
+        { "hebraico": "בְּהֵיכַ֥ל", "transliteral": "bə-hê-ḵal", "traducao_palavra": "no templo de" },
+        { "hebraico": "יְהוָֽה׃", "transliteral": "YHWH", "traducao_palavra": "YHWH" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E os que estão longe virão, e edificarão no templo de YHWH, e sabereis que YHWH dos Exércitos me enviou a vós; e isto sucederá, se ouvirdes diligentemente a voz de YHWH vosso Deus.",
+      "palavras": [
+        { "hebraico": "וּרְחֹוקִ֣ים׀", "transliteral": "ū-rə-ḥô-qîm", "traducao_palavra": "e os que estão longe" },
+        { "hebraico": "יָבֹ֗אוּ", "transliteral": "yā-ḇō-ʾû", "traducao_palavra": "virão" },
+        { "hebraico": "וּבָנוּ֙", "transliteral": "ū-ḇā-nû", "traducao_palavra": "e edificarão" },
+        { "hebraico": "בְּהֵיכַ֣ל", "transliteral": "bə-hê-ḵal", "traducao_palavra": "no templo de" },
+        { "hebraico": "יְהוָ֔ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "וִידַעְתֶּ֕ם", "transliteral": "wî-ḏaʿ-tem", "traducao_palavra": "e sabereis" },
+        { "hebraico": "כִּֽי־יְהוָ֥ה", "transliteral": "kî-YHWH", "traducao_palavra": "que YHWH" },
+        { "hebraico": "צְבָאֹ֖ות", "transliteral": "ṣə-ḇā-ʾôṯ", "traducao_palavra": "dos Exércitos" },
+        { "hebraico": "שְׁלָחַ֣נִי", "transliteral": "šə-lā-ḥa-nî", "traducao_palavra": "me enviou" },
+        { "hebraico": "אֲלֵיכֶ֑ם", "transliteral": "ʾă-lê-ḵem", "traducao_palavra": "a vós" },
+        { "hebraico": "וְהָיָה֙", "transliteral": "wə-hā-yā", "traducao_palavra": "e isto sucederá" },
+        { "hebraico": "אִם־שָׁמֹ֣ועַ", "transliteral": "ʾim-šā-mô-aʿ", "traducao_palavra": "se diligentemente" },
+        { "hebraico": "תִּשְׁמְע֔וּן", "transliteral": "tiš-mə-ʿûn", "traducao_palavra": "ouvirdes" },
+        { "hebraico": "בְּקֹ֖ול", "transliteral": "bə-qôl", "traducao_palavra": "a voz de" },
+        { "hebraico": "יְהוָ֥ה", "transliteral": "YHWH", "traducao_palavra": "YHWH" },
+        { "hebraico": "אֱלֹהֵיכֶֽם׃", "transliteral": "ʾĕ-lō-hê-ḵem", "traducao_palavra": "vosso Deus" }
+      ]
+    }
+  }
 }
