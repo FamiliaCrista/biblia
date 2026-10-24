@@ -1,0 +1,747 @@
+{
+  "livro": "Mateus - Κατὰ Μαθθαῖον - Kata Maththaion",
+  "capítulo": 14,
+  "titulos": {},
+  "versiculos": {
+    "1": {
+      "traducao_completa": "Naquele tempo, Herodes, o tetrarca, ouviu a fama de Jesus,",
+      "palavras": [
+        { "grego": "Ἐν", "transliteral": "En", "traducao_palavra": "Em" },
+        { "grego": "ἐκείνῳ", "transliteral": "ekeinōi", "traducao_palavra": "aquele" },
+        { "grego": "τῷ", "transliteral": "tōi", "traducao_palavra": "o" },
+        { "grego": "καιρῷ", "transliteral": "kairōi", "traducao_palavra": "tempo" },
+        { "grego": "ἤκουσεν", "transliteral": "ēkousen", "traducao_palavra": "ouviu" },
+        { "grego": "Ἡρῴδης", "transliteral": "Hērōidēs", "traducao_palavra": "Herodes" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "τετραάρχης", "transliteral": "tetraarchēs", "traducao_palavra": "tetrarca" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "a" },
+        { "grego": "ἀκοὴν", "transliteral": "akoēn", "traducao_palavra": "fama de" },
+        { "grego": "Ἰησοῦ", "transliteral": "Iēsou", "traducao_palavra": "Jesus" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "e disse aos seus servos: Este é João Batista; ele ressuscitou dos mortos, e por isso estes poderes miraculosos operam nele.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "εἶπεν", "transliteral": "eipen", "traducao_palavra": "disse" },
+        { "grego": "τοῖς", "transliteral": "tois", "traducao_palavra": "aos" },
+        { "grego": "παισὶν", "transliteral": "paisin", "traducao_palavra": "servos" },
+        { "grego": "αὐτοῦ", "transliteral": "autou", "traducao_palavra": "seus" },
+        { "grego": "Οὗτός", "transliteral": "Houtos", "traducao_palavra": "Este" },
+        { "grego": "ἐστιν", "transliteral": "estin", "traducao_palavra": "é" },
+        { "grego": "Ἰωάννης", "transliteral": "Iōannēs", "traducao_palavra": "João" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "βαπτιστής", "transliteral": "baptistēs", "traducao_palavra": "Batista" },
+        { "grego": "αὐτὸς", "transliteral": "autos", "traducao_palavra": "ele" },
+        { "grego": "ἠγέρθη", "transliteral": "ēgerthē", "traducao_palavra": "ressuscitou" },
+        { "grego": "ἀπὸ", "transliteral": "apo", "traducao_palavra": "de" },
+        { "grego": "τῶν", "transliteral": "tōn", "traducao_palavra": "os" },
+        { "grego": "νεκρῶν", "transliteral": "nekrōn", "traducao_palavra": "mortos" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "διὰ", "transliteral": "dia", "traducao_palavra": "por" },
+        { "grego": "τοῦτο", "transliteral": "touto", "traducao_palavra": "isso" },
+        { "grego": "αἱ", "transliteral": "hai", "traducao_palavra": "os" },
+        { "grego": "δυνάμεις", "transliteral": "dynameis", "traducao_palavra": "poderes miraculosos" },
+        { "grego": "ἐνεργοῦσιν", "transliteral": "energousin", "traducao_palavra": "operam" },
+        { "grego": "ἐν", "transliteral": "en", "traducao_palavra": "em" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "ele" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Pois Herodes havia prendido a João, e o amarrara e colocara na prisão, por causa de Herodias, mulher de seu irmão Filipe;",
+      "palavras": [
+        { "grego": "Ὁ", "transliteral": "Ho", "traducao_palavra": "O" },
+        { "grego": "γὰρ", "transliteral": "gar", "traducao_palavra": "Pois" },
+        { "grego": "Ἡρῴδης", "transliteral": "Hērōidēs", "traducao_palavra": "Herodes" },
+        { "grego": "κρατήσας", "transliteral": "kratēsas", "traducao_palavra": "tendo prendido" },
+        { "grego": "τὸν", "transliteral": "ton", "traducao_palavra": "a" },
+        { "grego": "Ἰωάννην", "transliteral": "Iōannēn", "traducao_palavra": "João" },
+        { "grego": "ἔδησεν", "transliteral": "edēsen", "traducao_palavra": "amarrou" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "o" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἐν", "transliteral": "en", "traducao_palavra": "em" },
+        { "grego": "φυλακῇ", "transliteral": "phylakēi", "traducao_palavra": "prisão" },
+        { "grego": "ἀπέθετο", "transliteral": "apetheto", "traducao_palavra": "encerrou / colocou" },
+        { "grego": "διὰ", "transliteral": "dia", "traducao_palavra": "por causa de" },
+        { "grego": "Ἡρῳδιάδα", "transliteral": "Hērōidiada", "traducao_palavra": "Herodias" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "a" },
+        { "grego": "γυναῖκα", "transliteral": "gynaika", "traducao_palavra": "mulher de" },
+        { "grego": "Φιλίππου", "transliteral": "Philippou", "traducao_palavra": "Filipe" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "o" },
+        { "grego": "ἀδελφοῦ", "transliteral": "adelphou", "traducao_palavra": "irmão" },
+        { "grego": "αὐτοῦ", "transliteral": "autou", "traducao_palavra": "dele" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "porque João lhe dizia: Não te é lícito possuí-la.",
+      "palavras": [
+        { "grego": "ἔλεγεν", "transliteral": "elegen", "traducao_palavra": "dizia" },
+        { "grego": "γὰρ", "transliteral": "gar", "traducao_palavra": "porque" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "Ἰωάννης", "transliteral": "Iōannēs", "traducao_palavra": "João" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "a ele" },
+        { "grego": "Οὐκ", "transliteral": "Ouk", "traducao_palavra": "Não" },
+        { "grego": "ἔξεστίν", "transliteral": "exestin", "traducao_palavra": "é lícito" },
+        { "grego": "σοι", "transliteral": "soi", "traducao_palavra": "a ti" },
+        { "grego": "ἔχειν", "transliteral": "echein", "traducao_palavra": "ter / possuir" },
+        { "grego": "αὐτήν", "transliteral": "autēn", "traducao_palavra": "a ela" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E, querendo matá-lo, temeu o povo, porque o tinham como profeta.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "θέλων", "transliteral": "thelōn", "traducao_palavra": "querendo" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "o" },
+        { "grego": "ἀποκτεῖναι", "transliteral": "apokteinai", "traducao_palavra": "matar" },
+        { "grego": "ἐφοβήθη", "transliteral": "ephobēthē", "traducao_palavra": "temeu" },
+        { "grego": "τὸν", "transliteral": "ton", "traducao_palavra": "a" },
+        { "grego": "ὄχλον", "transliteral": "ochlon", "traducao_palavra": "multidão" },
+        { "grego": "ὅτι", "transliteral": "hoti", "traducao_palavra": "porque" },
+        { "grego": "ὡς", "transliteral": "hōs", "traducao_palavra": "como" },
+        { "grego": "προφήτην", "transliteral": "prophētēn", "traducao_palavra": "profeta" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "o" },
+        { "grego": "εἶχον", "transliteral": "eichon", "traducao_palavra": "tinham / consideravam" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Festejando-se, porém, o aniversário de Herodes, dançou a filha de Herodias no meio de todos e agradou a Herodes,",
+      "palavras": [
+        { "grego": "γενεσίοις", "transliteral": "genesiois", "traducao_palavra": "o aniversário natalício" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "γενομένοις", "transliteral": "genomenois", "traducao_palavra": "celebrando-se" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "de" },
+        { "grego": "Ἡρῴδου", "transliteral": "Hērōidou", "traducao_palavra": "Herodes" },
+        { "grego": "ὠρχήσατο", "transliteral": "ōrchēsato", "traducao_palavra": "dançou" },
+        { "grego": "ἡ", "transliteral": "hē", "traducao_palavra": "a" },
+        { "grego": "θυγάτηρ", "transliteral": "thygatēr", "traducao_palavra": "filha" },
+        { "grego": "τῆς", "transliteral": "tēs", "traducao_palavra": "de" },
+        { "grego": "Ἡρῳδιάδος", "transliteral": "Hērōidiados", "traducao_palavra": "Herodias" },
+        { "grego": "ἐν", "transliteral": "en", "traducao_palavra": "no" },
+        { "grego": "τῷ", "transliteral": "tōi", "traducao_palavra": "o" },
+        { "grego": "μέσῳ", "transliteral": "mesōi", "traducao_palavra": "meio" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἤρεσεν", "transliteral": "ēresen", "traducao_palavra": "agradou" },
+        { "grego": "τῷ", "transliteral": "tōi", "traducao_palavra": "a" },
+        { "grego": "Ἡρῴδῃ", "transliteral": "Hērōidēi", "traducao_palavra": "Herodes" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "pelo que prometeu, com juramento, dar-lhe tudo o que pedisse.",
+      "palavras": [
+        { "grego": "ὅθεν", "transliteral": "hothen", "traducao_palavra": "pelo que" },
+        { "grego": "μεθ’", "transliteral": "meth", "traducao_palavra": "com" },
+        { "grego": "ὅρκου", "transliteral": "horkou", "traducao_palavra": "juramento" },
+        { "grego": "ὡμολόγησεν", "transliteral": "hōmologēsen", "traducao_palavra": "prometeu" },
+        { "grego": "αὐτῇ", "transliteral": "autēi", "traducao_palavra": "a ela" },
+        { "grego": "δοῦναι", "transliteral": "dounai", "traducao_palavra": "dar" },
+        { "grego": "ὃ", "transliteral": "ho", "traducao_palavra": "o que" },
+        { "grego": "ἐὰν", "transliteral": "ean", "traducao_palavra": "[partícula]" },
+        { "grego": "αἰτήσηται", "transliteral": "aitēsētai", "traducao_palavra": "pedisse" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E ela, instigada por sua mãe, disse: Dá-me aqui, num prato, a cabeça de João Batista.",
+      "palavras": [
+        { "grego": "ἡ", "transliteral": "hē", "traducao_palavra": "Ela" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "então" },
+        { "grego": "προβιβασθεῖσα", "transliteral": "probibastheisa", "traducao_palavra": "instigada" },
+        { "grego": "ὑπὸ", "transliteral": "hypo", "traducao_palavra": "por" },
+        { "grego": "τῆς", "transliteral": "tēs", "traducao_palavra": "a" },
+        { "grego": "μητρὸς", "transliteral": "mētros", "traducao_palavra": "mãe" },
+        { "grego": "αὐτῆς", "transliteral": "autēs", "traducao_palavra": "sua" },
+        { "grego": "Δός", "transliteral": "Dos", "traducao_palavra": "Dá" },
+        { "grego": "μοι", "transliteral": "moi", "traducao_palavra": "me" },
+        { "grego": "φησίν", "transliteral": "phēsin", "traducao_palavra": "disse" },
+        { "grego": "ὧδε", "transliteral": "hōde", "traducao_palavra": "aqui" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "em" },
+        { "grego": "πίνακι", "transliteral": "pinaki", "traducao_palavra": "um prato" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "a" },
+        { "grego": "κεφαλὴν", "transliteral": "kephalēn", "traducao_palavra": "cabeça de" },
+        { "grego": "Ἰωάννου", "transliteral": "Iōannou", "traducao_palavra": "João" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "o" },
+        { "grego": "βαπτιστοῦ", "transliteral": "baptistou", "traducao_palavra": "Batista" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E o rei entristeceu-se, mas, por causa dos juramentos e dos que estavam com ele à mesa, ordenou que se lhe desse,",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "λυπηθεὶς", "transliteral": "lypētheis", "traducao_palavra": "entristecido" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "βασιλεὺς", "transliteral": "basileus", "traducao_palavra": "rei" },
+        { "grego": "διὰ", "transliteral": "dia", "traducao_palavra": "por causa de" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "ὅρκους", "transliteral": "horkous", "traducao_palavra": "juramentos" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "συνανακειμένους", "transliteral": "synanakeimenous", "traducao_palavra": "convidados à mesa" },
+        { "grego": "ἐκέλευσεν", "transliteral": "ekeleusen", "traducao_palavra": "ordenou que" },
+        { "grego": "δοθῆναι", "transliteral": "dothēnai", "traducao_palavra": "fosse dada" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "e mandou degolar a João na prisão.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "πέμψας", "transliteral": "pempsas", "traducao_palavra": "tendo enviado" },
+        { "grego": "ἀπεκεφάλισεν", "transliteral": "apekephalisen", "traducao_palavra": "decapitou" },
+        { "grego": "τὸν", "transliteral": "ton", "traducao_palavra": "a" },
+        { "grego": "Ἰωάννην", "transliteral": "Iōannēn", "traducao_palavra": "João" },
+        { "grego": "ἐν", "transliteral": "en", "traducao_palavra": "na" },
+        { "grego": "τῇ", "transliteral": "tēi", "traducao_palavra": "a" },
+        { "grego": "φυλακῇ", "transliteral": "phylakēi", "traducao_palavra": "prisão" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E a sua cabeça foi trazida num prato e dada à jovem, e ela a levou a sua mãe.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἠνέχθη", "transliteral": "ēnechthē", "traducao_palavra": "foi trazida" },
+        { "grego": "ἡ", "transliteral": "hē", "traducao_palavra": "a" },
+        { "grego": "κεφαλὴ", "transliteral": "kephalē", "traducao_palavra": "cabeça" },
+        { "grego": "αὐτοῦ", "transliteral": "autou", "traducao_palavra": "dele" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "em" },
+        { "grego": "πίνακι", "transliteral": "pinaki", "traducao_palavra": "um prato" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἐδόθη", "transliteral": "edothē", "traducao_palavra": "foi dada" },
+        { "grego": "τῷ", "transliteral": "tōi", "traducao_palavra": "à" },
+        { "grego": "κορασίῳ", "transliteral": "korasiōi", "traducao_palavra": "jovem" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἤνεγκεν", "transliteral": "ēnenken", "traducao_palavra": "ela a levou" },
+        { "grego": "τῇ", "transliteral": "tēi", "traducao_palavra": "à" },
+        { "grego": "μητρὶ", "transliteral": "mētri", "traducao_palavra": "mãe" },
+        { "grego": "αὐτῆς", "transliteral": "autēs", "traducao_palavra": "sua" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E chegaram os seus discípulos, levaram o corpo e o sepultaram; e foram anunciá-lo a Jesus.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "προσελθόντες", "transliteral": "proselthontes", "traducao_palavra": "aproximando-se" },
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "os" },
+        { "grego": "μαθηταὶ", "transliteral": "mathētai", "traducao_palavra": "discípulos" },
+        { "grego": "αὐτοῦ", "transliteral": "autou", "traducao_palavra": "dele" },
+        { "grego": "ἦραν", "transliteral": "ēran", "traducao_palavra": "levaram" },
+        { "grego": "τὸ", "transliteral": "to", "traducao_palavra": "o" },
+        { "grego": "πτῶμα", "transliteral": "ptōma", "traducao_palavra": "corpo" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἔθαψαν", "transliteral": "ethapsan", "traducao_palavra": "sepultaram" },
+        { "grego": "αὐτό", "transliteral": "auto", "traducao_palavra": "no" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἐλθόντες", "transliteral": "elthontes", "traducao_palavra": "tendo ido" },
+        { "grego": "ἀπήγγειλαν", "transliteral": "apēngeilan", "traducao_palavra": "anunciaram / contaram" },
+        { "grego": "τῷ", "transliteral": "tōi", "traducao_palavra": "a" },
+        { "grego": "Ἰησοῦ", "transliteral": "Iēsou", "traducao_palavra": "Jesus" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "Jesus, ouvindo isso, retirou-se dali num barco para um lugar deserto, à parte; e as multidões, ao saberem disso, seguiram-no a pé desde as cidades.",
+      "palavras": [
+        { "grego": "Ἀκούσας", "transliteral": "Akousas", "traducao_palavra": "Ouvindo" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "Ἰησοῦς", "transliteral": "Iēsous", "traducao_palavra": "Jesus" },
+        { "grego": "ἀνεχώρησεν", "transliteral": "anechōrēsen", "traducao_palavra": "retirou-se" },
+        { "grego": "ἐκεῖθεν", "transliteral": "ekeithen", "traducao_palavra": "dali" },
+        { "grego": "ἐν", "transliteral": "en", "traducao_palavra": "em" },
+        { "grego": "πλοίῳ", "transliteral": "ploiōi", "traducao_palavra": "um barco" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "para" },
+        { "grego": "ἔρημον", "transliteral": "erēmon", "traducao_palavra": "um deserto" },
+        { "grego": "τόπον", "transliteral": "topon", "traducao_palavra": "lugar" },
+        { "grego": "κατ’", "transliteral": "kat", "traducao_palavra": "à" },
+        { "grego": "ἰδίαν", "transliteral": "idian", "traducao_palavra": "parte" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἀκούσαντες", "transliteral": "akousantes", "traducao_palavra": "tendo ouvido" },
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "as" },
+        { "grego": "ὄχλοι", "transliteral": "ochloi", "traducao_palavra": "multidões" },
+        { "grego": "ἠκολούθησαν", "transliteral": "ēkolouthēsan", "traducao_palavra": "seguiram" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "no" },
+        { "grego": "πεζῇ", "transliteral": "pezēi", "traducao_palavra": "a pé" },
+        { "grego": "ἀπὸ", "transliteral": "apo", "traducao_palavra": "desde" },
+        { "grego": "τῶν", "transliteral": "tōn", "traducao_palavra": "as" },
+        { "grego": "πόλεων", "transliteral": "poleōn", "traducao_palavra": "cidades" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E Jesus, saindo, viu uma grande multidão e, compadecendo-se dela, curou os seus enfermos.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "ἐξελθὼν", "transliteral": "exelthōn", "traducao_palavra": "tendo saído" },
+        { "grego": "εἶδεν", "transliteral": "eiden", "traducao_palavra": "viu" },
+        { "grego": "πολὺν", "transliteral": "polyn", "traducao_palavra": "uma grande" },
+        { "grego": "ὄχλον", "transliteral": "ochlon", "traducao_palavra": "multidão" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἐσπλαγχνίσθη", "transliteral": "esplanchnisthē", "traducao_palavra": "compadeceu-se" },
+        { "grego": "ἐπ’", "transliteral": "ep", "traducao_palavra": "de" },
+        { "grego": "αὐτοῖς", "transliteral": "autois", "traducao_palavra": "eles" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἐθεράπευσεν", "transliteral": "etherapeusen", "traducao_palavra": "curou" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "ἀρρώστους", "transliteral": "arrōstous", "traducao_palavra": "enfermos" },
+        { "grego": "αὐτῶν", "transliteral": "autōn", "traducao_palavra": "deles" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Chegada a tarde, aproximaram-se dele os seus discípulos, dizendo: O lugar é deserto, e a hora já está adiantada; despede as multidões para que vão às aldeias e comprem para si alimentos.",
+      "palavras": [
+        { "grego": "Ὀψίας", "transliteral": "Opsias", "traducao_palavra": "À tarde" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "γενομένης", "transliteral": "genomenēs", "traducao_palavra": "tendo chegado" },
+        { "grego": "προσῆλθον", "transliteral": "prosēlthon", "traducao_palavra": "aproximaram-se" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "dele" },
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "os" },
+        { "grego": "μαθηταὶ", "transliteral": "mathētai", "traducao_palavra": "discípulos" },
+        { "grego": "λέγοντες", "transliteral": "legontes", "traducao_palavra": "dizendo" },
+        { "grego": "Ἔρημός", "transliteral": "Erēmos", "traducao_palavra": "Deserto" },
+        { "grego": "ἐστιν", "transliteral": "estin", "traducao_palavra": "é" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "τόπος", "transliteral": "topos", "traducao_palavra": "lugar" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἡ", "transliteral": "hē", "traducao_palavra": "a" },
+        { "grego": "ὥρα", "transliteral": "hōra", "traducao_palavra": "hora" },
+        { "grego": "ἤδη", "transliteral": "ēdē", "traducao_palavra": "já" },
+        { "grego": "παρῆλθεν", "transliteral": "parēlthen", "traducao_palavra": "passou / está adiantada" },
+        { "grego": "ἀπόλυσον", "transliteral": "apolyson", "traducao_palavra": "despede" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "as" },
+        { "grego": "ὄχλους", "transliteral": "ochlous", "traducao_palavra": "multidões" },
+        { "grego": "ἵνα", "transliteral": "hina", "traducao_palavra": "para que" },
+        { "grego": "ἀπελθόντες", "transliteral": "apelthontes", "traducao_palavra": "indo" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "às" },
+        { "grego": "τὰς", "transliteral": "tas", "traducao_palavra": "as" },
+        { "grego": "κώμας", "transliteral": "kōmas", "traducao_palavra": "aldeias" },
+        { "grego": "ἀγοράσωσιν", "transliteral": "agorasōsin", "traducao_palavra": "comprem" },
+        { "grego": "ἑαυτοῖς", "transliteral": "heautois", "traducao_palavra": "para si" },
+        { "grego": "βρώματα", "transliteral": "brōmata", "traducao_palavra": "alimentos" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Jesus, porém, lhes disse: Não precisam ir-se; dai-lhes vós de comer.",
+      "palavras": [
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "O" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "Ἰησοῦς", "transliteral": "Iēsous", "traducao_palavra": "Jesus" },
+        { "grego": "εἶπεν", "transliteral": "eipen", "traducao_palavra": "disse" },
+        { "grego": "αὐτοῖς", "transliteral": "autois", "traducao_palavra": "a eles" },
+        { "grego": "Οὐ", "transliteral": "Ou", "traducao_palavra": "Não" },
+        { "grego": "χρείαν", "transliteral": "chreian", "traducao_palavra": "necessidade" },
+        { "grego": "ἔχουσιν", "transliteral": "echousin", "traducao_palavra": "têm de" },
+        { "grego": "ἀπελθεῖν", "transliteral": "apelthein", "traducao_palavra": "ir-se" },
+        { "grego": "δότε", "transliteral": "dote", "traducao_palavra": "dai" },
+        { "grego": "αὐτοῖς", "transliteral": "autois", "traducao_palavra": "lhes" },
+        { "grego": "ὑμεῖς", "transliteral": "hymeis", "traducao_palavra": "vós" },
+        { "grego": "φαγεῖν", "transliteral": "phagein", "traducao_palavra": "de comer" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Eles, porém, lhe disseram: Não temos aqui senão cinco pães e dois peixes.",
+      "palavras": [
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "Eles" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "λέγουσιν", "transliteral": "legousin", "traducao_palavra": "disseram" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "a ele" },
+        { "grego": "Οὐκ", "transliteral": "Ouk", "traducao_palavra": "Não" },
+        { "grego": "ἔχομεν", "transliteral": "echomen", "traducao_palavra": "temos" },
+        { "grego": "ὧδε", "transliteral": "hōde", "traducao_palavra": "aqui" },
+        { "grego": "εἰ", "transliteral": "ei", "traducao_palavra": "se" },
+        { "grego": "μὴ", "transliteral": "mē", "traducao_palavra": "não [senão]" },
+        { "grego": "πέντε", "transliteral": "pente", "traducao_palavra": "cinco" },
+        { "grego": "ἄρτους", "transliteral": "artous", "traducao_palavra": "pães" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "δύο", "transliteral": "dyo", "traducao_palavra": "dois" },
+        { "grego": "ἰχθύας", "transliteral": "ichthyas", "traducao_palavra": "peixes" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E ele disse: Trazei-mos aqui.",
+      "palavras": [
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "Ele" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "então" },
+        { "grego": "εἶπεν", "transliteral": "eipen", "traducao_palavra": "disse" },
+        { "grego": "Φέρετέ", "transliteral": "Pherete", "traducao_palavra": "Trazei" },
+        { "grego": "μοι", "transliteral": "moi", "traducao_palavra": "mos" },
+        { "grego": "ὧδε", "transliteral": "hōde", "traducao_palavra": "aqui" },
+        { "grego": "αὐτούς", "transliteral": "autous", "traducao_palavra": "os" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "E, tendo ordenado às multidões que se reclinassem sobre a relva, tomou os cinco pães e os dois peixes e, erguendo os olhos ao céu, abençoou; e, partindo os pães, deu-os aos discípulos, e os discípulos, às multidões.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "κελεύσας", "transliteral": "keleusas", "traducao_palavra": "tendo ordenado" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "às" },
+        { "grego": "ὄχλους", "transliteral": "ochlous", "traducao_palavra": "multidões" },
+        { "grego": "ἀνακλιθῆναι", "transliteral": "anaklithēnai", "traducao_palavra": "que se reclinassem" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "sobre" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "a" },
+        { "grego": "χόρτου", "transliteral": "chortou", "traducao_palavra": "relva / erva" },
+        { "grego": "λαβὼν", "transliteral": "labōn", "traducao_palavra": "tendo tomado" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "πέντε", "transliteral": "pente", "traducao_palavra": "cinco" },
+        { "grego": "ἄρτους", "transliteral": "artous", "traducao_palavra": "pães" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "δύο", "transliteral": "dyo", "traducao_palavra": "dois" },
+        { "grego": "ἰχθύας", "transliteral": "ichthyas", "traducao_palavra": "peixes" },
+        { "grego": "ἀναβλέψας", "transliteral": "anablepsas", "traducao_palavra": "erguendo os olhos" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "ao" },
+        { "grego": "τὸν", "transliteral": "ton", "traducao_palavra": "o" },
+        { "grego": "οὐρανὸν", "transliteral": "ouranon", "traducao_palavra": "céu" },
+        { "grego": "εὐλόγησεν", "transliteral": "eulogēsen", "traducao_palavra": "abençoou" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "κλάσας", "transliteral": "klasas", "traducao_palavra": "tendo partido" },
+        { "grego": "ἔδωκεν", "transliteral": "edōken", "traducao_palavra": "deu" },
+        { "grego": "τοῖς", "transliteral": "tois", "traducao_palavra": "aos" },
+        { "grego": "μαθηταῖς", "transliteral": "mathētais", "traducao_palavra": "discípulos" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "ἄρτους", "transliteral": "artous", "traducao_palavra": "pães" },
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "os" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "e" },
+        { "grego": "μαθηταὶ", "transliteral": "mathētai", "traducao_palavra": "discípulos" },
+        { "grego": "τοῖς", "transliteral": "tois", "traducao_palavra": "às" },
+        { "grego": "ὄχλοις", "transliteral": "ochlois", "traducao_palavra": "multidões" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E todos comeram e se fartaram; e recolheram dos pedaços que sobraram doze cestos cheios.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "ἔφαγον", "transliteral": "ephagon", "traducao_palavra": "comeram" },
+        { "grego": "πάντες", "transliteral": "pantes", "traducao_palavra": "todos" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἐχορτάσθησαν", "transliteral": "echortasthēsan", "traducao_palavra": "fartaram-se" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἦραν", "transliteral": "ēran", "traducao_palavra": "recolheram" },
+        { "grego": "τὸ", "transliteral": "to", "traducao_palavra": "o" },
+        { "grego": "περισσεῦον", "transliteral": "perisseuon", "traducao_palavra": "que sobejava" },
+        { "grego": "τῶν", "transliteral": "tōn", "traducao_palavra": "dos" },
+        { "grego": "κλασμάτων", "transliteral": "klasmatōn", "traducao_palavra": "pedaços" },
+        { "grego": "δώδεκα", "transliteral": "dōdeka", "traducao_palavra": "doze" },
+        { "grego": "κοφίνους", "transliteral": "kophinous", "traducao_palavra": "cestos" },
+        { "grego": "πλήρεις", "transliteral": "plēreis", "traducao_palavra": "cheios" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E os que comeram eram cerca de cinco mil homens, além de mulheres e crianças.",
+      "palavras": [
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "Os" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "ora" },
+        { "grego": "ἐσθίοντες", "transliteral": "esthiontes", "traducao_palavra": "que comeram" },
+        { "grego": "ἦσαν", "transliteral": "ēsan", "traducao_palavra": "eram" },
+        { "grego": "ἄνδρες", "transliteral": "andres", "traducao_palavra": "homens" },
+        { "grego": "ὡσεὶ", "transliteral": "hōsei", "traducao_palavra": "cerca de" },
+        { "grego": "πεντακισχίλιοι", "transliteral": "pentakischilioi", "traducao_palavra": "cinco mil" },
+        { "grego": "χωρὶς", "transliteral": "chōris", "traducao_palavra": "além de / sem contar" },
+        { "grego": "γυναικῶν", "transliteral": "gynaikōn", "traducao_palavra": "mulheres" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "παιδίων", "transliteral": "paidiōn", "traducao_palavra": "crianças" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E logo obrigou os discípulos a entrar no barco e passar adiante dele para o outro lado, enquanto ele despedia as multidões.",
+      "palavras": [
+        { "grego": "Καὶ", "transliteral": "Kai", "traducao_palavra": "E" },
+        { "grego": "εὐθέως", "transliteral": "eutheōs", "traducao_palavra": "logo / imediatamente" },
+        { "grego": "ἠνάγκασεν", "transliteral": "ēnankasen", "traducao_palavra": "obrigou" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os" },
+        { "grego": "μαθητὰς", "transliteral": "mathētas", "traducao_palavra": "discípulos" },
+        { "grego": "ἐμβῆναι", "transliteral": "embēnai", "traducao_palavra": "a entrar" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "no" },
+        { "grego": "τὸ", "transliteral": "to", "traducao_palavra": "o" },
+        { "grego": "πλοῖον", "transliteral": "ploion", "traducao_palavra": "barco" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "προάγειν", "transliteral": "proagein", "traducao_palavra": "ir adiante de" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "ele" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "para" },
+        { "grego": "τὸ", "transliteral": "to", "traducao_palavra": "o" },
+        { "grego": "πέραν", "transliteral": "peran", "traducao_palavra": "outro lado" },
+        { "grego": "ἕως", "transliteral": "heōs", "traducao_palavra": "enquanto" },
+        { "grego": "οὗ", "transliteral": "hou", "traducao_palavra": "[ele]" },
+        { "grego": "ἀπολύσῃ", "transliteral": "apolysēi", "traducao_palavra": "despedia" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "as" },
+        { "grego": "ὄχλους", "transliteral": "ochlous", "traducao_palavra": "multidões" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E, tendo despedido as multidões, subiu ao monte para orar à parte; e, chegada a tarde, estava ali só.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "ἀπολύσας", "transliteral": "apolysas", "traducao_palavra": "tendo despedido" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "as" },
+        { "grego": "ὄχλους", "transliteral": "ochlous", "traducao_palavra": "multidões" },
+        { "grego": "ἀνέβη", "transliteral": "anebē", "traducao_palavra": "subiu" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "ao" },
+        { "grego": "τὸ", "transliteral": "to", "traducao_palavra": "o" },
+        { "grego": "ὄρος", "transliteral": "oros", "traducao_palavra": "monte" },
+        { "grego": "κατ’", "transliteral": "kat", "traducao_palavra": "à" },
+        { "grego": "ἰδίαν", "transliteral": "idian", "traducao_palavra": "parte" },
+        { "grego": "προσεύξασθαι", "transliteral": "proseuxasthai", "traducao_palavra": "para orar" },
+        { "grego": "ὀψίας", "transliteral": "opsias", "traducao_palavra": "à tarde" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "e" },
+        { "grego": "γενομένης", "transliteral": "genomenēs", "traducao_palavra": "tendo chegado" },
+        { "grego": "μόνος", "transliteral": "monos", "traducao_palavra": "só" },
+        { "grego": "ἦν", "transliteral": "ēn", "traducao_palavra": "estava" },
+        { "grego": "ἐκεῖ", "transliteral": "ekei", "traducao_palavra": "ali" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "O barco, porém, já estava a muitos estádios da terra, açoitado pelas ondas, porque o vento era contrário.",
+      "palavras": [
+        { "grego": "Τὸ", "transliteral": "To", "traducao_palavra": "O" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "πλοῖον", "transliteral": "ploion", "traducao_palavra": "barco" },
+        { "grego": "ἤδη", "transliteral": "ēdē", "traducao_palavra": "já" },
+        { "grego": "σταδίους", "transliteral": "stadious", "traducao_palavra": "estádios" },
+        { "grego": "πολλοὺς", "transliteral": "pollous", "traducao_palavra": "muitos" },
+        { "grego": "ἀπὸ", "transliteral": "apo", "traducao_palavra": "de" },
+        { "grego": "τῆς", "transliteral": "tēs", "traducao_palavra": "a" },
+        { "grego": "γῆς", "transliteral": "gēs", "traducao_palavra": "terra" },
+        { "grego": "ἀπεῖχεν", "transliteral": "apeichen", "traducao_palavra": "distava / estava afastado" },
+        { "grego": "βασανιζόμενον", "transliteral": "basanizomenon", "traducao_palavra": "sendo açoitado" },
+        { "grego": "ὑπὸ", "transliteral": "hypo", "traducao_palavra": "pelas" },
+        { "grego": "τῶν", "transliteral": "tōn", "traducao_palavra": "as" },
+        { "grego": "κυμάτων", "transliteral": "kymatōn", "traducao_palavra": "ondas" },
+        { "grego": "ἦν", "transliteral": "ēn", "traducao_palavra": "era" },
+        { "grego": "γὰρ", "transliteral": "gar", "traducao_palavra": "porque" },
+        { "grego": "ἐναντίος", "transliteral": "enantios", "traducao_palavra": "contrário" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "ἄνεμος", "transliteral": "anemos", "traducao_palavra": "vento" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "Mas, à quarta vigília da noite, foi Jesus ter com eles, andando sobre o mar.",
+      "palavras": [
+        { "grego": "τετάρτῃ", "transliteral": "tetartēi", "traducao_palavra": "Na quarta" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "φυλακῇ", "transliteral": "phylakēi", "traducao_palavra": "vigília de" },
+        { "grego": "τῆς", "transliteral": "tēs", "traducao_palavra": "a" },
+        { "grego": "νυκτὸς", "transliteral": "nyktos", "traducao_palavra": "noite" },
+        { "grego": "ἦλθεν", "transliteral": "ēlthen", "traducao_palavra": "foi" },
+        { "grego": "πρὸς", "transliteral": "pros", "traducao_palavra": "a" },
+        { "grego": "αὐτοὺς", "transliteral": "autous", "traducao_palavra": "eles" },
+        { "grego": "περιπατῶν", "transliteral": "peripatōn", "traducao_palavra": "andando" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "sobre" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "o" },
+        { "grego": "θάλασσαν", "transliteral": "thalassan", "traducao_palavra": "mar" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E os discípulos, vendo-o andar sobre o mar, turbaram-se, dizendo: É um fantasma. E gritaram com medo.",
+      "palavras": [
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "Os" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "μαθηταὶ", "transliteral": "mathētai", "traducao_palavra": "discípulos" },
+        { "grego": "ἰδόντες", "transliteral": "idontes", "traducao_palavra": "vendo" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "o" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "sobre" },
+        { "grego": "τῆς", "transliteral": "tēs", "traducao_palavra": "o" },
+        { "grego": "θαλάσσης", "transliteral": "thalassēs", "traducao_palavra": "mar" },
+        { "grego": "περιπατοῦντα", "transliteral": "peripatounta", "traducao_palavra": "andar" },
+        { "grego": "ἐταράχθησαν", "transliteral": "etarachthēsan", "traducao_palavra": "turbaram-se" },
+        { "grego": "λέγοντες", "transliteral": "legontes", "traducao_palavra": "dizendo" },
+        { "grego": "ὅτι", "transliteral": "hoti", "traducao_palavra": "que" },
+        { "grego": "Φάντασμά", "transliteral": "Phantasma", "traducao_palavra": "Um fantasma" },
+        { "grego": "ἐστιν", "transliteral": "estin", "traducao_palavra": "é" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἀπὸ", "transliteral": "apo", "traducao_palavra": "de" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "o" },
+        { "grego": "φόβου", "transliteral": "phobou", "traducao_palavra": "medo" },
+        { "grego": "ἔκραξαν", "transliteral": "ekraxan", "traducao_palavra": "gritaram" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Jesus, porém, lhes falou logo, dizendo: Tende bom ânimo; sou eu, não temais.",
+      "palavras": [
+        { "grego": "εὐθὺς", "transliteral": "euthys", "traducao_palavra": "Logo" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "ἐλάλησεν", "transliteral": "elalēsen", "traducao_palavra": "falou" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "Ἰησοῦς", "transliteral": "Iēsous", "traducao_palavra": "Jesus" },
+        { "grego": "αὐτοῖς", "transliteral": "autois", "traducao_palavra": "a eles" },
+        { "grego": "λέγων", "transliteral": "legōn", "traducao_palavra": "dizendo" },
+        { "grego": "Θαρσεῖτε", "transliteral": "Tharseite", "traducao_palavra": "Tende bom ânimo" },
+        { "grego": "ἐγώ", "transliteral": "egō", "traducao_palavra": "eu" },
+        { "grego": "εἰμι", "transliteral": "eimi", "traducao_palavra": "sou" },
+        { "grego": "μὴ", "transliteral": "mē", "traducao_palavra": "não" },
+        { "grego": "φοβεῖσθε", "transliteral": "phobeisthe", "traducao_palavra": "temais" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "E respondeu-lhe Pedro, dizendo: Senhor, se és tu, manda-me ir ter contigo por cima das águas.",
+      "palavras": [
+        { "grego": "ἀποκριθεὶς", "transliteral": "apokritheis", "traducao_palavra": "Respondendo" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "a ele" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "Πέτρος", "transliteral": "Petros", "traducao_palavra": "Pedro" },
+        { "grego": "εἶπεν", "transliteral": "eipen", "traducao_palavra": "disse" },
+        { "grego": "Κύριε", "transliteral": "Kyrie", "traducao_palavra": "Senhor" },
+        { "grego": "εἰ", "transliteral": "ei", "traducao_palavra": "se" },
+        { "grego": "σὺ", "transliteral": "sy", "traducao_palavra": "tu" },
+        { "grego": "εἶ", "transliteral": "ei", "traducao_palavra": "és" },
+        { "grego": "κέλευσόν", "transliteral": "keleuson", "traducao_palavra": "manda" },
+        { "grego": "με", "transliteral": "me", "traducao_palavra": "me" },
+        { "grego": "ἐλθεῖν", "transliteral": "elthein", "traducao_palavra": "ir" },
+        { "grego": "πρός", "transliteral": "pros", "traducao_palavra": "a" },
+        { "grego": "σε", "transliteral": "se", "traducao_palavra": "ti" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "sobre" },
+        { "grego": "τὰ", "transliteral": "ta", "traducao_palavra": "as" },
+        { "grego": "ὕδατα", "transliteral": "hydata", "traducao_palavra": "águas" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "E ele disse: Vem. E Pedro, descendo do barco, andou sobre as águas para ir ter com Jesus.",
+      "palavras": [
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "Ele" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "então" },
+        { "grego": "εἶπεν", "transliteral": "eipen", "traducao_palavra": "disse" },
+        { "grego": "Ἐλθέ", "transliteral": "Elthe", "traducao_palavra": "Vem" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "καταβὰς", "transliteral": "katabas", "traducao_palavra": "tendo descido" },
+        { "grego": "ἀπὸ", "transliteral": "apo", "traducao_palavra": "do" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "o" },
+        { "grego": "πλοίου", "transliteral": "ploiou", "traducao_palavra": "barco" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "Πέτρος", "transliteral": "Petros", "traducao_palavra": "Pedro" },
+        { "grego": "περιεπάτησεν", "transliteral": "periepatēsen", "traducao_palavra": "andou" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "sobre" },
+        { "grego": "τὰ", "transliteral": "ta", "traducao_palavra": "as" },
+        { "grego": "ὕδατα", "transliteral": "hydata", "traducao_palavra": "águas" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἦλθεν", "transliteral": "ēlthen", "traducao_palavra": "foi" },
+        { "grego": "πρὸς", "transliteral": "pros", "traducao_palavra": "para" },
+        { "grego": "τὸν", "transliteral": "ton", "traducao_palavra": "o" },
+        { "grego": "Ἰησοῦν", "transliteral": "Iēsoun", "traducao_palavra": "Jesus" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "Mas, sentindo o vento forte, teve medo; e, começando a submergir, clamou, dizendo: Senhor, salva-me!",
+      "palavras": [
+        { "grego": "βλέπων", "transliteral": "blepōn", "traducao_palavra": "Sentindo / reparando" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "porém" },
+        { "grego": "τὸν", "transliteral": "ton", "traducao_palavra": "o" },
+        { "grego": "ἄνεμον", "transliteral": "anemon", "traducao_palavra": "vento [forte]" },
+        { "grego": "ἐφοβήθη", "transliteral": "ephobēthē", "traducao_palavra": "teve medo" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ἀρξάμενος", "transliteral": "arxamenos", "traducao_palavra": "começando" },
+        { "grego": "καταποντίζεσθαι", "transliteral": "katapontizesthai", "traducao_palavra": "a afundar / submergir" },
+        { "grego": "ἔκραξεν", "transliteral": "ekraxen", "traducao_palavra": "clamou" },
+        { "grego": "λέγων", "transliteral": "legōn", "traducao_palavra": "dizendo" },
+        { "grego": "Κύριε", "transliteral": "Kyrie", "traducao_palavra": "Senhor" },
+        { "grego": "σῶσόν", "transliteral": "sōson", "traducao_palavra": "salva" },
+        { "grego": "με", "transliteral": "me", "traducao_palavra": "me" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E logo Jesus, estendendo a mão, segurou-o e disse-lhe: Homem de pequena fé, por que duvidaste?",
+      "palavras": [
+        { "grego": "εὐθέως", "transliteral": "eutheōs", "traducao_palavra": "Imediatamente / Logo" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "e" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "Ἰησοῦς", "transliteral": "Iēsous", "traducao_palavra": "Jesus" },
+        { "grego": "ἐκτείνας", "transliteral": "ekteinas", "traducao_palavra": "estendendo" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "a" },
+        { "grego": "χεῖρα", "transliteral": "cheira", "traducao_palavra": "mão" },
+        { "grego": "ἐπελάβετο", "transliteral": "epelabeto", "traducao_palavra": "segurou" },
+        { "grego": "αὐτοῦ", "transliteral": "autou", "traducao_palavra": "o" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "λέγει", "transliteral": "legei", "traducao_palavra": "disse" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "a ele" },
+        { "grego": "Ὀλιγόπιστε", "transliteral": "Oligopiste", "traducao_palavra": "Homem de pequena fé" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "por" },
+        { "grego": "τί", "transliteral": "ti", "traducao_palavra": "que" },
+        { "grego": "ἐδίστασας", "transliteral": "edistasas", "traducao_palavra": "duvidaste" }
+      ]
+    },
+    "32": {
+      "traducao_completa": "E, quando subiram para o barco, cessou o vento.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "ἀναβάντων", "transliteral": "anabantōn", "traducao_palavra": "tendo subido" },
+        { "grego": "αὐτῶν", "transliteral": "autōn", "traducao_palavra": "eles" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "para" },
+        { "grego": "τὸ", "transliteral": "to", "traducao_palavra": "o" },
+        { "grego": "πλοῖον", "transliteral": "ploion", "traducao_palavra": "barco" },
+        { "grego": "ἐκόπασεν", "transliteral": "ekopasen", "traducao_palavra": "cessou" },
+        { "grego": "ὁ", "transliteral": "ho", "traducao_palavra": "o" },
+        { "grego": "ἄνεμος", "transliteral": "anemos", "traducao_palavra": "vento" }
+      ]
+    },
+    "33": {
+      "traducao_completa": "Então os que estavam no barco adoraram-no, dizendo: Verdadeiramente és o Filho de Deus.",
+      "palavras": [
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "Os" },
+        { "grego": "δὲ", "transliteral": "de", "traducao_palavra": "então" },
+        { "grego": "ἐν", "transliteral": "en", "traducao_palavra": "em" },
+        { "grego": "τῷ", "transliteral": "tōi", "traducao_palavra": "o" },
+        { "grego": "πλοίῳ", "transliteral": "ploiōi", "traducao_palavra": "barco" },
+        { "grego": "προσεκύνησαν", "transliteral": "prosekynēsan", "traducao_palavra": "o adoraram" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "a ele" },
+        { "grego": "λέγοντες", "transliteral": "legontes", "traducao_palavra": "dizendo" },
+        { "grego": "Ἀληθῶς", "transliteral": "Alēthōs", "traducao_palavra": "Verdadeiramente" },
+        { "grego": "θεοῦ", "transliteral": "theou", "traducao_palavra": "de Deus" },
+        { "grego": "υἱὸς", "transliteral": "hyios", "traducao_palavra": "Filho" },
+        { "grego": "εἶ", "transliteral": "ei", "traducao_palavra": "és" }
+      ]
+    },
+    "34": {
+      "traducao_completa": "E, tendo passado para o outro lado, chegaram à terra de Genesaré.",
+      "palavras": [
+        { "grego": "Καὶ", "transliteral": "Kai", "traducao_palavra": "E" },
+        { "grego": "διαπεράσαντες", "transliteral": "diaperasantes", "traducao_palavra": "tendo passado para o outro lado" },
+        { "grego": "ἦλθον", "transliteral": "ēlthon", "traducao_palavra": "chegaram" },
+        { "grego": "ἐπὶ", "transliteral": "epi", "traducao_palavra": "a" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "a" },
+        { "grego": "γῆν", "transliteral": "gēn", "traducao_palavra": "terra" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "de" },
+        { "grego": "Γεννησαρέτ", "transliteral": "Gennēsaret", "traducao_palavra": "Genesaré" }
+      ]
+    },
+    "35": {
+      "traducao_completa": "E, quando os homens daquele lugar o reconheceram, mandaram avisar a toda aquela região ao redor, e trouxeram-lhe todos os que estavam enfermos.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "E" },
+        { "grego": "ἐπιγνόντες", "transliteral": "epignontes", "traducao_palavra": "tendo reconhecido" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "o" },
+        { "grego": "οἱ", "transliteral": "hoi", "traducao_palavra": "os" },
+        { "grego": "ἄνδρες", "transliteral": "andres", "traducao_palavra": "homens" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "do" },
+        { "grego": "τόπου", "transliteral": "topou", "traducao_palavra": "lugar" },
+        { "grego": "ἐκείνου", "transliteral": "ekeinou", "traducao_palavra": "aquele" },
+        { "grego": "ἀπέστειλαν", "transliteral": "apesteilan", "traducao_palavra": "mandaram avisar" },
+        { "grego": "εἰς", "transliteral": "eis", "traducao_palavra": "a" },
+        { "grego": "ὅλην", "transliteral": "holēn", "traducao_palavra": "toda" },
+        { "grego": "τὴν", "transliteral": "tēn", "traducao_palavra": "a" },
+        { "grego": "περίχωρον", "transliteral": "perichōron", "traducao_palavra": "região ao redor" },
+        { "grego": "ἐκείνην", "transliteral": "ekeinēn", "traducao_palavra": "aquela" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "προσήνεγκαν", "transliteral": "prosēnenkan", "traducao_palavra": "trouxeram" },
+        { "grego": "αὐτῷ", "transliteral": "autōi", "traducao_palavra": "a ele" },
+        { "grego": "πάντας", "transliteral": "pantas", "traducao_palavra": "todos" },
+        { "grego": "τοὺς", "transliteral": "tous", "traducao_palavra": "os que" },
+        { "grego": "κακῶς", "transliteral": "kakōs", "traducao_palavra": "mal" },
+        { "grego": "ἔχοντας", "transliteral": "echontas", "traducao_palavra": "estavam / enfermos" }
+      ]
+    },
+    "36": {
+      "traducao_completa": "E rogavam-lhe que tão somente pudessem tocar a orla da sua veste; e todos os que a tocavam ficavam sãos.",
+      "palavras": [
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "παρεκάλουν", "transliteral": "parekaloun", "traducao_palavra": "rogavam" },
+        { "grego": "αὐτὸν", "transliteral": "auton", "traducao_palavra": "lhe" },
+        { "grego": "ἵνα", "transliteral": "hina", "traducao_palavra": "para que" },
+        { "grego": "μόνον", "transliteral": "monon", "traducao_palavra": "somente" },
+        { "grego": "ἅψωνται", "transliteral": "hapsōntai", "traducao_palavra": "tocassem" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "a" },
+        { "grego": "κρασπέδου", "transliteral": "kraspedou", "traducao_palavra": "orla de" },
+        { "grego": "τοῦ", "transliteral": "tou", "traducao_palavra": "a" },
+        { "grego": "ἱματίου", "transliteral": "himatiou", "traducao_palavra": "veste" },
+        { "grego": "αὐτοῦ", "transliteral": "autou", "traducao_palavra": "dele" },
+        { "grego": "καὶ", "transliteral": "kai", "traducao_palavra": "e" },
+        { "grego": "ὅσοι", "transliteral": "hosoi", "traducao_palavra": "todos quantos" },
+        { "grego": "ἥψαντο", "transliteral": "hēpsanto", "traducao_palavra": "tocavam" },
+        { "grego": "διεσώθησαν", "transliteral": "diesōthēsan", "traducao_palavra": "ficavam sãos / eram curados" }
+      ]
+    }
+  }
+}

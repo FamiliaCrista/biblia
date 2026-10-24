@@ -1,433 +1,429 @@
 /*=====================================================*/
 /*            CONFIGURAÇÃO INICIAL (RESET)             */
-/*  Este bloco remove estilos padrão do navegador para */
-/*  garantir que nossa página tenha a mesma aparência  */
-/*  em todos os lugares.                               */
+/*  Remove os estilos padrão do navegador para         */
+/*  garantir consistência visual em qualquer tela.     */
 /*=====================================================*/
 * {
-    margin: 0;                                             /* Remove margens externas */
-    padding: 0;                                            /* Remove preenchimento interno */
-    box-sizing: border-box;                                /* Faz com que o tamanho total inclua bordas e padding.   */
-    font-family: 'Roboto Mono', monospace;                 /* Define uma fonte padrão para toda a página.            */
+    box-sizing: border-box;                                /* Inclui bordas e preenchimentos no tamanho total.   */
+    margin: 0;                                             /* Remove todas as margens externas padrão.           */
+    padding: 0;                                            /* Remove todos os espaçamentos internos padrão.      */
+    font-family: 'Roboto Mono', monospace;                 /* Define a fonte padrão para toda a aplicação.       */
 }
 
 /*=====================================================*/
 /*           ORGANIZAÇÃO DO CORPO DA PÁGINA            */
-/*     Aqui estilizamos o corpo (body) da página,      */
-/*  definindo o layout principal e a imagem de fundo.  */
+/*  Estiliza a área base (body) da página, definindo   */
+/*  o layout vertical, imagem de fundo e tipografia.   */
 /*=====================================================*/
 body {
-    display: flex;                                         /* Ativa o layout flexível. */
-    flex-direction: column;                                /* Organiza os itens em coluna.                           */
-    overflow: hidden;                                      /* Esconde conteúdo que sai da tela.                      */
-    z-index: 1;                                            /* Define a ordem de empilhamento (camada 1).             */
-    height: 100vh;                                         /* Define a altura para ser 100% da tela.                 */
-    max-height: 100vh;                                     /* Limita a altura máxima a 100% da tela.                 */
-    background-color: #f5f5f5;                           /* Cor de fundo caso a imagem não carregue.               */
-    background-image: url(./img/biblia.png);               /* Define a imagem de fundo da página.                    */
-    background-size: cover;                                /* Faz a imagem de fundo cobrir toda a área.              */
-    background-position: center;                           /* Centraliza a imagem de fundo.                          */
-    background-attachment: fixed;                          /* Mantém a imagem fixa durante a rolagem.                */
-    backdrop-filter: blur(2px);                            /* Aplica desfoque no fundo.                              */
-    font-family: 'Roboto Mono', monospace;                 /* Define a fonte específica para o corpo.                */
-    font-style: italic;                                    /* Deixa o texto em itálico.                              */
-    font-weight: bold;                                     /* Deixa o texto em negrito.                              */
+    z-index: 1;                                            /* Define a camada base do corpo da página.           */
+    display: flex;                                         /* Ativa o layout flexível.                           */
+    flex-direction: column;                                /* Organiza os elementos principais em coluna.        */
+    height: 100vh;                                         /* Define a altura como 100% da tela visível.         */
+    max-height: 100vh;                                     /* Limita a altura máxima a 100% da tela.             */
+    overflow: hidden;                                      /* Oculta qualquer conteúdo que exceda a tela.        */
+    background-color: #f5f5f5;                             /* Define a cor de fundo caso a imagem falhe.         */
+    background-image: url(./img/biblia.png);               /* Aplica a imagem de fundo principal.                */
+    background-size: cover;                                /* Faz a imagem de fundo cobrir toda a área.          */
+    background-position: center;                           /* Centraliza a imagem de fundo.                      */
+    background-attachment: fixed;                          /* Mantém a imagem fixa durante rolagens.             */
+    backdrop-filter: blur(2px);                            /* Aplica desfoque aos elementos sob a camada.        */
+    font-style: italic;                                    /* Aplica o estilo itálico ao texto base.             */
+    font-weight: bold;                                     /* Aplica peso negrito ao texto base.                 */
 }
 
 /*=====================================================*/
 /*              EFEITO DE ESCURECIMENTO                */
-/*  Cria uma camada com gradiente por cima da imagem   */
-/*   de fundo para escurecê-la e melhorar a leitura.   */
+/*  Cria uma camada com gradiente sobre a imagem       */
+/*  de fundo para melhorar o contraste e a leitura.    */
 /*=====================================================*/
 .gradiente {
-    position: absolute;                                    /* Permite posicionar livremente sobre a página.          */
-    top: 0;                                                /* Alinha no topo.                                        */
-    right: 0;                                              /* Alinha à direita.                                      */
-    bottom: 0;                                             /* Alinha na base.                                        */
-    left: 0;                                               /* Alinha à esquerda.                                     */
-    z-index: 0;                                            /* Fica na camada 0, abaixo do conteúdo.                  */
-    /* Cria efeito de escurecimento gradual.    */
+    position: absolute;                                    /* Permite posicionamento livre sobre a página.       */
+    top: 0;                                                /* Alinha o gradiente ao topo.                        */
+    right: 0;                                              /* Alinha o gradiente à direita.                      */
+    bottom: 0;                                             /* Alinha o gradiente à base.                         */
+    left: 0;                                               /* Alinha o gradiente à esquerda.                     */
+    z-index: 0;                                            /* Posiciona na camada 0, abaixo do conteúdo.         */
     background: linear-gradient(180deg, 
         rgba(128,128,128,0.1) 0%, 
         rgba(128,128,128,0.3) 50%, 
         rgba(128,128,128,0.5) 100%
-    );
-}
-
-/*=====================================================*/
-/*              ESTILO DO LINK DO TÍTULO               */
-/*  Formata o link principal da página, que serve      */
-/*              como título no cabeçalho.              */
-/*=====================================================*/
-a {
-    z-index: 2;                                            /* Fica na camada 2, acima do fundo e gradiente.          */
-    color: white;                                        /* Define a cor do texto como branco.                     */
-    text-align: center;                                    /* Centraliza o texto.                                    */
-    font-size: 35px;                                       /* Define o tamanho da fonte.                             */
-    text-decoration: none;                                 /* Remove o sublinhado padrão dos links.                  */
+    );                                                     /* Aplica escurecimento gradual de cima para baixo.   */
 }
 
 /*=====================================================*/
 /*                CABEÇALHO DA PÁGINA                  */
-/*  Define o estilo da barra preta no topo da página,  */
-/*           que funciona como o cabeçalho.            */
+/*  Estiliza a barra horizontal superior que contém    */
+/*  o título e elementos de navegação do topo.         */
 /*=====================================================*/
 .cabecalho {
-    display: flex;                                         /* Ativa o layout flexível. */
-    flex-wrap: wrap;                                       /* Permite que os itens quebrem para a próxima linha.     */
-    justify-content: center;                               /* Centraliza horizontalmente. */
-    align-items: center;                                   /* Centraliza verticalmente. */
-    padding: 15px;                                         /* Adiciona um espaçamento interno.                       */
-    background: #000000;                                 /* Define a cor de fundo como preta.                      */
+    display: flex;                                         /* Ativa o layout flexível.                           */
+    flex-wrap: wrap;                                       /* Permite quebra de linha em telas estreitas.        */
+    justify-content: center;                               /* Centraliza os itens horizontalmente.               */
+    align-items: center;                                   /* Centraliza os itens verticalmente.                 */
+    padding: 15px;                                         /* Aplica espaçamento interno de respiro.             */
+    background: #000000;                                   /* Define a cor de fundo como preta.                  */
 }
 
 /*=====================================================*/
-/*                  RODAPÉ DA PÁGINA                   */
-/*           Estiliza o rodapé, fixando-o na           */
-/*               parte inferior da tela.               */
+/*              ESTILO DO LINK DO TÍTULO               */
+/*  Formata o link que atua como título principal      */
+/*  localizado dentro do cabeçalho da página.          */
 /*=====================================================*/
-footer {
-    z-index: 2;                                            /* Fica na camada 2, visível sobre o conteúdo.            */
-    position: fixed;                                       /* Mantém o rodapé fixo na tela.                          */
-    bottom: 0;                                             /* Alinha o rodapé na parte de baixo.                     */
-    left: 0;                                               /* Alinha à esquerda.                                     */
-    right: 0;                                              /* Alinha à direita.                                      */
-    width: 100%;                                           /* Faz o rodapé ocupar 100% da largura.                   */
-    padding: 15px;                                         /* Adiciona um pequeno espaçamento interno.               */
-    background: black;                                   /* Define a cor de fundo como preta.                      */
-    color: white;                                        /* Define a cor do texto como branca.                     */
-    text-align: center;                                    /* Centraliza o texto.                                    */
-    font-size: 1.4em;                                      /* Define o tamanho da fonte.                             */
-}
-
-/*=====================================================*/
-/*                JANELA DE BOAS-VINDAS                */
-/*     Define o estilo da janela pop-up que aparece    */
-/*     inicialmente. Por padrão, ela fica escondida.   */
-/*=====================================================*/
-.seja-bem-vindo {
-    position: fixed;                                       /* Permite posicionar livremente na página.               */
-    top: 310px;                                            /* Define a distância do topo.                            */
-    left: calc(50% - 1px);                                 /* Centraliza na horizontal.                              */
-    z-index: 4;                                            /* Fica na camada 4, acima de quase tudo.                 */
-    transform: translateX(-50%);                           /* Ajusta o centro horizontal perfeitamente.              */
-    display: none;                                         /* Esconde o elemento por padrão.                         */
-    flex-direction: column;                                /* Organiza itens internos em coluna.                     */
-    width: 320px;                                          /* Define uma largura fixa.                               */
-    height: 200px;                                         /* Define uma altura fixa.                                */
-    background: rgba(22, 22, 22, 0.8);                   /* Fundo preto semi-transparente.                         */
-    border-radius: 30px;                                   /* Deixa os cantos arredondados.                          */
-    color: white;                                        /* Define a cor do texto como branca.                     */
-}
-
-/*=====================================================*/
-/*        JANELA DE BOAS-VINDAS (QUANDO ATIVA)         */
-/*    Este estilo é aplicado quando a janela pop-up    */
-/*     deve ser mostrada, usando a classe "ativo".     */
-/*=====================================================*/
-.seja-bem-vindo.ativo {
-    display: flex;                                         /* Ativa o layout flexível. */
-    justify-content: center;                               /* Centraliza horizontalmente. */
-    align-items: center;                                   /* Centraliza verticalmente. */
-    height: auto;                                          /* Deixa a altura se ajustar ao conteúdo.                 */
-}
-
-/*=====================================================*/
-/*          BOTÃO PARA FECHAR A JANELA POP-UP          */
-/*            Estiliza o botão "X" que fecha           */
-/*               a janela de boas-vindas.              */
-/*=====================================================*/
-.fechar-seja-bem-vindo {
-    margin-left: 200px;                                    /* Empurra o botão para a direita.                        */
-    padding-top: 10px;                                     /* Espaçamento interno no topo.                           */
-    padding-bottom: 10px;                                  /* Espaçamento interno na base.                           */
-    background: none;                                      /* Remove a cor de fundo.                                 */
-    border: none;                                          /* Remove a borda.                                        */
-    color: white;                                        /* Cor do ícone/texto como branca.                        */
-    cursor: pointer;                                       /* Mostra uma mãozinha ao passar o mouse.                 */
-    outline: none;                                         /* Remove a borda de foco ao clicar.                      */
-}
-
-/*=====================================================*/
-/*              TÍTULO DA JANELA POP-UP                */
-/*         Formata o texto do título dentro            */
-/*              da janela de boas-vindas.              */
-/*=====================================================*/
-.seja-bem-vindo h2 {
-    z-index: 1;                                            /* Define a ordem de empilhamento.                        */
-    margin-bottom: 32px;                                   /* Adiciona uma margem abaixo do título.                  */
-    width: 100%;                                           /* Faz o título ocupar toda a largura.                    */
-    color: white;                                        /* Cor do texto branca.                                   */
-    font-size: 2rem;                                       /* Define o tamanho da fonte.                             */
-    text-align: center;                                    /* Centraliza o texto.                                    */
-}
-
-/*=====================================================*/
-/*                ESTILO DAS IMAGENS                   */
-/* Define a aparência das imagens (capas das Bíblias), */
-/*      incluindo tamanho e um efeito de sombra.       */
-/*=====================================================*/
-img {
-    z-index: 1;                                            /* Define a ordem de empilhamento.                        */
-    margin: 10px;                                          /* Espaçamento ao redor da imagem.                        */
-    width: 233px;                                          /* Define uma largura fixa.                               */
-    height: 350px;                                         /* Define uma altura fixa.                                */
-    /* Adiciona múltiplas camadas de sombra.    */
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5),
-                0 0 30px rgba(255, 255, 255, 0.3),
-                0 0 40px rgba(255, 255, 255, 0.2);       /* Adiciona múltiplas camadas de sombra.                  */
-    transition: box-shadow 0.3s ease;                      /* Anima a mudança da sombra suavemente.                  */
-}
-
-/*=====================================================*/
-/*         EFEITO AO PASSAR O MOUSE NA IMAGEM          */
-/*        Intensifica a sombra da imagem quando        */
-/*         o usuário passa o cursor sobre ela.         */
-/*=====================================================*/
-img:hover {
-    box-shadow: 0 0 25px rgba(255, 255, 255, 0.6),
-                0 0 35px rgba(255, 255, 255, 0.4),
-                0 0 45px rgba(255, 255, 255, 0.3);         /* Sombra mais intensa ao passar o mouse.                 */
+a {
+    z-index: 2;                                            /* Posiciona na camada 2, acima do gradiente.         */
+    color: white;                                          /* Define a cor do texto como branca.                 */
+    font-size: 35px;                                       /* Define o tamanho da fonte do título.               */
+    text-align: center;                                    /* Centraliza o texto.                                */
+    text-decoration: none;                                 /* Remove o sublinhado padrão de links.               */
 }
 
 /*=====================================================*/
 /*              LISTA DAS VERSÕES BÍBLICAS             */
-/*           Estiliza a área principal onde as         */
-/*            capas das Bíblias são exibidas.          */
+/*  Estiliza a área central onde a grade com           */
+/*  as capas e títulos das Bíblias é exibida.          */
 /*=====================================================*/
 .lista-versoes {
-    z-index: 2;                                            /* Fica na camada 2, acima do fundo.                      */
-    display: flex;                                         /* Ativa o layout flexível. */
-    flex-grow: 1;                                          /* Faz a lista ocupar o espaço vertical disponível.       */
-    flex-wrap: wrap;                                       /* Permite que os itens quebrem a linha.                  */
-    justify-content: center;                               /* Centraliza horizontalmente. */
-    align-items: center;                                   /* Centraliza verticalmente. */
-    width: 100%;                                           /* Ocupa 100% da largura.                                 */
-    overflow: auto;                                        /* Adiciona barra de rolagem se necessário.               */
-    list-style-type: none;                                 /* Remove os marcadores de lista (bolinhas).              */
-    scrollbar-width: none;                                 /* Esconde a barra de rolagem no Firefox.                 */
-    padding-bottom: 50px;                                  /* Espaço extra na base para não cobrir o rodapé.         */
-    padding-left: 20px;                                    /* Adiciona preenchimento à esquerda.                     */
-    padding-right: 20px;                                   /* Adiciona preenchimento à direita.                      */
-    gap: 20px;                                             /* Adiciona espaçamento entre os itens.                   */
+    z-index: 2;                                            /* Posiciona na camada 2, acima do fundo.             */
+    display: flex;                                         /* Ativa o layout flexível.                           */
+    flex-grow: 1;                                          /* Expande a lista ocupando o espaço livre vertical.  */
+    flex-wrap: wrap;                                       /* Permite a quebra dos cards para a próxima linha.   */
+    justify-content: center;                               /* Centraliza os cards horizontalmente.               */
+    align-items: center;                                   /* Centraliza os cards verticalmente.                 */
+    gap: 20px;                                             /* Aplica espaçamento uniforme entre os cards.        */
+    width: 100%;                                           /* Define a largura como total da tela.               */
+    padding-bottom: 50px;                                  /* Aplica folga na base para não cobrir o rodapé.     */
+    padding-left: 20px;                                    /* Aplica espaçamento interno à esquerda.             */
+    padding-right: 20px;                                   /* Aplica espaçamento interno à direita.              */
+    overflow: auto;                                        /* Habilita barra de rolagem quando necessário.       */
+    list-style-type: none;                                 /* Remove os marcadores de lista padrão.              */
+    scrollbar-width: none;                                 /* Oculta a barra de rolagem no Firefox.              */
 }
 
-/* A linha abaixo remove a barra de rolagem em navegadores como Chrome, Safari e Edge                  */
+/* Oculta a barra de rolagem em navegadores Chromium (Chrome, Edge) e Safari */
 .lista-versoes::-webkit-scrollbar {
-    display: none;                                         /* Esconde a barra de rolagem.                            */
+    display: none;                                         /* Oculta visualmente a barra de rolagem.             */
 }
 
 /*=====================================================*/
 /*             CADA ITEM DA LISTA (VERSÃO)             */
-/*      Formata cada bloco individual que contém a     */
-/*       capa e o título de uma versão da Bíblia.      */
+/*  Formata o card individual contendo a capa          */
+/*  e o título de uma versão específica da Bíblia.     */
 /*=====================================================*/
 .lista-versoes li {
-    display: flex;                                         /* Ativa o layout flexível. */
-    flex-direction: column;                                /* Organiza os itens em coluna.                           */
-    justify-content: center;                               /* Centraliza horizontalmente. */
-    align-items: center;                                   /* Centraliza verticalmente. */
-    z-index: 1;                                            /* Define a ordem de empilhamento.                        */
-    transition: 100ms ease-in-out;                         /* Anima qualquer mudança de forma suave.                 */
+    z-index: 1;                                            /* Define a camada do card sobre o fundo da lista.    */
+    display: flex;                                         /* Ativa o layout flexível.                           */
+    flex-direction: column;                                /* Organiza a capa e o título em coluna.              */
+    justify-content: center;                               /* Centraliza o conteúdo horizontalmente.             */
+    align-items: center;                                   /* Centraliza o conteúdo verticalmente.               */
+    transition: 100ms ease-in-out;                         /* Suaviza as animações de interação.                 */
 }
 
 /*=====================================================*/
 /*           EFEITO AO PASSAR O MOUSE NO ITEM          */
-/*        Aplica um efeito visual quando o mouse       */
-/*           está sobre um dos itens da lista.         */
+/*  Aplica realce interativo com zoom suave quando      */
+/*  o cursor passa sobre um card da lista.             */
 /*=====================================================*/
 .lista-versoes li:hover {
-    cursor: pointer;                                       /* Mostra uma mãozinha para indicar que é clicável.       */
-    transform: scale(1.05);                                /* Aumenta um pouco o tamanho do item.                    */
+    transform: scale(1.05);                                /* Aplica leve ampliação de tamanho ao card.          */
+    cursor: pointer;                                       /* Altera o cursor para mãozinha (clicável).          */
+}
+
+/*=====================================================*/
+/*                ESTILO DAS IMAGENS                   */
+/*  Define as medidas e a iluminação por sombra das    */
+/*  capas de cada versão bíblica exibida.              */
+/*=====================================================*/
+img {
+    z-index: 1;                                            /* Define a camada da imagem.                         */
+    width: 233px;                                          /* Define a largura fixa da capa.                     */
+    height: 350px;                                         /* Define a altura fixa da capa.                      */
+    margin: 10px;                                          /* Aplica espaçamento externo ao redor da capa.       */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5),
+                0 0 30px rgba(255, 255, 255, 0.3),
+                0 0 40px rgba(255, 255, 255, 0.2);         /* Aplica camadas de sombra brilhante branca.         */
+    transition: box-shadow 0.3s ease;                      /* Suaviza a transição do efeito de sombra.           */
+}
+
+/*=====================================================*/
+/*         EFEITO AO PASSAR O MOUSE NA IMAGEM          */
+/*  Intensifica o efeito de brilho luminoso na capa     */
+/*  quando o usuário passa o cursor sobre a imagem.    */
+/*=====================================================*/
+img:hover {
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.6),
+                0 0 35px rgba(255, 255, 255, 0.4),
+                0 0 45px rgba(255, 255, 255, 0.3);         /* Intensifica o brilho da sombra no foco.            */
 }
 
 /*=====================================================*/
 /*                TÍTULO DE CADA VERSÃO                */
-/*         Estiliza a faixa preta com o nome da        */
-/*         versão que fica abaixo de cada capa.        */
+/*  Estiliza a barra de legenda escura que fica         */
+/*  posicionada logo abaixo de cada capa.              */
 /*=====================================================*/
 .lista-versoes h2 {
-    z-index: 1;                                            /* Define a ordem de empilhamento.                        */
-    margin-bottom: 10px;                                   /* Espaço abaixo do título.                               */
-    width: 233px;                                          /* Mesma largura da imagem da capa.                       */
-    background: black;                                   /* Fundo preto.                                           */
-    border-top: 1.7px solid white;                       /* Adiciona uma linha branca no topo.                     */
-    color: white;                                        /* Cor do texto branca.                                   */
-    text-align: center;                                    /* Centraliza o texto.                                    */
+    z-index: 1;                                            /* Define a camada da barra de título.                */
+    width: 233px;                                          /* Iguala a largura da imagem da capa.                */
+    margin-bottom: 10px;                                   /* Aplica espaçamento externo na base.                */
+    background: black;                                     /* Define a cor de fundo como preta.                  */
+    border-top: 1.7px solid white;                         /* Aplica uma linha divisória branca no topo.         */
+    color: white;                                          /* Define a cor do texto como branca.                 */
+    text-align: center;                                    /* Centraliza o texto da versão.                      */
 }
 
 /*=====================================================*/
-/*          JANELA (POP-UP) PARA NOVA VERSÃO           */
-/*  Define a aparência da janela usada para adicionar  */
-/*   uma nova versão da Bíblia. É oculta por padrão.   */
+/*                  RODAPÉ DA PÁGINA                   */
+/*  Fixa e estiliza a barra de informações na          */
+/*  extremidade inferior de toda a janela.             */
 /*=====================================================*/
-.popup-nova-versao {
-    position: absolute;                                    /* Posicionamento livre na tela.                          */
-    top: calc(50% - 250px);                                /* Centraliza verticalmente.                              */
-    left: calc(50% - 175px);                               /* Centraliza horizontalmente.                            */
-    z-index: 3;                                            /* Camada 3, acima da maioria dos elementos.              */
-    display: none;                                         /* Esconde a janela por padrão.                           */
-    flex-direction: column;                                /* Organiza itens internos em coluna.                     */
-    width: 320px;                                          /* Largura fixa.                                          */
-    height: 400px;                                         /* Altura fixa.                                           */
-    background: #161616;                                 /* Cor de fundo escura.                                   */
+footer {
+    position: fixed;                                       /* Fixa o rodapé na tela mesmo com rolagem.           */
+    bottom: 0;                                             /* Alinha o rodapé à extremidade inferior.            */
+    left: 0;                                               /* Alinha o rodapé à extremidade esquerda.            */
+    right: 0;                                              /* Alinha o rodapé à extremidade direita.             */
+    z-index: 2;                                            /* Posiciona na camada 2, sobre o conteúdo da lista.  */
+    width: 100%;                                           /* Estende a largura por toda a tela.                 */
+    padding: 15px;                                         /* Aplica espaçamento interno de respiro.             */
+    background: black;                                     /* Define a cor de fundo como preta.                  */
+    color: white;                                          /* Define a cor do texto como branca.                 */
+    font-size: 1.4em;                                      /* Define o tamanho da fonte do rodapé.               */
+    text-align: center;                                    /* Centraliza o texto informativo.                    */
 }
 
 /*=====================================================*/
-/*                MOSTRAR JANELA POP-UP                */
-/*   Quando um elemento pai tem a classe "visible",    */
-/*     esta regra torna a janela pop-up visível.       */
+/*                JANELA DE BOAS-VINDAS                */
+/*  Configura o modal de boas-vindas centralizado na   */
+/*  tela, que permanece oculto até ser ativado.        */
 /*=====================================================*/
-.visible .popup-nova-versao {
-    display: flex;                                         /* Ativa o layout flexível. */
+.seja-bem-vindo {
+    position: fixed;                                       /* Fixa o modal na tela acompanhando a rolagem.       */
+    top: 310px;                                            /* Define a distância em relação ao topo.             */
+    left: calc(50% - 1px);                                 /* Posiciona a coordenada inicial no centro.          */
+    transform: translateX(-50%);                           /* Compensa a largura para centralizar perfeitamente. */
+    z-index: 4;                                            /* Posiciona na camada 4, acima de quase tudo.        */
+    display: none;                                         /* Oculta a janela pop-up por padrão.                 */
+    flex-direction: column;                                /* Organiza os elementos internos em coluna.          */
+    width: 320px;                                          /* Define a largura fixa do modal.                    */
+    height: 200px;                                         /* Define a altura fixa do modal.                     */
+    background: rgba(22, 22, 22, 0.8);                     /* Aplica fundo preto semi-transparente.              */
+    border-radius: 30px;                                   /* Arredonda os cantos da caixa do modal.             */
+    color: white;                                          /* Define a cor do texto interno como branca.         */
+}
+
+/*=====================================================*/
+/*        JANELA DE BOAS-VINDAS (QUANDO ATIVA)         */
+/*  Regra disparada para exibir o modal de             */
+/*  boas-vindas quando recebe a classe "ativo".        */
+/*=====================================================*/
+.seja-bem-vindo.ativo {
+    display: flex;                                         /* Exibe o modal ativando o layout flexível.          */
+    justify-content: center;                               /* Centraliza o conteúdo horizontalmente.             */
+    align-items: center;                                   /* Centraliza o conteúdo verticalmente.               */
+    height: auto;                                          /* Ajusta a altura automaticamente ao conteúdo.       */
+}
+
+/*=====================================================*/
+/*          BOTÃO PARA FECHAR A JANELA POP-UP          */
+/*  Estiliza o botão de fechamento com ícone "X"       */
+/*  situado no topo do modal de boas-vindas.           */
+/*=====================================================*/
+.fechar-seja-bem-vindo {
+    margin-left: 200px;                                    /* Desloca o botão para o canto direito.              */
+    padding-top: 10px;                                     /* Aplica espaçamento interno no topo.                */
+    padding-bottom: 10px;                                  /* Aplica espaçamento interno na base.                */
+    background: none;                                      /* Remove a cor de fundo do botão.                    */
+    border: none;                                          /* Remove a borda padrão do botão.                    */
+    outline: none;                                         /* Remove o contorno de seleção ao clicar.            */
+    color: white;                                          /* Define a cor do ícone como branca.                 */
+    cursor: pointer;                                       /* Altera o cursor para mãozinha (clicável).          */
+}
+
+/*=====================================================*/
+/*              TÍTULO DA JANELA POP-UP                */
+/*  Formata a mensagem em destaque dentro do modal     */
+/*  de boas-vindas inicial.                            */
+/*=====================================================*/
+.seja-bem-vindo h2 {
+    z-index: 1;                                            /* Define a camada do título dentro do modal.         */
+    width: 100%;                                           /* Ocupa a largura total interna.                     */
+    margin-bottom: 32px;                                   /* Aplica espaçamento abaixo do texto.                */
+    color: white;                                          /* Define a cor do texto como branca.                 */
+    font-size: 2rem;                                       /* Define o tamanho da fonte do título.               */
+    text-align: center;                                    /* Centraliza o texto na horizontal.                  */
 }
 
 /*=====================================================*/
 /*            FUNDO ESCURECIDO PARA POP-UP             */
-/*  Cria uma camada escura que cobre a página inteira  */
-/*         atrás do pop-up para dar foco a ele.        */
+/*  Cria uma película escura translúcida sobre toda a   */
+/*  página para dar destaque ao pop-up em primeiro plano.*/
 /*=====================================================*/
 .visible:after {
-    content: "";                                           /* Necessário para o pseudo-elemento funcionar.           */
-    position: fixed;                                       /* Cobre a tela toda, mesmo com rolagem.                  */
-    top: 0;                                                /* Alinha no topo.                                        */
-    left: 0;                                               /* Alinha à esquerda.                                     */
-    right: 0;                                              /* Alinha à direita.                                      */
-    bottom: 0;                                             /* Alinha na base.                                        */
-    z-index: 2;                                            /* Fica entre o pop-up e o conteúdo da página.            */
-    background: rgba(0, 0, 0, 0.8);                      /* Cor preta com 80% de transparência.                    */
+    content: "";                                           /* Permite a renderização do pseudo-elemento.         */
+    position: fixed;                                       /* Fixa a cobertura sobre toda a tela visível.        */
+    top: 0;                                                /* Alinha a cobertura ao topo.                        */
+    right: 0;                                              /* Alinha a cobertura à direita.                      */
+    bottom: 0;                                             /* Alinha a cobertura à base.                         */
+    left: 0;                                               /* Alinha a cobertura à esquerda.                     */
+    z-index: 2;                                            /* Posiciona na camada 2, entre o pop-up e a página.  */
+    background: rgba(0, 0, 0, 0.8);                        /* Aplica fundo preto com 80% de opacidade.           */
+}
+
+/*=====================================================*/
+/*          JANELA (POP-UP) PARA NOVA VERSÃO           */
+/*  Estiliza o painel de formulário usado para         */
+/*  cadastrar uma nova versão bíblica no sistema.      */
+/*=====================================================*/
+.popup-nova-versao {
+    position: absolute;                                    /* Permite posicionamento livre sobre a página.       */
+    top: calc(50% - 250px);                                /* Centraliza o formulário na vertical.               */
+    left: calc(50% - 175px);                               /* Centraliza o formulário na horizontal.             */
+    z-index: 3;                                            /* Posiciona na camada 3, acima do fundo escurecido.  */
+    display: none;                                         /* Oculta o formulário por padrão.                    */
+    flex-direction: column;                                /* Organiza os campos do formulário em coluna.        */
+    width: 320px;                                          /* Define a largura fixa do formulário.               */
+    height: 400px;                                         /* Define a altura fixa do formulário.                */
+    background: #161616;                                   /* Define a cor de fundo cinza escura.                */
+}
+
+/*=====================================================*/
+/*                MOSTRAR JANELA POP-UP                */
+/*  Torna o formulário de cadastro visível quando o    */
+/*  elemento ancestral recebe a classe "visible".      */
+/*=====================================================*/
+.visible .popup-nova-versao {
+    display: flex;                                         /* Exibe o formulário com layout flexível.            */
 }
 
 /*=====================================================*/
 /*           BOTÕES DE ABRIR E FECHAR POP-UP           */
-/*    Estilo base para os botões que abrem e fecham    */
-/*              a janela de nova versão.               */
+/*  Estilo base unificado para os botões de ação       */
+/*  que acionam e encerram a janela de nova versão.    */
 /*=====================================================*/
 .abrir-popup,
 .fechar-popup {
-    z-index: 2;                                            /* Garante que fiquem clicáveis.                          */
-    background: none;                                      /* Sem cor de fundo.                                      */
-    border: none;                                          /* Sem borda.                                             */
-    color: white;                                        /* Texto branco.                                          */
-    cursor: pointer;                                       /* Mãozinha ao passar o mouse.                            */
-    outline: none;                                         /* Remove contorno ao clicar.                             */
+    z-index: 2;                                            /* Mantém os botões clicáveis sobre o fundo.          */
+    background: none;                                      /* Remove a cor de fundo do botão.                    */
+    border: none;                                          /* Remove a borda padrão do botão.                    */
+    outline: none;                                         /* Remove o contorno de seleção ao clicar.            */
+    color: white;                                          /* Define a cor do ícone como branca.                 */
+    cursor: pointer;                                       /* Altera o cursor para mãozinha (clicável).          */
 }
 
 /*=====================================================*/
 /*           VISUAL DO BOTÃO DE FECHAR POP-UP          */
-/*        Ajustes específicos de posicionamento        */
-/*               para o botão de fechar.               */
+/*  Ajusta o posicionamento exclusivo do botão de      */
+/*  fechamento do formulário de nova versão.           */
 /*=====================================================*/
 .fechar-popup {
-    margin-left: 250px;                                    /* Empurra o botão para a direita.                        */
-    padding-top: 10px;                                     /* Espaçamento interno no topo.                           */
-    padding-bottom: 10px;                                  /* Espaçamento interno na base.                           */
-}
-
-/*=====================================================*/
-/*                BOTÃO "SALVAR VERSÃO"                */
-/*       Estilo do botão para confirmar e salvar       */
-/*          os dados da nova versão no pop-up.         */
-/*=====================================================*/
-.salvar-versao {
-    width: 150px;                                          /* Largura do botão.                                      */
-    height: 40px;                                          /* Altura do botão.                                       */
-    margin-top: 12px;                                      /* Margem no topo.                                        */
-    margin-left: 85px;                                     /* Margem à esquerda para centralizar.                    */
-    padding: 4px;                                          /* Espaçamento interno.                                   */
-    border: none;                                          /* Sem borda.                                             */
-    border-radius: 15px;                                   /* Cantos arredondados.                                   */
-    background: #111;                                    /* Fundo cinza escuro.                                    */
-    color: white;                                        /* Texto branco.                                          */
-    font-size: 18px;                                       /* Tamanho do texto.                                      */
-    cursor: pointer;                                       /* Mãozinha ao passar o mouse.                            */
-    transition: 0.5s;                                      /* Animação suave para mudanças.                          */
-}
-
-/*=====================================================*/
-/*        EFEITO HOVER NO BOTÃO "SALVAR VERSÃO"        */
-/*           Muda a aparência do botão quando          */
-/*               o mouse está sobre ele.               */
-/*=====================================================*/
-.salvar-versao:hover {
-    background: white;                                   /* Fundo fica branco.                                     */
-    color: black;                                        /* Texto fica preto.                                      */
-    box-shadow: 0px 0px 6px white;                       /* Adiciona um brilho branco ao redor.                    */
-}
-
-/*=====================================================*/
-/*       PRÉ-VISUALIZAÇÃO DA IMAGEM NO POP-UP          */
-/*    Define o estilo para a imagem que aparece        */
-/*        após o usuário escolher um arquivo.          */
-/*=====================================================*/
-.imagem-previsualizacao {
-    display: none;                                         /* Escondida por padrão.                                  */
-    width: 150px;                                          /* Largura da imagem.                                     */
-    height: 200px;                                         /* Altura da imagem.                                      */
-    margin-left: 85px;                                     /* Margem para centralizar.                               */
-}
-
-/*=====================================================*/
-/*         BOTÃO PARA ESCOLHER IMAGEM DE CAPA          */
-/*   Estiliza a área tracejada onde o usuário clica    */
-/*        para selecionar um arquivo de imagem.        */
-/*=====================================================*/
-.botao-imagem {
-    width: 150px;                                          /* Largura da área clicável.                              */
-    height: 200px;                                         /* Altura da área clicável.                               */
-    margin-left: 85px;                                     /* Margem para centralizar.                               */
-    border: 3px dashed #000;                             /* Borda preta tracejada.                                 */
-    background: none;                                      /* Sem cor de fundo.                                      */
-    color: #000;                                         /* Cor do texto (ícone) preta.                            */
-    cursor: pointer;                                       /* Mãozinha ao passar o mouse.                            */
-    transition: 0.5s;                                      /* Animação suave para mudanças.                          */
-}
-
-/*=====================================================*/
-/*      EFEITO HOVER NO BOTÃO DE ESCOLHER IMAGEM       */
-/*    Muda a cor da borda e do texto quando o mouse    */
-/*      passa sobre a área de seleção de imagem.       */
-/*=====================================================*/
-.botao-imagem:hover {
-    border-color: white;                                 /* Borda fica branca.                                     */
-    color: white;                                        /* Texto/ícone fica branco.                               */
+    margin-left: 250px;                                    /* Desloca o botão para a extremidade direita.        */
+    padding-top: 10px;                                     /* Aplica espaçamento interno no topo.                */
+    padding-bottom: 10px;                                  /* Aplica espaçamento interno na base.                */
 }
 
 /*=====================================================*/
 /*     CAMPO DE TEXTO PARA O TÍTULO DA NOVA VERSÃO     */
-/*   Estiliza o campo de input onde o usuário digita   */
-/*           o nome da nova versão da Bíblia.          */
+/*  Estiliza o campo de entrada onde o usuário digita  */
+/*  o nome correspondente à nova versão bíblica.       */
 /*=====================================================*/
 .titulo-nova-biblia {
-    width: 250px;                                          /* Largura do campo.                                      */
-    height: 30px;                                          /* Altura do campo.                                       */
-    margin-top: 14px;                                      /* Margem no topo.                                        */
-    margin-left: 34px;                                     /* Margem à esquerda.                                     */
-    border: none;                                          /* Sem borda.                                             */
-    border-radius: 12px;                                   /* Cantos arredondados.                                   */
-    font-size: 18px;                                       /* Tamanho do texto digitado.                             */
-    text-align: center;                                    /* Centraliza o texto digitado.                           */
-    outline: none;                                         /* Remove o contorno ao focar.                            */
+    width: 250px;                                          /* Define a largura da caixa de texto.                */
+    height: 30px;                                          /* Define a altura da caixa de texto.                 */
+    margin-top: 14px;                                      /* Aplica espaçamento externo no topo.                */
+    margin-left: 34px;                                     /* Aplica margem à esquerda para centralização.       */
+    border: none;                                          /* Remove a borda padrão do campo.                    */
+    border-radius: 12px;                                   /* Arredonda os cantos do campo de texto.             */
+    outline: none;                                         /* Remove a linha de destaque ao focar no campo.      */
+    font-size: 18px;                                       /* Define o tamanho da fonte do texto digitado.       */
+    text-align: center;                                    /* Centraliza o texto inserido no campo.              */
 }
 
 /*=====================================================*/
-/*      AJUSTES PARA TELAS GRANDES (MEDIA QUERY)       */
-/*   Modifica o tamanho da imagem de fundo para se     */
-/*       ajustar melhor em telas mais largas.          */
+/*         BOTÃO PARA ESCOLHER IMAGEM DE CAPA          */
+/*  Estiliza a moldura tracejada destinada ao upload   */
+/*  e seleção do arquivo de imagem da capa.            */
+/*=====================================================*/
+.botao-imagem {
+    width: 150px;                                          /* Define a largura da área tracejada de seleção.     */
+    height: 200px;                                         /* Define a altura da área tracejada de seleção.      */
+    margin-left: 85px;                                     /* Aplica margem à esquerda para centralização.       */
+    background: none;                                      /* Remove a cor de fundo da área de seleção.          */
+    border: 3px dashed #000;                               /* Aplica borda preta com traços pontilhados.         */
+    color: #000;                                           /* Define a cor preta para o ícone de upload.         */
+    cursor: pointer;                                       /* Altera o cursor para mãozinha (clicável).          */
+    transition: 0.5s;                                      /* Suaviza as mudanças de cor no hover.               */
+}
+
+/*=====================================================*/
+/*      EFEITO HOVER NO BOTÃO DE ESCOLHER IMAGEM       */
+/*  Altera as cores da borda e do ícone de seleção     */
+/*  quando o usuário posiciona o cursor sobre ele.     */
+/*=====================================================*/
+.botao-imagem:hover {
+    border-color: white;                                   /* Altera a cor da borda para branca.                 */
+    color: white;                                          /* Altera a cor do ícone interno para branca.         */
+}
+
+/*=====================================================*/
+/*       PRÉ-VISUALIZAÇÃO DA IMAGEM NO POP-UP          */
+/*  Formata a miniatura de confirmação exibida após o  */
+/*  usuário selecionar um arquivo de imagem válido.    */
+/*=====================================================*/
+.imagem-previsualizacao {
+    display: none;                                         /* Oculta a miniatura por padrão.                     */
+    width: 150px;                                          /* Define a largura da imagem prévia.                 */
+    height: 200px;                                         /* Define a altura da imagem prévia.                  */
+    margin-left: 85px;                                     /* Aplica margem à esquerda para centralização.       */
+}
+
+/*=====================================================*/
+/*                BOTÃO "SALVAR VERSÃO"                */
+/*  Estiliza o botão de confirmação e salvamento dos   */
+/*  dados cadastrados no formulário de versão.         */
+/*=====================================================*/
+.salvar-versao {
+    width: 150px;                                          /* Define a largura do botão.                         */
+    height: 40px;                                          /* Define a altura do botão.                          */
+    margin-top: 12px;                                      /* Aplica espaçamento externo no topo.                */
+    margin-left: 85px;                                     /* Aplica margem à esquerda para centralização.       */
+    padding: 4px;                                          /* Aplica espaçamento interno de respiro.             */
+    background: #111;                                      /* Define a cor de fundo como cinza escuro.           */
+    border: none;                                          /* Remove a borda padrão do botão.                    */
+    border-radius: 15px;                                   /* Arredonda os cantos da caixa do botão.             */
+    color: white;                                          /* Define a cor do texto do botão como branca.        */
+    font-size: 18px;                                       /* Define o tamanho da fonte da legenda.              */
+    cursor: pointer;                                       /* Altera o cursor para mãozinha (clicável).          */
+    transition: 0.5s;                                      /* Suaviza as transições de cores no hover.           */
+}
+
+/*=====================================================*/
+/*        EFEITO HOVER NO BOTÃO "SALVAR VERSÃO"        */
+/*  Inverte as cores e aplica brilho luminoso ao       */
+/*  botão de salvar quando o mouse está sobre ele.     */
+/*=====================================================*/
+.salvar-versao:hover {
+    background: white;                                     /* Altera a cor de fundo para branca.                 */
+    box-shadow: 0px 0px 6px white;                         /* Aplica brilho difuso branco ao redor.              */
+    color: black;                                          /* Altera a cor do texto para preta.                  */
+}
+
+/*=====================================================*/
+/*      AJUSTES PARA TELAS LARGAS (MEDIA QUERY)        */
+/*  Ajusta o dimensionamento da imagem de fundo para   */
+/*  monitores com largura a partir de 1010px.          */
 /*=====================================================*/
 @media (min-width: 1010px) {
     body {
-        background-size: 100% auto;                        /* Fundo cobre 100% da largura, altura automática.        */
+        background-size: 100% auto;                        /* Ajusta o fundo para 100% de largura e altura auto. */
     }
 }
 
 /*======================================================*/
-/*    AJUSTES PARA TELAS MUITO GRANDES (MEDIA QUERY)    */
-/*    Modifica o tamanho da imagem de fundo para se     */
-/*       ajustar melhor em telas com mais altura.       */
+/*    AJUSTES PARA TELAS EXTRA LARGAS (MEDIA QUERY)     */
+/*  Ajusta o dimensionamento da imagem de fundo para    */
+/*  monitores com largura a partir de 1030px.           */
 /*======================================================*/
 @media (min-width: 1030px) {
     body {
-        background-size: auto 100%;                        /* Fundo cobre 100% da altura, largura automática.        */
+        background-size: auto 100%;                        /* Ajusta o fundo para 100% de altura e largura auto. */
     }
 }

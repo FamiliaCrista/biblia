@@ -5,9 +5,11 @@
 <!------------------------------------------>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Configura o viewport para responsividade        -->
+  <!-- A linha abaixo configura o viewport para responsividade -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>BibliaV1</title>
-  <link rel="stylesheet" href="./style.css">                            <!-- Carrega os estilos externos                     -->
+  <!-- A linha abaixo carrega os estilos externos -->
+  <link rel="stylesheet" href="./style.css">
 </head>
 
 <!------------------------------------------->
@@ -21,7 +23,8 @@
     <a href='/'>Versões da Bíblia</a>
   </header>
 
-  <ul class='lista-versoes' id='lista'></ul>                            <!-- A linha abaixo e a lista de versões da Bíblia   -->
+  <!-- A linha abaixo e a lista de versões da Bíblia -->  
+  <ul class='lista-versoes' id='lista'></ul>
   
   <!-- Este bloco e o pop-up de Boas-Vindas -->
   <div class='seja-bem-vindo ativo' id='popup-seja-bem-vindo'>
@@ -33,8 +36,10 @@
   <div class='popup-nova-versao'>
     <button class='material-icons fechar-popup' onclick="fecharPopup()">Fechar</button>  
     <div>
-      <input id='arquivo-imagem' type='file' hidden='hidden'>           <!-- Campo oculto para upload de arquivo             -->
-      <img class='imagem-previsualizacao' id='previsualizacao-imagem'>  <!-- Pré-visualização da imagem selecionada          -->
+      <!-- A linha abaixo e o campo oculto para upload de arquivo -->
+      <input id='arquivo-imagem' type='file' hidden='hidden'>
+        <!-- A linha abaixo e a pré-visualização da imagem selecionada -->
+      <img class='imagem-previsualizacao' id='previsualizacao-imagem'>
     </div>
     
     <!-- Este bloco e os botões para seleção de imagem -->
@@ -43,7 +48,8 @@
     <button class='salvar-versao' onclick='salvarVersao()'>Salvar</button>
   </div>
 
-  <div class='gradiente'></div>                                         <!-- A linha abaixo e o efeito de Gradiente no fundo -->
+  <!-- A linha abaixo e o efeito de Gradiente no fundo -->
+  <div class='gradiente'></div>
 
   <!-- Este bloco e rodapé com informações de copyright -->
   <footer>

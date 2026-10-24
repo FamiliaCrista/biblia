@@ -3,9 +3,10 @@
 /*  Lista que guarda todas as versões da Bíblia disponíveis dentro de um array   */
 /*===============================================================================*/
 
-const versoesBiblia = [];                                                                   // Array que armazena todas as versões da Bíblia
+// A linha abaixo e o Array que armazena todas as versões da Bíblia
+const versoesBiblia = [];
 
-// Este bloco adiciona as versões padrão da Bíblia com seus títulos e imagens
+// O BLOCO ABAIXO ADICIONA AS VERSÕES PADRÃO DA BÍBLIA COM SEUS TÍTULOS E IMAGENS
 versoesBiblia.push({ tituloVersao: 'Bíblia ACF', img: './img/acf.png' });
 versoesBiblia.push({ tituloVersao: 'Bíblia ARA', img: './img/ara.png' });
 versoesBiblia.push({ tituloVersao: 'Bíblia ARC', img: './img/arc.png' });
@@ -22,16 +23,22 @@ versoesBiblia.push({ tituloVersao: 'Bíblia Original', img: './img/original.png'
 /* Ela pega os dados da nossa lista `versoesBiblia` e cria os elementos visuais. */
 /*===============================================================================*/
 
-// Esta bloco cria a função para exibe todas as versões da Bíblia na tela
+// O BLOCO ABAIXO CRIA A FUNÇÃO PARA MOSTRAR TODAS AS VERSÕES DA BÍBLIA NA TELA
 function exibirTodasVersoes() {
-    const lista = document.getElementById('lista');                                         // Obtém o elemento <ul> com id 'lista' do HTML
+    // A linha abaixo Obtém o elemento <ul> com id 'lista' do HTML
+    const lista = document.getElementById('lista');
     if (!lista) {
-        console.error("Elemento <ul id='lista'> não encontrado no index.html");             // Se não encontrar a lista, mostra um erro no console
-        return;                                                                             // Para a execução da função
+        // A linha abixo informa se não encontrar a lista, mostra um erro no console
+        console.error("Elemento <ul id='lista'> não encontrado no index.html");
+        // A linha abaixo para a execução da função
+        return;
     }
-    lista.innerHTML = '';                                                                   // Limpa a lista atual para evitar duplicação
+
+    // A linha a abaixo limpa a lista atual para evitar duplicação    
+    lista.innerHTML = '';
     for (let i = 0; i < versoesBiblia.length; i++) {
-        lista.appendChild(criarElementoVersao(versoesBiblia[i]));                          // Adiciona o elemento visual de cada versão à lista
+        // A linha abaixo adiciona o elemento visual de cada versão à lista
+        lista.appendChild(criarElementoVersao(versoesBiblia[i]));
     }
 }
 
@@ -42,16 +49,24 @@ function exibirTodasVersoes() {
 
 // Este bloco cria a função para um item da lista para uma versão da Bíblia
 function criarElementoVersao(desenho) { 
-    const listaItem = document.createElement('li');                                         // Cria item da lista
-    const img = document.createElement('img');                                              // Cria elemento de imagem
-    const titulo = document.createElement('h2');                                            // Cria elemento de título
-    img.src = desenho.img;                                                                  // Define o caminho da imagem
-    img.alt = desenho.tituloVersao;                                                        // Define texto alternativo (importante para acessibilidade)
-    titulo.innerHTML = desenho.tituloVersao;                                               // Define o texto do título
+    // A linha abaixo cria item da lista
+    const listaItem = document.createElement('li');
+    // A linha abaixo cria elemento de imagem
+    const img = document.createElement('img');
+    // A linha abaixo cria o elemento de título
+    const titulo = document.createElement('h2');
+
+    // A linha abaixo define o caminho da imagem
+    img.src = desenho.img;
+    // A linha abaixo define o texto alternativo (importante para acessibilidade)
+    img.alt = desenho.tituloVersao;
+    // A linha abaixo define o texto do título
+    titulo.innerHTML = desenho.tituloVersao;
+    // A linha abaixo define o evento de clique para abrir o popup e passar o codigo da versão
     listaItem.addEventListener('click', () => {
-        let codigoVersao = null;                                                            // Código da versão
+        let codigoVersao = null;
         
-        // Este bloco converte o texto para minúsculas
+        // O BLOCO ABAIXO CONVERTE O TEXTO PARA MINÚSCULAS
         const tituloMinusculo = desenho.tituloVersao.toLowerCase();
         if (tituloMinusculo.includes('acf')) codigoVersao = 'acf';
         else if (tituloMinusculo.includes('ara')) codigoVersao = 'ara';
@@ -65,128 +80,190 @@ function criarElementoVersao(desenho) {
         
         if (codigoVersao) {
             
-            // Este bloco cria URL de destino
+            // O BLOCO ABAIXO CRIA URL DE DESTINO
             const urlDestino = `html/versoes.html?versao=${codigoVersao}`;
-            console.log(`Redirecionando para: ${urlDestino}`);                              // Mostra no console
-            window.location.href = urlDestino;                                              // Muda para a página
+            // A linha abaixo mostra no console
+            console.log(`Redirecionando para: ${urlDestino}`);
+            // A linha abaixo muda para a página
+            window.location.href = urlDestino;
         } else {
-            console.warn(`Não foi possível determinar o código da versão para: ${desenho.tituloVersao}`); // Aviso se não encontrou o código
-            alert("Não foi possível abrir esta versão. Código não identificado.");          // Alerta para o usuário
+            // A linha abaixo mostra o aviso se não encontrar o código
+            console.warn(`Não foi possível determinar o código da versão para: ${desenho.tituloVersao}`);
+            // A linha abaixo mostra o alerta para o usuário
+            alert("Não foi possível abrir esta versão. Código não identificado.");
         }
     });
 
-    listaItem.appendChild(img);                                                             // Adiciona imagem ao item
-    listaItem.appendChild(titulo);                                                          // Adiciona título ao item
-    return listaItem;                                                                       // Retorna o item completo
+    // A linha abaixo adiciona imagem ao item
+    listaItem.appendChild(img);
+    // A linha abaixo adiciona título ao item
+    listaItem.appendChild(titulo);
+    // A linha abaixo retorna o item completo
+    return listaItem;
 }
 
 /*===============================================================================*/
 /*                 GERENCIAMENTO DE POP-UPS E UPLOAD DE IMAGENS                  */
 /*===============================================================================*/
 
-let subirImagem = '';                                                                          // Guarda a imagem escolhida temporariamente em base64
+// A linha abaixo guarda a imagem escolhida temporariamente em base64
+let subirImagem = '';
 
 document.addEventListener('DOMContentLoaded', () => {
-    const botaoArquivoReal = document.getElementById('arquivo-imagem');                     // Campo de arquivo
-    const botaoPersonalizado = document.getElementById('novo-botao-imagem');                // Botão personalizado
-    const previsualizacaoImagem = document.getElementById('previsualizacao-imagem');        // Área de preview
+    // A linha baixo obtém o campo de arquivo
+    const botaoArquivoReal = document.getElementById('arquivo-imagem');
+    // A linha abaixo obtém o botão personalizado
+    const botaoPersonalizado = document.getElementById('novo-botao-imagem'); 
+    // A linha abaixo obtém o campo de pré-visualização
+    const previsualizacaoImagem = document.getElementById('previsualizacao-imagem');
+    
     if (botaoArquivoReal) {
-        botaoArquivoReal.addEventListener('change', () => {                                 // Evento ao selecionar um arquivo
+        // A linha abaixo define o evento ao selecionar um arquivo
+        botaoArquivoReal.addEventListener('change', () => {
             if (botaoArquivoReal.files && botaoArquivoReal.files.length > 0) {
-                const leitorArquivo = new FileReader();                                     // Lê o arquivo
+                // A linha abaixo lê o arquivo
+                const leitorArquivo = new FileReader();
+    
                 leitorArquivo.onloadend = () => {
-                    subirImagem = leitorArquivo.result;                                        // Guarda a imagem
+                    // A linha abaixo guarda a imagem
+                    subirImagem = leitorArquivo.result;
                     if (previsualizacaoImagem) {
-                        previsualizacaoImagem.src = subirImagem;                               // Mostra a imagem
-                        previsualizacaoImagem.style.display = 'flex';                       // Exibe a pré-visualização
+                        // A linha abaixo mostra a imagem
+                        previsualizacaoImagem.src = subirImagem;
+                        // A linha abaixo exibe a pré-visualização
+                        previsualizacaoImagem.style.display = 'flex';
                     }
                     if (botaoPersonalizado) {
-                        botaoPersonalizado.style.display = 'none';                          // Esconde o botão personalizado
+                        // A linha abaixo esconde o botão personalizado
+                        botaoPersonalizado.style.display = 'none';
                     }
                 }
-                leitorArquivo.readAsDataURL(botaoArquivoReal.files[0]);                     // Lê a imagem como base64
+                // A linha abaixo lê a imagem como base64
+                leitorArquivo.readAsDataURL(botaoArquivoReal.files[0]);
             }
         });
     } else {
-        console.warn("Elemento 'arquivo-imagem' não encontrado.");                          // Aviso se não encontrou o campo de arquivo
+        // A linha abaixo mostra o aviso se não encontrou o campo de arquivo
+        console.warn("Elemento 'arquivo-imagem' não encontrado.");
     }
     if (botaoPersonalizado) {
-        botaoPersonalizado.addEventListener('click', () => {                                // Evento ao clicar no botão personalizado
+        // A linha abaixo define o evento ao clicar no botão personalizado
+        botaoPersonalizado.addEventListener('click', () => {
             if (botaoArquivoReal) {
-                botaoArquivoReal.click();                                                   // Abre seletor de arquivo
+// Abre seletor de arquivo
+                botaoArquivoReal.click();
             }
         });
     } else {
-        console.warn("Elemento 'novo-botao-imagem' não encontrado.");                       // Aviso se não encontrou o botão personalizado
+        // A linha abaixo mostra o aviso se não encontrou o botão personalizado
+        console.warn("Elemento 'novo-botao-imagem' não encontrado.");
     }
 
-    // Este bloco busca os botões da interface
-    const abreBotaoPopup = document.querySelector('.abrir-popup');                          // Botão abrir popup
-    if (!abreBotaoPopup) console.warn("Botão '.abrir-popup' não encontrado.");              // Aviso se não encontrou o botão abrir popup
-    const fechaBotaoPopup = document.querySelector('.popup-nova-versao .fechar-popup');     // Botão fechar popup
-    if (!fechaBotaoPopup) console.warn("Botão '.fechar-popup' não encontrado.");            // Aviso se não encontrou o botão fechar popup
-    const fechaBotaoBoasVindas = document.querySelector('.fechar-boas-vindas');             // Botão fechar boas-vindas
-    if (!fechaBotaoBoasVindas) console.warn("Botão '.fechar-boas-vindas' não encontrado."); // Aviso se não encontrou o botão fechar boas-vindas
-    const botaoSalvar = document.querySelector('.salvar-versao');                           // Botão salvar versão
-    if (!botaoSalvar) console.warn("Botão '.salvar-versao' não encontrado.");               // Aviso se não encontrou o botão salvar versão
-    exibirTodasVersoes();                                                                   // Mostra todas as versões da Bíblia
+    // O BLOCO ABAIXO CRIA FUNÇÃO PARA BUSCA OS BOTÕES DA INTERFACE
+    
+    // A linha abaixo cria o botão abrir popup
+    const abreBotaoPopup = document.querySelector('.abrir-popup');
+    // A linha abaixo mostra o aviso se não for encontrou o botão abrir popup
+    if (!abreBotaoPopup) console.warn("Botão '.abrir-popup' não encontrado.");
+    // A linha abaixo cria o botão fechar popup
+    const fechaBotaoPopup = document.querySelector('.popup-nova-versao .fechar-popup');
+    // A linha abaixo mostra o aviso se não for encontrou o botão fechar popup
+    if (!fechaBotaoPopup) console.warn("Botão '.fechar-popup' não encontrado.");
+    // A linha abaixo cria o botão fechar boas-vindas
+    const fechaBotaoBoasVindas = document.querySelector('.fechar-boas-vindas');
+     // A linha abaixo mostra o aviso se não encontrou o botão fechar boas-vindas
+    if (!fechaBotaoBoasVindas) console.warn("Botão '.fechar-boas-vindas' não encontrado.");
+    // A linha abaixo cria o botão salvar versão
+    const botaoSalvar = document.querySelector('.salvar-versao');
+    // A linha abaixo mostra o aviso se não encontrou o botão salvar versão
+    if (!botaoSalvar) console.warn("Botão '.salvar-versao' não encontrado.");
+    // A linha abaixo mostra todas as versões da Bíblia
+    exibirTodasVersoes();
 });
 
-// Este bloco cria a função para exibir o popup de nova versão
+// ESTE BLOCO CRIA A FUNÇÃO PARA EXIBIR O POPUP DE NOVA VERSÃO
 function abrirPopup() {
-    document.body.classList.add('visivel');                                                 // Adiciona classe para exibir popup
+    // A linha abaixo adiciona a classe para exibir o popup
+    document.body.classList.add('visivel');
 }
 
-// Este bloco cria a função para fecha o popup de nova versão
+// ESTE BLOCO CRIA A FUNÇÃO PARA FECHA O POPUP DE NOVA VERSÃO
 function fecharPopup() {
-    document.body.classList.remove('visivel');                                              // Remove classe para esconder popup
-    const previsualizacaoImagem = document.getElementById('previsualizacao-imagem');        // Área de preview
-    const botaoPersonalizado = document.getElementById('novo-botao-imagem');                // Botão personalizado
-    const botaoArquivoReal = document.getElementById('arquivo-imagem');                     // Campo de arquivo
-    const entradaTitulo = document.getElementById('novo-titulo-biblia');                    // Campo de título
+    // A linha abaixo remove classe para esconder popup    
+    document.body.classList.remove('visivel');
+    // A linha abaixo cria a área de preview
+    const previsualizacaoImagem = document.getElementById('previsualizacao-imagem');
+    // A linha abaixo cria o botão personalizado
+    const botaoPersonalizado = document.getElementById('novo-botao-imagem');
+    // A linha abaixo cria o campo de arquivo
+    const botaoArquivoReal = document.getElementById('arquivo-imagem');
+    // A linha abaixo cria o campo de título
+    const entradaTitulo = document.getElementById('novo-titulo-biblia');
+    
     if (previsualizacaoImagem) {
-        previsualizacaoImagem.src = '';                                                     // Limpa a imagem
-        previsualizacaoImagem.style.display = 'none';                                       // Esconde o elemento
+        // A linha abaixo limpa a imagem
+        previsualizacaoImagem.src = '';
+        // A linha abaixo esconde o elemento
+        previsualizacaoImagem.style.display = 'none';
     }
+    // A linha abaixo mostra o botão personalizado
     if (botaoPersonalizado) {
-        botaoPersonalizado.style.display = 'block';                                         // Mostra o botão personalizado
+        botaoPersonalizado.style.display = 'block';
     }
+    // A linha a baixo limpa o campo de arquivo
     if (botaoArquivoReal) {
-        botaoArquivoReal.value = '';                                                        // Limpa o campo de arquivo
+        botaoArquivoReal.value = '';
     }
+    // A linha abaixo limpa o campo de texto    
     if (entradaTitulo) {
-        entradaTitulo.value = '';                                                           // Limpa o campo de texto
+        entradaTitulo.value = '';
     }
-    subirImagem = '';                                                                          // Limpa a variável da imagem
+    // A linha abaixo limpa a variável da imagem
+    subirImagem = '';
 }
 
-// Este bloco cria a função para fechar a janela Seja Bem-Vindo
-function fecharSejaBemVindo() {                                                             // Fecha o popup de boas-vindas
-    const popupBoasVindas = document.getElementById('popup-seja-bem-vindo');                // Obtém o popup de boas-vindas
+// ESTE BLOCO CRIA A FUNÇÃO PARA FECHAR A JANELA SEJA BEM-VINDO
+
+// A linha abaixo fecha o popup de boas-vindas
+function fecharSejaBemVindo() {
+    // A linha abaixo obtém o popup de boas-vindas
+    const popupBoasVindas = document.getElementById('popup-seja-bem-vindo');
+    // A linha abaixo remove a classe que mostra o popup
     if (popupBoasVindas) {
-        popupBoasVindas.classList.remove('ativo');                                          // Remove a classe que mostra o popup
+        popupBoasVindas.classList.remove('ativo');
     } else {
-        console.warn("Popup de boas-vindas 'popup-seja-bem-vindo' não encontrado.");        // Aviso se não encontrou o popup
-    }
+        // A linha abaixo exibe um aviso se nao encontrar o popup de boas-vindas
+        console.warn("Popup de boas-vindas 'popup-seja-bem-vindo' não encontrado.");
+        }
 }
 
-// Este bloco cria a função para salva uma nova versão da Bíblia
+// ESTE BLOCO CRIA A FUNÇÃO PARA SALVA UMA NOVA VERSÃO DA BÍBLIA
 function salvarVersao() {
-    const entradaTitulo = document.getElementById('novo-titulo-biblia');                    // Campo de título
-    const tituloVersao = entradaTitulo ? entradaTitulo.value : null;                         // Nome da versão
-    const imagemVersao = subirImagem;                                                            // Imagem da versão
+    // A linha abaixo cria o campo de título
+    const entradaTitulo = document.getElementById('novo-titulo-biblia');
+    // A linha abaixo cria o nome da versão
+    const tituloVersao = entradaTitulo ? entradaTitulo.value : null;
+    // A linha abaixo cria o nome da versão
+    const imagemVersao = subirImagem;
     if (!tituloVersao || tituloVersao.trim() === '') {
-        alert('Por favor, insira um título para a versão.');                                // Alerta se não preencheu o título
+        // A linha abaixo mostra um alerta se não selecionou imagem
+        alert('Por favor, insira um título para a versão.');
         return;
     }
     if (!imagemVersao) {
-        alert('Por favor, selecione uma imagem para a versão.');                            // Alerta se não selecionou imagem
+        // A linha abaixo mostra um alerta se não selecionou imagem
+        alert('Por favor, selecione uma imagem para a versão.');
         return;
     }
 
-    // Este bloco executa as ações finais
-    versoesBiblia.push({ tituloVersao: tituloVersao, img: imagemVersao });                       // Adiciona a nova versão ao array
-    exibirTodasVersoes();                                                                   // Atualiza a tela
-    fecharPopup();                                                                          // Fecha o popup
-    alert('Versão adicionada com sucesso! (Nota: será perdida ao recarregar a página)');    // Alerta de sucesso
+    // O BLOCO ABAIXO EXECUTA AS AÇÕES FINAIS 
+
+    // A linha abaixo adiciona a nova versão ao array
+    versoesBiblia.push({ tituloVersao: tituloVersao, img: imagemVersao });
+    // A linha abaixo atualiza a tela
+    exibirTodasVersoes();
+    // A linha abaixo fecha o popup
+    fecharPopup();
+    // A linha abaixo mostra um alerta de sucesso
+    alert('Versão adicionada com sucesso! (Nota: será perdida ao recarregar a página)');
 }

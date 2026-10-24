@@ -1,0 +1,40 @@
+Atue como um especialista em front-end e documentação de código. 
+
+Por favor, refatore e documente o arquivo CSS abaixo, mantendo 100% da funcionalidade original, mas aplicando rigorosamente as seguintes diretrizes de organização e padronização:
+
+1. ORDEM DOS BLOCOS NO ARQUIVO (MACRO):
+Organize os seletores seguindo o fluxo natural da página (de cima para baixo):
+- 1º: Reset e configurações globais (* e body)
+- 2º: Elementos e camadas de fundo globais
+- 3º: Cabeçalho e navegação do topo (header, nav, links de título)
+- 4º: Conteúdo principal da página (seções, listas, cards, imagens, textos)
+- 5º: Rodapé (footer)
+- 6º: Componentes flutuantes e modais (pop-ups, janelas de diálogo, botões de fechar)
+- 7º: Responsividade (@media queries no final do arquivo)
+
+2. ORDEM DAS PROPRIEDADES DENTRO DE CADA BLOCO (PADRÃO OUTSIDE-IN):
+Dentro de cada seletor {}, ordene as linhas exatamente nesta sequência:
+- 1º: Posicionamento (position, top, right, bottom, left, z-index, transform)
+- 2º: Estrutura e Dimensões (display, flex, grid, width, height, margin, padding, gap, overflow)
+- 3º: Visual e Pintura (background, border, border-radius, box-shadow, backdrop-filter)
+- 4º: Tipografia (font-family, font-size, font-style, font-weight, color, text-align, text-decoration)
+- 5º: Interação e Animações (cursor, transition)
+
+3. PADRÃO DOS COMENTÁRIOS DE LINHA:
+- Todos os comentários devem começar obrigatoriamente com um VERBO DE AÇÃO NO PRESENTE (ex.: "Define...", "Remove...", "Aplica...", "Oculta...", "Centraliza...", "Alinha...", "Altera...").
+- Todas as frases devem terminar obrigatoriamente com ponto final (.).
+- A linguagem deve ser simples, didática e humana (ex.: para cursor:pointer use "Altera o cursor para mãozinha (clicável).").
+- Alinhe todos os comentários em uma coluna vertical limpa à direita para criar o efeito de tabela.
+
+4. CABEÇALHOS DE BLOCO:
+- Crie ou mantenha uma caixa decorativa de cabeçalho padronizada para cada seção principal no formato:
+/*=====================================================*/
+/*                NOME DA SEÇÃO                        */
+/*  Breve descrição em 1 ou 2 linhas do que ela faz.   */
+/*=====================================================*/
+
+5. INTEGRIDADE:
+- Não altere nenhum valor numérico, cor ou seletor que quebre o funcionamento atual.
+
+Aqui está o código para organizar:
+[COLE O SEU CÓDIGO CSS AQUI]
