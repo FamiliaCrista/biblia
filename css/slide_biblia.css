@@ -39,7 +39,7 @@ body.loaded {
 /*   Estrutura flexível que organiza o título e o       */
 /*              conteúdo do versículo                   */
 /*======================================================*/
-#versiculo-conteiner {
+#versiculo-container {
     display: flex;                                        /* Ativa o FLEXBOX para alinhar os itens corretamente no layout do CONTÊINER DO VERSÍCULO. */
     flex-direction: column;                               /* Define a orientação em coluna para empilhar verticalmente os elementos.                  */
     justify-content: center;                              /* Define o alinhamento vertical centralizado para os elementos no CONTÊINER DO VERSÍCULO.  */
@@ -138,7 +138,7 @@ body.loaded {
 /*      Agrupa hebraico, transliteração e tradução      */
 /*             em layout de coluna vertical             */
 /*======================================================*/
-.word-detail-item {
+.detalhe-palavra {
     display: flex;                                         /* Ativa o FLEXBOX para alinhar os itens corretamente no layout dos ITENS DA PALAVRA.     */
     flex-direction: column;                                /* Define a orientação em coluna para empilhar verticalmente os elementos.                  */
     align-items: center;                                   /* Define o alinhamento vertical centralizado para os elementos nos ITENS DA PALAVRA.      */
@@ -154,7 +154,7 @@ body.loaded {
 /*          Destaque visual do texto original           */
 /*          em cor dourada e fonte específica           */
 /*======================================================*/
-.word-detail-item .hebrew {
+.detalhe-palavra .hebrew {
     font-size: clamp(2rem, 3vw, 4rem);                     /* Define o tamanho da fonte de forma responsiva para o TEXTO HEBRAICO.                   */
     font-weight: bold;                                     /* Define o peso da fonte em NEGRITO para o TEXTO HEBRAICO.                              */
     color: #ffd700;                                      /* Define a cor do texto em dourado para o TEXTO HEBRAICO.                               */
@@ -168,7 +168,7 @@ body.loaded {
 /*          Representação fonética do hebraico          */
 /*             em cinza claro e maiúsculas              */
 /*======================================================*/
-.word-detail-item .transliteration {
+.detalhe-palavra .transliteration {
     font-size: clamp(0.9rem, 1.5vw, 1.5rem);               /* Define o tamanho da fonte de forma responsiva para o TEXTO TRANSLITERADO.             */
     font-weight: normal;                                   /* Define o peso da fonte como normal para o TEXTO TRANSLITERADO.                       */
     color: #cccccc;                                      /* Define a cor do texto em cinza claro para o TEXTO TRANSLITERADO.                     */
@@ -183,7 +183,7 @@ body.loaded {
 /*         Significado da palavra em português          */
 /*                 em branco e itálico                  */
 /*======================================================*/
-.word-detail-item .translation {
+.detalhe-palavra .translation {
     font-size: clamp(0.9rem, 1.5vw, 1.5rem);               /* Define o tamanho da fonte de forma responsiva para a TRADUÇÃO DA PALAVRA.             */
     font-weight: normal;                                   /* Define o peso da fonte como normal para a TRADUÇÃO DA PALAVRA.                       */
     color: #ffffff;                                      /* Define a cor do texto em branco para a TRADUÇÃO DA PALAVRA.                          */
@@ -198,7 +198,7 @@ body.loaded {
 /* Destaque temático do versículo (ex: “No Princípio”)  */
 /*       em cor verde claro e estilo diferenciado       */
 /*======================================================*/
-#versiculo-conteiner strong.section-title {
+#versiculo-container strong.titulo-secao strong.titulo-secao {
     color: #5df565;                                      /* Define a cor do texto em verde claro para o TÍTULO DA SEÇÃO INTERNA.                 */
     font-size: clamp(1.5rem, 2.8vw, 3rem);                 /* Define o tamanho da fonte de forma responsiva para o TÍTULO DA SEÇÃO INTERNA.        */
     margin-bottom: 1rem;                                   /* Define o espaçamento inferior para separar o TÍTULO DA SEÇÃO INTERNA do conteúdo.    */
@@ -216,7 +216,7 @@ body.loaded {
 /*                  MARCA D'ÁGUA                        */
 /*       Imagem de fundo semi-transparente              */
 /*======================================================*/
-#marcadagua {
+#marca-dagua-slide-biblia {
     position: fixed;                                       /* Define o posicionamento fixo para manter a MARCA D'ÁGUA estática durante a rolagem da página.     */
     top: 0;                                                /* Define a distância do topo como zero para que a MARCA D'ÁGUA comece no limite superior.           */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar a MARCA D'ÁGUA ao limite lateral.           */
@@ -237,7 +237,7 @@ body.loaded {
 /*     Barra fixa inferior com controles de voltar      */
 /*                 e próximo versículo                  */
 /*======================================================*/
-#botao-conteiner {
+#botao-container {
     width: 100%;                                           /* Define a largura total para garantir que o CONTÊINER DOS BOTÕES ocupe toda a extensão.  */
     background-color: rgba(0, 0, 0, 0.6);                /* Define a cor de fundo preta translúcida para o CONTÊINER DOS BOTÕES.                    */
     display: flex;                                         /* Ativa o FLEXBOX para alinhar os itens corretamente no layout dos BOTÕES.                */

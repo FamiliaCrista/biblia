@@ -93,7 +93,7 @@ window.getLivroDisplayName = function(livroKey) {
     return livroKey ? livroKey.toUpperCase() : "LIVRO DESCONHECIDO";              // Se não encontrar, retorna a chave em maiúsculas ou uma mensagem de erro.
 };
 
-// Este bloco cria a função que retorna um conteiner com botões para todos os capítulos de um livro.
+// Este bloco cria a função que retorna um container com botões para todos os capítulos de um livro.
 function createCapitulosButtons(livro) {
     if (!livros[livro]) {                                                                      // Validação para garantir que o livro solicitado existe na nossa estrutura de dados.
         console.error(`[Navegação createCapitulosButtons] Livro inválido: ${livro}`);          // Loga um erro se o livro não for encontrado.
@@ -102,8 +102,8 @@ function createCapitulosButtons(livro) {
         return div;                                                                            // Retorna o div vazio para não quebrar a interface.
     }
     const capitulos = livros[livro].capitulos;                                                 // Obtém o número total de capítulos do livro a partir da configuração.
-    const capitulosConteiner = document.createElement('div');                                  // Cria o elemento <div> que servirá como conteiner para os botões.
-    capitulosConteiner.classList.add('capitulos', 'book-content');                             // Adiciona classes CSS para estilização.
+    const capitulosContainer = document.createElement('div');                                  // Cria o elemento <div> que servirá como container para os botões.
+    capitulosContainer.classList.add('capitulos', 'book-content');                             // Adiciona classes CSS para estilização.
     for (let i = 1; i <= capitulos; i++) {                                                     // Faz um loop de 1 até o número total de capítulos.
         const button = document.createElement('button');                                       // Cria um novo elemento <button> para cada capítulo.
         button.textContent = `${i}`;                                                           // Define o texto do botão como o número do capítulo.
@@ -123,19 +123,19 @@ function createCapitulosButtons(livro) {
                 window.toggleVersiculos(livroClicado, capituloClicado);                        // chama a função para mostrar/esconder a lista de versículos.
             }
         });
-        capitulosConteiner.appendChild(button);                                                // Adiciona o botão recém-criado ao conteiner de capítulos.
+        capitulosContainer.appendChild(button);                                                // Adiciona o botão recém-criado ao container de capítulos.
     }
-    return capitulosConteiner;                                                                 // Retorna o conteiner populado com todos os botões de capítulo.
+    return capitulosContainer;                                                                 // Retorna o container populado com todos os botões de capítulo.
 }
 
-// Este bloco cria a função que retorna um conteiner com botões para todos os versículos de um capítulo.
+// Este bloco cria a função que retorna um container com botões para todos os versículos de um capítulo.
 function createVersiculosButtons(livro, capitulo) {
-    const versiculosConteiner = document.createElement('div');                                                         // Cria o <div> que conterá os botões de versículo.
-    versiculosConteiner.classList.add('versiculos', 'book-content');                                                   // Adiciona classes CSS para estilização.
+    const versiculosContainer = document.createElement('div');                                                         // Cria o <div> que conterá os botões de versículo.
+    versiculosContainer.classList.add('versiculos', 'book-content');                                                   // Adiciona classes CSS para estilização.
     // Esta função depende de uma função específica da versão da Bíblia (ex: nvt.js) para saber quantos versículos existem.
     if (typeof window.getSpecificVerseCount !== 'function') {
         console.error("[Navegação createVersiculosButtons] Erro: Função 'getSpecificVerseCount' não definida.");       // Loga um erro se a dependência não for encontrada.
-        return versiculosConteiner;                                                                                    // Retorna o conteiner vazio para evitar quebrar a aplicação.
+        return versiculosContainer;                                                                                    // Retorna o container vazio para evitar quebrar a aplicação.
     }
     const numVersiculos = window.getSpecificVerseCount(livro, capitulo);                                               // Obtém a contagem de versículos chamando a função da versão específica.
     if (numVersiculos === 0) {                                                                                         // Lida com o caso raro de um capítulo não ter versículos nos dados.
@@ -143,8 +143,8 @@ function createVersiculosButtons(livro, capitulo) {
         const p = document.createElement('p');                                                                         // Cria um parágrafo para informar o usuário.
         p.textContent = "Nenhum versículo encontrado para este capítulo.";                                             // Define o texto da mensagem.
         p.style.textAlign = "center";                                                                                  // Centraliza o texto.
-        versiculosConteiner.appendChild(p);                                                                            // Adiciona a mensagem ao conteiner.
-        return versiculosConteiner;                                                                                    // Retorna o conteiner com a mensagem.
+        versiculosContainer.appendChild(p);                                                                            // Adiciona a mensagem ao container.
+        return versiculosContainer;                                                                                    // Retorna o container com a mensagem.
     }
     for (let i = 1; i <= numVersiculos; i++) {                                                                         // Faz um loop de 1 até o número total de versículos.
         const button = document.createElement('button');                                                               // Cria um novo elemento <button> para cada versículo.
@@ -154,9 +154,9 @@ function createVersiculosButtons(livro, capitulo) {
         button.addEventListener('click', () => {                                                                       // Adiciona um ouvinte de evento de clique.
             toggleVersiculoText(livro, capitulo, i, button);                                                           // Chama a função para exibir/ocultar o texto do versículo correspondente.
         });
-        versiculosConteiner.appendChild(button);                                                                       // Adiciona o botão ao conteiner de versículos.
+        versiculosContainer.appendChild(button);                                                                       // Adiciona o botão ao container de versículos.
     }
-    return versiculosConteiner;                                                                                        // Retorna o conteiner populado com todos os botões de versículo.
+    return versiculosContainer;                                                                                        // Retorna o container populado com todos os botões de versículo.
 }
 
 // Este bloco cria a função que alterna (mostra/esconde) a exibição da lista de versículos de um capítulo.
@@ -164,17 +164,17 @@ function toggleVersiculos(livro, capitulo) {
     const content = document.querySelector('.conteudo');                                                               // Seleciona a área de conteúdo principal da página.
     if (!content) { console.error("[Navegação toggleVersiculos] Elemento .conteudo não encontrado."); return; }        // Se não encontrar, loga erro e para.
     if (!window.titulo) window.titulo = content.querySelector('h2');                                                   // Garante que a referência global ao título H2 esteja definida.
-    const capitulosConteinerDiv = content.querySelector('.capitulos-conteiner.book-content');                          // Tenta encontrar o conteiner padrão dos botões de capítulo.
+    const capitulosContainerDiv = content.querySelector('.capitulos-container.book-content');                          // Tenta encontrar o container padrão dos botões de capítulo.
     let allChapterButtons = [];                                                                                        // Inicializa um array para guardar todos os botões de capítulo.
-    if (capitulosConteinerDiv) {                                                                                       // Se o conteiner padrão for encontrado,
-        const capitulosButtonsInnerDiv = capitulosConteinerDiv.querySelector('.capitulos.book-content');               // procura pelo div interno com os botões.
+    if (capitulosContainerDiv) {                                                                                       // Se o container padrão for encontrado,
+        const capitulosButtonsInnerDiv = capitulosContainerDiv.querySelector('.capitulos.book-content');               // procura pelo div interno com os botões.
         if (capitulosButtonsInnerDiv) {                                                                                // Se o div interno for encontrado,
              allChapterButtons = Array.from(capitulosButtonsInnerDiv.querySelectorAll('button.botao-capitulo'));       // preenche o array com os botões.
         }
     }
     if (allChapterButtons.length === 0) {                                                                              // Se não encontrou botões da maneira padrão, tenta um fallback.
         // Este fallback lida com casos onde os botões foram criados por outro script (versoes.js) e podem ter uma estrutura diferente.
-        const looseCapitulosDiv = content.querySelector('div.capitulos:not(.book-content)');                           // Tenta pegar um conteiner de capítulos "solto".
+        const looseCapitulosDiv = content.querySelector('div.capitulos:not(.book-content)');                           // Tenta pegar um container de capítulos "solto".
         if (looseCapitulosDiv) {                                                                                       // Se encontrar,
             allChapterButtons = Array.from(looseCapitulosDiv.querySelectorAll('button'));                              // preenche o array com os botões de lá.
             if (allChapterButtons.length > 0) {                                                                        // Se encontrou botões no fallback,
@@ -187,14 +187,14 @@ function toggleVersiculos(livro, capitulo) {
     }
     const existingConteudoVersiculos = content.querySelector('.conteudo-versiculos');                        // Verifica se uma lista de versículos já está visível na página.
     const existingTextoVersiculo = content.querySelector('.texto-versiculo');                                // Verifica se um texto de versículo específico está visível.
-    allChapterButtons.forEach(btn => btn.classList.remove('active'));                                        // Remove a classe 'active' de todos os botões de capítulo para limpar o estado visual.
+    allChapterButtons.forEach(botao => botao.classList.remove('active'));                                        // Remove a classe 'active' de todos os botões de capítulo para limpar o estado visual.
     
     // Verifica se a ação é de "recolher", o que acontece se o usuário clicar no mesmo capítulo que já está aberto.
     const isCollapsing = window.activeLivro === livro && window.activeCapitulo === capitulo && existingConteudoVersiculos;
 
     if (isCollapsing) {                                                                        // Se for para recolher...
         console.log(`[Navegação toggleVersiculos] Recolhendo: ${livro} ${capitulo}`);          // Loga a ação.
-        if (existingConteudoVersiculos) existingConteudoVersiculos.remove();                   // Remove o conteiner da lista de versículos do DOM.
+        if (existingConteudoVersiculos) existingConteudoVersiculos.remove();                   // Remove o container da lista de versículos do DOM.
         if (existingTextoVersiculo) existingTextoVersiculo.remove();                           // Remove também o texto do versículo, se houver.
         if (window.titulo) window.titulo.textContent = window.getLivroDisplayName(livro);      // Reseta o título principal para mostrar apenas o nome do livro.
         window.activeCapitulo = null;                                                          // Reseta o estado global do capítulo ativo.
@@ -205,11 +205,11 @@ function toggleVersiculos(livro, capitulo) {
     // Se a ação for "expandir" um novo capítulo.
     console.log(`[Navegação toggleVersiculos] Exibindo: ${livro} ${capitulo}`);                // Loga a ação.
     // Encontra o botão do capítulo que foi clicado para poder marcá-lo como ativo.
-    const currentChapterButton = allChapterButtons.find(btn => btn.dataset.livro === livro && parseInt(btn.dataset.capitulo) === capitulo);
+    const currentChapterButton = allChapterButtons.find(botao => botao.dataset.livro === livro && parseInt(botao.dataset.capitulo) === capitulo);
     if (currentChapterButton) { // Se o botão for encontrado,
         currentChapterButton.classList.add('active');                                          // adiciona a classe 'active' para destacá-lo visualmente.
     } else {                                                                                   // Se não encontrou pelo dataset, tenta um fallback.
-        const fallbackButton = allChapterButtons.find(btn => parseInt(btn.textContent) === capitulo && parseInt(btn.dataset.capitulo) === capitulo);
+        const fallbackButton = allChapterButtons.find(botao => parseInt(botao.textContent) === capitulo && parseInt(botao.dataset.capitulo) === capitulo);
         if(fallbackButton) fallbackButton.classList.add('active');                             // Se o fallback funcionar, ativa o botão.
         else console.warn(`[Navegação toggleVersiculos] Botão para ${livro} ${capitulo} não encontrado para marcar.`); // Se não, loga um aviso.
     }
@@ -218,21 +218,21 @@ function toggleVersiculos(livro, capitulo) {
     if (existingConteudoVersiculos) existingConteudoVersiculos.remove();                                               // Remove qualquer lista de versículos anterior para evitar duplicação.
     if (existingTextoVersiculo) existingTextoVersiculo.remove();                                                       // Remove qualquer texto de versículo anterior.
     
-    const conteudoVersiculos = document.createElement('div');                                                          // Cria o novo conteiner para a lista de versículos.
+    const conteudoVersiculos = document.createElement('div');                                                          // Cria o novo container para a lista de versículos.
     conteudoVersiculos.classList.add('conteudo-versiculos', 'book-content');                                           // Adiciona classes CSS.
-    conteudoVersiculos.appendChild(createVersiculosButtons(livro, capitulo));                                          // Popula o conteiner com os botões de versículo.
+    conteudoVersiculos.appendChild(createVersiculosButtons(livro, capitulo));                                          // Popula o container com os botões de versículo.
     
-    // Insere o conteiner de versículos no local correto do DOM.
-    if (capitulosConteinerDiv) {                                                                                       // Se a estrutura padrão existe,
-        capitulosConteinerDiv.parentNode.insertBefore(conteudoVersiculos, capitulosConteinerDiv.nextSibling);          // insere a lista de versículos logo após a lista de capítulos.
+    // Insere o container de versículos no local correto do DOM.
+    if (capitulosContainerDiv) {                                                                                       // Se a estrutura padrão existe,
+        capitulosContainerDiv.parentNode.insertBefore(conteudoVersiculos, capitulosContainerDiv.nextSibling);          // insere a lista de versículos logo após a lista de capítulos.
     } else {                                                                                                           // Se a estrutura padrão não for encontrada, usa um fallback.
-        const refElement = content.querySelector('div.capitulos') || window.titulo;                                    // Tenta usar um conteiner de capítulos solto ou o título como referência.
+        const refElement = content.querySelector('div.capitulos') || window.titulo;                                    // Tenta usar um container de capítulos solto ou o título como referência.
         if (refElement && refElement.parentNode === content) {                                                         // Se a referência for válida,
             content.insertBefore(conteudoVersiculos, refElement.nextSibling);                                          // insere após ela.
         } else {                                                                                                       // Como último recurso,
-            content.appendChild(conteudoVersiculos);                                                                   // apenas adiciona no final do conteiner de conteúdo.
+            content.appendChild(conteudoVersiculos);                                                                   // apenas adiciona no final do container de conteúdo.
         }
-        console.warn("[Navegação toggleVersiculos] .capitulos-conteiner não encontrado. Usando fallback para inserir versículos."); // Loga o uso do fallback.
+        console.warn("[Navegação toggleVersiculos] .capitulos-container não encontrado. Usando fallback para inserir versículos."); // Loga o uso do fallback.
     }
     
     window.activeLivro = livro;                                                                // Atualiza o estado global do livro ativo.
@@ -243,8 +243,8 @@ function toggleVersiculos(livro, capitulo) {
 // Este bloc cria a função que alterna (mostra/esconde) a exibição do texto de um versículo específico.
 function toggleVersiculoText(livro, capitulo, versiculo, button) {
     console.log(`[Navegação toggleVersiculoText] Para: ${livro} ${capitulo}:${versiculo}`);                  // Loga a ação para depuração.
-    const content = document.querySelector('.conteudo'); // Seleciona o conteiner de conteúdo principal.
-    if (!content) { console.error("[Navegação toggleVersiculoText] .conteudo não encontrado."); return; }    // Validação do conteiner.
+    const content = document.querySelector('.conteudo'); // Seleciona o container de conteúdo principal.
+    if (!content) { console.error("[Navegação toggleVersiculoText] .conteudo não encontrado."); return; }    // Validação do container.
     // Esta função depende de um script de versão (ex: nvt.js) para carregar o texto do versículo.
     if (typeof window.loadSpecificVerse !== 'function') {
          console.error("[Navegação toggleVersiculoText] Erro: 'loadSpecificVerse' não definida.");           // Loga erro se a dependência não existir.
@@ -270,8 +270,8 @@ function toggleVersiculoText(livro, capitulo, versiculo, button) {
 // Carrega um livro da Bíblia, limpando a visualização anterior e preparando a nova interface.
 function loadBook(livro) {
     console.log(`[Navegação loadBook] Tentando carregar: ${livro}, activeLivro atual: ${window.activeLivro}`); // Log de depuração.
-    const content = document.querySelector('.conteudo');                                                       // Seleciona o conteiner principal.
-    if (!content) { console.error("[Navegação loadBook] Elemento .conteudo não encontrado."); return; }        // Validação do conteiner.
+    const content = document.querySelector('.conteudo');                                                       // Seleciona o container principal.
+    if (!content) { console.error("[Navegação loadBook] Elemento .conteudo não encontrado."); return; }        // Validação do container.
     
     // Este bloco encontra a chave canônica do livro (ex: "1samuel") a partir do input (ex: "1samuel", "1SAMUEL").
     const livroKey = Object.keys(livros).find(key => key.toLowerCase() === livro.toLowerCase());
@@ -284,12 +284,12 @@ function loadBook(livro) {
         if (!window.titulo) { // Se não encontrar,
             console.warn("[Navegação loadBook] H2 não encontrado, criando um novo.");                          // avisa e cria um novo.
             window.titulo = document.createElement('h2');                                                      // Cria o elemento.
-            content.insertBefore(window.titulo, content.firstChild);                                           // Insere o novo H2 no início do conteiner de conteúdo.
+            content.insertBefore(window.titulo, content.firstChild);                                           // Insere o novo H2 no início do container de conteúdo.
         }
     }
     
     // Define um seletor CSS para encontrar todos os elementos de conteúdo dinâmico da Bíblia que precisam ser limpos.
-    const selectorString = '.capitulos-conteiner, div.capitulos, .conteudo-versiculos, .texto-versiculo, .modo-leitura-conteudo';
+    const selectorString = '.capitulos-container, div.capitulos, .conteudo-versiculos, .texto-versiculo, .modo-leitura-conteudo';
     
     // Este bloco define se o usuário clicar no link do livro que já está aberto, a ação é recolher tudo.
     if (window.activeLivro === livroKey) { 
@@ -327,14 +327,14 @@ function loadBook(livro) {
         window.titulo.textContent = window.getLivroDisplayName(livroKey);                      // define seu texto para o nome do novo livro.
     }
     
-    // Este bloco cria e insere o conteiner com os botões de capítulo para o novo livro.
-    const capitulosConteiner = document.createElement('div');
-    capitulosConteiner.classList.add('capitulos-conteiner', 'book-content');
-    capitulosConteiner.appendChild(createCapitulosButtons(livroKey));
-    if (window.titulo && window.titulo.parentNode === content) {                               // Idealmente, insere o conteiner logo após o título H2.
-        content.insertBefore(capitulosConteiner, window.titulo.nextSibling);
+    // Este bloco cria e insere o container com os botões de capítulo para o novo livro.
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos-container', 'book-content');
+    capitulosContainer.appendChild(createCapitulosButtons(livroKey));
+    if (window.titulo && window.titulo.parentNode === content) {                               // Idealmente, insere o container logo após o título H2.
+        content.insertBefore(capitulosContainer, window.titulo.nextSibling);
     } else {                                                                                   // Se a estrutura ideal não for encontrada, usa um fallback.
-        content.appendChild(capitulosConteiner);                                               // Adiciona o conteiner no final da área de conteúdo.
+        content.appendChild(capitulosContainer);                                               // Adiciona o container no final da área de conteúdo.
         console.warn("[Navegação loadBook] Fallback: window.titulo não encontrado ou não é filho de .conteudo.");
     }
     
@@ -362,7 +362,7 @@ function loadBook(livro) {
 // Este bloco adiciona um ouvinte de evento que garante que o script rode apenas após o DOM estar completamente carregado e pronto.
 document.addEventListener('DOMContentLoaded', () => {
     const content = document.querySelector('.conteudo');                                                     // Tenta encontrar o continer de conteúdo principal.
-    if (content) {                                                                                           // Se o conteiner for encontrado,
+    if (content) {                                                                                           // Se o container for encontrado,
         window.titulo = content.querySelector('h2');                                                         // tenta encontrar e armazenar a referência ao H2 principal.
         if (!window.titulo) {                                                                                // Se não houver um H2 no HTML,
             console.warn("[Navegação DOMContentLoaded] H2 não encontrado. Criando.");                        // avisa e cria um dinamicamente.
@@ -377,7 +377,7 @@ document.addEventListener('DOMContentLoaded', () => {
                  content.appendChild(window.titulo);                                                         // apenas o adiciona no final.
             }
         }
-    } else {                                                                                                 // Se o conteiner .conteudo não for encontrado,
+    } else {                                                                                                 // Se o container .conteudo não for encontrado,
         console.error("[Navegação DOMContentLoaded] .conteudo não encontrado.");                             // loga um erro crítico.
     }
     

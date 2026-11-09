@@ -257,6 +257,7 @@ footer {
 /*  Cria uma película escura translúcida sobre toda a   */
 /*  página para dar destaque ao pop-up em primeiro plano.*/
 /*=====================================================*/
+.visivel:after,
 .visible:after {
     content: "";                                           /* Permite a renderização do pseudo-elemento.         */
     position: fixed;                                       /* Fixa a cobertura sobre toda a tela visível.        */
@@ -288,8 +289,9 @@ footer {
 /*=====================================================*/
 /*                MOSTRAR JANELA POP-UP                */
 /*  Torna o formulário de cadastro visível quando o    */
-/*  elemento ancestral recebe a classe "visible".      */
+/*  elemento ancestral recebe a classe "visivel".      */
 /*=====================================================*/
+.visivel .popup-nova-versao,
 .visible .popup-nova-versao {
     display: flex;                                         /* Exibe o formulário com layout flexível.            */
 }

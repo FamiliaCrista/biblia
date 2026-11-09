@@ -19,10 +19,10 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 // Este bloco carrega e exibe um versículo específico da Bíblia ARC.
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[ARC HTML] Carregando: ${livro} ${capitulo}:${versiculo}`);                                 // Loga o carregamento do versículo
-    const content = document.querySelector('.conteudo');                                                     // Seleciona o conteiner principal
-    if (!content) {                                                                                          // Verifica se o conteiner principal existe
-        console.error("[ARC HTML] Elemento .conteudo não encontrado.");                                      // Loga erro se não encontrar o conteiner
-        return;                                                                                              // Interrompe a função se o conteiner não existir
+    const content = document.querySelector('.conteudo');                                                     // Seleciona o container principal
+    if (!content) {                                                                                          // Verifica se o container principal existe
+        console.error("[ARC HTML] Elemento .conteudo não encontrado.");                                      // Loga erro se não encontrar o container
+        return;                                                                                              // Interrompe a função se o container não existir
     }
 
     const existingVersiculoDiv = content.querySelector('.texto-versiculo');                                  // Busca o versículo anterior exibido
@@ -86,7 +86,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.appendChild(textoP);                                                             // Adiciona o <p> à div do versículo
     }
 
-    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao conteiner
+    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao container
 
     if (window.titulo) {                                                                                     // Verifica se o elemento do título principal existe
         let nomeLivroDisplay = livro.toUpperCase();                                                          // Define nome do livro em maiúsculas como fallback

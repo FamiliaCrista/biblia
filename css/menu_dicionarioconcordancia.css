@@ -62,7 +62,7 @@ header {
 /*              CABEÇALHO SUPERIOR — TÍTULO             */
 /*         Estilo do título principal da página         */
 /*======================================================*/
-.titulo-conteiner h1 {
+.titulo-container h1 h1 {
     color: #d4af37;                                      /* Define a cor do texto em dourado para o TÍTULO PRINCIPAL.                       */
     font-size: 2.5rem;                                     /* Define o tamanho da fonte para o TÍTULO PRINCIPAL.                              */
     font-weight: 700;                                      /* Define o peso da fonte em NEGRITO FORTE para o TÍTULO PRINCIPAL.                */
@@ -157,7 +157,7 @@ nav {
 /*                  CONTAINER PRINCIPAL                 */
 /*   Área flexível que contém menu lateral e conteúdo   */
 /*======================================================*/
-.conteiner {
+.container {
     display: flex;                                         /* Ativa o FLEXBOX para alinhar os itens corretamente no CONTAINER PRINCIPAL.    */
     padding-top: 160px;                                    /* Define o preenchimento superior para compensar os cabeçalhos fixos.           */
     flex-grow: 1;                                          /* Permite que o CONTAINER PRINCIPAL se expanda para ocupar o espaço disponível. */
@@ -206,7 +206,7 @@ nav {
 /*         MENU ALFABÉTICO — CONTAINER DAS LETRAS       */
 /*       Layout em coluna para os botões de letra       */
 /*======================================================*/
-.alfabeto-conteiner {
+.alfabeto-container {
     display: flex;                                         /* Ativa o FLEXBOX para alinhar os itens corretamente no CONTAINER DAS LETRAS.   */
     flex-direction: column;                                /* Define a orientação em coluna para empilhar verticalmente os botões de letra. */
     gap: 8px;                                              /* Define o espaçamento entre os botões de letra no CONTAINER DAS LETRAS.        */
@@ -216,7 +216,7 @@ nav {
 /*           MENU ALFABÉTICO — BOTÕES DE LETRA          */
 /*        Estilo dos botões individuais de letra        */
 /*======================================================*/
-.letra-btn {
+.letra-botao {
     background: rgba(58, 58, 58, 0.3);                   /* Define a cor de fundo semitransparente para os BOTÕES DE LETRA.                      */
     color: #ffffff;                                      /* Define a cor do texto em branco para os BOTÕES DE LETRA.                             */
     border: 2px solid transparent;                         /* Define a borda transparente para os BOTÕES DE LETRA.                                 */
@@ -238,7 +238,7 @@ nav {
 /*        MENU ALFABÉTICO — BOTÕES DE LETRA HOVER       */
 /*          Efeito visual ao passar o mouse             */
 /*======================================================*/
-.letra-btn:hover {
+.letra-botao:hover {
     background: rgba(74, 74, 74, 0.7);                   /* Define a cor de fundo semitransparente mais escura no efeito de HOVER.          */
     border-color: #d4af37;                               /* Define a cor da borda dourada no efeito de HOVER.                               */
     transform: translateX(5px);                            /* Define o deslocamento horizontal para a direita no efeito de HOVER.             */
@@ -249,7 +249,7 @@ nav {
 /*        MENU ALFABÉTICO — BOTÕES DE LETRA ATIVO       */
 /*          Estilo para o botão de letra ativo          */
 /*======================================================*/
-.letra-btn.active {
+.letra-botao.active {
     background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%); /* Define o fundo com gradiente dourado para o BOTÃO DE LETRA ATIVO.     */
     color: #1a1a1a;                                      /* Define a cor do texto em preto escuro para o BOTÃO DE LETRA ATIVO.                */
     border-color: #d4af37;                               /* Define a cor da borda dourada para o BOTÃO DE LETRA ATIVO.                        */
@@ -343,7 +343,8 @@ body.modulo-sobre #conteudo-principal {
 /*              CONTAINER DE CARREGAMENTO               */
 /*   Indicador visual durante operações assíncronas     */
 /*======================================================*/
-.loading-conteiner {
+.loading-container,
+.loading-container {
     text-align: center;                                    /* Define o alinhamento de texto centralizado para o CONTAINER DE CARREGAMENTO.                         */
     padding: 20px;                                         /* Define o preenchimento interno para criar um respiro no CONTAINER DE CARREGAMENTO.                   */
     position: absolute;                                    /* Define o posicionamento absoluto para o CONTAINER DE CARREGAMENTO.                                   */
@@ -357,7 +358,8 @@ body.modulo-sobre #conteudo-principal {
     justify-content: center;                               /* Define o alinhamento horizontal centralizado para os elementos no CONTAINER DE CARREGAMENTO.         */
 }
 
-.loading-conteiner p {
+.loading-container p,
+.loading-container p p {
     color: #d4af37;                                      /* Define a cor do texto em dourado para o TEXTO DE CARREGAMENTO. */
     font-size: 1.1em;                                      /* Define o tamanho da fonte para o TEXTO DE CARREGAMENTO.        */
     margin-top: 15px;                                      /* Define o espaçamento superior para separar o texto do spinner. */
@@ -367,9 +369,12 @@ body.modulo-sobre #conteudo-principal {
 /*                SPINNER DE CARREGAMENTO               */
 /*    Animação circular para indicar processamento      */
 /*======================================================*/
+.carregamento-spinner,
 .loading-spinner {
     width: 40px;                                           /* Define a largura fixa para o SPINNER DE CARREGAMENTO.                                */
     height: 40px;                                          /* Define a altura fixa para o SPINNER DE CARREGAMENTO.                                 */
+    border: 4px solid #333333;                           /* Define o contorno base do spinner. */
+    border-top: 4px solid #d4af37;                       /* Define a borda animada do spinner. */
     border-radius: 50%;                                    /* Define os cantos arredondados para criar forma circular no SPINNER DE CARREGAMENTO.  */
     animation: spin 1s linear infinite;                    /* Define a animação de rotação contínua para o SPINNER DE CARREGAMENTO.                */
     margin: 0 auto 20px;                                   /* Define as margens para centralizar o SPINNER DE CARREGAMENTO.                        */
@@ -409,20 +414,41 @@ footer p {
 /*                    MARCA D'ÁGUA                      */
 /*         Imagem de fundo semi-transparente            */
 /*======================================================*/
-.marca-dagua-imagem {
+.conteudo {
+    position: relative;                                       /* Permite posicionar a marca d'água dentro da seção. */
+}
+
+.marca-dagua-biblia,
+.marcadagua {
+    position: fixed;                                          /* Mantém a marca d'água fixa na tela. */
+    top: 0;                                                   /* Alinha ao topo. */
+    left: 0;                                                  /* Alinha à esquerda. */
+    width: 100%;                                              /* Ocupa toda a largura. */
+    height: 120%;                                             /* Cobre a área de visualização. */
+    z-index: 1;                                               /* Fica atrás do conteúdo principal. */
+    opacity: 0.25;                                            /* Mantém a marca d'água sutil. */
+    overflow: hidden;                                         /* Evita barras de rolagem. */
+    pointer-events: none;                                     /* Não bloqueia cliques. */
+}
+
+.marca-dagua-versoes,
+.marca-dagua-imagem,
+.marca-dagua-imagem-dicionario-concordancia {
     position: fixed;                                       /* Define o posicionamento fixo para manter a MARCA D'ÁGUA estática durante a rolagem da página.     */
     top: 0;                                                /* Define a distância do topo como zero para que a MARCA D'ÁGUA comece no limite superior.           */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar a MARCA D'ÁGUA ao limite lateral.           */
     width: 100%;                                           /* Define a largura total para garantir que a MARCA D'ÁGUA preencha a tela horizontalmente.          */
     height: 120%;                                          /* Define a altura expandida para garantir que a MARCA D'ÁGUA cubra toda a área de visualização.     */
-    z-index: 10;                                           /* Define a ordem de empilhamento em camada de fundo para a MARCA D'ÁGUA.                            */
+    z-index: 1;                                            /* Mantém a imagem atrás do conteúdo principal.                            */
     opacity: 0.3;                                          /* Define a opacidade para tornar a MARCA D'ÁGUA semi-transparente e sutil.                          */
     overflow: hidden;                                      /* Define o transbordamento como oculto para impedir que a MARCA D'ÁGUA exiba barras de rolagem.     */
     pointer-events: none;                                  /* Desativa a interação do mouse para que a MARCA D'ÁGUA não bloqueie cliques no conteúdo.           */
+    object-fit: cover;                                     /* Ajusta a imagem sem distorção. */
     background-size: cover;                                /* Define o tamanho do fundo para cobrir toda a área sem distorcer a MARCA D'ÁGUA.                   */
     background-repeat: no-repeat;                          /* Impede que a imagem de fundo da MARCA D'ÁGUA se repita na tela.                                   */
     background-position: center;                           /* Centraliza a imagem de fundo da MARCA D'ÁGUA na área de visualização.                             */
 }
+
 
 /*======================================================*/
 /*         BARRA DE NAVEGAÇÃO — AJUSTE DE MARGEM        */
@@ -463,26 +489,30 @@ footer p {
 /*              SEÇÃO "SOBRE" — CONTAINER               */
 /*   Estilos específicos para a página de informações   */
 /*======================================================*/
-.sobre-conteiner {
+.sobre-container,
+.sobre-container {
     background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%); /* Define o fundo com gradiente escuro para o CONTAINER DA SEÇÃO "SOBRE".   */
     border-radius: 12px;                                   /* Define os cantos arredondados para suavizar o design do CONTAINER DA SEÇÃO "SOBRE".  */
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);           /* Define uma sombra para criar profundidade no CONTAINER DA SEÇÃO "SOBRE".             */
 }
 
-.sobre-conteiner h2 {
+.sobre-container h2,
+.sobre-container h2 h2 {
     color: #d4af37;                                      /* Define a cor do texto em dourado para o TÍTULO PRINCIPAL DA SEÇÃO "SOBRE".      */
     font-size: 2rem;                                       /* Define o tamanho da fonte para o TÍTULO PRINCIPAL DA SEÇÃO "SOBRE".             */
     margin-bottom: 20px;                                   /* Define o espaçamento inferior para o TÍTULO PRINCIPAL DA SEÇÃO "SOBRE".         */
     margin-left: 60px;                                     /* Define o recuo à esquerda para o TÍTULO PRINCIPAL DA SEÇÃO "SOBRE".             */
 }
 
-.sobre-conteiner h3 {
+.sobre-container h3,
+.sobre-container h3 h3 {
     color: #d4af37;                                      /* Define a cor do texto em dourado para os SUBTÍTULOS DA SEÇÃO "SOBRE".*/
     font-size: 1.3rem;                                     /* Define o tamanho da fonte para os SUBTÍTULOS DA SEÇÃO "SOBRE".       */
     margin: 25px 0 15px 60px;                              /* Define as margens para os SUBTÍTULOS DA SEÇÃO "SOBRE".               */
 }
 
-.sobre-conteiner p {
+.sobre-container p,
+.sobre-container p p {
     color: #cccccc;                                      /* Define a cor do texto em cinza claro para os PARÁGRAFOS DA SEÇÃO "SOBRE".               */
     font-size: 1.1rem;                                     /* Define o tamanho da fonte para os PARÁGRAFOS DA SEÇÃO "SOBRE".                          */
     line-height: 1.8;                                      /* Define a altura da linha para melhorar a legibilidade nos PARÁGRAFOS DA SEÇÃO "SOBRE".  */
@@ -491,13 +521,15 @@ footer p {
     margin-left: 60px;                                     /* Define o recuo à esquerda para os PARÁGRAFOS DA SEÇÃO "SOBRE".                          */
 }
 
-.sobre-conteiner ul {
+.sobre-container ul,
+.sobre-container ul ul {
     color: #ffffff;                                      /* Define a cor do texto em branco para as LISTAS DA SEÇÃO "SOBRE".     */
     margin-left: 120px;                                    /* Define o recuo à esquerda para as LISTAS DA SEÇÃO "SOBRE".           */
     margin-bottom: 20px;                                   /* Define o espaçamento inferior para as LISTAS DA SEÇÃO "SOBRE".       */
 }
 
-.sobre-conteiner li {
+.sobre-container li,
+.sobre-container li li {
     margin-bottom: 10px;                                   /* Define o espaçamento inferior para os ITENS DA LISTA DA SEÇÃO "SOBRE".                     */
     line-height: 1.6;                                      /* Define a altura da linha para melhorar a legibilidade nos ITENS DA LISTA DA SEÇÃO "SOBRE". */
 }

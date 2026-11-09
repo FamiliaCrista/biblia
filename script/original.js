@@ -46,7 +46,7 @@ window.getSpecificVerseCount = function(livro, capitulo) {                      
                 14: 29, 15: 23, 16: 22, 17: 20, 18: 22, 19: 21, 20: 20, 21: 23, 22: 30, 23: 25, 24: 22, 25: 19,
                 26: 19, 27: 26, 28: 68, 29: 29, 30: 20, 31: 30, 32: 52, 33: 29, 34: 12 },
     
-    "jose": { 1: 18, 2: 24, 3: 17, 4: 24, 5: 15, 6: 27, 7: 26, 8: 35, 9: 27, 10: 43, 11: 23, 12: 24, 13: 33,
+    "josue": { 1: 18, 2: 24, 3: 17, 4: 24, 5: 15, 6: 27, 7: 26, 8: 35, 9: 27, 10: 43, 11: 23, 12: 24, 13: 33,
                 14: 15, 15: 63, 16: 10, 17: 18, 18: 28, 19: 51, 20: 9, 21: 45, 22: 34, 23: 16, 24: 33 },
     
     "juizes": { 1: 36, 2: 23, 3: 31, 4: 24, 5: 31, 6: 40, 7: 25, 8: 35, 9: 57, 10: 18, 11: 40, 12: 15, 13: 25,
@@ -213,7 +213,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {         
 
                 verseData.palavras.forEach(palavra => {                                                                  /* Varre cada palavra original  */
                     const wordDetailItemDiv = document.createElement('div');                                             /* Cria item de detalhamento    */
-                    wordDetailItemDiv.classList.add('word-detail-item');                                                 /* Estiliza item individual     */
+                    wordDetailItemDiv.classList.add('detalhe-palavra');                                                  /* Estiliza item individual     */
 
                     const originalLangDiv = document.createElement('div');                                               /* Div para o texto original    */
                     const transliteralDiv = document.createElement('div');                                               /* Div para a pronúncia         */
@@ -231,7 +231,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {         
                     });
 
                     if (isAntigoTestamento) {
-                        originalLangDiv.classList.add('hebraico-text');                                                  /* Estilo de fonte Hebraica     */
+                        originalLangDiv.classList.add('texto-hebraico');                                                  /* Estilo de fonte Hebraica     */
                         originalText = palavra.hebraico || '';                                                           /* Captura caracteres hebraicos */
                     } else {
                         originalLangDiv.classList.add('grego-text');                                                     /* Estilo de fonte Grega        */
@@ -240,9 +240,9 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {         
                     originalLangDiv.textContent = originalText;                                                          /* Insere texto original na div */
 
                     /* BLOCO: Insere a transliteração fonética e o significado gramatical da palavra na estrutura HTML */
-                    transliteralDiv.classList.add('transliteral-text');                                                  /* Estilo da transliteração     */
+                    transliteralDiv.classList.add('texto-transliteral');                                                  /* Estilo da transliteração     */
                     transliteralDiv.textContent = palavra.transliteral;                                                  /* Insere a pronúncia           */
-                    traducaoPalavraDiv.classList.add('traducao-palavra-text');                                           /* Estilo do significado        */
+                    traducaoPalavraDiv.classList.add('texto-traducao-palavra');                                           /* Estilo do significado        */
                     traducaoPalavraDiv.textContent = palavra.traducao_palavra;                                           /* Insere tradução literal      */
                     
                     /* BLOCO: Organiza a hierarquia dos elementos visuais dentro do item de detalhamento da palavra     */  

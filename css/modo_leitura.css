@@ -132,10 +132,17 @@
 }
 
 /*======================================================*/
+/*           CONTÊINER DE ERRO (MENSAGENS)              */
+/*======================================================*/
+.error-container {
+    color: red;
+}
+
+/*======================================================*/
 /*            CONTEINER INDIVIDUAL DO VERSÍCULO         */
 /*    Estrutura flexível para cada versículo bíblico    */
 /*======================================================*/
-.verse-conteiner {
+.verse-container {
     margin-bottom: 10px;                                   /* Define o espaçamento inferior para cada CONTEINER DE VERSÍCULO.                      */
     display: flex;                                         /* Ativa o FLEXBOX para alinhar os itens corretamente no CONTEINER DE VERSÍCULO.        */
     align-items: flex-start;                               /* Define o alinhamento vertical ao topo para os elementos no CONTEINER DE VERSÍCULO.   */
@@ -167,7 +174,7 @@
 /*            TÍTULO DA SEÇÃO DO VERSÍCULO              */
 /*   Cabeçalho temático para grupos de versículos       */
 /*======================================================*/
-.verse-section-title {
+.titulo-secao-versiculo {
     margin: 20px 0 10px;                                   /* Define as margens vertical e inferior para o TÍTULO DA SEÇÃO DO VERSÍCULO.      */
     padding-bottom: 5px;                                   /* Define o preenchimento interno inferior para o TÍTULO DA SEÇÃO DO VERSÍCULO.    */
     font-size: 1.3em;                                      /* Define o tamanho da fonte para o TÍTULO DA SEÇÃO DO VERSÍCULO.                  */
@@ -306,5 +313,111 @@
     body[modo-leitura="true"] .texto-versiculo {
         margin-left: 0;                                    /* Remove qualquer margem esquerda no MODO LEITURA.                              */
         max-width: 100%;                                   /* Define o limite máximo de largura sem restrições para o MODO LEITURA.         */
+    }
+}
+
+/*======================================================*/
+/*       TEXTO HEBRAICO EM MODO DE LEITURA CONTÍNUA     */
+/*======================================================*/
+.chapter-verses.hebrew-chapter {
+    direction: ltr;
+    text-align: left;
+}
+
+.hebrew-verse {
+    display: grid;
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    align-items: start;
+    column-gap: 0.5rem;
+    margin-bottom: 0.65rem;
+    direction: ltr;
+}
+
+.hebrew-verse .verse-number {
+    margin: 0;
+    padding-top: 0.45rem;
+    min-width: 0;
+    text-align: left;
+    direction: ltr;
+    font-size: clamp(1rem, 1.2vw, 1.15rem);
+}
+
+.hebrew-words {
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.35rem 1.25rem;
+    direction: rtl;
+    unicode-bidi: isolate;
+}
+
+.hebrew-word {
+    display: inline-flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    text-align: center;
+    unicode-bidi: isolate;
+}
+
+.hebrew-word-original,
+.hebrew-word-transliteral,
+.hebrew-word-translation {
+    display: block;
+    max-width: 100%;
+    color: #f0ad4e;
+    overflow-wrap: anywhere;
+}
+
+.hebrew-word-original {
+    direction: rtl;
+    font-family: "Noto Sans Hebrew", "Times New Roman", serif;
+    font-size: clamp(1.5rem, 2.2vw, 2.25rem);
+    font-style: normal;
+    line-height: 1.5;
+}
+
+.hebrew-word-transliteral {
+    direction: ltr;
+    font-size: clamp(1.15rem, 1.8vw, 1.8rem);
+    font-style: italic;
+    line-height: 1.35;
+}
+
+.hebrew-word-translation {
+    direction: ltr;
+    font-size: clamp(1.1rem, 1.7vw, 1.7rem);
+    font-style: italic;
+    line-height: 1.35;
+}
+
+@media (max-width: 900px) {
+    .chapter-verses.hebrew-chapter {
+        padding: 1rem 0.75rem;
+    }
+
+    .hebrew-verse {
+        grid-template-columns: 1.75rem minmax(0, 1fr);
+        column-gap: 0.35rem;
+    }
+
+    .hebrew-verse .verse-number {
+        font-size: 1rem;
+    }
+
+    .hebrew-words {
+        gap: 0.35rem 0.9rem;
+    }
+
+    .hebrew-word-original {
+        font-size: clamp(1.35rem, 5vw, 1.85rem);
+    }
+
+    .hebrew-word-transliteral,
+    .hebrew-word-translation {
+        font-size: clamp(1rem, 3.8vw, 1.45rem);
     }
 }

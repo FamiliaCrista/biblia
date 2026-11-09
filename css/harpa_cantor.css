@@ -76,7 +76,7 @@ body, html {
 /*                  SOBREPOSIÇÃO ESCURA                 */
 /*        Camada semitransparente sobre o vídeo         */
 /*======================================================*/
-.overlay {
+.sobreposicao {
     position: fixed;                                       /* Define o posicionamento fixo para manter a SOBREPOSIÇÃO ESCURA estática durante a rolagem da página. */
     top: 0;                                                /* Define a distância do topo como zero para que a SOBREPOSIÇÃO ESCURA comece no limite superior.       */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar a SOBREPOSIÇÃO ESCURA ao limite lateral.       */
@@ -135,7 +135,7 @@ header {
 /*                   BOTÕES DO MENU                     */
 /*     Estilo padrão para botões e links do menu        */
 /*======================================================*/
-.menu-button, .menu-link {
+.botao-menu, .menu-link {
     margin: 0 20px;                                        /* Define margens horizontais para separar os BOTÕES DO MENU.                           */
     padding: 8px 18px;                                     /* Define o preenchimento interno para criar um respiro nos BOTÕES DO MENU.             */
     background: none;                                      /* Define a cor de fundo como transparente para os BOTÕES DO MENU.                      */
@@ -152,7 +152,7 @@ header {
 /*                BOTÕES DO MENU — HOVER                */
 /*    Efeito visual ao passar o mouse sobre o botão     */
 /*======================================================*/
-.menu-button:hover, .menu-link:hover {
+.botao-menu:hover, .menu-link:hover {
     background-color: rgba(255, 255, 255, 0.1);          /* Define a cor de fundo como branco translúcido para o efeito visual de HOVER nos BOTÕES DO MENU.     */
     color: #fff;                                         /* Define a cor do texto em branco para o efeito visual de HOVER nos BOTÕES DO MENU.                   */
 }
@@ -312,7 +312,7 @@ main {
 /*                 CONTAINER DO HINO                    */
 /*     Área com fundo escuro para exibir a letra        */
 /*======================================================*/
-.hino-conteiner {
+.hino-container {
     max-width: 800px;                                      /* Define o limite máximo de largura para evitar expansão excessiva do CONTAINER DO HINO.  */
     margin: 40px auto 0 auto;                              /* Define margens verticais e centralização horizontal para o CONTAINER DO HINO.           */
     padding: 20px 30px;                                    /* Define o preenchimento interno para criar um respiro no CONTAINER DO HINO.              */
@@ -407,7 +407,7 @@ main {
         display: none !important;                          /* Define a exibição como nula para ocultar o último item do MENU DE NAVEGAÇÃO.  */
     }
     
-    .botao-slide, #btn-slide {
+    .botao-slide, #botao-slide {
         display: none !important;                          /* Define a exibição como nula para ocultar os BOTÕES DE SLIDE. */
     }
 
@@ -445,7 +445,7 @@ main {
         gap: 5px;                                          /* Define o espaçamento entre os itens do MENU DE NAVEGAÇÃO.                            */
     }
 
-    .menu-button, .menu-link {
+    .botao-menu, .menu-link {
         margin: 2px;                                       /* Define margens externas para separar os BOTÕES DO MENU.                       */
         padding: 10px 15px;                                /* Define o preenchimento interno para criar um respiro nos BOTÕES DO MENU.      */
         font-size: 1em;                                    /* Define o tamanho da fonte para assegurar a legibilidade nos BOTÕES DO MENU.   */
@@ -506,7 +506,7 @@ main {
     /*==================================================*/
     /*       CONTAINER E LETRA DO HINO — MOBILE         */
     /*==================================================*/
-    .hino-conteiner {
+    .hino-container {
         width: 95%;                                        /* Define a largura relativa para o CONTAINER DO HINO.                           */
         padding: 15px;                                     /* Define o preenchimento interno para criar um respiro no CONTAINER DO HINO.    */
         margin-top: 20px;                                  /* Define o espaçamento superior para o CONTAINER DO HINO.                       */

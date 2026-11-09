@@ -170,9 +170,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // A linha abaixo mostra o aviso se não for encontrou o botão fechar popup
     if (!fechaBotaoPopup) console.warn("Botão '.fechar-popup' não encontrado.");
     // A linha abaixo cria o botão fechar boas-vindas
-    const fechaBotaoBoasVindas = document.querySelector('.fechar-boas-vindas');
+    const fechaBotaoBoasVindas = document.querySelector('.fechar-seja-bem-vindo');
      // A linha abaixo mostra o aviso se não encontrou o botão fechar boas-vindas
-    if (!fechaBotaoBoasVindas) console.warn("Botão '.fechar-boas-vindas' não encontrado.");
+    if (!fechaBotaoBoasVindas) console.warn("Botão '.fechar-seja-bem-vindo' não encontrado.");
     // A linha abaixo cria o botão salvar versão
     const botaoSalvar = document.querySelector('.salvar-versao');
     // A linha abaixo mostra o aviso se não encontrou o botão salvar versão

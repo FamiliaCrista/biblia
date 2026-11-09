@@ -13,11 +13,11 @@
     const MAX_RESULTS = 500;                                                                                   /* Limite de versículos exibidos        */
 
     /* BLOCO: Objeto global do motor de busca (estado)                         */
-    window.searchEngine = {                                                                                    /* Objeto global do motor de busca      */
-        invertedIndex: {},                                                                                     /* Dicionário: palavra -> versículos    */
+    window.mecanismoBusca = {                                                                                    /* Objeto global do motor de busca      */
+        indiceInvertido: {},                                                                                     /* Dicionário: palavra -> versículos    */
         versiculos: [],                                                                                        /* Lista mestre de todos os versos      */
         versaoAtual: '',                                                                                       /* Sigla da bíblia carregada agora      */
-        isReady: false                                                                                         /* Status de prontidão da busca         */
+        pronto: false                                                                                         /* Status de prontidão da busca         */
     };
 
     /* BLOCO: Dicionário de livros e quantidade de capítulos                   */
@@ -75,28 +75,28 @@
         /* BLOCO: Verificação de segurança para a versão Original              */
         if (versao === 'original') {                                                                           /* Verifica se é a bíblia original      */
             console.log("[Busca] Indexação pulada para a versão 'original' (incompleta).");                    /* Loga aviso de segurança              */
-            window.searchEngine.isReady = true;                                                                /* Libera a interface de busca          */
+            window.mecanismoBusca.pronto = true;                                                                /* Libera a interface de busca          */
             return;                                                                                            /* Interrompe o processo                */
         }
 
         /* BLOCO: Verifica se o motor já está carregado com a versão atual     */
-        if (window.searchEngine.isReady && window.searchEngine.versaoAtual === versao) { return; }             /* Sai se a bíblia já estiver pronta    */
+        if (window.mecanismoBusca.pronto && window.mecanismoBusca.versaoAtual === versao) { return; }             /* Sai se a bíblia já estiver pronta    */
 
         /* BLOCO: Configuração do estado de carga e chave de cache             */
-        window.searchEngine.isReady = false;                                                                   /* Bloqueia busca durante construção    */
+        window.mecanismoBusca.pronto = false;                                                                   /* Bloqueia busca durante construção    */
         console.log("[Busca] Iniciando construção do índice...");                                              /* Loga início do trabalho              */
         const chaveCache = `searchIndex_${versao}_${CACHE_VERSION}`;                                           /* Define nome da chave no banco        */
 
         /* BLOCO: Tentativa de carregamento via Cache IndexedDB                */
         if (await carregarIndexedDB(chaveCache)) {                                                             /* Tenta carregar índice já pronto      */
             console.log(`[Busca] Índice carregado do IndexedDB para ${versao}.`);                              /* Loga sucesso de carregamento         */
-            window.searchEngine.isReady = true;                                                                /* Ativa o motor de busca               */
+            window.mecanismoBusca.pronto = true;                                                                /* Ativa o motor de busca               */
             return;                                                                                            /* Finaliza a função                    */
         }
 
         /* BLOCO: Inicialização de coletores e metadados de construção         */
         console.log(`[Busca] Construindo índice para ${versao} a partir dos arquivos...`);                     /* Loga construção manual               */
-        const newInvertedIndex = {}, newVersiculos = [];                                                       /* Cria coletores vazios                */
+        const newIndiceInvertido = {}, newVersiculos = [];                                                       /* Cria coletores vazios                */
         let versiculoId = 0;                                                                                   /* Contador único de IDs                */
         const isHtmlVersion = versao.toLowerCase() === 'arc';                                                  /* Vê se a versão usa HTML              */
         const fileExtension = isHtmlVersion ? 'html' : 'json';                                                 /* Define extensão do arquivo           */
@@ -155,21 +155,21 @@
                 
                 /* BLOCO: Vinculação de cada palavra ao seu versículo          */
                 palavras.forEach(palavra => {                                                                  /* Varre cada palavra do verso         */
-                    if (!newInvertedIndex[palavra]) newInvertedIndex[palavra] = [];                            /* Cria lista para palavra nova        */
-                    newInvertedIndex[palavra].push(versiculoObj);                                              /* Associa verso à palavra             */
+                    if (!newIndiceInvertido[palavra]) newIndiceInvertido[palavra] = [];                            /* Cria lista para palavra nova        */
+                    newIndiceInvertido[palavra].push(versiculoObj);                                              /* Associa verso à palavra             */
                 });
             });
         }
 
         /* BLOCO: Atualização do estado global do motor de busca               */
-        window.searchEngine.invertedIndex = newInvertedIndex;                                                  /* Salva dicionário no motor            */
-        window.searchEngine.versiculos = newVersiculos;                                                        /* Salva lista mestre no motor          */
-        window.searchEngine.versaoAtual = versao;                                                              /* Grava qual bíblia foi lida           */
+        window.mecanismoBusca.indiceInvertido = newIndiceInvertido;                                                  /* Salva dicionário no motor            */
+        window.mecanismoBusca.versiculos = newVersiculos;                                                        /* Salva lista mestre no motor          */
+        window.mecanismoBusca.versaoAtual = versao;                                                              /* Grava qual bíblia foi lida           */
 
         /* BLOCO: Finalização, persistência e liberação da interface           */
-        await salvarEmIndexedDB(chaveCache, window.searchEngine);                                              /* Salva tudo no banco do navegador     */
+        await salvarEmIndexedDB(chaveCache, window.mecanismoBusca);                                              /* Salva tudo no banco do navegador     */
         console.log(`[Busca] Índice construído e salvo. Total: ${newVersiculos.length}.`);                     /* Loga conclusão com contagem          */
-        window.searchEngine.isReady = true;                                                                    /* Libera a busca para o usuário        */
+        window.mecanismoBusca.pronto = true;                                                                    /* Libera a busca para o usuário        */
     }
 
     /* BLOCO: Agendamento automático da indexação após a carga da página       */
@@ -201,8 +201,8 @@
                 getRequest.onsuccess = () => {                                                                 /* Se achar o dado                      */
                     /* BLOCO: Restauração do estado do motor de busca          */
                     if (getRequest.result) {                                                                   /* Se o resultado for válido            */
-                        window.searchEngine = getRequest.result.data;                                          /* Restaura o motor de busca            */
-                        window.searchEngine.versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
+                        window.mecanismoBusca = getRequest.result.data;                                          /* Restaura o motor de busca            */
+                        window.mecanismoBusca.versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
                         resolve(true);                                                                         /* Avisa que carregou                   */
                     } else { resolve(false); }                                                                 /* Avisa que não achou                  */
                 };
@@ -236,7 +236,7 @@
         const versaoSelecionada = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';                   /* Vê bíblia atual                      */
 
         /* BLOCO: Revalidação de prontidão do índice antes de buscar           */
-        if (!window.searchEngine.isReady || window.searchEngine.versaoAtual !== versaoSelecionada) {           /* Se bíblia mudou ou não carregou      */
+        if (!window.mecanismoBusca.pronto || window.mecanismoBusca.versaoAtual !== versaoSelecionada) {           /* Se bíblia mudou ou não carregou      */
             await carregarConstruirIndice();                                                                   /* Reconstrói o índice agora            */
         }
 
@@ -259,10 +259,10 @@
             palavrasBusca.forEach(palavra => {                                                                 /* Passa por cada palavra digitada      */
                 
                 /* BLOCO: Validação de presença da palavra no dicionário       */
-                if (window.searchEngine.invertedIndex[palavra]) {                                              /* Se a palavra existir no índice       */
+                if (window.mecanismoBusca.indiceInvertido[palavra]) {                                              /* Se a palavra existir no índice       */
                     
                     /* BLOCO: Acúmulo de relevância por versículo              */
-                    window.searchEngine.invertedIndex[palavra].forEach(ref => {                                /* Passa por cada verso associado       */
+                    window.mecanismoBusca.indiceInvertido[palavra].forEach(ref => {                                /* Passa por cada verso associado       */
                         const key = `${ref.livro}-${ref.cap}-${ref.vers}`;                                     /* Cria chave única (Ex: gn-1-1)        */
                         candidatos.set(key, (candidatos.get(key) || 0) + 1);                                   /* Soma ocorrência da palavra           */
                         
@@ -300,7 +300,7 @@
         } else {                                                                                               /* Caso não haja palavras limpas        */
             
             /* BLOCO: Busca bruta via iteração na lista mestre                 */
-            return window.searchEngine.versiculos.filter(r =>                                                  /* Busca bruta na lista mestre          */
+            return window.mecanismoBusca.versiculos.filter(r =>                                                  /* Busca bruta na lista mestre          */
                 normalizarTexto(r.texto).includes(termoOriginalNormalizado)                                    /* Filtra por inclusão direta           */
             );
         }

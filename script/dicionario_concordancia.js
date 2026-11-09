@@ -88,10 +88,10 @@ document.addEventListener('DOMContentLoaded', () => {                           
 
     // Este bloco busca os dados da concordância para uma letra específica e os exibe.
     async function fetchConcordanciaDataByLetter(letra) {
-        const resultadosConteiner = conteudoPrincipal.querySelector('#resultados-conteiner');
-        if (!resultadosConteiner) return;
+        const resultadosContainer = conteudoPrincipal.querySelector('#resultados-container');
+        if (!resultadosContainer) return;
 
-        resultadosConteiner.innerHTML = '<div class="loader">Carregando...</div>';
+        resultadosContainer.innerHTML = '<div class="loader">Carregando...</div>';
 
         try {
             const response = await fetch(`${CONCORDANCIA_DATA_BASE_PATH}${letra.toLowerCase()}.json`);
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {                           
             const wordEntries = jsonData[letra.toLowerCase()] || [];
             carregarDadosBaseConcordancia(wordEntries);                                                                // Usa a função do módulo concordancia.js para processar os dados.
         } catch (error) {
-            resultadosConteiner.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;
+            resultadosContainer.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;
             carregarDadosBaseConcordancia([]);
         }
     }
@@ -108,14 +108,14 @@ document.addEventListener('DOMContentLoaded', () => {                           
     // Este blcoo configura os listeners de evento para os botões de letra do menu lateral.
     function setupGlobalLetterButtonListeners() {
         if (!menuAlfabetico) return;
-        menuAlfabetico.querySelectorAll('.letra-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                menuAlfabetico.querySelectorAll('.letra-btn.active').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                letraAtivaSidebar = btn.dataset.letra;                                                                 // Atualiza a letra ativa.
+        menuAlfabetico.querySelectorAll('.letra-botao').forEach(botao => {
+            botao.addEventListener('click', () => {
+                menuAlfabetico.querySelectorAll('.letra-botao.active').forEach(b => b.classList.remove('active'));
+                botao.classList.add('active');
+                letraAtivaSidebar = botao.dataset.letra;                                                                 // Atualiza a letra ativa.
 
                 if (currentView === 'concordance') {                                                                   // Decide qual função chamar com base na view atual.
-                    const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-conteiner .search-input');
+                    const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-container .input-busca');
                     const filtroPalavraInput = conteudoPrincipal.querySelector('#filtro-palavra-input');
                     if (buscaGlobalInput) buscaGlobalInput.value = '';
                     if (filtroPalavraInput) filtroPalavraInput.value = '';
@@ -141,23 +141,23 @@ document.addEventListener('DOMContentLoaded', () => {                           
         );
         onConcordanciaViewReady();
 
-        const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-conteiner .search-input');
+        const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-container .input-busca');
         const filtroPalavraInputConc = conteudoPrincipal.querySelector('#filtro-palavra-input');
-        const btnConsultar = conteudoPrincipal.querySelector('.filtros-conteiner .search-btn');
+        const botaoConsultar = conteudoPrincipal.querySelector('.filtros-container .botao-busca');
 
         function executarBuscaGlobalConcHandler() {
             const termoBusca = buscaGlobalInput.value.trim();
             executarBuscaGlobalConcordancia(termoBusca);
             if (filtroPalavraInputConc) filtroPalavraInputConc.value = '';
             if (termoBusca && menuAlfabetico) {
-                menuAlfabetico.querySelectorAll('.letra-btn.active').forEach(b => b.classList.remove('active'));
+                menuAlfabetico.querySelectorAll('.letra-botao.active').forEach(b => b.classList.remove('active'));
                 letraAtivaSidebar = null;
             }
         }
 
-        if (btnConsultar && buscaGlobalInput) {
-            btnConsultar.addEventListener('click', executarBuscaGlobalConcHandler);
-            buscaGlobalInput.addEventListener('keyup', e => e.key === 'Enter' && btnConsultar.click());
+        if (botaoConsultar && buscaGlobalInput) {
+            botaoConsultar.addEventListener('click', executarBuscaGlobalConcHandler);
+            buscaGlobalInput.addEventListener('keyup', e => e.key === 'Enter' && botaoConsultar.click());
         }
         if (filtroPalavraInputConc) {
             filtroPalavraInputConc.addEventListener('input', e => atualizarFiltroPalavra(e.target.value));
@@ -165,8 +165,8 @@ document.addEventListener('DOMContentLoaded', () => {                           
 
         if (letraAtivaSidebar) {
             fetchConcordanciaDataByLetter(letraAtivaSidebar);
-            const btnLetraAtiva = menuAlfabetico.querySelector(`.letra-btn[data-letra="${letraAtivaSidebar}"]`);
-            if (btnLetraAtiva && !btnLetraAtiva.classList.contains('active')) btnLetraAtiva.classList.add('active');
+            const botaoLetraAtiva = menuAlfabetico.querySelector(`.letra-botao[data-letra="${letraAtivaSidebar}"]`);
+            if (botaoLetraAtiva && !botaoLetraAtiva.classList.contains('active')) botaoLetraAtiva.classList.add('active');
         }
     }
 
@@ -174,8 +174,8 @@ document.addEventListener('DOMContentLoaded', () => {                           
     function onDicionarioViewLoadedAndReady() {
         setupDicionarioView(letraAtivaSidebar);                                                                    // Configura a view do dicionário.
         if (letraAtivaSidebar) {
-            const btnLetraAtiva = menuAlfabetico.querySelector(`.letra-btn[data-letra="${letraAtivaSidebar}"]`);
-            if (btnLetraAtiva && !btnLetraAtiva.classList.contains('active')) btnLetraAtiva.classList.add('active');
+            const botaoLetraAtiva = menuAlfabetico.querySelector(`.letra-botao[data-letra="${letraAtivaSidebar}"]`);
+            if (botaoLetraAtiva && !botaoLetraAtiva.classList.contains('active')) botaoLetraAtiva.classList.add('active');
         }
     }
 

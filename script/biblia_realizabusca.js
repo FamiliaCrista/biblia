@@ -36,12 +36,12 @@ function abrirJanelaDeBusca(resultados, getLivroDisplayNameFunc) {
 </head>
 <body>
     <!-- Inclusão da marca d'água -->
-    <div id="marcadagua"></div>
+    <div id="marca-dagua-busca"></div>
     <script src="../script/marcadagua.js"><\/script>
 
-    <div id="search-content">
+    <div id="busca-conteudo">
         <h2>Resultados da Busca</h2>
-        <div id="resultados-busca-conteiner">
+        <div id="busca-resultados-container">
             ${resultadosHtml}
         </div>
     </div>

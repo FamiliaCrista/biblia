@@ -11,20 +11,20 @@ function recriarMarcaDagua() {
     
     /* BLOCO: Verifica se o contêiner de conteúdo principal está disponível na página           */
     if (content) {
-        let marcadagua = content.querySelector('.marcadagua');                                               /* Verifica se a imagem já existe   */
+        let marcaDagua = content.querySelector('.marca-dagua-sobre, .marca-dagua-versoes');
         
         /* BLOCO: Garante a criação da marca d'água caso ela ainda não tenha sido gerada        */
-        if (!marcadagua) {
-            marcadagua = document.createElement('div');                                                      /* Cria a camada da marca d'água    */
-            marcadagua.classList.add('marcadagua');                                                          /* Aplica a classe de estilo        */
+        if (!marcaDagua) {
+            marcaDagua = document.createElement('div');                                                      /* Cria a camada da marca d'água    */
+            marcaDagua.classList.add('marca-dagua-sobre', 'marca-dagua-versoes');                            /* Aplica classes compatíveis       */
             const img = document.createElement('img');                                                       /* Cria o elemento de imagem        */
             img.src = '../img/biblia.png';                                                                   /* Define o caminho do arquivo      */
             img.alt = "Marca d'água da Bíblia";                                                              /* Define o texto de acessibilidade */
-            img.classList.add('marca-dagua-imagem');                                                         /* Aplica a classe da imagem        */
+            img.classList.add('marca-dagua-imagem');                                                        /* Aplica a classe da imagem        */
             img.onload = () => console.log("Imagem da marca d'água carregada com sucesso");                  /* Loga sucesso no carregamento     */
             img.onerror = () => console.error("Erro ao carregar a imagem da marca d'água.");                 /* Loga falha no carregamento       */
-            marcadagua.appendChild(img);                                                                     /* Insere a imagem na camada        */
-            content.appendChild(marcadagua);                                                                 /* Adiciona a camada ao conteúdo    */
+            marcaDagua.appendChild(img);                                                                     /* Insere a imagem na camada        */
+            content.appendChild(marcaDagua);                                                                 /* Adiciona a camada ao conteúdo    */
         }
     }
 }
@@ -35,18 +35,18 @@ function adicionarMarcaDaguaSobre() {
     
     /* BLOCO: Verifica a existência do contêiner da seção Sobre para anexar o fundo             */
     if (sobreContent) {
-        let marcadagua = sobreContent.querySelector('.marcadagua-sobre');                                    /* Verifica existência prévia       */
+        let marcaDaguaSobre = sobreContent.querySelector('.marca-dagua-sobre-tela, .marca-dagua-sobre');     /* Verifica existência prévia       */
         
         /* BLOCO: Adiciona o elemento visual de fundo exclusivo para a tela informativa         */
-        if (!marcadagua) {
-            marcadagua = document.createElement('div');                                                      /* Cria o contêiner do fundo        */
-            marcadagua.classList.add('marcadagua-sobre');                                                    /* Estiliza o fundo da seção        */
+        if (!marcaDaguaSobre) {
+            marcaDaguaSobre = document.createElement('div');                                                 /* Cria o contêiner do fundo        */
+            marcaDaguaSobre.classList.add('marca-dagua-sobre-tela', 'marca-dagua-sobre');                   /* Estiliza o fundo da seção        */
             const img = document.createElement('img');                                                       /* Cria a imagem de fundo           */
             img.src = '../img/biblia.png';                                                                   /* Atribui a fonte da imagem        */
             img.alt = "Marca d'água da Bíblia";                                                              /* Atribui descrição da imagem      */
             img.classList.add('marca-dagua-imagem');                                                         /* Define classe de dimensão        */
-            marcadagua.appendChild(img);                                                                     /* Anexa imagem ao contêiner        */
-            sobreContent.appendChild(marcadagua);                                                            /* Anexa contêiner à seção Sobre    */
+            marcaDaguaSobre.appendChild(img);                                                                /* Anexa imagem ao contêiner        */
+            sobreContent.appendChild(marcaDaguaSobre);                                                      /* Anexa contêiner à seção Sobre    */
         }
     }
 }
@@ -121,7 +121,7 @@ function restaurarEstadoInicial() {
         
         /* BLOCO: Realiza a limpeza completa do palco principal removendo elementos bíblicos    */
         Array.from(content.children).forEach(child => {
-            if (!child.classList.contains('marcadagua')) {
+            if (!child.classList.contains('marca-dagua-sobre') && !child.classList.contains('marca-dagua-versoes')) {
                 child.remove();                                                                              /* Apaga tudo exceto o fundo       */
             }
         });
@@ -174,15 +174,15 @@ if (sobreLink) {
     console.warn("Link 'Sobre' com ID 'sobre' não encontrado.");                                             /* Alerta se o link sumir       */
 }
 
-/* BLOCO: Inicializa o controle do menu lateral para dispositivos móveis                        */
-const menuButton = document.querySelector('.menu-button');                                                   /* Captura botão do menu móvel  */
+/* BLOCO: Inicializa o controle do menu lateral para dispositivos móveis (contextual/seguro)    */
+const menuButton = document.querySelector('.botao-menu, #botao-menu, .menu-toggle, #menu-toggle');   /* Captura botão do menu (se existir) */
 if (menuButton) {
     menuButton.addEventListener('click', () => {
-        const menuLivros = document.querySelector('.menu-livros');                                           /* Captura a lista de livros    */
-        
-        /* BLOCO: Alterna a visibilidade da lista de livros através de classes CSS           */
+        const menuLivros = document.querySelector('.menu-livros');                                   /* Captura a lista de livros    */
+
+        /* BLOCO: Alterna a visibilidade da lista de livros através de classes CSS                   */
         if (menuLivros) {
-            menuLivros.classList.toggle('show');                                                             /* Alterna exibição no celular  */
+            menuLivros.classList.toggle('show');                                                     /* Alterna exibição no celular  */
         }
     });
 }

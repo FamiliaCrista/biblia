@@ -1,0 +1,158 @@
+# Cruzamento — tradução/alinhamento (projeto `E:\biblia`)
+
+**Escopo:** `index.html`, `style.css`, `script.js`, `css/*`, `html/*`, `script/*` do projeto. Ignorar `.kilo/worktrees/*`, `baixar`, pastas de conteúdo/dados salvo referência explícita.  
+**Comparação base:** `E:\bibliacomparar` × `E:\biblia`; regras em `termos que nao podem ser traduzidos.md` e `sugestao.md`; detalhes consolidados em `cruzamento.md`.  
+**Atualizado:** 2026-11-08 (Etapas 1 `versoes`+versões, 2 `menu_dicionarioconcordancia`, 3 `harpa_cantor` — concluídas com compatibilidade; `container` não traduzido).
+
+## Regras aplicadas
+- **`container` não deve ser traduzido.** Manter `container` em identificadores. Se padronizar `conteiner` → `container`, atualizar **HTML/CSS/JS juntos** (ex.: `capitulos-conteiner` → `capitulos-container`, `resultados-conteiner` → `resultados-container`).
+- Não traduzir tags HTML, pseudo-classes/elements, estados/contratos quando exigido (`.active`, `.loaded`, etc., conforme regra do projeto). Identificadores customizados podem ser traduzidos **de forma consistente** em CSS/HTML/JS.
+- Em correções de compatibilidade, preferir seletores/classes/IDs duplos ou fallbacks quando isso evitar quebra durante a transição.
+
+## 1) Feito — raiz (`index.html` / `style.css` / `script.js`)
+
+| Arquivo | Local (aprox.) | Status | Detalhe |
+|---|---|---|---|
+| `index.html` | L30–31 | **OK** | `id="popup-seja-bem-vindo"` / `class="... fechar-seja-bem-vindo"` consistente com JS/CSS. |
+| `script.js` | L173,175 | **Corrigido** | Seletor/aviso usam `.fechar-seja-bem-vindo` (antes `.fechar-boas-vindas`). |
+| `script.js` | L187,193 | **OK** | Estado do popup usa classe `visivel` no `body`. |
+| `style.css` | L230 | **OK** | `.fechar-seja-bem-vindo` definido. |
+| `style.css` | L260–261 | **Corrigido (compat.)** | `.visivel:after, .visible:after` — alinhado a `visivel`, fallback `visible`. |
+| `style.css` | L294–296 | **Corrigido (compat.)** | `.visivel .popup-nova-versao, .visible .popup-nova-versao`. |
+| `style.css` | `.botao-imagem` | **OK** | Sem uso indevido de `conteiner`; regra `container` respeitada. |
+
+## 2) Feito — vinculados a `html/versoes.html` (parcial)
+
+### 2.1 Dropdown (`script/dropdown.js` × `html/versoes.html` × `css/versoes.css`)
+| Arquivo | Local (aprox.) | Status | Detalhe |
+|---|---|---|---|
+| `script/dropdown.js` | L91 | **Corrigido** | Gatilhos: `nav ul li.menu-suspenso > a, nav ul li.meu-suspenso > a, nav ul li.dropdown > a` (fallback `.dropdown`). |
+| `script/dropdown.js` | L93–114 (aprox.) | **Corrigido** | `dropdownConteiner/currentConteiner` → `dropdownContainer/currentContainer`; referências internas alinhadas (**`container` mantido**). |
+| `html/versoes.html` | L63,65,67,69 | **OK** | `menu-suspenso`/`meu-suspenso`/`conteudo-menu-suspenso` + IDs `baixar-list`/`utilidades-list`. |
+| `css/versoes.css` | menu suspenso | **OK** | Seletores `.meu-suspenso`/`.conteudo-menu-suspenso` presentes. |
+
+### 2.2 “Sobre” / marca d’água (`script/sobre.js` × `css/versoes.css`)
+| Arquivo | Local (aprox.) | Status | Detalhe |
+|---|---|---|---|
+| `script/sobre.js` | L14,19,38,43,124 | **Corrigido (compat.)** | Classes compatíveis de marca d’água (`marca-dagua-sobre`/`marca-dagua-versoes`, `marca-dagua-sobre-tela`); limpeza preserva fundo. |
+| `css/versoes.css` | L397–420 (aprox.) | **Corrigido** | Regras para `.marca-dagua-versoes/.marca-dagua-imagem/.marca-dagua-sobre/.marca-dagua-sobre-tela` (inclui `img`). |
+| `script/sobre.js` | L34,58,65,89,100 | **OK** | `.conteudo-sobre` e `body.sobre-ativo` consistentes com `css/versoes.css`. |
+
+### 2.3 Navegação/capítulos (`script/biblia-navegacao.js` × `css/versoes.css`)
+| Arquivo | Local (aprox.) | Status | Detalhe |
+|---|---|---|---|
+| `script/biblia-navegacao.js` | L167,235,292,332 | **OK** | Usa `capitulos-container` / `.capitulos-container`; identificadores `conteiner` padronizados para `container`. |
+| `css/versoes.css` | L745–748 (aprox.) | **Corrigido (compat.)** | `.capitulos-container, .capitulos-conteiner { ... }` (fallback; padrão `container`). |
+
+### 2.4 Dicionário/Concordância e marca d’água (trabalho anterior, já aplicado)
+| Arquivo(s) | Status | Detalhe |
+|---|---|---|
+| `script/concordancia-optimizada.js` | **Corrigido** | Aceita IDs/selectores compatíveis (`#botao-buscar||#btn-buscar`, `#resultados-container||#resultados-conteiner`), guards/null checks, dropdown compatível. |
+| `script/menu_dicionarioconcordancia.js` | **Corrigido** | Inicialização resiliente (try/catch), eventos com guarda, compatibilidade `window.indiceBusca || window.searchIndex`. |
+| `css/concordancia.css`, `css/menu_dicionarioconcordancia.css` | **Corrigido** | Aliases para dropdown/spinner/counter/results/watermark. |
+| `script/marcadagua.js` | **Corrigido** | `DOMContentLoaded` + `load` (`addEventListener`), guards, classes compatíveis (`marca-dagua-biblia`/`marcadagua`, `marca-dagua-versoes`/`marca-dagua-imagem`). |
+| `script/versoes.js` (parcial) | **Compat. parcial** | Tolerância a IDs traduzidos/legados em progresso/resultados (Shadow DOM/seletores internos) — **ainda falta padronização completa** (ver pendências). |
+
+### 2.5 Alinhamento `container` (regra: “container não traduzido”)
+| Arquivo(s) | Status | Detalhe |
+|---|---|---|
+| `html/menu_dicionarioconcordancia.html` | **Corrigido** | `titulo-container`, `container`, `alfabeto-container`, `loading-container`, `sobre-container` (dropdowns/utilidades/baixar mantidos). |
+| `script/biblia_realizabusca.js` | **Corrigido** | Resultado de busca usa `#busca-resultados-container`. |
+| `script/dropdown_concordancia.js` | **Corrigido** | `conteiner` → `container` no loop de ocultação de opções. |
+| `script/versoes_capitulos.js` | **Corrigido** | Remoção usa `container.remove()` (bug anterior); ID criado `dynamic-chapter-buttons-container` com seletor compatível. |
+| `script/versoes.js` | **Corrigido (compat.)** | Shadow DOM usa IDs `busca-*`/`busca-progresso-*`/`busca-resultados-container` com fallback para legados (`progresso-*`, `#progresso-conteiner`, `#resultados-busca-conteiner`). |
+| `css/menu_dicionarioconcordancia.css` | **Corrigido (compat.)** | Seletores `*-container, *-conteiner` para título/container/alfabeto/loading/sobre. |
+| `script/versoes_modoleitura.js`, `script/versoes_navegacao_modoleitura.js`, `script/versoes_versiculos.js` | **Corrigido (compat.)** | Variáveis/IDs/classes padronizados para `container` com fallback para `-conteiner` onde aplicável. |
+| `css/versoes.css`, `css/modo_leitura.css` | **Corrigido (compat.)** | Fallbacks de capítulos/verso/erro (`container` + `conteiner`). |
+| `css/biblia_realizabuscateste.css` | **OK/compat.** | Compat para `#busca-resultados-container/#busca-resultados-conteiner` e progresso (`busca-progresso-*`/`progresso-*`). |
+
+## 3) Pendente — correções necessárias
+
+### 3.1 `script/versoes.js` (overlay/busca, Shadow DOM) — **concluído com compatibilidade**
+- Padronizado para IDs/classes `busca-*`/`busca-progresso-*`/`busca-resultados-container` com fallbacks legados (`#progresso-*`, `#progresso-conteiner`, `#resultados-busca-conteiner`).
+- IDs dinâmicos de capítulos/versículos padronizados para `*-container` com fallback `*-conteiner` nos consumidores.
+- **Observação:** overlay usa **Shadow DOM** com estilos inline; `css/biblia_realizabuscateste.css` externo não afeta o conteúdo encapsulado (fallbacks internos adicionados).
+
+### 3.2 `script/versoes_modoleitura.js` — **concluído (compat.)**
+- `conteinerLeitura` → `containerLeitura`; seletores `#dynamic-chapter-buttons-container, #dynamic-chapter-buttons-conteiner`; `verse-container`/`error-container` com compat.
+
+### 3.3 `css/biblia_realizabuscateste.css` — **compat. aplicada**
+- `#busca-resultados-container/#busca-resultados-conteiner` e `#busca-progresso-*`/`#progresso-*` com compatibilidade; útil se houver DOM/overlay fora do Shadow DOM.
+
+### 3.4 `script/sobre.js` (baixo impacto)
+| Arquivo | Local (aprox.) | Status | Detalhe |
+|---|---|---|---|
+| `script/sobre.js` | L177–188 (aprox.) | **Concluído (guarda contextual)** | Seletor ampliado com fallbacks (`.botao-menu, #botao-menu, .menu-toggle, #menu-toggle`) e listener só com elemento existente; toggle de `.menu-livros` já guardado. Sem efeito colateral em páginas sem o botão (ex.: `versoes.html`). |
+
+### 3.5 Demais módulos — **lote concluído (com compatibilidade onde aplicável)**
+Regra aplicada: `container` não traduzido; HTML/CSS/JS alinhados nos módulos tocados; seletores/IDs duplos onde útil.
+
+| Lote | Arquivos (ativos) | Status |
+|---|---|---|
+| ARA/ARC | `script/ara.js`, `script/arc.js` | **Concluído** — `conteiner` → `container`. `node --check` OK. |
+| Slides Bíblia | `script/slide_biblia.js`, `script/slide_biblia_interface.js`, `css/slide_biblia.css` | **Concluído** — `#versiculo-container`/`#botao-container`, `versiculoContainer`; CSS compat `*-conteiner`. `node --check` OK. |
+| Slides Harpa | `script/slide_harpacantor.js`, `script/slide_harpacantor_interface.js`, `css/slide_harpacantor.css` | **Concluído** — `#slide-container`; CSS compat. `node --check` OK. |
+| Dicionário | `script/dicionario.js`, `css/dicionario.css` | **Concluído (compat.)** — loading injetado `loading-container`; CSS com seletores duplos (`dicionario/sugestoes/sobre` `container|conteiner`). `node --check` OK. |
+| Concordância | `script/concordancia.js`, `script/concordancia-optimizada.js`, `script/dropdown_concordancia.js`, `css/concordancia.css` | **Concluído (compat.)** — IDs/variáveis `*Container`/`container`; JS busca `#resultados-container || #resultados-conteiner`; CSS aceita ambos. `node --check` OK. |
+| Dicionário/Concordância (CSS compartilhado) | `css/menu_dicionarioconcordancia.css` | **Compat. reforçada** — seletores duplos para `.loading-container/.loading-conteiner` e `.sobre-container/.sobre-conteiner`. |
+
+| Fora deste lote (legado/baixo) | Detalhe |
+|---|---|---|
+| `css/*copy*.css` | Cópias/legado; não alteradas. |
+| `script/sobre.js:178` | `.botao-menu` ausente em `versoes.html` mas presente em `html/harpa_cantor.html`/CSS — guarda/ajuste contextual opcional (baixo impacto). |
+| `cruzamento.md`, docs/listas de termos | Podem mencionar `conteiner` como histórico/inventário; não afetam runtime. |
+| `html/menu_dicionarioconcordancia.html` | **OK** — containers principais padronizados; dropdown `menu-suspenso/meu-suspenso/conteudo-menu-suspenso`. |
+
+## 3.6 Lote 2 — padronização container em módulos ativos (concluído, compat)
+
+| Lote | Arquivos (ativos) | Status |
+|---|---|---|
+| Harpa runtime | script/harpa_cantor.js, html/harpa_cantor.html | **Concluído** — *Conteiner → *Container; comentários ajustados; IDs DOM preservados. 
+ode --check OK. |
+| Dicionário/Concordância helper | script/dicionario_concordancia.js | **Concluído (compat.)** — 
+esultadosContainer; seletor #resultados-container, #resultados-conteiner. 
+ode --check OK. |
+| Dropdown residual | script/dropdown.js | **Concluído** — dropdownConteiner → dropdownContainer. 
+ode --check OK. |
+| CSS/JS fallbacks legados | css/versoes.css, css/modo_leitura.css, css/biblia_realizabuscateste.css, css/menu_dicionarioconcordancia.css, script/versoes.js | **Compat. consolidada** — canônico container com fallback duplo onde aplicável; overlay ersoes.js deduplicado/mesclado para container|conteiner. |
+
+## 3.7 Etapas por módulo (solicitação atual)
+
+### Etapa 1 — ersoes e arquivos das versões (ARA, ARC, ACF, NAA, NTLH, NVI, NVT, KJV, Original)
+**Escopo:** html/versoes.html (sem outros HTMLs de versão em html/); scripts script/ara.js, arc.js, acf.js, naa.js, ntlh.js, nvi.js, nvt.js, kjv.js, original.js; núcleo script/versoes*.js, script/biblia_realizabusca.js, script/biblia-navegacao.js; CSS css/versoes.css, css/modo_leitura.css, css/biblia_realizabuscateste.css.  
+**Status:** **Concluída com compatibilidade mínima.**
+- script/ara.js, script/arc.js: conteiner → container. 
+ode --check OK. Demais scripts de versão: sem conteiner.
+- script/versoes.js (overlay Shadow DOM, DOM próprio): IDs/consultas/estilos padronizados para container (#busca-resultados-container, #busca-progresso-*, #progresso-container); remoção de IDs/seletores legados *-conteiner no overlay. 
+ode --check OK.
+- script/versoes*.js core: **somente** fallbacks de leitura #dynamic-chapter-buttons-container,#dynamic-chapter-buttons-conteiner / #dynamic-verse-buttons-conteiner onde podem existir nós legados (
+ode --check OK).
+- css/versoes.css, css/modo_leitura.css, css/biblia_realizabuscateste.css: seletores canônicos container + fallback *-conteiner (compat). html/versoes.html, iblia_realizabusca.js, iblia-navegacao.js: sem conteiner.
+
+### Etapa 2 — menu_dicionarioconcordancia
+**Escopo:** html/menu_dicionarioconcordancia.html, script/menu_dicionarioconcordancia.js, script/dicionario*.js, script/concordancia*.js, script/dropdown_concordancia.js, script/gerenciador_concordancia*.js, css/menu_dicionarioconcordancia.css, css/dicionario.css, css/concordancia.css.  
+**Status:** **Parcialmente concluída (compatibilidade ativa).**
+- Runtime/markup principais com seletores compat; 
+ode --check OK nos tocados.
+- **Compat. intencional em CSS:** css/menu_dicionarioconcordancia.css (blocos duplos/mistos remanescentes), css/dicionario.css, css/concordancia.css (container|conteiner). Refinar só com alinhamento **HTML/CSS/JS** e sem quebrar páginas dependentes.
+
+### Etapa 3 — harpa_cantor
+**Escopo:** html/harpa_cantor.html, script/harpa_cantor.js, css/harpa_cantor.css.  
+**Status:** **Concluída.** *Conteiner → *Container em runtime/HTML; IDs DOM preservados; 
+ode --check OK.
+
+## 3.8 Padronização `list` → `lista`
+| Item | Arquivos | Status | Detalhe |
+|---|---|---|---|
+| `baixar-list` / `utilidades-list` | `html/versoes.html`, `script/dropdown.js` | **Concluído (compat.)** | HTML usa `baixar-lista`/`utilidades-lista`; preenchimento resolve `*-lista||*-list`; `dropdown.js` usa IDs `-lista`. `node --check` OK. |
+| `dicionario-list` | `script/dropdown.js` | **Compat. (órfão atual, sem alteração de DOM)** | `dropdown.js` tenta `dicionario-lista||dicionario-list`; nenhum elemento correspondente em `html/*` ativos. Não criado para evitar mudar UI. |
+| `versoes-list` | `script/versoes.js`, `script/versoes_interface.js` | **Compat. (órfão atual, sem alteração de DOM)** | Consulta `versoes-lista||versoes-list`; nenhum `id`/CSS ativo encontrado em `html/*`. Código já é defensivo (não falha sem elemento). `node --check` OK. |
+| Identificadores internos | `script/dropdown.js` | **Concluído (interno JS)** | `populateList/listId/listElement/items` → `preencherLista/idLista/elementoLista/itens`; `showList/hideList` → `mostrarLista/ocultarLista` (sem impacto HTML/CSS). |
+- **Runtime (`script/*`, `html/*` ativos):** sem identificadores/markup `conteiner` como nome canônico novo; restam apenas **fallbacks de compatibilidade** em seletores duplos (ex.: `#dynamic-*-container,#dynamic-*-conteiner`, `#resultados-container,#resultados-conteiner`, `#busca-resultados-container,#resultados-busca-conteiner` no Shadow DOM/consumidores).
+- **CSS ativos:** mantêm `container|conteiner` como compat onde pode haver DOM legado (`slide_*`, `dicionario`, `concordancia`, `versoes`, `modo_leitura`, `biblia_realizabuscateste`, `menu_dicionarioconcordancia`). Remover fallbacks só após confirmar ausência de consumidores.
+- **`script/sobre.js:178`** — `.botao-menu` (baixo impacto; existe em Harpa/CSS, ausente em `versoes.html`). Guarda contextual opcional.
+- **Legado/cópias/histórico:** `css/*copy*.css`, `cruzamento.md`, `termos que nao podem ser traduzidos.md`, `sugestao.md` não alterados por runtime; podem mencionar `conteiner`.
+- Linhas aproximadas; validar com `rg`. `git status` tem muitas alterações preexistentes; não commitar/reverter sem solicitação.
+- `node --check` OK nos scripts tocados (dropdown, Harpa, dicionário_concordancia, versoes/versoes_* relacionados, concordância/dropdown_concordancia, ARA/ARC, slides, etc.).
+- Validação manual recomendada: `html/versoes.html`, `html/menu_dicionarioconcordancia.html`, `html/harpa_cantor.html`, `html/ara.html`/`html/arc.html`, slides — console, dropdown/busca/overlay (Shadow DOM), capítulos/modo leitura, Dicionário/Concordância/Sobre, Harpa.
+

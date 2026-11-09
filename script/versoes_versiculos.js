@@ -19,7 +19,7 @@ class VersiculosManager {                                                       
         window.ultimoVersiculoSelecionado = versiculo;                                             /* Salva na memória global              */
         const areaConteudo = document.querySelector('section.conteudo');       
         /* Captura a seção do site              */
-        /* BLOCO: Validação de existência do conteiner principal               */
+        /* BLOCO: Validação de existência do container principal               */
         if (!areaConteudo) {                                                                       /* Verifica se a seção existe           */
             console.error("[VersiculosManager] Seção não encontrada.");                            /* Loga erro de interface               */
             return;                                                                                /* Aborta a função                      */
@@ -54,9 +54,9 @@ class VersiculosManager {                                                       
                 const chapterData = Array.isArray(dados) ? dados[0] : dados;                       /* Organiza dados do capítulo           */
                 const verseText = chapterData.versiculos?.[versiculo];                             /* Extrai o texto alvo                  */
 
-                /* BLOCO: Seleção do conteiner e limpeza de displays anteriores*/
-                const conteiner = areaConteudo.querySelector('.conteudo-versiculos') || this._criarConteinerVersiculos(areaConteudo);
-                const existingGenericVerseDisplay = conteiner.querySelector('.versiculo-ativo');   /* Busca texto genérico                 */
+                /* BLOCO: Seleção do container e limpeza de displays anteriores*/
+                const container = areaConteudo.querySelector('.conteudo-versiculos') || this._criarContainerVersiculos(areaConteudo);
+                const existingGenericVerseDisplay = container.querySelector('.versiculo-ativo');   /* Busca texto genérico                 */
 
                 /* BLOCO: Limpeza de displays genéricos pré-existentes         */
                 if (existingGenericVerseDisplay) {                                                 /* Se texto genérico existir            */
@@ -68,29 +68,29 @@ class VersiculosManager {                                                       
                     const verseDiv = document.createElement('div');                                /* Cria caixa do versículo              */
                     verseDiv.classList.add('versiculo-ativo');                                     /* Estiliza caixa ativa                 */
                     verseDiv.innerHTML = `<sup>${versiculo}</sup><span>${verseText}</span>`;       /* Insere número e texto                */
-                    conteiner.appendChild(verseDiv);                                               /* Fixa na página final                 */
+                    container.appendChild(verseDiv);                                               /* Fixa na página final                 */
                 } else {                                                                           /* Se texto não existe                  */
                 
                     /* BLOCO: Tratamento visual para versículo não localizado  */
                     const verseDiv = document.createElement('div');                                /* Cria caixa de erro                   */
                     verseDiv.classList.add('versiculo-ativo');                                     /* Estiliza erro visual                 */
                     verseDiv.innerHTML = `<p>Versículo não encontrado.</p>`;                       /* Mensagem de falta                    */
-                    conteiner.appendChild(verseDiv);                                               /* Mostra aviso ao leitor               */
+                    container.appendChild(verseDiv);                                               /* Mostra aviso ao leitor               */
                 }
 
             } catch (erro) {                                                                       /* Trata falha crítica                  */
 
                 /* BLOCO: Gerenciamento de falhas críticas na carga            */
                 console.error(`[VersiculosManager] Erro no fallback:`, erro);                      /* Loga erro detalhado                  */
-                const conteiner = areaConteudo.querySelector('.conteudo-versiculos') || this._criarConteinerVersiculos(areaConteudo);
-                const existingDisplay = conteiner.querySelector('.versiculo-ativo');               /* Busca texto anterior                 */
+                const container = areaConteudo.querySelector('.conteudo-versiculos') || this._criarContainerVersiculos(areaConteudo);
+                const existingDisplay = container.querySelector('.versiculo-ativo');               /* Busca texto anterior                 */
                 
                 /* BLOCO: Limpeza e exibição de alerta visual de falha na carga*/
                 if (existingDisplay) { existingDisplay.remove(); }                                 /* Limpa no erro                        */
                 const verseDiv = document.createElement('div');                                    /* Cria bloco de erro                   */
                 verseDiv.classList.add('versiculo-ativo');                                         /* Estiliza erro visual                 */
                 verseDiv.innerHTML = `<p style="color:red;">Falha na carga.</p>`;                  /* Texto de alerta                      */
-                conteiner.appendChild(verseDiv);                                                   /* Mostra erro na tela                  */
+                container.appendChild(verseDiv);                                                   /* Mostra erro na tela                  */
             }
         }
 
@@ -110,10 +110,10 @@ class VersiculosManager {                                                       
         }
 
         /* BLOCO: Gerencia o estado ativo dos botões de versículo               */
-        const conteinerBotoesVersiculos = areaConteudo.querySelector('.conteudo-versiculos');      /* Acha lista numérica                  */
-        if (conteinerBotoesVersiculos) {                                                           /* Se a lista existir                   */
+        const containerBotoesVersiculos = areaConteudo.querySelector('.conteudo-versiculos');      /* Acha lista numérica                  */
+        if (containerBotoesVersiculos) {                                                           /* Se a lista existir                   */
             this.versiculoAtivo = versiculo;                                                       /* Atualiza estado interno              */
-            this._atualizarBotoesVersiculos(conteinerBotoesVersiculos, versiculo);                 /* Destaca botão clicado                */
+            this._atualizarBotoesVersiculos(containerBotoesVersiculos, versiculo);                 /* Destaca botão clicado                */
         } else {                                                                                   /* Se não achar lista                   */
             console.warn("[VersiculosManager] Botões não encontrados.");                           /* Avisa no console                     */
         }
@@ -121,10 +121,10 @@ class VersiculosManager {                                                       
 
     /* BLOCO: Função que cria os botões de navegação para cada versículo       */
     criarBotoesVersiculos(livro, capitulo, totalVersiculos) {                                      /* Inicia régua numérica                */
-        const existingConteiner = document.querySelector('.conteudo-versiculos');                  /* Procura régua velha                  */
-        if (existingConteiner) existingConteiner.remove();                                         /* Apaga régua anterior                 */
-        const conteiner = document.createElement('div');                                           /* Cria caixa da régua                  */
-        conteiner.className = 'conteudo-versiculos';                                               /* Estiliza a régua                     */
+        const existingContainer = document.querySelector('.conteudo-versiculos');                  /* Procura régua velha                  */
+        if (existingContainer) existingContainer.remove();                                         /* Apaga régua anterior                 */
+        const container = document.createElement('div');                                           /* Cria caixa da régua                  */
+        container.className = 'conteudo-versiculos';                                               /* Estiliza a régua                     */
 
         /* BLOCO: Laço de repetição que vai de 1 até o total de versículos      */
         for (let i = 1; i <= totalVersiculos; i++) {                                               /* Inicia contagem                      */
@@ -138,28 +138,28 @@ class VersiculosManager {                                                       
                 await this.carregarVersiculo(livro, capitulo, i);                                  /* Carrega o texto                      */
             });
 
-            conteiner.appendChild(botao);                                                          /* Adiciona à régua                     */
+            container.appendChild(botao);                                                          /* Adiciona à régua                     */
         }
-        return conteiner;                                                                          /* Entrega régua pronta                 */
+        return container;                                                                          /* Entrega régua pronta                 */
     }
 
-    /* BLOCO: Função interna para criar um conteiner de versículos             */
-    _criarConteinerVersiculos(areaConteudo) {                                                      /* Cria local de texto                  */
-        let conteiner = areaConteudo.querySelector('.conteudo-versiculos');                        /* Busca local no site                  */
-        if (conteiner) return conteiner;                                                           /* Se existe, reutiliza                 */
+    /* BLOCO: Função interna para criar um container de versículos             */
+    _criarContainerVersiculos(areaConteudo) {                                                      /* Cria local de texto                  */
+        let container = areaConteudo.querySelector('.conteudo-versiculos');                        /* Busca local no site                  */
+        if (container) return container;                                                           /* Se existe, reutiliza                 */
 
         /* BLOCO: Criação física do elemento no DOM                             */
-        conteiner = document.createElement('div');                                                 /* Cria novo elemento                   */
-        conteiner.className = 'conteudo-versiculos';                                               /* Estiliza o local                     */
-        areaConteudo.appendChild(conteiner);                                                       /* Fixa no conteúdo                     */
-        return conteiner;                                                                          /* Retorna local criado                 */
+        container = document.createElement('div');                                                 /* Cria novo elemento                   */
+        container.className = 'conteudo-versiculos';                                               /* Estiliza o local                     */
+        areaConteudo.appendChild(container);                                                       /* Fixa no conteúdo                     */
+        return container;                                                                          /* Retorna local criado                 */
     }
 
     /* BLOCO: Função interna para atualizar o estilo dos botões                */
-    _atualizarBotoesVersiculos(conteiner, versiculoAtivo) {                                        /* Inicia destaque visual               */
+    _atualizarBotoesVersiculos(container, versiculoAtivo) {                                        /* Inicia destaque visual               */
         
         /* BLOCO: Iteração para alternância da classe ativa                    */
-        conteiner.querySelectorAll('.botao-versiculo').forEach(botao => {                          /* Varre botões numéricos               */
+        container.querySelectorAll('.botao-versiculo').forEach(botao => {                          /* Varre botões numéricos               */
             botao.classList.toggle('active', parseInt(botao.dataset.versiculo) === parseInt(versiculoAtivo)); /* Ativa botão               */
         });
     }

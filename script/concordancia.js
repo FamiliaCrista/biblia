@@ -19,9 +19,9 @@ let termoBuscaGlobalAtual = '';                                                 
 
 // O bloco carrega e exibe os dados da concordância para uma letra específica.
 export async function carregarEDisplayConcordanciaPorLetra(letra) {
-    const resultadosConteiner = document.getElementById('resultados-conteiner');   
-    if (!resultadosConteiner) return;                                              // Aborta se o conteiner de resultados não existir.
-    resultadosConteiner.innerHTML = '<div class="loader">Carregando...</div>';     // Exibe um indicador de carregamento.
+    const resultadosContainer = document.getElementById('resultados-container');   
+    if (!resultadosContainer) return;                                              // Aborta se o container de resultados não existir.
+    resultadosContainer.innerHTML = '<div class="carregando">Carregando...</div>';     // Exibe um indicador de carregamento.
 
     try {
         const response = await fetch(`${CONCORDANCIA_DATA_BASE_PATH_LOCAL}${letra.toLowerCase()}.json`);     // Faz a requisição para o arquivo JSON da letra.
@@ -34,7 +34,7 @@ export async function carregarEDisplayConcordanciaPorLetra(letra) {
         _aplicarFiltrosERenderizar();                                                                        // Aplica filtros e renderiza os resultados.
     } catch (error) {
         console.error(error);
-        resultadosConteiner.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;                     // Exibe uma mensagem de erro na interface.
+        resultadosContainer.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;                     // Exibe uma mensagem de erro na interface.
         dadosCarregadosPorLetraOuBusca = [];                                                                 // Limpa os dados em caso de erro.
     }
 }
@@ -42,8 +42,8 @@ export async function carregarEDisplayConcordanciaPorLetra(letra) {
 // Este blococria a função chamada quando a view da concordância está pronta.
 export function onConcordanciaViewReady() {
     // Busca os elementos dos filtros na interface.
-    const testamentoSelect = document.getElementById('custom-testamento-select')?.querySelector('.select-selected');
-    const livroSelect = document.getElementById('custom-livro-select')?.querySelector('.select-selected');
+    const testamentoSelect = document.getElementById('custom-testamento-select')?.querySelector('.opcao-selecionada');
+    const livroSelect = document.getElementById('custom-livro-select')?.querySelector('.opcao-selecionada');
     const palavraInput = document.getElementById('filtro-palavra-input');
 
     // Atualiza as variáveis de estado com os valores dos filtros.
@@ -160,9 +160,9 @@ function _aplicarFiltrosERenderizar() {
 
 // Este bloco renderiza a lista de resultados no DOM.
 function _renderizarResultados(lista) {
-    const conteiner = document.getElementById('resultados-conteiner');
-    if (!conteiner) return;
-    conteiner.innerHTML = '';                                                                                // Limpa o conteiner antes de renderizar.
+    const container = document.getElementById('resultados-container') || document.getElementById('resultados-container');
+    if (!container) return;
+    container.innerHTML = '';                                                                                // Limpa o container antes de renderizar.
     if (!lista || lista.length === 0) {
         let mensagem = "Nenhum resultado encontrado para os filtros aplicados.";
         if (termoBuscaGlobalAtual) {
@@ -170,17 +170,17 @@ function _renderizarResultados(lista) {
         } else if (filtroPalavraAtual) {
             mensagem = `Nenhum resultado encontrado para "${filtroPalavraAtual}".`;
         }
-        conteiner.innerHTML = `<div class="sem-resultados"><h3>Sem resultados</h3><p>${mensagem}</p></div>`;
+        container.innerHTML = `<div class="sem-resultados"><h3>Sem resultados</h3><p>${mensagem}</p></div>`;
         return;
     }
 
     // Este bloco itera sobre cada item da lista para criar seu elemento HTML.
     lista.forEach(item => {
         const section = document.createElement('div');
-        section.className = 'palavra-section';
+        section.className = 'palavra-secao';
 
         const header = document.createElement('div');
-        header.className = 'palavra-header';
+        header.className = 'cabecalho-palavra';
         header.innerHTML = `
             <h2 class="palavra-titulo">${item.palavra}</h2>
             <span class="contador">${item.ocorrencias || 0} ocorrências</span>
@@ -188,7 +188,7 @@ function _renderizarResultados(lista) {
         section.appendChild(header);
 
         if (item.fonte) {
-            section.innerHTML += `<div class="palavra-fonte-info"><strong>Fonte:</strong> ${item.fonte}</div>`;
+            section.innerHTML += `<div class="info-fonte-palavra-esquerda"><strong>Fonte:</strong> ${item.fonte}</div>`;
         }
         if (item['veja tambem']?.length) {
             section.innerHTML += `<div class="palavra-veja-tambem-info"><strong>Veja também:</strong> ${item['veja tambem'].join(', ')}</div>`;
@@ -216,7 +216,7 @@ function _renderizarResultados(lista) {
             }
         });
 
-        conteiner.appendChild(section);
+        container.appendChild(section);
     });
 
     const inicial = document.getElementById('initial-message');
@@ -227,13 +227,13 @@ function _renderizarResultados(lista) {
 function criarSecaoLivro(section, livro, ocorrencias, palavra) {
     const grupo = document.createElement('div');
     grupo.className = 'livro-grupo';
-    grupo.innerHTML = `<div class="livro-header">${formatarNomeLivro(livro)} (${ocorrencias.length} ocorrência${ocorrencias.length > 1 ? 's' : ''})</div>`;
+    grupo.innerHTML = `<div class="cabecalho-livro">${formatarNomeLivro(livro)} (${ocorrencias.length} ocorrência${ocorrencias.length > 1 ? 's' : ''})</div>`;
 
     ocorrencias.forEach(oc => {
         const div = document.createElement('div');
         div.className = 'ocorrencia';
         div.innerHTML = `
-            <div class="referenciaConcordancia">${formatarReferencia(oc.referencia)}</div>
+            <div class="referencia-concordancia">${formatarReferencia(oc.referencia)}</div>
             <div class="texto">${destacarPalavra(oc.texto, termoBuscaGlobalAtual || palavra)}</div>
         `;
         grupo.appendChild(div);
@@ -245,17 +245,17 @@ function criarSecaoLivro(section, livro, ocorrencias, palavra) {
 // Este bloocoo executa uma busca global por um termo em todos os arquivos da concordância.
 export async function executarBuscaGlobalConcordancia(termo) {
     termoBuscaGlobalAtual = termo.trim().toLowerCase();                                                      // Normaliza e armazena o termo de busca.
-    const resultadosConteiner = document.getElementById('resultados-conteiner');
+    const resultadosContainer = document.getElementById('resultados-container');
     filtroPalavraAtual = '';                                                                                 // Limpa o filtro de palavra.
 
     if (!termoBuscaGlobalAtual) {
-        if (resultadosConteiner) resultadosConteiner.innerHTML = '<p class="sem-resultados">Digite um termo para a busca global.</p>';
+        if (resultadosContainer) resultadosContainer.innerHTML = '<p class="sem-resultados">Digite um termo para a busca global.</p>';
         dadosCarregadosPorLetraOuBusca = [];
         return;
     }
 
-    if (resultadosConteiner) {
-        resultadosConteiner.innerHTML = '<div class="loader-global-busca">🔍 Buscando em toda a Bíblia...</div>';
+    if (resultadosContainer) {
+        resultadosContainer.innerHTML = '<div class="carregando-busca-global">🔍 Buscando em toda a Bíblia...</div>';
     }
 
     const todosOsResultadosGlobais = new Map();                                                                    // Usa um Map para evitar resultados duplicados.

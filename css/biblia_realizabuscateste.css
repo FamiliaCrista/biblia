@@ -7,7 +7,7 @@
 /*           CONFIGURA O CONTÊINER PRINCIPAL            */
 /*               DA SOBREPOSIÇÃO DE BUSCA               */
 /*======================================================*/
-#search-overlay-content {
+#busca-conteudo {
     max-width: 100%;                                       /* Define a largura total para garantir que o CONTÊINER DE BUSCA ocupe toda a extensão.                             */
     margin: 10px auto;                                     /* Define 40px de margem superior/inferior e margens laterais automáticas (auto) para centralização horizontal.     */
     opacity: 0;                                            /* Define a opacidade como 0 (nula) para iniciar a transição de exibição.                                           */
@@ -22,14 +22,14 @@
 /*======================================================*/
 /*    Torna o contêiner visível após o carregamento     */
 /*======================================================*/
-#search-overlay-content.loaded {
+#busca-conteudo.loaded {
     opacity: 1;                                            /* Define a opacidade como 1 (total) para tornar o CONTÊINER DE BUSCA totalmente visível após o carregamento. */
 }
 
 /*======================================================*/
 /*          TÍTULO PRINCIPAL DA SOBREPOSIÇÃO            */
 /*======================================================*/
-#search-overlay-content h2 {
+#busca-conteudo h2 {
     margin-bottom: 30px;                                   /* Define 30px de margem inferior para o TÍTULO PRINCIPAL.            */
     text-shadow: 2px 2px 2px #000;                       /* Aplica uma sombra ao texto do TÍTULO PRINCIPAL.                    */
     color: yellow;                                       /* Define a cor do texto do TÍTULO PRINCIPAL em amarelo.              */
@@ -41,7 +41,7 @@
 /*======================================================*/
 /*       PARTE INTERNA DA BARRA DE PROGRESSO            */
 /*======================================================*/
-#search-overlay-progress-bar-inner {
+#busca-progresso-barra-interna {
     width: 0%;                                             /* Inicia a largura em 0% para a animação da BARRA DE PROGRESSO INTERNA.           */
     height: 20px;                                          /* Define a altura da BARRA DE PROGRESSO INTERNA.                                  */
     background-color: #FFD700;                           /* Define a cor de preenchimento em dourado para a BARRA DE PROGRESSO INTERNA.     */
@@ -52,7 +52,7 @@
 /*======================================================*/
 /*       PARTE EXTERNA DA BARRA DE PROGRESSO            */
 /*======================================================*/
-#search-overlay-progress-bar-outer {
+#busca-progresso-barra-externa {
     width: 80%;                                            /* Define a largura da BARRA DE PROGRESSO EXTERNA.                                                                  */
     margin: 15px auto;                                     /* Define 15px de margem superior/inferior e margens laterais automáticas (auto) para centralização horizontal.     */
     padding: 3px;                                          /* Define o preenchimento interno para criar um respiro na BARRA DE PROGRESSO EXTERNA.                              */
@@ -63,7 +63,7 @@
 /*======================================================*/
 /*        CONTÊINER DA BARRA DE PROGRESSO               */
 /*======================================================*/
-#search-overlay-progress-conteiner {
+#busca-progresso-container {
     padding: 20px;                                         /* Define o preenchimento interno para o CONTÊINER DA BARRA DE PROGRESSO.               */
     text-align: center;                                    /* Define o alinhamento de texto centralizado para o CONTÊINER DA BARRA DE PROGRESSO.   */
 }
@@ -71,7 +71,7 @@
 /*======================================================*/
 /*          TEXTO DE PROGRESSO DA BUSCA                 */
 /*======================================================*/
-#search-overlay-progress-text {
+#busca-progresso-texto {
     margin-top: 10px;                                      /* Define 10px de margem superior para o TEXTO DE PROGRESSO DA BUSCA.            */
     color: #ccc;                                         /* Define a cor do texto em cinza claro para o TEXTO DE PROGRESSO DA BUSCA.      */
     font-style: italic;                                    /* Define o estilo da fonte como itálico para o TEXTO DE PROGRESSO DA BUSCA.     */
@@ -80,16 +80,50 @@
 /*======================================================*/
 /*         MENSAGEM DE "NENHUM RESULTADO"               */
 /*======================================================*/
-#search-overlay-resultados-conteiner p {
+#busca-resultados-container p p {
     padding: 40px 0;                                       /* Define 40px de preenchimento vertical para criar um respiro na MENSAGEM DE RESULTADO.*/
     text-align: center;                                    /* Define o alinhamento de texto centralizado para a MENSAGEM DE RESULTADO.             */
     font-size: 1.2em;                                      /* Define o tamanho da fonte para a MENSAGEM DE RESULTADO.                              */
 }
 
 /*======================================================*/
+/*        CONTÊINER DA BARRA DE PROGRESSO (COMPAT)      */
+/*======================================================*/
+#busca-progresso-container,
+#progresso-container {
+    padding: 20px;                                         /* Define o preenchimento interno para o CONTÊINER DA BARRA DE PROGRESSO.               */
+    text-align: center;                                    /* Define o alinhamento de texto centralizado para o CONTÊINER DA BARRA DE PROGRESSO.   */
+}
+
+#busca-progresso-barra-interna,
+#progresso-barra-interna {
+    width: 0%;                                             /* Inicia a largura em 0% para a animação da BARRA DE PROGRESSO INTERNA.           */
+    height: 20px;                                          /* Define a altura da BARRA DE PROGRESSO INTERNA.                                  */
+    background-color: #FFD700;                           /* Define a cor de preenchimento em dourado para a BARRA DE PROGRESSO INTERNA.     */
+    border-radius: 10px;                                   /* Define os cantos arredondados para a BARRA DE PROGRESSO INTERNA.                */
+    transition: width 0.4s ease-in-out;                    /* Adiciona uma transição suave para a alteração da largura.                       */
+}
+
+#busca-progresso-barra-externa,
+#progresso-barra-externa {
+    width: 80%;                                            /* Define a largura da BARRA DE PROGRESSO EXTERNA.                                                                  */
+    margin: 15px auto;                                     /* Define 15px de margem superior/inferior e margens laterais automáticas (auto) para centralização horizontal.     */
+    padding: 3px;                                          /* Define o preenchimento interno para criar um respiro na BARRA DE PROGRESSO EXTERNA.                              */
+    background-color: #555;                              /* Define a cor de fundo em cinza escuro para a BARRA DE PROGRESSO EXTERNA.                                         */
+    border-radius: 13px;                                   /* Define os cantos arredondados para a BARRA DE PROGRESSO EXTERNA.                                                 */
+}
+
+#busca-progresso-texto,
+#progresso-texto {
+    margin-top: 10px;                                      /* Define 10px de margem superior para o TEXTO DE PROGRESSO DA BUSCA.            */
+    color: #ccc;                                         /* Define a cor do texto em cinza claro para o TEXTO DE PROGRESSO DA BUSCA.      */
+    font-style: italic;                                    /* Define o estilo da fonte como itálico para o TEXTO DE PROGRESSO DA BUSCA.     */
+}
+
+/*======================================================*/
 /*             BOTÃO DE FECHAR SOBREPOSIÇÃO             */
 /*======================================================*/
-.search-overlay-botao-fechar {
+.busca-botao-fechar {
     position: fixed;                                       /* Define o posicionamento fixo para manter o BOTÃO FECHAR estático na tela.                  */
     top: 20px;                                             /* Define a distância do topo para posicionar o BOTÃO FECHAR.                                 */
     right: 30px;                                           /* Define a distância da direita para posicionar o BOTÃO FECHAR.                              */
@@ -105,7 +139,7 @@
 /*======================================================*/
 /*           ITEM INDIVIDUAL DO RESULTADO               */
 /*======================================================*/
-.search-overlay-resultado-item {
+.busca-resultado-item {
     padding: 15px 10px;                                    /* Define o preenchimento interno vertical/horizontal para o ITEM DE RESULTADO.  */
     border-bottom: 1px solid #444;                       /* Adiciona uma borda sólida cinza na parte inferior como linha separadora.      */
     line-height: 1.6;                                      /* Define a altura da linha para melhorar a legibilidade no ITEM DE RESULTADO.   */
@@ -114,7 +148,7 @@
 /*======================================================*/
 /*         TEXTO DO VERSÍCULO DO RESULTADO              */
 /*======================================================*/
-.search-overlay-resultado-item span {
+.busca-resultado-item span {
     color: #eee;                                         /* Define a cor do texto do versículo em cinza claro.                 */
     font-weight: normal;                                   /* Define o peso da fonte como normal para o texto do versículo.      */
     font-style: normal;                                    /* Define o estilo da fonte como normal para o texto do versículo.    */
@@ -123,7 +157,7 @@
 /*======================================================*/
 /*            LINK DO TÍTULO DO RESULTADO               */
 /*======================================================*/
-.search-overlay-resultado-item strong a {
+.busca-resultado-item strong a {
     display: block;                                        /* Define a exibição como bloco para que o link ocupe toda a largura.            */
     margin-bottom: 5px;                                    /* Define 5px de margem inferior para o link do TÍTULO DO RESULTADO.             */
     opacity: 1;                                            /* Define a opacidade como 1 (total) para o link.                                */
@@ -137,7 +171,7 @@
 /*======================================================*/
 /*        LINK DO TÍTULO DO RESULTADO — HOVER           */
 /*======================================================*/
-.search-overlay-resultado-item strong a:hover {
+.busca-resultado-item strong a:hover {
     opacity: 0.8;                                          /* Reduz a opacidade para 0.8 no efeito de HOVER.       */
     text-decoration: none;                                 /* Remove o sublinhado no efeito de HOVER.              */
 }
@@ -145,7 +179,7 @@
 /*======================================================*/
 /*             IMAGEM DE MARCA D'ÁGUA                   */
 /*======================================================*/
-#marcadagua {
+#marca-dagua-busca {
     position: fixed;                                       /* Define o posicionamento fixo para manter a MARCA D'ÁGUA estática na tela.               */
     top: 50%;                                              /* Define a distância do topo em 50% para auxiliar a centralização vertical.               */
     left: 50%;                                             /* Define a distância da esquerda em 50% para auxiliar a centralização horizontal.         */

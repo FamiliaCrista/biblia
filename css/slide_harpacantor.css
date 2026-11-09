@@ -44,7 +44,7 @@ body::before {
 /*   Estrutura flexível que organiza o cabeçalho,       */
 /*   conteúdo e controles do slide de hinos             */
 /*======================================================*/
-#slide-conteiner {
+#slide-container {
     display: flex;                                         /* Ativa o FLEXBOX para alinhar os itens corretamente no layout do CONTÊINER PRINCIPAL DO SLIDE.        */
     flex-direction: column;                                /* Define a orientação em coluna para empilhar verticalmente os elementos.                              */
     justify-content: space-between;                        /* Define a distribuição dos itens para criar espaçamento entre os blocos do SLIDE.                     */
@@ -177,7 +177,7 @@ body::before {
 /*   Estilo comum para botões de navegação              */
 /*   entre estrofes do hino                             */
 /*======================================================*/
-#btn-anterior, #btn-proximo {
+#botao-anterior, #botao-proximo {
     border: none;                                          /* Define a borda como nula para remover o contorno padrão dos BOTÕES DE NAVEGAÇÃO.           */
     padding: 0.6rem 1.5rem;                                /* Define o preenchimento interno vertical e horizontal para dimensionar os BOTÕES.           */
     font-size: clamp(0.9rem, 1.2vw, 1.2rem);               /* Define o tamanho da fonte de forma responsiva para os BOTÕES DE NAVEGAÇÃO.                 */
@@ -194,7 +194,7 @@ body::before {
 /*   Aciona a navegação para a estrofe anterior         */
 /*   do hino atual                                      */
 /*======================================================*/
-#btn-anterior {
+#botao-anterior {
     background-color: #f1c40f;                           /* Define a cor de fundo em dourado para destacar a ação do BOTÃO DE ESTROFE ANTERIOR.    */
     color: black;                                        /* Define a cor do texto em preto para garantir a leitura no BOTÃO DE ESTROFE ANTERIOR.   */
 }
@@ -204,7 +204,7 @@ body::before {
 /*   Aciona a navegação para a próxima estrofe          */
 /*   do hino atual                                      */
 /*======================================================*/
-#btn-proximo {
+#botao-proximo {
     background-color: #f1c40f;                           /* Define a cor de fundo em dourado para destacar a ação do BOTÃO DE PRÓXIMA ESTROFE.     */
     color: black;                                        /* Define a cor do texto em preto para garantir a leitura no BOTÃO DE PRÓXIMA ESTROFE.    */
 }
@@ -213,7 +213,7 @@ body::before {
 /*         BOTÃO DE ESTROFE ANTERIOR - HOVER            */
 /*           Efeito visual ao passar o mouse            */
 /*======================================================*/
-#btn-anterior:not(:disabled):hover {
+#botao-anterior:not(:disabled):hover {
     background-color: #d4ac0d;                           /* Define a cor de fundo em dourado mais escuro para o efeito de HOVER no BOTÃO ANTERIOR. */
     color: white;                                        /* Define a cor do texto em branco para o efeito de HOVER no BOTÃO ANterior.              */
 }
@@ -222,7 +222,7 @@ body::before {
 /*         BOTÃO DE PRÓXIMA ESTROFE - HOVER             */
 /*           Efeito visual ao passar o mouse            */
 /*======================================================*/
-#btn-proximo:not(:disabled):hover {
+#botao-proximo:not(:disabled):hover {
     background-color: #d4ac0d;                           /* Define a cor de fundo em dourado mais escuro para o efeito de HOVER no BOTÃO PRÓXIMO.  */
     color: white;                                        /* Define a cor do texto em branco para o efeito de HOVER no BOTÃO PRÓXIMO.               */
 }
@@ -232,7 +232,7 @@ body::before {
 /*   Estilo visual para botões inativos quando          */
 /*   não há estrofe anterior/próxima disponível         */
 /*======================================================*/
-#btn-anterior:disabled, #btn-proximo:disabled {
+#botao-anterior:disabled, #botao-proximo:disabled {
     background-color: #333333;                           /* Define a cor de fundo em cinza escuro para os BOTÕES DE NAVEGAÇÃO quando desativados.  */
     color: #888888;                                      /* Define a cor do texto em cinza claro para os BOTÕES DE NAVEGAÇÃO quando desativados.   */
     cursor: not-allowed;                                   /* Define o cursor como "não permitido" para os BOTÕES DE NAVEGAÇÃO quando desativados.   */
@@ -243,7 +243,7 @@ body::before {
 /*                  MARCA D'ÁGUA                        */
 /*       Imagem de fundo semi-transparente              */
 /*======================================================*/
-#marcadagua {
+#marca-dagua-harpacantor-slide {
     position: fixed;                                       /* Define o posicionamento fixo para manter a MARCA D'ÁGUA estática durante a rolagem da página.     */
     top: 0;                                                /* Define a distância do topo como zero para que a MARCA D'ÁGUA comece no limite superior.           */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar a MARCA D'ÁGUA ao limite lateral.           */

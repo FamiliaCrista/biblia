@@ -123,9 +123,9 @@ class SearchIndex {
         return resultados.slice(0, maxResults);
     }
 
-    isReady() {
+    pronto() {
         return this.isIndexBuilt;
     }
 }
 
-window.searchIndex = new SearchIndex();
+window.indiceBusca = new SearchIndex();

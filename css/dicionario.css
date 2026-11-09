@@ -42,7 +42,7 @@
 /*          CONTEINER PRINCIPAL DO DICIONÁRIO           */
 /*        Container que engloba todo o conteúdo         */
 /*======================================================*/
-.dicionario-conteiner {
+.dicionario-container {
     width: 100%;                                           /* Define a largura total para garantir que o CONTEINER PRINCIPAL DO DICIONÁRIO ocupe toda a extensão.  */
     max-width: 100%;                                       /* Define o limite máximo de largura sem restrições para o CONTEINER PRINCIPAL DO DICIONÁRIO.           */
     padding: 25px 0px;                                     /* Define o preenchimento interno vertical para criar um respiro no CONTEINER PRINCIPAL DO DICIONÁRIO.  */
@@ -103,7 +103,7 @@
 /*      BOTÃO DE PÁGINA ANTERIOR DO DICIONÁRIO          */
 /*      Controle para voltar à página anterior          */
 /*======================================================*/
-#btn-anterior-dicionario {
+#botao-anterior-dicionario {
     margin-right: 10px;                                    /* Define o espaçamento à direita para separar o BOTÃO DE PÁGINA ANTERIOR de outros elementos.      */
     padding: 0 15px;                                       /* Define o preenchimento interno horizontal para criar um respiro no BOTÃO DE PÁGINA ANTERIOR.     */
     height: 36px;                                          /* Define a altura fixa para padronizar a dimensão vertical do BOTÃO DE PÁGINA ANTERIOR.            */
@@ -124,7 +124,7 @@
 /*    BOTÃO DE PÁGINA ANTERIOR — EFEITO HOVER ATIVO     */
 /*         Feedback visual ao passar o mouse            */
 /*======================================================*/
-#btn-anterior-dicionario:hover:not(:disabled) {
+#botao-anterior-dicionario:hover:not(:disabled) {
     transform: translateY(-2px);                           /* Define o deslocamento vertical para cima no efeito de HOVER do BOTÃO DE PÁGINA ANTERIOR.*/
     box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);      /* Define uma sombra dourada intensa para destacar o BOTÃO DE PÁGINA ANTERIOR em HOVER.    */
 }
@@ -133,7 +133,7 @@
 /*    BOTÃO DE PÁGINA ANTERIOR — ESTADO DESATIVADO      */
 /*     Estilo quando o botão não está disponível        */
 /*======================================================*/
-#btn-anterior-dicionario:disabled {
+#botao-anterior-dicionario:disabled {
     background: linear-gradient(135deg, #555555 0%, #444444 100%); /* Define um gradiente linear cinza para o fundo do BOTÃO DE PÁGINA ANTERIOR DESATIVADO.               */
     cursor: not-allowed;                                   /* Define o cursor como não permitido para indicar a não interatividade do BOTÃO DE PÁGINA ANTERIOR DESATIVADO.     */
     opacity: 0.6;                                          /* Define a opacidade reduzida para indicar o estado desativado do BOTÃO DE PÁGINA ANTERIOR.                        */
@@ -143,7 +143,7 @@
 /*       BOTÃO DE PRÓXIMA PÁGINA DO DICIONÁRIO          */
 /*      Controle para avançar à próxima página          */
 /*======================================================*/
-#btn-proximo-dicionario {
+#botao-proximo-dicionario {
     margin-left: 10px;                                     /* Define o recuo à esquerda para separar o BOTÃO DE PRÓXIMA PÁGINA de outros elementos.            */
     margin-right: 10px;                                    /* Define o espaçamento à direita para separar o BOTÃO DE PRÓXIMA PÁGINA de outros elementos.       */
     padding: 0 15px;                                       /* Define o preenchimento interno horizontal para criar um respiro no BOTÃO DE PRÓXIMA PÁGINA.      */
@@ -165,7 +165,7 @@
 /*     BOTÃO DE PRÓXIMA PÁGINA — EFEITO HOVER ATIVO     */
 /*          Feedback visual ao passar o mouse           */
 /*======================================================*/
-#btn-proximo-dicionario:hover:not(:disabled) {
+#botao-proximo-dicionario:hover:not(:disabled) {
     transform: translateY(-2px);                           /* Define o deslocamento vertical para cima no efeito de HOVER do BOTÃO DE PRÓXIMA PÁGINA. */
     box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);      /* Define uma sombra dourada intensa para destacar o BOTÃO DE PRÓXIMA PÁGINA em HOVER.     */
 }
@@ -174,7 +174,7 @@
 /*     BOTÃO DE PRÓXIMA PÁGINA — ESTADO DESATIVADO      */
 /*      Estilo quando o botão não está disponível       */
 /*======================================================*/
-#btn-proximo-dicionario:disabled {
+#botao-proximo-dicionario:disabled {
     background: linear-gradient(135deg, #555555 0%, #444444 100%); /* Define um gradiente linear cinza para o fundo do BOTÃO DE PRÓXIMA PÁGINA DESATIVADO.          */
     cursor: not-allowed;                                   /* Define o cursor como não permitido para indicar a não interatividade do BOTÃO DE PRÓXIMA PÁGINA DESATIVADO.*/
     opacity: 0.6;                                          /* Define a opacidade reduzida para indicar o estado desativado do BOTÃO DE PRÓXIMA PÁGINA.                   */
@@ -222,8 +222,8 @@
 /*      BOTÃO DE BUSCA GERAL DO DICIONÁRIO            */
 /*     Botão principal para iniciar pesquisas           */
 /*======================================================*/
-.dicionario-btn,
-.btn-buscar {
+.dicionario-botao,
+.botao-buscar {
     height: 40px;                                          /* Define a altura fixa para padronizar a dimensão vertical do BOTÃO DE BUSCA GERAL.                */
     padding: 0 20px;                                       /* Define o preenchimento interno horizontal para criar um respiro no BOTÃO DE BUSCA GERAL.         */
     background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%); /* Define um gradiente linear dourado para o fundo do BOTÃO DE BUSCA GERAL.                */
@@ -243,8 +243,8 @@
 /*   BOTÃO DE BUSCA GERAL — EFEITO HOVER ATIVO        */
 /*     Feedback visual ao passar o mouse                */
 /*======================================================*/
-.dicionario-btn:hover,
-.btn-buscar:hover {
+.dicionario-botao:hover,
+.botao-buscar:hover {
     transform: translateY(-2px);                           /* Define o deslocamento vertical para cima no efeito de HOVER do BOTÃO DE BUSCA GERAL.             */
     box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);      /* Define uma sombra dourada intensa para destacar o BOTÃO DE BUSCA GERAL em HOVER.                */
 }
@@ -253,8 +253,8 @@
 /*    BOTÃO DE BUSCA GERAL — EFEITO DE CLIQUE         */
 /*     Feedback visual durante o clique                 */
 /*======================================================*/
-.dicionario-btn:active,
-.btn-buscar:active {
+.dicionario-botao:active,
+.botao-buscar:active {
     transform: translateY(0);                              /* Define o deslocamento vertical nulo para retornar à posição original no clique do BOTÃO DE BUSCA GERAL.*/
 }
 
@@ -262,7 +262,7 @@
 /*         CONTEINER DE SUGESTÕES DO DICIONÁRIO         */
 /*        Lista suspensa com sugestões de busca         */
 /*======================================================*/
-#sugestoes-conteiner {
+#sugestoes-container {
     position: absolute;                                    /* Define o posicionamento absoluto para que o CONTEINER DE SUGESTÕES flutue em relação ao seu container.                         */
     top: 100%;                                             /* Define o posicionamento para que o CONTEINER DE SUGESTÕES comece imediatamente abaixo do elemento pai.                         */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar o CONTEINER DE SUGESTÕES ao limite lateral.                              */
@@ -282,7 +282,7 @@
 /*      CONTEINER DE SUGESTÕES — ESTADO VISÍVEL         */
 /*      Exibe a lista de sugestões quando ativo         */
 /*======================================================*/
-#sugestoes-conteiner.show {
+#sugestoes-container.show {
     display: block;                                        /* Define a exibição como bloco para garantir a VISIBILIDADE do CONTEINER DE SUGESTÕES. */
 }
 
@@ -655,7 +655,7 @@
     /*==================================================*/
     /*     BOTÃO DE BUSCA GERAL — MOBILE               */
     /*==================================================*/
-    .dicionario-btn {
+    .dicionario-botao {
         width: 120px;                                      /* Define a largura fixa para padronizar o tamanho do BOTÃO DE BUSCA GERAL.             */
         margin: 0 5px;                                     /* Define margens horizontais para separar o BOTÃO DE BUSCA GERAL de outros elementos.  */
     }
@@ -687,21 +687,21 @@
     /*==================================================*/
     /*          CONTEINER "SOBRE" — MOBILE              */
     /*==================================================*/
-    .sobre-conteiner {
+    .sobre-container {
         padding: 20px;                                     /* Define o preenchimento interno para criar um respiro no CONTEINER "SOBRE".    */
     }
     
     /*==================================================*/
     /*     CONTEINER "SOBRE" — TÍTULO H2 — MOBILE       */
     /*==================================================*/
-    .sobre-conteiner h2 {
+    .sobre-container h2 {
         font-size: 1.5rem;                                 /* Define o tamanho da fonte para assegurar a legibilidade no TÍTULO H2 do CONTEINER "SOBRE". */
     }
     
     /*==================================================*/
     /*     CONTEINER "SOBRE" — TÍTULO H3 — MOBILE       */
     /*==================================================*/
-    .sobre-conteiner h3 {
+    .sobre-container h3 {
         font-size: 1.1rem;                                 /* Define o tamanho da fonte para assegurar a legibilidade no TÍTULO H3 do CONTEINER "SOBRE". */
     }
     

@@ -38,10 +38,10 @@ function gerarHtmlJanelaSlide(
         <button onclick="document.getElementById('orientacao-fullscreen').remove()" style="background-color: #5c5c5c; color: white; border: none; padding: 8px 15px; margin-top: 15px; border-radius: 5px; cursor: pointer;">Entendi</button>
     </div>                                                                                                                   <!-- Fecha popup de orientação         -->
 
-    <div id="marcadagua"></div>                                                                                              <!-- Camada de fundo decorativo        -->
+    <div id="marca-dagua-slide-biblia"></div>                                                                                              <!-- Camada de fundo decorativo        -->
     <div id="titulo">${livroAcentuado.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>                                <!-- Título do versículo no slide      -->
-    <div id="versiculo-conteiner"><div class="texto-versiculo">Carregando...</div></div>                                     <!-- Local de exibição do texto        -->
-    <div id="botao-conteiner">                                                                                               <!-- Barra de navegação inferior       -->
+    <div id="versiculo-container"><div class="texto-versiculo">Carregando...</div></div>                                     <!-- Local de exibição do texto        -->
+    <div id="botao-container">                                                                                               <!-- Barra de navegação inferior       -->
         <button id="voltar-botao">‹ Anterior</button>                                                                        <!-- Botão para retroceder             -->
         <button id="proximo-botao">Próximo ›</button>                                                                        <!-- Botão para avançar                -->
     </div>                                                                                                                   <!-- Fecha barra de navegação          -->
@@ -61,9 +61,9 @@ function gerarHtmlJanelaSlide(
 
         /* BLOCO: Mapeia as referências dos elementos da interface para permitir a manipulação dinâmica do conteúdo        */
         const tituloElement = document.getElementById('titulo');                                                             /* Referência ao topo do slide         */
-        const versiculoConteiner = document.getElementById('versiculo-conteiner');                                           /* Referência à área de texto          */
-        const btnVoltar = document.getElementById('voltar-botao');                                                           /* Referência ao botão de recuo        */
-        const btnProximo = document.getElementById('proximo-botao');                                                         /* Referência ao botão de avanço       */
+        const versiculoContainer = document.getElementById('versiculo-container');                                           /* Referência à área de texto          */
+        const botaoVoltar = document.getElementById('voltar-botao');                                                           /* Referência ao botão de recuo        */
+        const botaoProximo = document.getElementById('proximo-botao');                                                         /* Referência ao botão de avanço       */
 
         /* BLOCO: Determina o formato e a extensão do arquivo (JSON ou HTML) com base na versão da bíblia ativa            */
         const jsonFileVersions = ['ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original'];                                    /* Lista de traduções em JSON          */
@@ -98,8 +98,8 @@ function gerarHtmlJanelaSlide(
                 console.error("Contagem não encontrada para " + livroAtual);                                                 /* Loga erro técnico de config         */
                 versiculosPorCapituloArray = [];
                 tituloElement.innerText = "ERRO CONFIG";                                                                     /* Alerta visual de falha              */
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;">Config ausente.</div>';      /* Alerta visual de falha              */
-                btnVoltar.disabled = true; btnProximo.disabled = true;
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Config ausente.</div>';      /* Alerta visual de falha              */
+                botaoVoltar.disabled = true; botaoProximo.disabled = true;
             }
         }
 
@@ -109,8 +109,8 @@ function gerarHtmlJanelaSlide(
             console.log("Carregando capítulo: " + caminho);                                                                  /* Log de progresso da carga           */
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                           /* Obtém nome legível                  */
             tituloElement.innerText = livroAcentuado.toUpperCase() + " " + capituloNum + ":... (Carregando)";                /* Atualiza cabeçalho temporário       */
-            versiculoConteiner.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';                      /* Feedback visual de espera           */
-            btnVoltar.disabled = true; btnProximo.disabled = true;                                                           /* Trava botões durante a carga        */
+            versiculoContainer.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';                      /* Feedback visual de espera           */
+            botaoVoltar.disabled = true; botaoProximo.disabled = true;                                                           /* Trava botões durante a carga        */
 
             /* BLOCO: Tenta realizar a requisição do arquivo e processar o formato conforme o tipo de bíblia ativa         */
             try {
@@ -129,7 +129,7 @@ function gerarHtmlJanelaSlide(
             } catch (error) {
                 console.error('Erro ao carregar capítulo:', error);                                                          /* Relata falha crítica                */
                 tituloElement.innerText = "ERRO " + livroAcentuado.toUpperCase() + " " + capituloNum;                        /* Título de erro visual               */
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha na carga.</div>';      /* Texto de erro visual                */
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha na carga.</div>';      /* Texto de erro visual                */
             }
         }
 
@@ -141,7 +141,7 @@ function gerarHtmlJanelaSlide(
 
             /* BLOCO: Valida se os dados do capítulo foram carregados com sucesso antes de tentar renderizar o versículo   */
             if (!dadosCapitulo) {
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:orange;">Sem dados.</div>';        /* Alerta falha de dados               */
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:orange;">Sem dados.</div>';        /* Alerta falha de dados               */
                 atualizarBotoes(); return;
             }
 
@@ -158,7 +158,7 @@ function gerarHtmlJanelaSlide(
                         if (versiculoData.palavras && Array.isArray(versiculoData.palavras)) {
                             conteudo += '<div class="palavras-container">';                                                  /* Inicia contêiner interlinear        */
                             versiculoData.palavras.forEach(function(palavra) {
-                                conteudo += '<div class="word-detail-item">';                                                /* Inicia item de palavra              */
+                                conteudo += '<div class=".detalhe-palavra">';                                                /* Inicia item de palavra              */
                                 conteudo += '<div class="hebrew">' + (palavra.hebraico || '') + '</div>';                    /* Texto original                      */
                                 conteudo += '<div class="transliteration">' + (palavra.transliteracao || '') + '</div>';     /* Pronúncia transliterada             */
                                 conteudo += '<div class="translation">' + (palavra.traducao_palavra || '') + '</div>';       /* Tradução literal                    */
@@ -194,7 +194,7 @@ function gerarHtmlJanelaSlide(
 
             /* BLOCO: Sincroniza o título e o conteúdo textual na tela e ativa o efeito visual de carregamento concluído   */
             tituloElement.innerText = livroAcentuado.toUpperCase() + " " + capituloAtual + ":" + versiculoNum;               /* Escreve posição no topo             */
-            versiculoConteiner.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';      /* Atualiza área central               */
+            versiculoContainer.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';      /* Atualiza área central               */
             atualizarBotoes();                                                                                               /* Revalida estado dos controles       */
             document.body.classList.add('loaded');                                                                           /* Dispara animação de entrada         */
         }
@@ -202,7 +202,7 @@ function gerarHtmlJanelaSlide(
         /* BLOCO: Gerencia a ativação e inativação dos botões de controle baseado nos limites de capítulos e versículos    */
         function atualizarBotoes() {
             if (!versiculosPorCapituloArray || versiculosPorCapituloArray.length === 0) {
-                btnVoltar.disabled = true; btnProximo.disabled = true; return;                                               /* Trava navegação total               */
+                botaoVoltar.disabled = true; botaoProximo.disabled = true; return;                                               /* Trava navegação total               */
             }
             
             /* BLOCO: Calcula as regras de limite para habilitar ou travar os botões de controle de slide                  */
@@ -210,13 +210,13 @@ function gerarHtmlJanelaSlide(
             const ultimoVerCap = (capituloAtual > 0 && capituloAtual <= totalCaps) ? versiculosPorCapituloArray[capituloAtual - 1] : 1;
             const idxLivro = livrosOrdemGlobal.indexOf(livroAtual);                                                          /* Localiza posição na bíblia          */
 
-            btnVoltar.disabled = (capituloAtual === 1 && versiculoAtual === 1 && idxLivro === 0);                            /* Bloqueia no início (Gênesis 1:1)    */
-            btnProximo.disabled = (capituloAtual === totalCaps && versiculoAtual === ultimoVerCap && idxLivro === livrosOrdemGlobal.length - 1);
+            botaoVoltar.disabled = (capituloAtual === 1 && versiculoAtual === 1 && idxLivro === 0);                            /* Bloqueia no início (Gênesis 1:1)    */
+            botaoProximo.disabled = (capituloAtual === totalCaps && versiculoAtual === ultimoVerCap && idxLivro === livrosOrdemGlobal.length - 1);
         }
 
         /* BLOCO: Função responsável por avançar para o próximo versículo, efetuando a troca de capítulo ou livro se necessário */
         function proximoVersiculo() {
-            if (btnProximo.disabled) return;
+            if (botaoProximo.disabled) return;
             const ultimoVerCap = versiculosPorCapituloArray[capituloAtual - 1];                                              /* Pega o limite do capítulo atual     */
             versiculoAtual++;                                                                                                /* Incrementa índice do verso          */
 
@@ -244,7 +244,7 @@ function gerarHtmlJanelaSlide(
 
         /* BLOCO: Função responsável por recuar para o versículo anterior, efetuando a troca de capítulo ou livro se necessário */
         function voltarVersiculo() {
-            if (btnVoltar.disabled) return;
+            if (botaoVoltar.disabled) return;
             versiculoAtual--;                                                                                                /* Decrementa índice do verso          */
 
             /* BLOCO: Verifica o estouro negativo do índice para retornar ao capítulo anterior ou livro precedente         */
@@ -276,8 +276,8 @@ function gerarHtmlJanelaSlide(
         }
 
         /* BLOCO: Registra os escutadores de eventos para botões físicos e atalhos de teclado para navegação fluida        */
-        btnVoltar.addEventListener('click', voltarVersiculo);                                                                /* Ativa botão de recuo                */
-        btnProximo.addEventListener('click', proximoVersiculo);                                                              /* Ativa botão de avanço               */
+        botaoVoltar.addEventListener('click', voltarVersiculo);                                                                /* Ativa botão de recuo                */
+        botaoProximo.addEventListener('click', proximoVersiculo);                                                              /* Ativa botão de avanço               */
         document.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowRight' || e.key === 'PageDown') proximoVersiculo();                                          /* Avanço por seta ou PageDown         */
             else if (e.key === 'ArrowLeft' || e.key === 'PageUp') voltarVersiculo();                                         /* Recuo por seta ou PageUp            */
@@ -303,8 +303,8 @@ function gerarHtmlJanelaSlide(
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                           /* Tenta obter nome para o erro        */
             if (todaContagemDataGlobal[livroAtual]) {
                 tituloElement.innerText = "ERRO";                                                                            /* Título de falha visual              */
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha inicial.</div>';       /* Mensagem de falha visual            */
-                btnVoltar.disabled = true; btnProximo.disabled = true;                                                       /* Inativa controles de erro           */
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha inicial.</div>';       /* Mensagem de falha visual            */
+                botaoVoltar.disabled = true; botaoProximo.disabled = true;                                                       /* Inativa controles de erro           */
             }
         }
     </script>

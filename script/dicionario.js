@@ -11,7 +11,7 @@ class Dicionario {
     constructor() {
         this.currentLetter = null;                                                 // Armazena a letra atualmente selecionada (ex: 'A').
         this.currentPage = 0;                                                      // Controla a página atual para a paginação.
-        this.itemsPerPage = 50;                                                    // Define a quantidade de itens a serem mostrados por página.
+        this.itensPorPagina = 50;                                                    // Define a quantidade de itens a serem mostrados por página.
         this.allTermos = [];                                                       // Mantém um array com todos os termos da letra carregada.
         this.allGlobalTermos = null;                                               // Novo: Armazena todos os termos de todas as letras para busca global.
         this.listaLetras = null;                                                   // Armazena em cache o arquivo de mapeamento de letras (lista_letras.json).
@@ -23,8 +23,8 @@ class Dicionario {
     initializeElements() {
         this.elements = {
             dicionarioInput: document.querySelector('#secao-dicionario .dicionario-busca input'),  // Busca o campo de input da busca do dicionário.
-            dicionarioBtn: document.querySelector('#secao-dicionario .dicionario-btn'),
-            dicionarioResultados: document.getElementById('dicionario-resultados'),                // Busca o conteiner onde os resultados serão exibidos.
+            dicionarioBtn: document.querySelector('#secao-dicionario .dicionario-botao'),
+            dicionarioResultados: document.getElementById('dicionario-resultados'),                // Busca o container onde os resultados serão exibidos.
             secaoDicionario: document.getElementById('secao-dicionario'),                          // Busca o elemento da seção principal do dicionário.
         };
     }
@@ -37,11 +37,11 @@ class Dicionario {
         }
 
         // Este bloco adiciona evento de clique para CADA botão de letra no menu alfabético.
-        document.querySelectorAll('.letra-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
+        document.querySelectorAll('.letra-botao').forEach(botao => {
+            botao.addEventListener('click', () => {
                 // A ação só é executada se a seção do dicionário estiver ativa, evitando chamadas desnecessárias.
                 if (this.elements.secaoDicionario.classList.contains('secao-ativa')) {
-                    const letra = btn.dataset.letra;                                               // Obtém a letra do atributo 'data-letra' do botão.
+                    const letra = botao.dataset.letra;                                               // Obtém a letra do atributo 'data-letra' do botão.
                     this.loadAndDisplayLetter(letra);                                              // Chama a função para carregar e exibir os termos da letra.
                 }
             });
@@ -58,10 +58,10 @@ class Dicionario {
         if (this.elements.dicionarioInput) this.elements.dicionarioInput.value = '';
         
         // Seleciona automaticamente a letra "A"
-        const letraA = document.querySelector('.letra-btn[data-letra="A"]');
+        const letraA = document.querySelector('.letra-botao[data-letra="A"]');
         if (letraA) {
             // Remove classe active de todas as letras
-            document.querySelectorAll('.letra-btn.active').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.letra-botao.active').forEach(botao => botao.classList.remove('active'));
             // Adiciona classe active na letra A
             letraA.classList.add('active');
             // Carrega e exibe os termos da letra A
@@ -85,7 +85,7 @@ class Dicionario {
         // Este bloco limpa a interface antes de carregar novos dados.
         if (this.elements.dicionarioInput) this.elements.dicionarioInput.value = '';                         // Limpa o campo de busca.
         // Exibe um spinner de carregamento.
-        this.elements.dicionarioResultados.innerHTML = '<div class="loading-conteiner"><div class="loading-spinner"></div><p>Carregando dados...</p></div>';
+        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando dados...</p></div>';
         this.clearPagination();                                                                              // Limpa a paginação anterior.
 
         // Este bloco carrega o mapa de arquivos (lista_letras.json) se ainda não estiver em cache.
@@ -140,13 +140,13 @@ class Dicionario {
 
         // Este bloco mapeia cada resultado para seu elemento HTML e junta tudo em uma string.
         const resultsHtml = results.map(item => this.createDefinitionElement(item)).join('');
-        this.elements.dicionarioResultados.innerHTML = resultsHtml;                                          // Insere o HTML gerado no conteiner de resultados.
+        this.elements.dicionarioResultados.innerHTML = resultsHtml;                                          // Insere o HTML gerado no container de resultados.
 
         // Adiciona eventos de clique para expandir/recolher as definições.
-        this.elements.dicionarioResultados.querySelectorAll('.palavra-header').forEach(header => {
+        this.elements.dicionarioResultados.querySelectorAll('.cabecalho-palavra').forEach(header => {
             header.addEventListener('click', () => {
                 const content = header.nextElementSibling;                                                   // Obtém o conteúdo da definição.
-                const indicator = header.querySelector('.expand-indicator');                                 // Obtém o ícone indicador.
+                const indicator = header.querySelector('.indicador-expansao');                                 // Obtém o ícone indicador.
                 const isExpanded = content.style.display === 'block';                                        // Verifica se o conteúdo está visível.
                 
                 content.style.display = isExpanded ? 'none' : 'block';                                       // Alterna a visibilidade do conteúdo.
@@ -164,9 +164,9 @@ class Dicionario {
 
         return `                                                                                             <!-- Retorna a string HTML completa para o item. -->
             <div class="definicao-item">
-                <div class="palavra-header">
+                <div class="cabecalho-palavra">
                     <span class="palavra-titulo">${item.termo.toUpperCase()}</span>
-                    <span class="expand-indicator">▼</span>
+                    <span class="indicador-expansao">▼</span>
                 </div>
                 <div class="definicao-content" style="display:none;">
                     <div class="definicao-texto">${definicaoPrincipal}</div>
@@ -184,16 +184,16 @@ class Dicionario {
 
     // Este bloco renderiza os controles de paginação e os insere na barra de busca.
     renderPagination() {
-        const linhaBusca = document.querySelector('#secao-dicionario .dicionario-linha');                    // Busca o conteiner da barra superior.
+        const linhaBusca = document.querySelector('#secao-dicionario .dicionario-linha');                    // Busca o container da barra superior.
         if (!linhaBusca) return;
 
         this.clearPagination();                                                                              // Garante que não haja controles de paginação duplicados.
 
         // Este bloco calcula os índices para a página atual.
         const total = this.allTermos.length;
-        const startIndex = this.currentPage * this.itemsPerPage;
-        const endIndex = Math.min(startIndex + this.itemsPerPage, total);
-        const showingTotal = Math.min((this.currentPage + 1) * this.itemsPerPage, total);                    // Calcula o total de itens exibidos até a página atual.
+        const startIndex = this.currentPage * this.itensPorPagina;
+        const endIndex = Math.min(startIndex + this.itensPorPagina, total);
+        const showingTotal = Math.min((this.currentPage + 1) * this.itensPorPagina, total);                    // Calcula o total de itens exibidos até a página atual.
 
         if (total === 0) return;                                                                             // Não mostra paginação se não houver resultados.
 
@@ -203,20 +203,20 @@ class Dicionario {
 
         // Este bloco gera o HTML para os botões e o contador.
         const html = `
-            <button id="btn-anterior-dicionario" class="btn-paginacao" ${this.currentPage === 0 ? "disabled" : ""}>ANTERIOR</button>
+            <button id="botao-anterior-dicionario" class="botao-paginacao" ${this.currentPage === 0 ? "disabled" : ""}>ANTERIOR</button>
             <span class="contador-dicionario">Mostrando ${showingTotal} de ${total} resultados</span>
-            <button id="btn-proximo-dicionario" class="btn-paginacao" ${endIndex >= total ? "disabled" : ""}>PRÓXIMO</button>
+            <button id="botao-proximo-dicionario" class="botao-paginacao" ${endIndex >= total ? "disabled" : ""}>PRÓXIMO</button>
         `;
 
         paginacaoGrupo.innerHTML = html;
         linhaBusca.appendChild(paginacaoGrupo);                                                              // Adiciona o grupo de paginação à barra superior.
 
         // Este bloco vincula os eventos de clique aos novos botões.
-        const btnAnterior = document.getElementById("btn-anterior-dicionario");
-        const btnProximo = document.getElementById("btn-proximo-dicionario");
+        const botaoAnterior = document.getElementById("botao-anterior-dicionario");
+        const botaoProximo = document.getElementById("botao-proximo-dicionario");
 
-        if (btnAnterior) {
-            btnAnterior.onclick = () => {
+        if (botaoAnterior) {
+            botaoAnterior.onclick = () => {
                 if (this.currentPage > 0) {
                     this.currentPage--;                                                                      // Decrementa a página atual.
                     this.renderDictionaryResults(this.getCurrentPageTerms());                                // Renderiza os novos resultados.
@@ -225,8 +225,8 @@ class Dicionario {
             };
         }
 
-        if (btnProximo) {
-            btnProximo.onclick = () => {
+        if (botaoProximo) {
+            botaoProximo.onclick = () => {
                 if (endIndex < total) {
                     this.currentPage++;                                                                      // Incrementa a página atual.
                     this.renderDictionaryResults(this.getCurrentPageTerms());                                // Renderiza os novos resultados.
@@ -244,8 +244,8 @@ class Dicionario {
 
     // Este bloco retorna a fatia de termos correspondente à página atual.
     getCurrentPageTerms() {
-        const start = this.currentPage * this.itemsPerPage;                                                  // Calcula o índice inicial.
-        const end = start + this.itemsPerPage;                                                               // Calcula o índice final.
+        const start = this.currentPage * this.itensPorPagina;                                                  // Calcula o índice inicial.
+        const end = start + this.itensPorPagina;                                                               // Calcula o índice final.
         return this.allTermos.slice(start, end);                                                             // Retorna a fatia do array.
     }
 
@@ -263,7 +263,7 @@ class Dicionario {
         }
 
         this.allGlobalTermos = [];
-        this.elements.dicionarioResultados.innerHTML = '<div class="loading-conteiner"><div class="loading-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
+        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
 
         for (const letra in this.listaLetras) {
             const arquivos = this.listaLetras[letra];
@@ -332,8 +332,8 @@ class Dicionario {
 
     // Este bloco atualiza a classe 'active' no botão da letra correspondente no menu lateral.
     updateActiveLetterButton(letra) {
-        document.querySelectorAll('.letra-btn').forEach(btn => {
-            btn.classList.toggle('active', btn.dataset.letra.toUpperCase() === letra.toUpperCase());         // Alterna a classe 'active' com base na correspondência da letra.
+        document.querySelectorAll('.letra-botao').forEach(botao => {
+            botao.classList.toggle('active', botao.dataset.letra.toUpperCase() === letra.toUpperCase());         // Alterna a classe 'active' com base na correspondência da letra.
         });
     }
 }

@@ -13,7 +13,7 @@ class ConcordanciaOptimized {
         this.isLoading = false;
         this.hasMore = true;
         this.currentResults = [];
-        this.searchTerm = '';
+        this.termoBusca = '';
         this.filters = {
             testamento: 'todos',
             livro: 'todos'
@@ -30,7 +30,7 @@ class ConcordanciaOptimized {
 
     initializeElements() {
         this.elements = {
-            resultadosConteiner: document.getElementById('resultados-conteiner'),
+            resultadosContainer: document.getElementById('resultados-container') || document.getElementById('resultados-container'),
             loadingIndicator: document.getElementById('loading-indicator'),
             contadorResultados: document.getElementById('contador-resultados'),
             resultadosVisiveis: document.getElementById('resultados-visiveis'),
@@ -40,71 +40,81 @@ class ConcordanciaOptimized {
             testamentoSelect: document.getElementById('testamento-select'),
             livroSelect: document.getElementById('livro-select'),
             buscaGlobal: document.getElementById('busca-global'),
-            btnBuscar: document.getElementById('btn-buscar'),
-            letrasBtns: document.querySelectorAll('.letra-btn')
+            botaoBuscar: document.getElementById('botao-buscar') || document.getElementById('botao-buscar'),
+            letrasBtns: document.querySelectorAll('.letra-botao')
         };
     }
 
     bindEvents() {
         // Eventos dos botões de letras
-        this.elements.letrasBtns.forEach(btn => {
-            btn.addEventListener('click', (e) => {
+        this.elements.letrasBtns.forEach(botao => {
+            botao.addEventListener('click', (e) => {
                 const letra = e.target.dataset.letra;
                 this.selectLetter(letra);
             });
         });
 
         // Evento do botão carregar mais
-        this.elements.carregarMais.addEventListener('click', () => {
-            this.loadMoreResults();
-        });
+        if (this.elements.carregarMais) {
+            this.elements.carregarMais.addEventListener('click', () => {
+                this.loadMoreResults();
+            });
+        }
 
         // Eventos de busca
-        this.elements.btnBuscar.addEventListener('click', () => {
-            this.performGlobalSearch();
-        });
-
-        this.elements.buscaGlobal.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') {
+        if (this.elements.botaoBuscar) {
+            this.elements.botaoBuscar.addEventListener('click', () => {
                 this.performGlobalSearch();
-            }
-        });
+            });
+        }
+
+        if (this.elements.buscaGlobal) {
+            this.elements.buscaGlobal.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    this.performGlobalSearch();
+                }
+            });
+        }
 
         // Evento input para busca global com debounce
         let debounceTimeout;
-        this.elements.buscaGlobal.addEventListener('input', (e) => {
-            clearTimeout(debounceTimeout);
-            debounceTimeout = setTimeout(() => {
-                const searchTerm = e.target.value.trim();
-                if (!searchTerm) {
-                    this.searchTerm = '';
-                    this.filters.testamento = 'todos';
-                    this.filters.livro = 'todos';
-                    if (this.elements.filtroPalavra) {
-                        this.elements.filtroPalavra.value = '';
-                        this.elements.filtroPalavra.disabled = false; // Reabilita o filtro de palavra
+        if (this.elements.buscaGlobal) {
+            this.elements.buscaGlobal.addEventListener('input', (e) => {
+                clearTimeout(debounceTimeout);
+                debounceTimeout = setTimeout(() => {
+                    const searchTerm = e.target.value.trim();
+                    if (!searchTerm) {
+                        this.termoBusca = '';
+                        this.filters.testamento = 'todos';
+                        this.filters.livro = 'todos';
+                        if (this.elements.filtroPalavra) {
+                            this.elements.filtroPalavra.value = '';
+                            this.elements.filtroPalavra.disabled = false; // Reabilita o filtro de palavra
+                        }
+                        this.resetDropdowns();
+                        this.selectLetter(this.currentLetter); // Recarrega a lista da letra atual
+                    } else {
+                        // Limpa imediatamente a área de resultados quando começar a digitar
+                        if (this.elements.resultadosContainer) this.elements.resultadosContainer.innerHTML = '';
+                        if (this.elements.contadorResultados) this.elements.contadorResultados.style.display = 'none';
+                        if (this.elements.carregarMais) this.elements.carregarMais.style.display = 'none';
+                        
+                        if (this.elements.filtroPalavra) {
+                            this.elements.filtroPalavra.disabled = true; // Desabilita o filtro de palavra
+                        }
                     }
-                    this.resetDropdowns();
-                    this.selectLetter(this.currentLetter); // Recarrega a lista da letra atual
-                } else {
-                    // Limpa imediatamente a área de resultados quando começar a digitar
-                    this.elements.resultadosConteiner.innerHTML = '';
-                    this.elements.contadorResultados.style.display = 'none';
-                    this.elements.carregarMais.style.display = 'none';
-                    
-                    if (this.elements.filtroPalavra) {
-                        this.elements.filtroPalavra.disabled = true; // Desabilita o filtro de palavra
-                    }
-                }
-            }, 300); // Aguarda 300ms após a última digitação
-        });
+                }, 300); // Aguarda 300ms após a última digitação
+            });
+        }
 
         // Filtro de palavra em tempo real (só será acionado se o campo não estiver desabilitado)
-        this.elements.filtroPalavra.addEventListener('input', (e) => {
-            if (!this.elements.filtroPalavra.disabled) {
-                this.filterCurrentResults(e.target.value);
-            }
-        });
+        if (this.elements.filtroPalavra) {
+            this.elements.filtroPalavra.addEventListener('input', (e) => {
+                if (!this.elements.filtroPalavra.disabled) {
+                    this.filterCurrentResults(e.target.value);
+                }
+            });
+        }
 
         // Eventos para dropdowns customizados
         this.setupCustomDropdownEvents();
@@ -120,21 +130,23 @@ class ConcordanciaOptimized {
         const testamentoSelect = document.getElementById('custom-testamento-select');
         if (!testamentoSelect) return;
 
-        const selectedDisplay = testamentoSelect.querySelector('.select-selected');
-        const itemsConteiner = testamentoSelect.querySelector('.select-items');
+        const selectedDisplay = testamentoSelect.querySelector('.opcao-selecionada');
+        const itemsContainer = testamentoSelect.querySelector('.opcoes-seletor');
         
-        if (!selectedDisplay || !itemsConteiner) return;
+        if (!selectedDisplay || !itemsContainer) return;
 
         // Evento para abrir/fechar dropdown
         selectedDisplay.addEventListener('click', (e) => {
             e.stopPropagation();
             this.closeAllDropdowns();
-            itemsConteiner.classList.toggle('select-hide');
+            itemsContainer.classList.toggle('seletor-oculto');
+            itemsContainer.classList.toggle('select-hide');
             selectedDisplay.classList.toggle('select-arrow-active');
+            selectedDisplay.classList.toggle('seta-ativa');
         });
 
         // Eventos para os itens do dropdown
-        itemsConteiner.querySelectorAll('div').forEach(item => {
+        itemsContainer.querySelectorAll('div').forEach(item => {
             item.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const valor = item.getAttribute('data-value') || 'todos';
@@ -145,8 +157,10 @@ class ConcordanciaOptimized {
                 selectedDisplay.setAttribute('data-value', valor);
                 
                 // Remove seleção anterior e marca nova
-                itemsConteiner.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected'));
-                item.classList.add('same-as-selected');
+                itemsContainer.querySelectorAll('div').forEach(div => {
+                    div.classList.remove('same-as-selected', 'selecionado-igual', 'mesmo-que-selecionado');
+                });
+                item.classList.add('same-as-selected', 'selecionado-igual', 'mesmo-que-selecionado');
                 
                 // Atualiza filtro
                 this.filters.testamento = valor;
@@ -169,17 +183,19 @@ class ConcordanciaOptimized {
         const livroSelect = document.getElementById('custom-livro-select');
         if (!livroSelect) return;
 
-        const selectedDisplay = livroSelect.querySelector('.select-selected');
-        const itemsConteiner = livroSelect.querySelector('.select-items');
+        const selectedDisplay = livroSelect.querySelector('.opcao-selecionada');
+        const itemsContainer = livroSelect.querySelector('.opcoes-seletor');
         
-        if (!selectedDisplay || !itemsConteiner) return;
+        if (!selectedDisplay || !itemsContainer) return;
 
         // Evento para abrir/fechar dropdown
         selectedDisplay.addEventListener('click', (e) => {
             e.stopPropagation();
             this.closeAllDropdowns();
-            itemsConteiner.classList.toggle('select-hide');
+            itemsContainer.classList.toggle('seletor-oculto');
+            itemsContainer.classList.toggle('select-hide');
             selectedDisplay.classList.toggle('select-arrow-active');
+            selectedDisplay.classList.toggle('seta-ativa');
         });
 
         // Eventos para os itens serão configurados dinamicamente em updateLivroDropdown
@@ -188,18 +204,18 @@ class ConcordanciaOptimized {
     setupDropdownToggleEvents() {
         // Fecha dropdowns ao clicar fora
         document.addEventListener('click', (e) => {
-            if (!e.target.closest('.custom-select')) {
+            if (!e.target.closest('.select-personalizado')) {
                 this.closeAllDropdowns();
             }
         });
     }
 
     closeAllDropdowns() {
-        document.querySelectorAll('.custom-select .select-items').forEach(conteiner => {
-            conteiner.classList.add('select-hide');
+        document.querySelectorAll('.select-personalizado .opcoes-seletor, .custom-select .select-items').forEach(container => {
+            container.classList.add('seletor-oculto', 'select-hide');
         });
-        document.querySelectorAll('.custom-select .select-selected').forEach(display => {
-            display.classList.remove('select-arrow-active');
+        document.querySelectorAll('.select-personalizado .opcao-selecionada, .custom-select .select-selected').forEach(display => {
+            display.classList.remove('select-arrow-active', 'seta-ativa');
         });
     }
 
@@ -215,7 +231,7 @@ class ConcordanciaOptimized {
         this.currentLetter = letra;
         this.currentPage = 0;
         this.currentResults = [];
-        this.searchTerm = '';
+        this.termoBusca = '';
         // Reseta contadores e pageSize
         this.visibleCount = 0;
         this.totalResultsCount = 0;
@@ -245,7 +261,7 @@ class ConcordanciaOptimized {
         // Reset dropdown de testamento
         const testamentoSelect = document.getElementById('custom-testamento-select');
         if (testamentoSelect) {
-            const selected = testamentoSelect.querySelector('.select-selected');
+            const selected = testamentoSelect.querySelector('.opcao-selecionada');
             if (selected) {
                 selected.textContent = 'Todos';
                 selected.dataset.value = 'todos';
@@ -255,7 +271,7 @@ class ConcordanciaOptimized {
         // Reset dropdown de livro
         const livroSelect = document.getElementById('custom-livro-select');
         if (livroSelect) {
-            const selected = livroSelect.querySelector('.select-selected');
+            const selected = livroSelect.querySelector('.opcao-selecionada');
             if (selected) {
                 selected.textContent = 'Todos os livros';
                 selected.dataset.value = 'todos';
@@ -267,7 +283,7 @@ class ConcordanciaOptimized {
         if (this.isLoading) return;
 
         if (clearResults) {
-            this.elements.resultadosConteiner.innerHTML = '';
+            this.elements.resultadosContainer.innerHTML = '';
             this.elements.contadorResultados.style.display = 'none';
             this.elements.carregarMais.style.display = 'none';
         }
@@ -311,7 +327,7 @@ class ConcordanciaOptimized {
     async loadMoreResults() {
         if (!this.hasMore || this.isLoading) return;
 
-        if (this.searchTerm) {
+        if (this.termoBusca) {
             return;
         }
         
@@ -343,10 +359,10 @@ class ConcordanciaOptimized {
     }
 
     async performGlobalSearch() {
-        const searchTerm = this.elements.buscaGlobal.value.trim();
+        const searchTerm = this.elements.buscaGlobal ? this.elements.buscaGlobal.value.trim() : '';
 
         if (!searchTerm || searchTerm.length === 0) {
-            this.searchTerm = '';
+            this.termoBusca = '';
             this.filters.testamento = 'todos';
             this.filters.livro = 'todos';
             if (this.elements.filtroPalavra) {
@@ -360,13 +376,13 @@ class ConcordanciaOptimized {
 
         if (this.isLoading) return;
 
-        this.elements.resultadosConteiner.innerHTML = '';
-        this.elements.contadorResultados.style.display = 'none';
-        this.elements.carregarMais.style.display = 'none';
+        if (this.elements.resultadosContainer) this.elements.resultadosContainer.innerHTML = '';
+        if (this.elements.contadorResultados) this.elements.contadorResultados.style.display = 'none';
+        if (this.elements.carregarMais) this.elements.carregarMais.style.display = 'none';
         
         this.showLoading(true);
         this.isLoading = true;
-        this.searchTerm = searchTerm;
+        this.termoBusca = searchTerm;
 
         this.filters.testamento = 'todos';
         this.filters.livro = 'todos';
@@ -377,7 +393,7 @@ class ConcordanciaOptimized {
         this.resetDropdowns();
 
         try {
-            const result = await this.searchInAllFiles(searchTerm);
+            const result = await this.buscarEmTodosArquivos(searchTerm);
 
             this.currentResults = result.data;
             this.hasMore = false; 
@@ -470,7 +486,7 @@ class ConcordanciaOptimized {
         }).filter(Boolean);
 
         // 6. Renderiza e atualiza contador
-        this.elements.resultadosConteiner.innerHTML = '';
+        this.elements.resultadosContainer.innerHTML = '';
         this.renderResults(finalResults, false);
         this.updateResultsCounter(finalResults.length, this.totalResultsCount);
     }
@@ -485,32 +501,32 @@ class ConcordanciaOptimized {
         const livroSelect = document.getElementById('custom-livro-select');
         if (!livroSelect) return;
         
-        const itemsConteiner = livroSelect.querySelector('.select-items');
-        const selectedDisplay = livroSelect.querySelector('.select-selected');
+        const itemsContainer = livroSelect.querySelector('.opcoes-seletor, .select-items');
+        const selectedDisplay = livroSelect.querySelector('.opcao-selecionada, .select-selected');
         
-        if (!itemsConteiner || !selectedDisplay) return;
+        if (!itemsContainer || !selectedDisplay) return;
         
-        itemsConteiner.innerHTML = '';
+        itemsContainer.innerHTML = '';
         
         const todosOption = document.createElement('div');
         todosOption.textContent = 'Todos os livros';
         todosOption.setAttribute('data-value', 'todos');
-        todosOption.classList.add('same-as-selected');
-        itemsConteiner.appendChild(todosOption);
+        todosOption.classList.add('same-as-selected', 'selecionado-igual', 'mesmo-que-selecionado');
+        itemsContainer.appendChild(todosOption);
         
         const livros = this.getLivrosPorTestamento(normalizedTestamento);
         livros.forEach(livro => {
             const option = document.createElement('div');
             option.textContent = livro.nome;
             option.setAttribute('data-value', livro.id);
-            itemsConteiner.appendChild(option);
+            itemsContainer.appendChild(option);
         });
         
         selectedDisplay.textContent = 'Todos os livros';
         selectedDisplay.setAttribute('data-value', 'todos');
         this.filters.livro = 'todos';
         
-        itemsConteiner.querySelectorAll('div').forEach(item => {
+        itemsContainer.querySelectorAll('div').forEach(item => {
             item.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const valor = item.getAttribute('data-value') || 'todos';
@@ -519,8 +535,8 @@ class ConcordanciaOptimized {
                 selectedDisplay.textContent = texto;
                 selectedDisplay.setAttribute('data-value', valor);
                 
-                itemsConteiner.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected'));
-                item.classList.add('same-as-selected');
+                itemsContainer.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected', 'selecionado-igual', 'mesmo-que-selecionado'));
+                item.classList.add('same-as-selected', 'selecionado-igual', 'mesmo-que-selecionado');
                 
                 this.filters.livro = valor;
                 
@@ -605,7 +621,7 @@ class ConcordanciaOptimized {
         return livros.find(l => l.id === bookId);
     }
 
-    async searchInAllFiles(searchTerm) {
+    async buscarEmTodosArquivos(searchTerm) {
     const searchLower = searchTerm.toLowerCase();
     console.log('🚀 Iniciando busca otimizada para:', searchLower);
     
@@ -613,7 +629,7 @@ class ConcordanciaOptimized {
     
     // Usa o novo método de busca prioritária
     try {
-        const result = await window.dataManager.searchPriority(searchTerm, this.filters);
+        const result = await window.dataManager.buscarPrioridade(searchTerm, this.filters);
         
         this._hideSearchStatus();
         
@@ -716,7 +732,7 @@ async _fallbackSearch(searchLower) {
 }
 
     renderResults(data, append = false) {
-        if (!append) { this.elements.resultadosConteiner.innerHTML = ''; }
+        if (!append) { this.elements.resultadosContainer.innerHTML = ''; }
         if (data.length === 0 && !append) { this.showNoResults(); return; }
 
         const fragment = document.createDocumentFragment();
@@ -724,42 +740,42 @@ async _fallbackSearch(searchLower) {
             const palavraElement = this.createPalavraElement(item);
             fragment.appendChild(palavraElement);
         });
-        this.elements.resultadosConteiner.appendChild(fragment);
+        this.elements.resultadosContainer.appendChild(fragment);
 
-        this.elements.resultadosConteiner.style.display = 'none';
-        this.elements.resultadosConteiner.offsetHeight;
-        this.elements.resultadosConteiner.style.display = '';
+        this.elements.resultadosContainer.style.display = 'none';
+        this.elements.resultadosContainer.offsetHeight;
+        this.elements.resultadosContainer.style.display = '';
     }
 
     createPalavraElement(item) {
         const palavraDiv = document.createElement('div');
-        palavraDiv.className = 'palavra-item';
+        palavraDiv.className = 'item-palavra';
         const header = document.createElement('div');
-        header.className = 'palavra-header';
+        header.className = 'cabecalho-palavra';
         header.innerHTML = `
             <div class="palavra-titulo">${item.palavra.toUpperCase()}</div>
             <div class="palavra-info">
                 <div class="palavra-detalhes">
-                    ${item.fonte ? `<div class="fonte-info">Fonte: ${item.fonte}</div>` : ''}
+                    ${item.fonte ? `<div class="info-fonte">Fonte: ${item.fonte}</div>` : ''}
                     ${item['veja tambem'] && item['veja tambem'].length > 0 ? `<div class="veja-tambem"><strong>Veja também:</strong> ${item['veja tambem'].join(', ')}</div>` : ''}
                 </div>
-                <div class="ocorrencias-count">${item.ocorrencias} ocorrência${item.ocorrencias !== 1 ? 's' : ''}</div>
+                <div class="contador-ocorrencias">${item.ocorrencias} ocorrência${item.ocorrencias !== 1 ? 's' : ''}</div>
             </div>
-            <div class="expand-indicator">▼</div>
+            <div class="indicador-expansao">▼</div>
         `;
         const content = document.createElement('div');
-        content.className = 'concordancias-content';
+        content.className = 'conteudo-concordancias';
         if (item.concordancias && item.concordancias.length > 0) {
             content.innerHTML = item.concordancias.map(concordancia => `
                 <div class="concordancia-item">
                     <div class="referencia">${concordancia.referencia}</div>
-                    <div class="texto-versiculo">${this.highlightSearchTerm(concordancia.texto, this.searchTerm || this.elements.filtroPalavra.value || item.palavra)}</div>
+                    <div class="texto-versiculo">${this.highlightSearchTerm(concordancia.texto, this.termoBusca || this.elements.filtroPalavra.value || item.palavra)}</div>
                 </div>
             `).join('');
         }
         header.addEventListener('click', () => {
             const isExpanded = content.classList.contains('expanded');
-            const indicator = header.querySelector('.expand-indicator');
+            const indicator = header.querySelector('.indicador-expansao');
             if (isExpanded) {
                 content.classList.remove('expanded');
                 indicator.classList.remove('expanded');
@@ -780,22 +796,20 @@ async _fallbackSearch(searchLower) {
     }
 
     updateActiveLetterButton(letra) {
-        this.elements.letrasBtns.forEach(btn => {
-            btn.classList.remove('active');
-            if (btn.dataset.letra === letra) {
-                btn.classList.add('active');
+        this.elements.letrasBtns.forEach(botao => {
+            botao.classList.remove('active');
+            if (botao.dataset.letra === letra) {
+                botao.classList.add('active');
             }
         });
     }
 
     updateResultsCounter(visible, total) {
-        this.elements.resultadosVisiveis.textContent = visible;
-        this.elements.totalResultados.textContent = total;
+        if (this.elements.resultadosVisiveis) this.elements.resultadosVisiveis.textContent = visible;
+        if (this.elements.totalResultados) this.elements.totalResultados.textContent = total;
         
-        if (visible > 0) {
-            this.elements.contadorResultados.style.display = 'flex';
-        } else {
-            this.elements.contadorResultados.style.display = 'none';
+        if (this.elements.contadorResultados) {
+            this.elements.contadorResultados.style.display = visible > 0 ? 'flex' : 'none';
         }
     }
 
@@ -812,42 +826,42 @@ async _fallbackSearch(searchLower) {
     }
 
     updateLoadMoreButton() {
-        const contadorConteiner = this.elements.contadorResultados;
-        if (!contadorConteiner) return;
+        const contadorContainer = this.elements.contadorResultados;
+        if (!contadorContainer) return;
 
-        contadorConteiner.innerHTML = '';
+        contadorContainer.innerHTML = '';
         if (this.totalResultsCount === 0 && this.currentResults.length === 0) {
-            contadorConteiner.style.display = 'none';
+            contadorContainer.style.display = 'none';
             return;
         }
 
-        const btnAnterior = document.createElement('button');
-        btnAnterior.id = 'btn-anterior';
-        btnAnterior.className = 'btn-paginacao';
-        btnAnterior.textContent = 'ANTERIOR';
-        btnAnterior.onclick = () => this.loadPreviousPage();
-        btnAnterior.disabled = this.currentPage === 0 || !!this.searchTerm;
-        contadorConteiner.appendChild(btnAnterior);
+        const botaoAnterior = document.createElement('button');
+        botaoAnterior.id = 'botao-anterior';
+        botaoAnterior.className = 'botao-paginacao';
+        botaoAnterior.textContent = 'ANTERIOR';
+        botaoAnterior.onclick = () => this.loadPreviousPage();
+        botaoAnterior.disabled = this.currentPage === 0 || !!this.termoBusca;
+        contadorContainer.appendChild(botaoAnterior);
 
         const carregarMaisText = document.createElement('span');
-        carregarMaisText.className = 'btn-carregar-mais';
+        carregarMaisText.className = 'botao-carregar-mais';
         carregarMaisText.textContent = 'CARREGAR MAIS RESULTADOS';
-        contadorConteiner.appendChild(carregarMaisText);
+        contadorContainer.appendChild(carregarMaisText);
 
-        const btnProximo = document.createElement('button');
-        btnProximo.id = 'btn-proximo';
-        btnProximo.className = 'btn-paginacao';
-        btnProximo.textContent = 'PRÓXIMO';
-        btnProximo.onclick = () => this.loadNextPage();
-        btnProximo.disabled = !this.hasMore || !!this.searchTerm;
-        contadorConteiner.appendChild(btnProximo);
+        const botaoProximo = document.createElement('button');
+        botaoProximo.id = 'botao-proximo';
+        botaoProximo.className = 'botao-paginacao';
+        botaoProximo.textContent = 'PRÓXIMO';
+        botaoProximo.onclick = () => this.loadNextPage();
+        botaoProximo.disabled = !this.hasMore || !!this.termoBusca;
+        contadorContainer.appendChild(botaoProximo);
 
         const contador = document.createElement('p');
         // Usa `this.visibleCount` para o valor "mostrando" e `this.totalResultsCount` para o total
         contador.textContent = `Mostrando ${this.visibleCount} de ${this.totalResultsCount} resultados`;
-        contadorConteiner.appendChild(contador);
+        contadorContainer.appendChild(contador);
 
-        contadorConteiner.style.display = 'flex';
+        contadorContainer.style.display = 'flex';
     }
 
     async loadPreviousPage() {
@@ -864,18 +878,19 @@ async _fallbackSearch(searchLower) {
 
     showLoading(show) {
         if (show) {
-            this.elements.loadingIndicator.style.display = 'block';
-            this.elements.resultadosConteiner.style.visibility = 'hidden';
-            this.elements.contadorResultados.style.display = 'none';
-            this.elements.carregarMais.style.display = 'none';
+            if (this.elements.loadingIndicator) this.elements.loadingIndicator.style.display = 'block';
+            if (this.elements.resultadosContainer) this.elements.resultadosContainer.style.visibility = 'hidden';
+            if (this.elements.contadorResultados) this.elements.contadorResultados.style.display = 'none';
+            if (this.elements.carregarMais) this.elements.carregarMais.style.display = 'none';
         } else {
-            this.elements.loadingIndicator.style.display = 'none';
-            this.elements.resultadosConteiner.style.visibility = 'visible';
+            if (this.elements.loadingIndicator) this.elements.loadingIndicator.style.display = 'none';
+            if (this.elements.resultadosContainer) this.elements.resultadosContainer.style.visibility = 'visible';
         }
     }
 
     showError(message) {
-        this.elements.resultadosConteiner.innerHTML = `
+        if (!this.elements.resultadosContainer) return;
+        this.elements.resultadosContainer.innerHTML = `
             <div class="sem-resultados">
                 <h3>Erro</h3>
                 <p>${message}</p>
@@ -884,7 +899,8 @@ async _fallbackSearch(searchLower) {
     }
 
     showNoResults(message = 'Nenhum resultado encontrado.') {
-        this.elements.resultadosConteiner.innerHTML = `
+        if (!this.elements.resultadosContainer) return;
+        this.elements.resultadosContainer.innerHTML = `
             <div class="sem-resultados">
                 <h3>Sem resultados</h3>
                 <p>${message}</p>

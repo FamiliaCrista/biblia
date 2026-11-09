@@ -11,11 +11,11 @@ console.log("[slide_harpacantor_coordenador.js] Script iniciado.");             
 
 /* BLOCO: Define a função coordenadora que inicializa os vínculos de eventos entre o site e a janela de slide          */
 function inicializarSlideHino() {                                                                                           /* Inicia função coordenadora   */
-    const btnSlide = document.getElementById('btnSlide');                                                                   /* Acha botão de projeção       */
+    const botaoSlide = document.getElementById('botaoSlide');                                                                   /* Acha botão de projeção       */
 
     /* BLOCO: Confirma se o botão existe no HTML e adiciona o monitor de clique para disparar o comando de exibição    */
-    if (btnSlide) {
-        btnSlide.addEventListener('click', () => {                                                                          /* Ouve clique no botão         */
+    if (botaoSlide) {
+        botaoSlide.addEventListener('click', () => {                                                                          /* Ouve clique no botão         */
             console.log("[Coordenador] Botão 'Slide' clicado.");                                                            /* Loga intenção do usuário     */
 
             /* BLOCO: Acessa a variável global que armazena os dados (letra e número) do hino selecionado pelo usuário */
@@ -29,7 +29,7 @@ function inicializarSlideHino() {                                               
             }
         });
     } else {
-        console.warn("[Coordenador] Botão 'Slide' com id='btnSlide' não encontrado.");                                      /* Relata falha de elemento     */
+        console.warn("[Coordenador] Botão 'Slide' com id='botaoSlide' não encontrado.");                                      /* Relata falha de elemento     */
     }
 }
 

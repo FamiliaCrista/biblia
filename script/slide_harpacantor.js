@@ -86,8 +86,8 @@ function gerarHtmlJanelaHino(hinoData) {                                        
         <p style="margin: 10px 0 0 0; font-size: 14px;">Para sair, pressione <b>ESC</b> ou mova o mouse para o topo.</p> <!-- Texto informativo 2       -->
         <button onclick="document.getElementById('orientacao-fullscreen').remove()" style="background-color: #5c5c5c; color: white; border: none; padding: 8px 15px; margin-top: 15px; border-radius: 5px; cursor: pointer;">Entendi</button>
     </div>                                                                                                       <!-- Fecha popup orientação    -->
-    <div id="marcadagua"></div>                                                                                  <!-- Camada fundo decorativo   -->
-    <div id="slide-conteiner">                                                                                   <!-- Contêiner mestre slide    -->
+    <div id="marca-dagua-harpacantor-slide"></div>                                                                                  <!-- Camada fundo decorativo   -->
+    <div id="slide-container">                                                                                   <!-- Contêiner mestre slide    -->
         <header id="slide-header">                                                                               <!-- Cabeçalho do conteúdo     -->
             <h1 id="slide-titulo"></h1>                                                                          <!-- Local título do hino      -->
             <p id="slide-progresso"></p>                                                                         <!-- Local contador estrofes   -->
@@ -95,8 +95,8 @@ function gerarHtmlJanelaHino(hinoData) {                                        
         <main id="slide-conteudo"></main>                                                                        <!-- Local letra do hino       -->
     </div>                                                                                                       <!-- Fecha contêiner mestre    -->
     <div id="controles">                                                                                         <!-- Barra botões inferior     -->
-        <button id="btn-anterior">‹ Anterior</button>                                                            <!-- Botão de retroceder       -->
-        <button id="btn-proximo">Próximo ›</button>                                                              <!-- Botão de avançar          -->
+        <button id="botao-anterior">‹ Anterior</button>                                                            <!-- Botão de retroceder       -->
+        <button id="botao-proximo">Próximo ›</button>                                                              <!-- Botão de avançar          -->
     </div>                                                                                                       <!-- Fecha barra controles     -->
     <script>                                                                                                     /* Inicia script interno       */
         /* BLOCO: Inicializa a lógica da janela do slide assim que o documento carregar                      */
@@ -104,8 +104,8 @@ function gerarHtmlJanelaHino(hinoData) {                                        
             const tituloEl = document.getElementById('slide-titulo');                                            /* Captura elemento título     */
             const progressoEl = document.getElementById('slide-progresso');                                      /* Captura elemento progresso  */
             const conteudoEl = document.getElementById('slide-conteudo');                                        /* Captura elemento letra      */
-            const btnAnterior = document.getElementById('btn-anterior');                                         /* Captura elemento anterior   */
-            const btnProximo = document.getElementById('btn-proximo');                                           /* Captura elemento próximo    */
+            const botaoAnterior = document.getElementById('botao-anterior');                                         /* Captura elemento anterior   */
+            const botaoProximo = document.getElementById('botao-proximo');                                           /* Captura elemento próximo    */
             const hino = ${JSON.stringify(hinoData)};                                                            /* Injeta dados do hino        */
             const estrofes = ${JSON.stringify(estrofesArray)};                                                   /* Injeta lista estrofes       */
             let indiceAtual = 0;                                                                                 /* Índice da estrofe atual     */
@@ -123,8 +123,8 @@ function gerarHtmlJanelaHino(hinoData) {                                        
                 const textoFormatado = textoLimpo.split('\\n').join('<br>');                                     /* Troca quebras por <br>      */
                 conteudoEl.innerHTML = \`<div class="estrofe-texto \${isCoro ? 'coro' : ''}">\${textoFormatado}</div>\`; /* Desenha texto no HTML   */
                 progressoEl.textContent = \`Estrofe \${indiceAtual + 1} de \${estrofes.length}\`;                /* Atualiza o contador         */
-                btnAnterior.disabled = (indiceAtual === 0);                                                      /* Trava se for a primeira     */
-                btnProximo.disabled = (indiceAtual === estrofes.length - 1);                                     /* Trava se for a última       */
+                botaoAnterior.disabled = (indiceAtual === 0);                                                      /* Trava se for a primeira     */
+                botaoProximo.disabled = (indiceAtual === estrofes.length - 1);                                     /* Trava se for a última       */
             }
 
             function proximaEstrofe() {                                                                          /* Inicia avanço               */
@@ -143,8 +143,8 @@ function gerarHtmlJanelaHino(hinoData) {                                        
 
             tituloEl.textContent = \`\${hino.numero} - \${hino.titulo}\`;                                        /* Define título no cabeçalho  */
             exibirEstrofe();                                                                                     /* Dispara carga inicial       */
-            btnProximo.addEventListener('click', proximaEstrofe);                                                /* Liga clique no próximo      */
-            btnAnterior.addEventListener('click', estrofeAnterior);                                              /* Liga clique no anterior     */
+            botaoProximo.addEventListener('click', proximaEstrofe);                                                /* Liga clique no próximo      */
+            botaoAnterior.addEventListener('click', estrofeAnterior);                                              /* Liga clique no anterior     */
             document.addEventListener('keydown', (e) => {                                                        /* Monitora teclas             */
                 if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ') {                           /* Seta direita ou espaço      */
                     e.preventDefault();                                                                          /* Evita rolagem nativa        */
@@ -173,9 +173,9 @@ window.escreverHtmlNaJanela = escreverHtmlNaJanela;                             
 
 /* BLOCO: Inicializa o escutador de eventos para o botão de ativação do slide e coordena a exibição do hino  */
 function inicializarSlideHino() {                                                                                /* Inicia coordenador          */
-    const btnSlide = document.getElementById('btnSlide');                                                        /* Captura botão de slide      */
-    if (btnSlide) {                                                                                              /* Valida se botão existe      */
-        btnSlide.addEventListener('click', () => {                                                               /* Adiciona ouvinte clique     */
+    const botaoSlide = document.getElementById('botaoSlide');                                                        /* Captura botão de slide      */
+    if (botaoSlide) {                                                                                              /* Valida se botão existe      */
+        botaoSlide.addEventListener('click', () => {                                                               /* Adiciona ouvinte clique     */
             console.log("[Coordenador] Botão 'Slide' clicado.");                                                 /* Loga intenção usuário       */
             const hinoAtivo = window.activeHinoData;                                                             /* Pega hino selecionado       */
             if (hinoAtivo) {                                                                                     /* Checa se há hino ativo      */
@@ -185,7 +185,7 @@ function inicializarSlideHino() {                                               
             }
         });
     } else {
-        console.warn("[Coordenador] Botão 'Slide' com id='btnSlide' não encontrado.");                           /* Relata erro de elemento     */
+        console.warn("[Coordenador] Botão 'Slide' com id='botaoSlide' não encontrado.");                           /* Relata erro de elemento     */
     }
 }
 

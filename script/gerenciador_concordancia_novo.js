@@ -9,11 +9,11 @@ class DataManager {
         this.listaLetras = null;
         this.currentLetter = null;
         this.currentPage = 0;
-        this.itemsPerPage = 50;
+        this.itensPorPagina = 50;
         this.totalItems = 0;
         this.allData = [];
         this.filteredData = [];
-        this.searchCache = new Map();
+        this.cacheBusca = new Map();
     }
 
     async loadLetterList() {
@@ -66,8 +66,8 @@ class DataManager {
             this.currentLetter = letterLower;
             this.totalItems = allData.length;
 
-            const start = page * this.itemsPerPage;
-            const end = start + this.itemsPerPage;
+            const start = page * this.itensPorPagina;
+            const end = start + this.itensPorPagina;
             const pageData = allData.slice(start, end);
 
             const result = {
@@ -89,12 +89,12 @@ class DataManager {
     }
 
     // Método de busca prioritária
-    async searchPriority(searchTerm, filters = {}) {
+    async buscarPrioridade(searchTerm, filters = {}) {
         const searchLower = searchTerm.toLowerCase();
         const cacheKey = `${searchLower}_${filters.testamento || 'todos'}_${filters.livro || 'todos'}`;
         
-        if (this.searchCache.has(cacheKey)) {
-            return this.searchCache.get(cacheKey);
+        if (this.cacheBusca.has(cacheKey)) {
+            return this.cacheBusca.get(cacheKey);
         }
 
         try {
@@ -124,7 +124,7 @@ class DataManager {
                 total: results.length 
             };
 
-            this.searchCache.set(cacheKey, result);
+            this.cacheBusca.set(cacheKey, result);
             return result;
 
         } catch (error) {

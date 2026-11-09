@@ -46,7 +46,7 @@ class InterfaceManager {
 
      /* BLOCO: Cria dinamicamente a lista de versões (ex: no rodapé)            */
     criarListaVersoes(versoes) {
-        const lista = document.getElementById('versoes-list');                                  /* Acha o local da lista de links            */
+        const lista = document.getElementById('versoes-lista') || document.getElementById('versoes-list'); /* Acha o local da lista de links (compat.)  */
         if (!lista) return;                                                                     /* Aborta se o local sumiu                   */
 
         lista.innerHTML = versoes.map(versao => `                                              

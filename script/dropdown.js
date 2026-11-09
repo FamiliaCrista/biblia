@@ -49,14 +49,17 @@
     ];
 
     /* BLOCO: Função responsável por gerar dinamicamente os itens de cada lista suspensa do menu de navegação  */
-    function populateList(listId, items) {
-        const listElement = document.getElementById(listId);                                       /* Busca o elemento da lista no DOM */
-        if (!listElement) {
-            console.warn(`[dropdown.js] Lista '${listId}' nao encontrada.`);                       /* Alerta caso o ID não exista      */
+    function preencherLista(idLista, itens) {
+        const elementoLista =
+            document.getElementById(idLista) ||
+            document.getElementById(String(idLista).replace(/-lista$/, '-list')) ||
+            document.getElementById(String(idLista).replace(/-list$/, '-lista'));                   /* Busca a lista no DOM (compat. -lista/-list) */
+        if (!elementoLista) {
+            console.warn(`[dropdown.js] Lista '${idLista}' nao encontrada.`);                       /* Alerta caso o ID não exista      */
             return;
         }
-        listElement.innerHTML = '';                                                                /* Limpa o conteúdo atual da lista  */
-        items.forEach(item => {
+        elementoLista.innerHTML = '';                                                              /* Limpa o conteúdo atual da lista  */
+        itens.forEach(item => {
             const li = document.createElement('li');                                               /* Cria o item da lista             */
             const a = document.createElement('a');                                                 /* Cria o link do item              */
             a.href = item.link;                                                                    /* Define o endereço do link        */
@@ -66,52 +69,58 @@
                 a.rel = 'noopener noreferrer';                                                     /* Atribui segurança ao link        */
             }
             li.appendChild(a);                                                                     /* Anexa o link ao marcador         */
-            listElement.appendChild(li);                                                           /* Anexa o marcador à lista         */
+            elementoLista.appendChild(li);                                                         /* Anexa o marcador à lista         */
         });
     }
 
     /* BLOCO: Função que altera o estado visual da lista para visível utilizando a propriedade display         */
-    function showList(listId) {
-        const listElement = document.getElementById(listId);                                       /* Localiza a lista pelo ID         */
-        if (listElement) {
-            listElement.style.display = 'block';                                                   /* Torna o menu visível             */
+    function mostrarLista(idLista) {
+        const elementoLista =
+            document.getElementById(idLista) ||
+            document.getElementById(String(idLista).replace(/-lista$/, '-list')) ||
+            document.getElementById(String(idLista).replace(/-list$/, '-lista'));                   /* Localiza a lista pelo ID (compat.) */
+        if (elementoLista) {
+            elementoLista.style.display = 'block';                                                 /* Torna o menu visível             */
         }
     }
 
     /* BLOCO: Função que altera o estado visual da lista para oculto utilizando a propriedade display          */
-    function hideList(listId) {
-        const listElement = document.getElementById(listId);                                       /* Localiza a lista pelo ID         */
-        if (listElement) {
-            listElement.style.display = 'none';                                                    /* Esconde o menu                   */
+    function ocultarLista(idLista) {
+        const elementoLista =
+            document.getElementById(idLista) ||
+            document.getElementById(String(idLista).replace(/-lista$/, '-list')) ||
+            document.getElementById(String(idLista).replace(/-list$/, '-lista'));                   /* Localiza a lista pelo ID (compat.) */
+        if (elementoLista) {
+            elementoLista.style.display = 'none';                                                  /* Esconde o menu                   */
         }
     }
 
     /* BLOCO: Configura os escutadores de eventos para gerenciar a abertura e o fechamento dos menus suspensos */
     function setupDropdownEvents() {
-        const dropdownTriggers = document.querySelectorAll('nav ul li.dropdown > a');              /* Captura os gatilhos do menu      */
+        const dropdownTriggers = document.querySelectorAll('nav ul li.menu-suspenso > a');              /* Captura os gatilhos do menu      */
         dropdownTriggers.forEach((trigger, index) => {
-            const dropdownConteiner = trigger.parentElement;                                       /* Identifica o pai do gatilho      */
-            const listContent = dropdownConteiner.querySelector('.conteudo-menu-suspenso');        /* Localiza a lista interna         */
+            const dropdownContainer = trigger.parentElement;                                       /* Identifica o pai do gatilho      */
+            const listContent = dropdownContainer.querySelector('.conteudo-menu-suspenso');        /* Localiza a lista interna         */
 
             if (!listContent) return;
             if (listContent.id) {
                 let hideTimeout;                                                                   /* Buffer para o tempo de fechamento*/
                 const show = () => {
                     clearTimeout(hideTimeout);                                                     /* Cancela o agendamento de fechar  */
-                    showList(listContent.id);                                                      /* Exibe o menu suspenso            */
+                    mostrarLista(listContent.id);                                                  /* Exibe o menu suspenso            */
                 };
                 const startHideTimeout = () => {
                     hideTimeout = setTimeout(() => {                                               /* Agenda o fechamento para 250ms   */
-                        const currentConteiner = trigger.parentElement;                            /* Pega o contêiner atual           */
+                        const currentContainer = trigger.parentElement;                            /* Pega o contêiner atual           */
                         const currentList = document.getElementById(listContent.id);               /* Pega a lista pelo ID             */
 
-                        if (!currentConteiner.matches(':hover') && (!currentList || !currentList.matches(':hover'))) {
-                            hideList(listContent.id);                                              /* Oculta se o mouse saiu do menu   */
+                        if (!currentContainer.matches(':hover') && (!currentList || !currentList.matches(':hover'))) {
+                            ocultarLista(listContent.id);                                          /* Oculta se o mouse saiu do menu   */
                         }
                     }, 250);
                 };
-                dropdownConteiner.addEventListener('mouseenter', show);                            /* Evento de entrada no contêiner   */
-                dropdownConteiner.addEventListener('mouseleave', startHideTimeout);                /* Evento de saída do contêiner     */
+                dropdownContainer.addEventListener('mouseenter', show);                            /* Evento de entrada no contêiner   */
+                dropdownContainer.addEventListener('mouseleave', startHideTimeout);                /* Evento de saída do contêiner     */
                 listContent.addEventListener('mouseenter', show);                                  /* Evento de entrada na lista       */
                 listContent.addEventListener('mouseleave', startHideTimeout);                      /* Evento de saída da lista         */
             }
@@ -121,10 +130,10 @@
     /* BLOCO: Inicializa o preenchimento das listas e configura os eventos de interface após a carga total do DOM */
     document.addEventListener('DOMContentLoaded', () => {
         console.log("[dropdown.js] DOM completamente carregado.");                                 /* Log de carregamento concluído    */
-        populateList('baixar-list', downloads);                                                    /* Alimenta lista de downloads      */
-        populateList('dicionario-list', dicionario);                                               /* Alimenta lista de dicionário     */
-        populateList('lista-harpa-hinario', harpaHinario);                                         /* Alimenta lista de hinários       */
-        populateList('utilidades-list', utilidades);                                               /* Alimenta lista de utilitários    */
+        preencherLista('baixar-lista', downloads);                                                  /* Alimenta lista de downloads      */
+        preencherLista('dicionario-lista', dicionario);                                             /* Alimenta lista de dicionário (compat.) */
+        preencherLista('lista-harpa-hinario', harpaHinario);                                        /* Alimenta lista de hinários       */
+        preencherLista('utilidades-lista', utilidades);                                              /* Alimenta lista de utilitários    */
         setupDropdownEvents();                                                                     /* Ativa o monitoramento do mouse   */
         console.log("[dropdown.js] Configuração dos menus concluída.");                            /* Log de finalização de sistema    */
     });

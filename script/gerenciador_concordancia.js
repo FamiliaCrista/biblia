@@ -14,11 +14,11 @@ class DataManager {
         this.listaLetras = null;                                                                    /* Buffer para o índice de letras  */
         this.currentLetter = null;                                                                  /* Identificador da letra ativa    */
         this.currentPage = 0;                                                                       /* Controle da página atual        */
-        this.itemsPerPage = 50;                                                                     /* Define itens por página         */
+        this.itensPorPagina = 50;                                                                     /* Define itens por página         */
         this.totalItems = 0;                                                                        /* Contador total de registros     */
         this.allData = [];                                                                          /* Buffer de dados da letra        */
         this.filteredData = [];                                                                     /* Buffer de dados filtrados       */
-        this.searchIndex = window.searchIndex;                                                      /* Vincula o índice de busca       */
+        this.indiceBusca = window.indiceBusca;                                                      /* Vincula o índice de busca       */
     }
 
     /* BLOCO: Recupera a lista mestre que mapeia os arquivos JSON por letra                         */
@@ -85,8 +85,8 @@ class DataManager {
             }
 
             /* BLOCO: Calcula o fatiamento do array para entregar apenas os itens da página pedida  */
-            const startIndex = page * this.itemsPerPage;                                            /* Define ponto de partida          */
-            const endIndex = startIndex + this.itemsPerPage;                                        /* Define ponto de parada           */
+            const startIndex = page * this.itensPorPagina;                                            /* Define ponto de partida          */
+            const endIndex = startIndex + this.itensPorPagina;                                        /* Define ponto de parada           */
             const pageData = this.allData.slice(startIndex, endIndex);                              /* Extrai fatia de dados            */
             const hasMore = endIndex < this.allData.length;                                         /* Checa se há mais páginas         */
             return {
@@ -147,7 +147,7 @@ class DataManager {
         if (!searchTerm || searchTerm.length < 2) {
             return { data: [], total: 0 };                                                          /* Aborta buscas curtas             */
         }
-        if (this.searchIndex && this.searchIndex.isReady()) {
+        if (this.indiceBusca && this.indiceBusca.pronto()) {
             return this.searchUltraFast(searchTerm, filters);                                       /* Dispara busca de performance     */
         }
         const searchLower = searchTerm.toLowerCase();                                               /* Normaliza termo busca            */
@@ -179,8 +179,8 @@ class DataManager {
         }
 
         /* BLOCO: Utiliza o índice invertido pré-construído para localizar o termo com máxima rapidez*/
-        if (this.searchIndex && this.searchIndex.isReady()) {
-            const resultados = await this.searchIndex.search(searchTerm, 50);                       /* Busca no dicionário de IDs       */
+        if (this.indiceBusca && this.indiceBusca.pronto()) {
+            const resultados = await this.indiceBusca.search(searchTerm, 50);                       /* Busca no dicionário de IDs       */
             const filteredResults = resultados.filter(item => {
                 const matchesTestament = this._matchesTestamentFilter(item, filters.testamento);    /* Aplica filtro testamento         */
                 const matchesBook = this._matchesBookFilter(item, filters.livro);                   /* Aplica filtro livro              */
@@ -195,17 +195,17 @@ class DataManager {
     }
 
     /* BLOCO: Método prioritário que tenta utilizar o índice rápido e fallback                      */
-    async searchPriority(searchTerm, filters = {}) {
+    async buscarPrioridade(searchTerm, filters = {}) {
         if (!searchTerm || searchTerm.length < 2) {
             return { data: [], total: 0 };                                                          /* Aborta buscas curtas             */
         }
         const searchLower = searchTerm.toLowerCase();                                               /* Normaliza termo de pesquisa      */
         
         /* BLOCO: Primeira tentativa: Busca rápida utilizando o dicionário de índices em memória    */
-        if (this.searchIndex && this.searchIndex.isReady()) {
+        if (this.indiceBusca && this.indiceBusca.pronto()) {
             console.log('🔍 Usando índice para busca rápida');                                      /* Log de estratégia ativa          */
             try {
-                const resultados = await this.searchIndex.search(searchLower, 100);                 /* Busca IDs no índice              */
+                const resultados = await this.indiceBusca.search(searchLower, 100);                 /* Busca IDs no índice              */
                 
                 /* BLOCO: Verifica se o índice retornou dados e reconstrói os objetos completos     */
                 if (resultados && resultados.length > 0) {

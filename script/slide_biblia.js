@@ -392,10 +392,10 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             <button id="fechar-popup">Fechar</button>                                                                    <!-- Gatilho remoção overlay   -->
         </div>
     </div>
-    <div id="marcadagua"></div>                                                                                          <!-- Camada fundo decorativa   -->
+    <div id="marca-dagua-slide-biblia"></div>                                                                                          <!-- Camada fundo decorativa   -->
     <div id="titulo">\${livroAcentuado.toUpperCase()} \${capituloAtual}:\${versiculoAtual}</div>                         <!-- Cabeçalho do slide atual  -->
-    <div id="versiculo-conteiner"><div class="texto-versiculo">Carregando...</div></div>                                 <!-- Local do texto bíblico    -->
-    <div id="botao-conteiner">                                                                                           <!-- Barra controles inferior  -->
+    <div id="versiculo-container"><div class="texto-versiculo">Carregando...</div></div>                                 <!-- Local do texto bíblico    -->
+    <div id="botao-container">                                                                                           <!-- Barra controles inferior  -->
         <button id="voltar-botao">‹ Anterior</button>                                                                    <!-- Botão retroceder          -->
         <button id="proximo-botao">Próximo ›</button>                                                                    <!-- Botão avançar             -->
     </div>
@@ -415,9 +415,9 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         
         /* BLOCO: Mapeia as referências dos elementos da interface para manipulação             */
         const tituloElement = document.getElementById('titulo');                                                         /* Ref título slide            */
-        const versiculoConteiner = document.getElementById('versiculo-conteiner');                                       /* Ref área texto              */
-        const btnVoltar = document.getElementById('voltar-botao');                                                       /* Ref botão recuo             */
-        const btnProximo = document.getElementById('proximo-botao');                                                     /* Ref botão avanço            */
+        const versiculoContainer = document.getElementById('versiculo-container');                                       /* Ref área texto              */
+        const botaoVoltar = document.getElementById('voltar-botao');                                                       /* Ref botão recuo             */
+        const botaoProximo = document.getElementById('proximo-botao');                                                     /* Ref botão avanço            */
         const popup = document.getElementById('popup-bem-vindo');                                                        /* Ref camada popup            */
         const fecharPopup = document.getElementById('fechar-popup');                                                     /* Ref gatilho popup           */
 
@@ -460,9 +460,9 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                 console.error('Contagem não encontrada para ' + livroAtual + ' (' + versaoBiblia + ').');                /* Log erro técnico            */
                 versiculosPorCapituloArray = [];                                                                         /* Esvazia array               */
                 tituloElement.innerText = "ERRO CONFIG";                                                                 /* Feedback visual erro        */
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;">Config ausente.</div>';  /* Alerta visual crítico       */
-                btnVoltar.disabled = true;                                                                               /* Inativa navegação           */
-                btnProximo.disabled = true;                                                                              /* Inativa navegação           */
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Config ausente.</div>';  /* Alerta visual crítico       */
+                botaoVoltar.disabled = true;                                                                               /* Inativa navegação           */
+                botaoProximo.disabled = true;                                                                              /* Inativa navegação           */
             }
         }
 
@@ -472,9 +472,9 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             console.log('Carregando capítulo: ' + caminho);                                                              /* Log endereço carga          */
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                       /* Nome bonito livro           */
             tituloElement.innerText = livroAcentuado.toUpperCase() + ' ' + capituloNum + ':... (Carregando)';            /* Feedback carga título       */
-            versiculoConteiner.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';                  /* Feedback carga área texto   */
-            btnVoltar.disabled = true;                                                                                   /* Trava botões carga          */
-            btnProximo.disabled = true;                                                                                  /* Trava botões carga          */
+            versiculoContainer.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';                  /* Feedback carga área texto   */
+            botaoVoltar.disabled = true;                                                                                   /* Trava botões carga          */
+            botaoProximo.disabled = true;                                                                                  /* Trava botões carga          */
 
             /* BLOCO: Executa a requisição fetch e processa o retorno HTML ou JSON              */
             try {
@@ -486,7 +486,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             } catch (error) {
                 console.error('Erro ao carregar capítulo:', error);                                                      /* Log falha técnica           */
                 tituloElement.innerText = 'ERRO ' + livroAcentuado.toUpperCase() + ' ' + capituloNum;                    /* Título erro visual          */
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;font-size:1.2rem;">Falha.</div>';
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;font-size:1.2rem;">Falha.</div>';
             }
         }
 
@@ -498,7 +498,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
             /* BLOCO: Verifica a integridade dos dados carregados antes de exibir               */
             if (!dadosCapitulo) {
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:orange;">Sem dados.</div>';    /* Alerta inconsistência       */
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:orange;">Sem dados.</div>';    /* Alerta inconsistência       */
                 atualizarBotoes();                                                                                       /* Checa limites               */
                 return;                                                                                                  /* Aborta função               */
             }
@@ -524,10 +524,10 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                         if (versiculoData.palavras && versiculoData.palavras.length > 0) {
                             conteudo += '<div class="palavras-container">';                                              /* Abre lista palavras         */
                             versiculoData.palavras.forEach((palavra) => {
-                                conteudo += '<div class="word-detail-item">' +
-                                    '<div class="hebraico-text">' + (palavra.hebraico || '') + "</div>" +
-                                    '<div class="transliteral-text">' + (palavra.transliteral || '') + "</div>" +
-                                    '<div class="traducao-palavra-text">' + (palavra.traducao_palavra || '') + "</div>" +
+                                conteudo += '<div class=".detalhe-palavra">' +
+                                    '<div class="texto-hebraico">' + (palavra.hebraico || '') + "</div>" +
+                                    '<div class="texto-transliteral">' + (palavra.transliteral || '') + "</div>" +
+                                    '<div class="texto-traducao-palavra">' + (palavra.traducao_palavra || '') + "</div>" +
                                     "</div>";                                                                            
                             });
                             conteudo += "</div>";
@@ -560,7 +560,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
             /* BLOCO: Atualiza a interface visual com o novo conteúdo carregado                 */
             tituloElement.innerText = livroAcentuado.toUpperCase() + ' ' + capituloAtual + ':' + versiculoNum;           /* Atualiza título topo        */
-            versiculoConteiner.innerHTML = (tituloSecao || "") + '<div class="texto-versiculo">' + conteudo + "</div>";  /* Atualiza área texto         */
+            versiculoContainer.innerHTML = (tituloSecao || "") + '<div class="texto-versiculo">' + conteudo + "</div>";  /* Atualiza área texto         */
             atualizarBotoes();                                                                                           /* Revalida navegação          */
             document.body.classList.add("loaded");                                                                       /* Dispara animação fade       */
         }
@@ -568,8 +568,8 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         /* BLOCO: Gerencia a ativação dos botões de navegação baseado nos limites               */
         function atualizarBotoes() {
             if (!versiculosPorCapituloArray || versiculosPorCapituloArray.length === 0) {
-                btnVoltar.disabled = true;                                                                               /* Bloqueia recuo              */
-                btnProximo.disabled = true;                                                                              /* Bloqueia avanço             */
+                botaoVoltar.disabled = true;                                                                               /* Bloqueia recuo              */
+                botaoProximo.disabled = true;                                                                              /* Bloqueia avanço             */
                 return;                                                                                                  /* Finaliza                    */
             }
             /* BLOCO: Calcula os limites de navegação para livros e capítulos                   */    
@@ -577,13 +577,13 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             const ultimoVerCap = (capituloAtual > 0 && capituloAtual <= totalCaps) ? versiculosPorCapituloArray[capituloAtual - 1] : 1;
             const idxLivro = livrosOrdemGlobal.indexOf(livroAtual);                                                      /* Posição na lista livros     */
 
-            btnVoltar.disabled = (capituloAtual === 1 && versiculoAtual === 1 && idxLivro === 0);                        /* Trava no Início             */
-            btnProximo.disabled = (capituloAtual === totalCaps && versiculoAtual === ultimoVerCap && idxLivro === livrosOrdemGlobal.length - 1);
+            botaoVoltar.disabled = (capituloAtual === 1 && versiculoAtual === 1 && idxLivro === 0);                        /* Trava no Início             */
+            botaoProximo.disabled = (capituloAtual === totalCaps && versiculoAtual === ultimoVerCap && idxLivro === livrosOrdemGlobal.length - 1);
         }
 
         /* BLOCO: Função que avança para o próximo versículo, capítulo ou livro                 */
         function proximaEstrofe() {
-            if (btnProximo.disabled) return;                                                                             /* Aborta se travado           */
+            if (botaoProximo.disabled) return;                                                                             /* Aborta se travado           */
             const ultimoVerCap = versiculosPorCapituloArray[capituloAtual - 1];                                          /* Máximo versos capítulo      */
             versiculoAtual++;                                                                                            /* Incrementa verso            */
             
@@ -616,7 +616,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
         /* BLOCO: Função que recua para o versículo, capítulo ou livro anterior                 */
         function voltarEstrofe() {
-            if (btnVoltar.disabled) return;                                                                              /* Aborta se travado           */
+            if (botaoVoltar.disabled) return;                                                                              /* Aborta se travado           */
             versiculoAtual--;                                                                                            /* Decrementa verso            */
             
             /* BLOCO: Verifica estouro de versículos para retroceder o capítulo                 */
@@ -649,8 +649,8 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         }
 
         /* BLOCO: Configura os listeners para controle via mouse e teclado                      */
-        btnVoltar.addEventListener("click", voltarEstrofe);                                                              /* Clique Mouse Voltar         */
-        btnProximo.addEventListener("click", proximaEstrofe);                                                            /* Clique Mouse Avançar        */
+        botaoVoltar.addEventListener("click", voltarEstrofe);                                                              /* Clique Mouse Voltar         */
+        botaoProximo.addEventListener("click", proximaEstrofe);                                                            /* Clique Mouse Avançar        */
         document.addEventListener("keydown", (e) => {                                                                    /* Monitora Teclas             */
             if (e.key === "ArrowRight" || e.key === "PageDown") proximaEstrofe();                                        /* Tecla Avançar               */
             else if (e.key === "ArrowLeft" || e.key === "PageUp") voltarEstrofe();                                       /* Tecla Retroceder            */
@@ -677,9 +677,9 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                       /* Recupera nome livro         */
             if (todaContagemDataGlobal[livroAtual]) {
                 tituloElement.innerText = "ERRO";                                                                        /* Texto Erro Topo             */
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha inicial.</div>';   /* Texto Erro Centro           */
-                btnVoltar.disabled = true;                                                                               /* Trava Navegação             */
-                btnProximo.disabled = true;                                                                              /* Trava Navegação             */
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha inicial.</div>';   /* Texto Erro Centro           */
+                botaoVoltar.disabled = true;                                                                               /* Trava Navegação             */
+                botaoProximo.disabled = true;                                                                              /* Trava Navegação             */
             }
         }
     </script>

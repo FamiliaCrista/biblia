@@ -10,9 +10,9 @@
 /* BLOCO: Define a classe mestre MainApp responsável pela orquestração de todos os módulos e estados do sistema          */
 class MainApp {
     constructor() {                                                                                                       /* Inicia o construtor do app   */
-        window.dataManager = new DataManager();                                                                           /* Instancia o motor de dados   */
-        window.concordanciaOptimized = new ConcordanciaOptimized();                                                       /* Instancia a busca otimizada  */
-        window.dicionario = new Dicionario();                                                                             /* Instancia o dicionário       */
+        try { window.dataManager = new DataManager(); } catch (e) { console.error('Falha ao iniciar DataManager', e); }
+        try { window.concordanciaOptimized = new ConcordanciaOptimized(); } catch (e) { console.error('Falha ao iniciar ConcordanciaOptimized', e); }
+        try { window.dicionario = new Dicionario(); } catch (e) { console.error('Falha ao iniciar Dicionario', e); }
 
         /* BLOCO: Define a seção inicial do aplicativo e dispara a configuração de interface e eventos                  */
         this.currentSection = 'concordancia';                                                                             /* Define módulo inicial        */
@@ -58,22 +58,29 @@ class MainApp {
 
     /* BLOCO: Estabelece os vínculos de escuta de eventos para os botões da barra de ferramentas superior               */
     bindEvents() {                                                                                                        /* Inicia vínculo de eventos    */
-        this.elements.concordanciaBtn.addEventListener('click', (e) => {                                                  /* Escuta clique concordância   */
-            e.preventDefault();                                                                                           /* Cancela navegação padrão     */
-            this.showSection('concordancia');                                                                             /* Exibe módulo concordância    */
-        });
+        const { concordanciaBtn, dicionarioBtn, sobreBtn } = this.elements;
+        if (concordanciaBtn) {
+            concordanciaBtn.addEventListener('click', (e) => {                                                  /* Escuta clique concordância   */
+                e.preventDefault();                                                                                           /* Cancela navegação padrão     */
+                this.showSection('concordancia');                                                                             /* Exibe módulo concordância    */
+            });
+        }
 
         /* BLOCO: Gerencia a transição para a visualização do Dicionário Bíblico após a interação do usuário            */
-        this.elements.dicionarioBtn.addEventListener('click', (e) => {                                                    /* Escuta clique dicionário     */
-            e.preventDefault();                                                                                           /* Cancela navegação padrão     */
-            this.showSection('dicionario');                                                                               /* Exibe módulo dicionário      */
-        });
+        if (dicionarioBtn) {
+            dicionarioBtn.addEventListener('click', (e) => {                                                    /* Escuta clique dicionário     */
+                e.preventDefault();                                                                                           /* Cancela navegação padrão     */
+                this.showSection('dicionario');                                                                               /* Exibe módulo dicionário      */
+            });
+        }
 
         /* BLOCO: Configura a transição para a seção informativa "Sobre" capturando o evento de clique do usuário        */
-        this.elements.sobreBtn.addEventListener('click', (e) => {                                                         /* Escuta clique sobre          */
-            e.preventDefault();                                                                                           /* Cancela navegação padrão     */
-            this.showSection('sobre');                                                                                    /* Exibe módulo informativo     */
-        });
+        if (sobreBtn) {
+            sobreBtn.addEventListener('click', (e) => {                                                         /* Escuta clique sobre          */
+                e.preventDefault();                                                                                           /* Cancela navegação padrão     */
+                this.showSection('sobre');                                                                                    /* Exibe módulo informativo     */
+            });
+        }
     }
 
     /* BLOCO: Prepara o ambiente visual inicial e dispara a construção do índice de busca em segundo plano              */
@@ -85,8 +92,9 @@ class MainApp {
         console.log('📖 Concordância e Dicionário Bíblico inicializado');                                                 /* Log de sucesso sistema       */
 
         /* BLOCO: Inicia a construção do índice invertido de busca para garantir performance nas pesquisas              */
-        if (window.searchIndex && typeof window.searchIndex.buildIndex === 'function') {                                  /* Valida motor de busca        */
-            window.searchIndex.buildIndex()                                                                               /* Dispara indexação            */
+        const indice = window.indiceBusca || window.searchIndex;
+        if (indice && typeof indice.buildIndex === 'function') {                                  /* Valida motor de busca        */
+            indice.buildIndex()                                                                               /* Dispara indexação            */
                 .then(() => console.log('✅ Índice de busca pronto para uso'))                                            /* Log de conclusão sucesso     */
                 .catch(console.error);                                                                                    /* Log de falha na indexação    */
         }
@@ -94,7 +102,7 @@ class MainApp {
 
     /* BLOCO: Controla a visibilidade das seções do sistema e atualiza o estado visual dos botões de navegação          */
     showSection(sectionName) {                                                                                            /* Inicia transição de seção    */
-        document.querySelectorAll('.menu-opcoes a').forEach(btn => btn.classList.remove('active'));                       /* Desativa botões anteriores   */
+        document.querySelectorAll('.menu-opcoes a').forEach(botao => botao.classList.remove('active'));                       /* Desativa botões anteriores   */
 
         this.elements.mensagemInicial.style.display = 'none';                                                             /* Remove mensagem de entrada   */
         this.elements.secaoConcordancia.classList.add('secao-inativa');                                                   /* Oculta concordância          */

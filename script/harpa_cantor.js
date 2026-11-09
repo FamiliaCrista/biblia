@@ -10,12 +10,12 @@
 
 /* BLOCO: Inicializa as referências dos elementos da interface e as variáveis de estado global do sistema          */
 document.addEventListener('DOMContentLoaded', () => {                                                                   /* Inicia ao carregar o site       */
-    const btnHarpa = document.getElementById('btnHarpa');                                                               /* Captura botão da Harpa          */
-    const btnCantor = document.getElementById('btnCantor');                                                             /* Captura botão do Cantor         */
+    const botaoHarpa = document.getElementById('botaoHarpa');                                                               /* Captura botão da Harpa          */
+    const botaoCantor = document.getElementById('botaoCantor');                                                             /* Captura botão do Cantor         */
     const telaInicial = document.getElementById('tela-inicial');                                                        /* Captura painel de boas vindas   */
-    const botoesFaixaConteiner = document.getElementById('botoes-faixa-hinos');                                         /* Captura área das faixas         */
-    const botoesHinosConteiner = document.getElementById('botoes-hinos');                                               /* Captura área da grade hinos     */
-    const hinoExibidoConteiner = document.getElementById('hino-exibido');                                               /* Captura área da letra           */
+    const botoesFaixaContainer = document.getElementById('botoes-faixa-hinos');                                         /* Captura área das faixas         */
+    const botoesHinosContainer = document.getElementById('botoes-hinos');                                               /* Captura área da grade hinos     */
+    const hinoExibidoContainer = document.getElementById('hino-exibido');                                               /* Captura área da letra           */
     const themeStyle = document.getElementById('theme-style');                                                          /* Captura link do CSS de tema     */
 
     window.activeHinario = null;                                                                                        /* Define hinário ativo como null  */
@@ -43,9 +43,9 @@ document.addEventListener('DOMContentLoaded', () => {                           
         window.activeHinario = hinario;                                                                                 /* Atualiza hinário global         */
         window.activeHinoData = null;                                                                                   /* Limpa cache do hino anterior    */
         telaInicial.style.display = 'none';                                                                             /* Oculta mensagem inicial         */
-        botoesFaixaConteiner.innerHTML = '';                                                                            /* Limpa lista de faixas           */
-        botoesHinosConteiner.innerHTML = '';                                                                            /* Limpa grade de botões hinos     */
-        hinoExibidoConteiner.innerHTML = '';                                                                            /* Limpa letra na tela             */
+        botoesFaixaContainer.innerHTML = '';                                                                            /* Limpa lista de faixas           */
+        botoesHinosContainer.innerHTML = '';                                                                            /* Limpa grade de botões hinos     */
+        hinoExibidoContainer.innerHTML = '';                                                                            /* Limpa letra na tela             */
         themeStyle.href = hinario.css;                                                                                  /* Troca as cores do sistema       */
         criarBotoesFaixa(hinario);                                                                                      /* Gera botões de numeração        */
     }
@@ -56,23 +56,23 @@ document.addEventListener('DOMContentLoaded', () => {                           
             const inicio = i;                                                                                           /* Define início da página         */
             const fim = Math.min(i + TAMANHO_FAIXA - 1, hinario.total);                                                 /* Calcula o fim da página         */
             
-            const btnFaixa = document.createElement('button');                                                          /* Cria o elemento do botão        */
-            btnFaixa.className = 'botao-faixa';                                                                         /* Atribui classe visual           */
-            btnFaixa.textContent = `${inicio} - ${fim}`;                                                                /* Define o rótulo numérico        */
-            btnFaixa.addEventListener('click', (e) => {                                                                 /* Ouve o clique na faixa          */
+            const botaoFaixa = document.createElement('button');                                                          /* Cria o elemento do botão        */
+            botaoFaixa.className = 'botao-faixa';                                                                         /* Atribui classe visual           */
+            botaoFaixa.textContent = `${inicio} - ${fim}`;                                                                /* Define o rótulo numérico        */
+            botaoFaixa.addEventListener('click', (e) => {                                                                 /* Ouve o clique na faixa          */
                 document.querySelectorAll('.botao-faixa.active').forEach(b => b.classList.remove('active'));            /* Limpa destaques anteriores      */
                 e.currentTarget.classList.add('active');                                                                /* Destaca a faixa selecionada     */
                 exibirGradeDeHinos(inicio, fim);                                                                        /* Carrega hinos dessa faixa       */
             });
-            botoesFaixaConteiner.appendChild(btnFaixa);                                                                 /* Fixa o botão no painel          */
+            botoesFaixaContainer.appendChild(botaoFaixa);                                                                 /* Fixa o botão no painel          */
         }
-        botoesFaixaConteiner.classList.add('active');                                                                   /* Ativa visualmente o painel      */
+        botoesFaixaContainer.classList.add('active');                                                                   /* Ativa visualmente o painel      */
     }
     
     /* BLOCO: Busca o índice do hinário e gera os botões individuais para cada hino da faixa selecionada           */
     async function exibirGradeDeHinos(inicio, fim) {                                                                    /* Inicia exibição da lista        */
-        botoesHinosConteiner.innerHTML = '';                                                                            /* Limpa botões existentes         */
-        hinoExibidoConteiner.innerHTML = '';                                                                            /* Limpa hino exibido              */
+        botoesHinosContainer.innerHTML = '';                                                                            /* Limpa botões existentes         */
+        hinoExibidoContainer.innerHTML = '';                                                                            /* Limpa hino exibido              */
 
         const indexPath = window.activeHinario.nome === 'Harpa Cristã'                                                  /* Escolhe o indexador correto     */
             ? '../harpacrista/harpacrista_index.json'                                                                   /* Caminho índice Harpa            */
@@ -87,21 +87,21 @@ document.addEventListener('DOMContentLoaded', () => {                           
             const hinosFaixa = index.filter(h => h.numero >= inicio && h.numero <= fim);                                /* Filtra os hinos da página       */
 
             hinosFaixa.forEach(hino => {                                                                                /* Varre cada hino filtrado        */
-                const btn = document.createElement('button');                                                           /* Cria o botão do hino            */
-                btn.className = 'botao-capitulo';                                                                       /* Atribui classe visual           */
-                btn.innerHTML = `
+                const botao = document.createElement('button');                                                           /* Cria o botão do hino            */
+                botao.className = 'botao-capitulo';                                                                       /* Atribui classe visual           */
+                botao.innerHTML = `
                     <span class="hino-numero">${hino.numero}</span>
                     <span class="hino-nome">${hino.titulo}</span>
                 `;                                                                                                      /* Define o conteúdo do botão      */
-                btn.addEventListener('click', () => {                                                                   /* Ouve clique no hino             */
+                botao.addEventListener('click', () => {                                                                   /* Ouve clique no hino             */
                     document.querySelectorAll('.botao-capitulo.active').forEach(b => b.classList.remove('active'));        /* Limpa hino ativo anterior    */
-                    btn.classList.add('active');                                                                        /* Destaca hino selecionado        */
+                    botao.classList.add('active');                                                                        /* Destaca hino selecionado        */
                     exibirHino(window.activeHinario.pasta, hino.numero);                                                /* Chama exibição da letra         */
                 });
-                botoesHinosConteiner.appendChild(btn);                                                                  /* Fixa hino na grade              */
+                botoesHinosContainer.appendChild(botao);                                                                  /* Fixa hino na grade              */
             });
         } catch (e) {
-            botoesHinosConteiner.innerHTML = '<p>Erro ao carregar a lista de hinos.</p>';                               /* Relata falha na interface       */
+            botoesHinosContainer.innerHTML = '<p>Erro ao carregar a lista de hinos.</p>';                               /* Relata falha na interface       */
         }
     }
 
@@ -123,34 +123,34 @@ document.addEventListener('DOMContentLoaded', () => {                           
             }).join('');
 
             /* BLOCO: Atualiza o contêiner de exibição com o título e a letra formatada e realiza a rolagem suave  */
-            hinoExibidoConteiner.innerHTML = `
-                <div class="hino-conteiner">
+            hinoExibidoContainer.innerHTML = `
+                <div class="hino-container">
                     <h3 class="hino-titulo">${data.numero} - ${data.titulo}</h3>
                     <div class="hino-letra">${letraHtml}</div>
                 </div>`;                                                                                                /* Injeta o hino no site           */
             
-            hinoExibidoConteiner.scrollIntoView({ behavior: 'smooth' });                                                /* Centraliza a letra na tela      */
+            hinoExibidoContainer.scrollIntoView({ behavior: 'smooth' });                                                /* Centraliza a letra na tela      */
 
         } catch (error) {
             
             /* BLOCO: Captura falhas técnicas durante o carregamento do hino e emite alerta visual ao usuário      */
             console.error('Erro ao carregar o hino:', error);                                                           /* Relata erro técnico no log      */
             window.activeHinoData = null;                                                                               /* Reseta cache de hino            */
-            hinoExibidoConteiner.innerHTML = `<div class="hino-conteiner"><p>Falha ao carregar.</p></div>`;             /* Mostra erro visual              */
+            hinoExibidoContainer.innerHTML = `<div class="hino-container"><p>Falha ao carregar.</p></div>`;             /* Mostra erro visual              */
         }
     }
 
     /* BLOCO: Configura os escutadores de eventos para o botão da Harpa Cristã disparando a mudança de hinário     */
-    btnHarpa.addEventListener('click', () => {                                                                          /* Monitora clique na Harpa        */
+    botaoHarpa.addEventListener('click', () => {                                                                          /* Monitora clique na Harpa        */
         selecionarHinario(HINARIOS.harpa);                                                                              /* Ativa modo Harpa                */
-        btnHarpa.classList.add('active');                                                                               /* Destaca botão superior          */
-        btnCantor.classList.remove('active');                                                                           /* Remove destaque do Cantor       */
+        botaoHarpa.classList.add('active');                                                                               /* Destaca botão superior          */
+        botaoCantor.classList.remove('active');                                                                           /* Remove destaque do Cantor       */
     });
 
     /* BLOCO: Configura os escutadores de eventos para o botão do Cantor Cristão disparando a mudança de hinário   */
-    btnCantor.addEventListener('click', () => {                                                                         /* Monitora clique no Cantor       */
+    botaoCantor.addEventListener('click', () => {                                                                         /* Monitora clique no Cantor       */
         selecionarHinario(HINARIOS.cantor);                                                                             /* Ativa modo Cantor               */
-        btnCantor.classList.add('active');                                                                              /* Destaca botão superior          */
-        btnHarpa.classList.remove('active');                                                                            /* Remove destaque da Harpa        */
+        botaoCantor.classList.add('active');                                                                              /* Destaca botão superior          */
+        botaoHarpa.classList.remove('active');                                                                            /* Remove destaque da Harpa        */
     });
 });

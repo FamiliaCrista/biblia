@@ -19,7 +19,7 @@ body {
 /*               CONTEÚDO PRINCIPAL                     */
 /*   Área central que exibe o conteúdo dos cursos       */
 /*======================================================*/
-.content {
+.conteudo {
     width: 100%;                                           /* Define a largura total para garantir que o CONTEÚDO PRINCIPAL ocupe toda a extensão. */
 }
 
@@ -96,7 +96,7 @@ a:hover {
 /*                    MARCA D'ÁGUA                      */
 /*   Imagem de fundo fixa semi-transparente             */
 /*======================================================*/
-.watermark {
+.marca-dagua-cursos {
     position: fixed;                                       /* Define o posicionamento fixo para manter a MARCA D'ÁGUA estática durante a rolagem da página.     */
     top: 0;                                                /* Define a distância do topo como zero para que a MARCA D'ÁGUA comece no limite superior.           */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar a MARCA D'ÁGUA ao limite lateral.           */

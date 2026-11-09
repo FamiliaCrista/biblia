@@ -394,7 +394,10 @@ h3 {
 /*                  MARCA D'ÁGUA                       */
 /*  Cria imagem de fundo semi-transparente estática.    */
 /*=====================================================*/
-.marca-dagua-imagem {
+.marca-dagua-versoes,
+.marca-dagua-imagem,
+.marca-dagua-sobre,
+.marca-dagua-sobre-tela {
     position: fixed;                                       /* Mantém a marca d'água fixa na tela.                */
     top: 0;                                                /* Alinha ao topo da tela.                            */
     left: 0;                                               /* Alinha à esquerda da tela.                         */
@@ -407,6 +410,15 @@ h3 {
     background-size: cover;                                /* Cobre toda a área cobrindo proporcionalmente.      */
     background-repeat: no-repeat;                          /* Impede a repetição da imagem de fundo.             */
     background-position: center;                           /* Centraliza a imagem no plano de fundo.             */
+}
+
+.marca-dagua-versoes img,
+.marca-dagua-imagem img,
+.marca-dagua-sobre img,
+.marca-dagua-sobre-tela img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /*======================================================*/
@@ -742,7 +754,7 @@ body.sobre-ativo::after {
 /*                  CONTAINERS AUXILIARES               */
 /*  Separa blocos estruturais de capítulos e versículos.*/
 /*======================================================*/
-.capitulos-conteiner {
+.capitulos-container {
     margin-bottom: 20px;                                   /* Aplica margem inferior para espaçamento de blocos. */
 }
 

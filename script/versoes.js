@@ -55,24 +55,24 @@
         await window.atualizaBotoesCapitulos(livro, cap);                                               /* Monta a régua de capítulos             */
         await window.toggleVersiculos(livro, cap);                                                      /* Gera a lista de versículos             */
         setTimeout(() => {                                                                              /* Aguarda o desenho do site              */
-            const conteinerCapitulos = document.querySelector('#dynamic-chapter-buttons-conteiner');    /* Acha o local dos capítulos             */
-            if (conteinerCapitulos) {                                                                   /* Se o local existir                     */
-                conteinerCapitulos.querySelectorAll('button').forEach(btn => {                          /* Varre todos os botões                  */
-                    btn.classList.toggle('active', btn.dataset.capitulo == cap);                        /* Destaca o capítulo ativo               */
+            const containerCapitulos = document.querySelector('#dynamic-chapter-buttons-container'); /* Acha o local dos capítulos             */
+            if (containerCapitulos) {                                                                   /* Se o local existir                     */
+                containerCapitulos.querySelectorAll('button').forEach(botao => {                          /* Varre todos os botões                  */
+                    botao.classList.toggle('active', botao.dataset.capitulo == cap);                        /* Destaca o capítulo ativo               */
                 });
             }
-            const conteinerVersiculos = document.querySelector('.conteudo-versiculos');                 /* Acha o local dos versículos            */
-            if (!conteinerVersiculos) {                                                                 /* Se não achar o local                   */
-                console.error("Conteiner de versículos não encontrado após o toggle.");                 /* Loga falha de interface                */
+            const containerVersiculos = document.querySelector('.conteudo-versiculos');                 /* Acha o local dos versículos            */
+            if (!containerVersiculos) {                                                                 /* Se não achar o local                   */
+                console.error("Container de versículos não encontrado após o toggle.");                 /* Loga falha de interface                */
                 return;                                                                                 /* Para a execução                        */
-            } 
-            const botaoVersiculo = conteinerVersiculos.querySelector(`button[data-versiculo="${vers}"]`); /* Procura o número exato               */
+            }
+            const botaoVersiculo = containerVersiculos.querySelector(`button[data-versiculo="${vers}"]`); /* Procura o número exato               */
             if (botaoVersiculo && typeof botaoVersiculo.click === 'function') {                         /* Se o botão existir                     */
                 console.log(`[Navegação] Clicando no botão do versículo ${vers}.`);                     /* Loga clique automático                 */
                 botaoVersiculo.click();                                                                 /* Simula o clique do mouse               */
             } else {                                                                                    /* Caso o botão suma                      */
                 console.error(`[Navegação] Botão para o versículo ${vers} não foi encontrado.`);        /* Loga erro de localização               */
-            } 
+            }
         }, 150);                                                                                        /* Espera 150 milissegundos               */
     }; 
 
@@ -157,13 +157,13 @@
 
         /* BLOCO: Função global para atualizar a barra de progresso            */
         window.updateSearchIndexProgress = function(progresso, livro) {                                 /* Função de barra de carga               */
-            const overlay = document.getElementById('search-overlay');                                  /* Acha tela de pesquisa                  */
+            const overlay = document.getElementById('busca-sobreposicao');                                  /* Acha tela de pesquisa                  */
             if (overlay && overlay.shadowRoot) {                                                        /* Se estiver aberta                      */
-                const progressoBar = overlay.shadowRoot.querySelector('#progress-bar-inner');           /* Acha barra amarela                     */
-                const progressoTexto = overlay.shadowRoot.querySelector('#progress-text');              /* Acha texto de carga                    */
+                const progressoBar = overlay.shadowRoot.querySelector('#busca-progresso-barra-interna, #progresso-barra-interna'); /* Acha barra amarela                     */
+                const progressoTexto = overlay.shadowRoot.querySelector('#busca-progresso-texto, #progresso-texto'); /* Acha texto de carga                    */
                 if (progressoBar) progressoBar.style.width = progresso + '%';                           /* Move a barra                           */
                 if (progressoTexto) progressoTexto.textContent = `Indexando ${livro}...`;               /* Mostra livro atual                     */
-            } 
+            }
         };
 
         /* BLOCO: Traduz nomes internos dos livros para nomes legíveis         */
@@ -191,26 +191,26 @@
             if (!termo) return;                                                                         /* Ignora buscas vazias                   */
 
             /* BLOCO: Limpa overlay de busca anterior se existir               */
-            const overlayAntigo = document.getElementById('search-overlay');                            /* Procura busca aberta                   */
+            const overlayAntigo = document.getElementById('busca-sobreposicao');                            /* Procura busca aberta                   */
             if (overlayAntigo) overlayAntigo.remove();                                                  /* Limpa busca anterior                   */
 
             /* BLOCO: Cria novo overlay para exibir os resultados              */
             const overlay = document.createElement('div');                                              /* Cria cortina da busca                  */
-            overlay.id = 'search-overlay';                                                              /* Define ID da cortina                   */
+            overlay.id = 'busca-sobreposicao';                                                              /* Define ID da cortina                   */
             
             /* BLOCO: Anexa Shadow DOM para isolamento de estilos              */
             const shadow = overlay.attachShadow({ mode: 'open' });                                      /* Isola estilos da busca                 */
 
             /* BLOCO: Define mensagem inicial baseada no estado do motor       */
             let mensagemInicial = '<p>Buscando...</p>';                                                 /* Texto de espera                        */
-            if (window.searchEngine && !window.searchEngine.isReady) {                                  /* Se busca estiver carregando            */
+            if (window.mecanismoBusca && !window.mecanismoBusca.pronto) {                                  /* Se busca estiver carregando            */
                 mensagemInicial = `
-                    <div id="progress-conteiner">
+                    <div id="busca-progresso-container" class="busca-progresso-container progresso-container">
                         <p>Preparando a busca rápida (só na primeira vez)...</p>
-                        <div id="progress-bar-outer">
-                            <div id="progress-bar-inner"></div>
+                        <div id="busca-progresso-barra-externa" class="busca-progresso-barra-externa progresso-barra-externa">
+                            <div id="busca-progresso-barra-interna" class="busca-progresso-barra-interna progresso-barra-interna"></div>
                         </div>
-                        <p id="progress-text">Iniciando...</p>
+                        <p id="busca-progresso-texto" class="busca-progresso-texto progresso-texto">Iniciando...</p>
                     </div>`;                                                                            /* HTML da barra de carga                 */
             }
 
@@ -237,7 +237,7 @@ shadow.innerHTML = `<style>
     /*======================================================*/
     /*           CONTÊINER DE CONTEÚDO DA BUSCA             */
     /*======================================================*/
-    #search-content {
+    #busca-conteudo {
         font-family: sans-serif; font-style: normal; font-weight: normal; color: #f0f0f0;
         width: 100%;
         max-width: 100%;
@@ -254,12 +254,12 @@ shadow.innerHTML = `<style>
         min-height: 0;
     }
 
-    #search-content.loaded { opacity: 1; }
+    #busca-conteudo.loaded { opacity: 1; }
 
     /*======================================================*/
     /*            CONTÊINER DOS RESULTADOS                  */
     /*======================================================*/
-    #resultados-busca-conteiner {
+    #busca-resultados-container {
         flex-grow: 1;
         overflow-y: auto;
         scrollbar-width: none;
@@ -267,14 +267,14 @@ shadow.innerHTML = `<style>
         padding-right: 0;
     }
 
-    #resultados-busca-conteiner::-webkit-scrollbar {
+    #busca-resultados-container::-webkit-scrollbar {
         display: none;
     }
     
     /*======================================================*/
     /*                TÍTULO DA BUSCA (H2)                  */
     /*======================================================*/
-    #search-content h2 {
+    #busca-conteudo h2 {
         color: yellow; 
         text-align: center; 
         font-size: 3em; 
@@ -338,7 +338,7 @@ shadow.innerHTML = `<style>
     /*======================================================*/
     /*         MENSAGEM DE "NENHUM RESULTADO"               */
     /*======================================================*/
-    #resultados-busca-conteiner p { 
+    #busca-resultados-container p { 
         text-align: center; 
         font-size: 1.5em; 
         padding: 40px 0; 
@@ -348,7 +348,8 @@ shadow.innerHTML = `<style>
     /*======================================================*/
     /*        CONTÊINER DA BARRA DE PROGRESSO               */
     /*======================================================*/
-    #progress-conteiner { 
+    #busca-progresso-container,
+    #progresso-container { 
         padding: 20px; 
         text-align: center; 
     }
@@ -356,7 +357,8 @@ shadow.innerHTML = `<style>
     /*======================================================*/
     /*       PARTE EXTERNA DA BARRA DE PROGRESSO            */
     /*======================================================*/
-    #progress-bar-outer { 
+    #busca-progresso-barra-externa,
+    #progresso-barra-externa { 
         background-color: #555; 
         border-radius: 13px; 
         padding: 3px; 
@@ -367,7 +369,8 @@ shadow.innerHTML = `<style>
     /*======================================================*/
     /*       PARTE INTERNA DA BARRA DE PROGRESSO            */
     /*======================================================*/
-    #progress-bar-inner { 
+    #busca-progresso-barra-interna,
+    #progresso-barra-interna { 
         background-color: #FFD700; 
         width: 0%; 
         height: 20px; 
@@ -378,16 +381,17 @@ shadow.innerHTML = `<style>
     /*======================================================*/
     /*          TEXTO DE PROGRESSO DA BUSCA                 */
     /*======================================================*/
-    #progress-text { 
+    #busca-progresso-texto,
+    #progresso-texto { 
         margin-top: 10px; 
         font-style: italic; 
         color: #ccc; 
     }
 </style>
 
-<div id="search-content">
+<div id="busca-conteudo">
     <h2>Resultados da Busca</h2>
-    <div id="resultados-busca-conteiner">${mensagemInicial}</div>
+    <div id="busca-resultados-container">${mensagemInicial}</div>
 </div>`;                                                                                                /* Injeta HTML e CSS da busca             */
         /* BLOCO: Adiciona o overlay ao corpo do documento                     */
         document.body.appendChild(overlay);                                                             /* Mostra a busca no site                 */
@@ -400,16 +404,16 @@ shadow.innerHTML = `<style>
             } else {                                                                                    /* Caso o código falhe                    */
         
                 /* BLOCO: Exibe mensagem de erro se o motor não carregou       */
-                const conteiner = overlay.shadowRoot.querySelector('#resultados-busca-conteiner');      /* Acha local do texto                    */
-                conteiner.innerHTML = '<p>Funcionalidade de busca não carregada.</p>';                  /* Avisa erro técnico                     */
+                const container = overlay.shadowRoot.querySelector('#busca-resultados-container'); /* Acha local do texto                    */
+                if (container) container.innerHTML = '<p>Funcionalidade de busca não carregada.</p>';    /* Avisa erro técnico                     */
             } 
         }
         
         /* BLOCO: Função que exibe os resultados da busca na tela              */
         function exibirResultados(resultados, overlay, getLivroDisplayNameFunc) {                       /* Inicia desenho de resultados           */
             const shadow = overlay.shadowRoot;                                                          /* Acessa Shadow DOM                      */
-            const conteiner = shadow.querySelector('#resultados-busca-conteiner');                      /* Local onde versos entram               */
-            conteiner.innerHTML = '';                                                                   /* Limpa texto de espera                  */
+            const container = shadow.querySelector('#busca-resultados-container'); /* Local onde versos entram               */
+            if (container) container.innerHTML = '';                                                     /* Limpa texto de espera                  */
             
             /* BLOCO: Cria botão de fechar a busca                             */
             const botaoFechar = document.createElement('button');                                       /* Cria botão de sair                     */
@@ -423,7 +427,7 @@ shadow.innerHTML = `<style>
 
             /* BLOCO: Verifica se há resultados da busca                       */
             if (resultados.length === 0) {                                                              /* Se busca deu em nada                   */
-                conteiner.innerHTML = '<p>Nenhum resultado encontrado.</p>';                            /* Avisa o usuário                        */
+                if (container) container.innerHTML = '<p>Nenhum resultado encontrado.</p>';              /* Avisa o usuário                        */
             } else {                                                                                    /* Se houver versículos                   */
 
                 /* BLOCO: Processa cada resultado encontrado                   */
@@ -441,13 +445,13 @@ shadow.innerHTML = `<style>
                         }
                         botaoFechar.click();                                                            /* Fecha tela de busca                    */
                     }); 
-                    conteiner.appendChild(div);                                                         /* Fixa item na lista                     */
+                    if (container) container.appendChild(div);                                           /* Fixa item na lista                     */
                 });
             }
             
             /* BLOCO: Aplica transição visual suave                            */
             setTimeout(() => {                                                                          /* Pequeno delay visual                   */
-                shadow.querySelector('#search-content').classList.add('loaded');                        /* Faz a tela surgir suave                */
+                shadow.querySelector('#busca-conteudo').classList.add('loaded');                        /* Faz a tela surgir suave                */
             }, 10);                                                                                     /* 10 milissegundos                       */
         }
 
@@ -481,7 +485,7 @@ shadow.innerHTML = `<style>
         } 
 
         /* BLOCO: Cria lista dinâmica de versões no rodapé                     */
-        const listaVersoes = document.getElementById('versoes-list');                                   /* Acha lista rodapé                      */
+        const listaVersoes = document.getElementById('versoes-lista') || document.getElementById('versoes-list'); /* Acha lista rodapé (compat.)           */
         if (listaVersoes && seletor && opcoesValidas.length > 0) {                                      /* Se tudo existir                        */
             listaVersoes.innerHTML = '';                                                                /* Limpa links velhos                     */
             const opcoesTexto = Object.fromEntries(Array.from(seletor.options).map(opcao => [opcao.value, opcao.textContent]));
