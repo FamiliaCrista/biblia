@@ -343,8 +343,8 @@ body.modulo-sobre #conteudo-principal {
 /*              CONTAINER DE CARREGAMENTO               */
 /*   Indicador visual durante operações assíncronas     */
 /*======================================================*/
-.loading-container,
-.loading-container {
+.carregamento-container,
+.carregamento-container {
     text-align: center;                                    /* Define o alinhamento de texto centralizado para o CONTAINER DE CARREGAMENTO.                         */
     padding: 20px;                                         /* Define o preenchimento interno para criar um respiro no CONTAINER DE CARREGAMENTO.                   */
     position: absolute;                                    /* Define o posicionamento absoluto para o CONTAINER DE CARREGAMENTO.                                   */
@@ -358,8 +358,8 @@ body.modulo-sobre #conteudo-principal {
     justify-content: center;                               /* Define o alinhamento horizontal centralizado para os elementos no CONTAINER DE CARREGAMENTO.         */
 }
 
-.loading-container p,
-.loading-container p p {
+.carregamento-container p,
+.carregamento-container p p {
     color: #d4af37;                                      /* Define a cor do texto em dourado para o TEXTO DE CARREGAMENTO. */
     font-size: 1.1em;                                      /* Define o tamanho da fonte para o TEXTO DE CARREGAMENTO.        */
     margin-top: 15px;                                      /* Define o espaçamento superior para separar o texto do spinner. */
@@ -370,7 +370,7 @@ body.modulo-sobre #conteudo-principal {
 /*    Animação circular para indicar processamento      */
 /*======================================================*/
 .carregamento-spinner,
-.loading-spinner {
+.carregamento-spinner {
     width: 40px;                                           /* Define a largura fixa para o SPINNER DE CARREGAMENTO.                                */
     height: 40px;                                          /* Define a altura fixa para o SPINNER DE CARREGAMENTO.                                 */
     border: 4px solid #333333;                           /* Define o contorno base do spinner. */

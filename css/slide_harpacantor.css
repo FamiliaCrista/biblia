@@ -271,7 +271,7 @@ body::before {
 /*              CONTEÚDO DA OPÇÃO “SOBRE”               */
 /*     Janela central com informações da aplicação      */
 /*======================================================*/
-.popup-overlay {
+.popup-sobreposicao {
     position: fixed;                                       /* Define o posicionamento fixo para manter a janela do POPUP sempre visível durante a interação.    */
     top: 0;                                                /* Define a distância do topo como zero para que o POPUP comece no limite superior.                  */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar o POPUP ao limite lateral.                  */

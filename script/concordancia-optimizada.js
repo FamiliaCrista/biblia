@@ -31,7 +31,7 @@ class ConcordanciaOptimized {
     initializeElements() {
         this.elements = {
             resultadosContainer: document.getElementById('resultados-container') || document.getElementById('resultados-container'),
-            loadingIndicator: document.getElementById('loading-indicator'),
+            carregamentoIndicador: document.getElementById('carregamento-indicador'),
             contadorResultados: document.getElementById('contador-resultados'),
             resultadosVisiveis: document.getElementById('resultados-visiveis'),
             totalResultados: document.getElementById('total-resultados'),
@@ -814,14 +814,14 @@ async _fallbackSearch(searchLower) {
     }
 
     _showSearchStatus(progress) {
-        if (this.elements.loadingIndicator) {
-            this.elements.loadingIndicator.style.display = 'flex';
+        if (this.elements.carregamentoIndicador) {
+            this.elements.carregamentoIndicador.style.display = 'flex';
         }
     }
 
     _hideSearchStatus() {
-        if (this.elements.loadingIndicator) {
-            this.elements.loadingIndicator.style.display = 'none';
+        if (this.elements.carregamentoIndicador) {
+            this.elements.carregamentoIndicador.style.display = 'none';
         }
     }
 
@@ -878,12 +878,12 @@ async _fallbackSearch(searchLower) {
 
     showLoading(show) {
         if (show) {
-            if (this.elements.loadingIndicator) this.elements.loadingIndicator.style.display = 'block';
+            if (this.elements.carregamentoIndicador) this.elements.carregamentoIndicador.style.display = 'block';
             if (this.elements.resultadosContainer) this.elements.resultadosContainer.style.visibility = 'hidden';
             if (this.elements.contadorResultados) this.elements.contadorResultados.style.display = 'none';
             if (this.elements.carregarMais) this.elements.carregarMais.style.display = 'none';
         } else {
-            if (this.elements.loadingIndicator) this.elements.loadingIndicator.style.display = 'none';
+            if (this.elements.carregamentoIndicador) this.elements.carregamentoIndicador.style.display = 'none';
             if (this.elements.resultadosContainer) this.elements.resultadosContainer.style.visibility = 'visible';
         }
     }

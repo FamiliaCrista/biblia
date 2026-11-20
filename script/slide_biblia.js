@@ -385,8 +385,8 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
     <link rel="stylesheet" href="../css/slide_biblia.css">                                                               <!-- Importa CSS mestre slide  -->
     \${cssLink}                                                                                                          <!-- Injeta CSS extra versão   -->
 </head>
-<body>                                                                                                                   <!-- Inicia corpo              -->
-    <div id="popup-bem-vindo" class="popup-overlay">                                                                     <!-- Overlay boas vindas       -->
+<body class="versao-${(versaoAtual || '').toLowerCase()}">                                                                                                                   <!-- Inicia corpo              -->
+    <div id="popup-bem-vindo" class="popup-sobreposicao">                                                                     <!-- Overlay boas vindas       -->
         <div class="popup-conteudo">                                                                                     <!-- Caixa informativa         -->
             <h2>SEJA BEM VINDO</h2>                                                                                      <!-- Texto destaque            -->
             <button id="fechar-popup">Fechar</button>                                                                    <!-- Gatilho remoção overlay   -->
@@ -513,7 +513,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
                     /* BLOCO: Recupera o título da seção se disponível no arquivo JSON          */
                     if (capituloData.titulos && capituloData.titulos[versiculoNum]) {
-                        tituloSecao = '<strong class="section-title">' + capituloData.titulos[versiculoNum] + "</strong>";/* Cabeçalho de trecho        */
+                        tituloSecao = '<strong class="section-title">' + capituloData.titulos[versiculoNum].toUpperCase() + "</strong>";/* Cabeçalho de trecho        */
                     }
 
                     /* BLOCO: Processa o formato interlinear exclusivo da versão Original       */
@@ -524,10 +524,10 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                         if (versiculoData.palavras && versiculoData.palavras.length > 0) {
                             conteudo += '<div class="palavras-container">';                                              /* Abre lista palavras         */
                             versiculoData.palavras.forEach((palavra) => {
-                                conteudo += '<div class=".detalhe-palavra">' +
-                                    '<div class="texto-hebraico">' + (palavra.hebraico || '') + "</div>" +
-                                    '<div class="texto-transliteral">' + (palavra.transliteral || '') + "</div>" +
-                                    '<div class="texto-traducao-palavra">' + (palavra.traducao_palavra || '') + "</div>" +
+                                conteudo += '<div class="detalhe-palavra">' +
+                                    '<div class="hebrew">' + (palavra.hebraico || '') + "</div>" +
+                                    '<div class="transliteration">' + (palavra.transliteral || '') + "</div>" +
+                                    '<div class="translation">' + (palavra.traducao_palavra || '') + "</div>" +
                                     "</div>";                                                                            
                             });
                             conteudo += "</div>";
@@ -547,7 +547,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                 if (el) {
                     const strongChild = Array.from(el.children).find((c) => c.tagName === "STRONG");                     /* Busca subtítulo             */
                     if (strongChild && el.textContent.trim().startsWith(strongChild.textContent.trim())) {
-                        tituloSecao = '<strong class="section-title">' + strongChild.innerHTML + "</strong>";            /* Define Título HTML          */
+                        tituloSecao = '<strong class="section-title">' + strongChild.innerHTML.toUpperCase() + "</strong>";            /* Define Título HTML          */
                         const temp = document.createElement("div");                                                      /* Temp buffer DOM             */
                         temp.innerHTML = el.innerHTML;                                                                   /* Copia conteúdo              */
                         const firstStrong = temp.querySelector("strong");                                                /* Localiza Strong             */
@@ -560,9 +560,137 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
             /* BLOCO: Atualiza a interface visual com o novo conteúdo carregado                 */
             tituloElement.innerText = livroAcentuado.toUpperCase() + ' ' + capituloAtual + ':' + versiculoNum;           /* Atualiza título topo        */
-            versiculoContainer.innerHTML = (tituloSecao || "") + '<div class="texto-versiculo">' + conteudo + "</div>";  /* Atualiza área texto         */
+            
+            /* Versão Original já tem estrutura própria (.traducao-completa + .palavras-container), não embrulhar em .texto-versiculo */
+            if (versaoBiblia === "original") {
+                versiculoContainer.innerHTML = (tituloSecao || "") + conteudo;
+            } else {
+                versiculoContainer.innerHTML = (tituloSecao || "") + '<div class="texto-versiculo">' + conteudo + "</div>";
+            }
+            
+            /* Auto-fit: aguarda layout estabilizar antes de medir */
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => {
+                    ajustarFonteParaCaber();
+                });
+            });
+            
             atualizarBotoes();                                                                                           /* Revalida navegação          */
             document.body.classList.add("loaded");                                                                       /* Dispara animação fade       */
+        }
+
+        /* BLOCO: Ajusta dinamicamente a fonte para que versículos longos caibam 100% na tela sem rolagem vertical        */
+        function ajustarFonteParaCaber() {
+            const container = document.getElementById("versiculo-container");
+            if (!container) return;
+
+            const isOriginal = versaoBiblia === "original";
+
+            /* Seletores específicos por versão */
+            let textoEl, tituloSecaoEl, elementosExtras = [];
+
+            if (isOriginal) {
+                /* Versão Original: usa .traducao-completa + interlinear (.hebrew, .greek, .transliteration, .translation) */
+                textoEl = container.querySelector(".traducao-completa");
+                tituloSecaoEl = container.querySelector("strong.section-title") || container.querySelector("strong");
+                /* Elementos do interlinear que devem escalar junto */
+                elementosExtras = Array.from(container.querySelectorAll(".detalhe-palavra .hebrew, .detalhe-palavra .greek, .detalhe-palavra .transliteration, .detalhe-palavra .translation"));
+            } else {
+                /* Outras versões: usa .texto-versiculo */
+                textoEl = container.querySelector(".texto-versiculo");
+                tituloSecaoEl = container.querySelector("strong.section-title") || container.querySelector("strong");
+            }
+
+            if (!textoEl) {
+                console.log('[AutoFit] textoEl não encontrado');
+                return;
+            }
+
+            /* Restaura os estilos padrão do CSS para medir se cabe originalmente sem redução */
+            textoEl.style.fontSize = "";
+            elementosExtras.forEach(el => el.style.fontSize = "");
+            if (tituloSecaoEl) tituloSecaoEl.style.fontSize = "";
+
+            const cabeSemRolar = () => {
+                return container.scrollHeight <= container.clientHeight &&
+                       container.scrollWidth <= container.clientWidth;
+            };
+
+            /* Debug: mostra medidas iniciais */
+            console.log('[AutoFit] Inicial:', {
+                clientHeight: container.clientHeight,
+                scrollHeight: container.scrollHeight,
+                textoEl: textoEl.className,
+                extras: elementosExtras.length,
+                cabe: cabeSemRolar()
+            });
+
+            /* Se já couber na janela, mantém o tamanho original grande do CSS */
+            if (cabeSemRolar()) {
+                console.log('[AutoFit] Já cabe, sem ajuste');
+                return;
+            }
+
+            const computedTexto = window.getComputedStyle(textoEl);
+            const maxTamanho = parseFloat(computedTexto.fontSize) || 64;
+            const minTamanho = 10;
+
+            let razaoTitulo = 1;
+            if (tituloSecaoEl) {
+                const compTitulo = parseFloat(window.getComputedStyle(tituloSecaoEl).fontSize) || maxTamanho;
+                razaoTitulo = compTitulo / maxTamanho;
+            }
+
+            /* Razões para elementos extras (interlinear) baseadas no CSS original */
+            const razoesExtras = elementosExtras.map(el => {
+                const computed = window.getComputedStyle(el);
+                const tamanhoEl = parseFloat(computed.fontSize) || maxTamanho;
+                return tamanhoEl / maxTamanho;
+            });
+
+            console.log('[AutoFit] maxTamanho:', maxTamanho, 'razoesExtras:', razoesExtras);
+
+            let low = minTamanho;
+            let high = Math.floor(maxTamanho);
+            let melhorTamanho = low;
+
+            /* Busca binária para achar o maior tamanho de fonte que cabe sem transbordar */
+            while (low <= high) {
+                const mid = Math.floor((low + high) / 2);
+                textoEl.style.fontSize = mid + "px";
+
+                /* Ajusta elementos extras (interlinear) proporcionalmente */
+                elementosExtras.forEach((el, idx) => {
+                    el.style.fontSize = Math.round(mid * razoesExtras[idx]) + "px";
+                });
+
+                if (tituloSecaoEl) {
+                    tituloSecaoEl.style.fontSize = Math.round(mid * razaoTitulo) + "px";
+                }
+
+                if (cabeSemRolar()) {
+                    melhorTamanho = mid;
+                    low = mid + 1;                                                                                       /* Coube: tenta tamanho maior  */
+                } else {
+                    high = mid - 1;                                                                                      /* Não coube: reduz tamanho    */
+                }
+            }
+
+            console.log('[AutoFit] Melhor tamanho:', melhorTamanho);
+
+            textoEl.style.fontSize = melhorTamanho + "px";
+            elementosExtras.forEach((el, idx) => {
+                el.style.fontSize = Math.round(melhorTamanho * razoesExtras[idx]) + "px";
+            });
+            if (tituloSecaoEl) {
+                tituloSecaoEl.style.fontSize = Math.round(melhorTamanho * razaoTitulo) + "px";
+            }
+            
+            console.log('[AutoFit] Final:', {
+                clientHeight: container.clientHeight,
+                scrollHeight: container.scrollHeight,
+                cabe: cabeSemRolar()
+            });
         }
 
         /* BLOCO: Gerencia a ativação dos botões de navegação baseado nos limites               */
@@ -659,6 +787,13 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                 const ultimoVer = versiculosPorCapituloArray[capituloAtual - 1];                                         /* Tecla Fim Capítulo          */
                 if (versiculoAtual !== ultimoVer) { versiculoAtual = ultimoVer; carregarVersiculo(ultimoVer); }
             }
+        });
+
+        /* BLOCO: Reajusta a escala da fonte automaticamente ao redimensionar ou alternar tela cheia (F11) */
+        let redimensionarTimeout = null;
+        window.addEventListener("resize", () => {
+            clearTimeout(redimensionarTimeout);
+            redimensionarTimeout = setTimeout(ajustarFonteParaCaber, 60);
         });
 
         /* BLOCO: Dispara o carregamento inicial da janela do slide                             */

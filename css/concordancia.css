@@ -859,7 +859,7 @@
 /*          Animação de carregamento do status          */
 /*======================================================*/
 #busca-status .carregamento-spinner,
-#busca-status .loading-spinner {
+#busca-status .carregamento-spinner {
     width: 30px;                                           /* Define a largura total para garantir que o CONTÊINER PRINCIPAL ocupe toda a extensão.                    */
     height: 30px;                                          /* Define a altura fixa para padronizar a dimensão vertical da BARRA DE MENU SUPERIOR.                      */
     margin: 0 auto 10px;                                   /* Define as margens externas para centralizar o CONTEÚDO PRINCIPAL.                                        */
@@ -919,7 +919,7 @@
 /*    Animação circular para indicar processamento      */
 /*======================================================*/
 .carregamento-spinner,
-.loading-spinner {
+.carregamento-spinner {
     width: 40px;                                           /* Define a largura total para garantir que o CONTÊINER PRINCIPAL ocupe toda a extensão.      */
     height: 40px;                                          /* Define a altura fixa para padronizar a dimensão vertical da BARRA DE MENU SUPERIOR.        */
     border: 4px solid #333333;                           /* Define uma borda sólida cinza escura para delimitar o contorno da BARRA DE PESQUISA.        */

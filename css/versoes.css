@@ -464,6 +464,7 @@ h3 {
     margin-right: 30px;                                    /* Aplica recuo à direita.                            */
     margin-bottom: 15px;                                   /* Aplica margem inferior.                            */
     margin-left: 30px;                                     /* Aplica recuo à esquerda.                           */
+    color: #d4ac0d;                                        /* Define a cor do texto como dourada.                */
     font-size: 1.1em;                                      /* Define o tamanho da fonte ligeiramente ampliado.   */
     text-align: justify;                                   /* Justifica o texto do bloco original.               */
 }
@@ -525,6 +526,76 @@ h3 {
     font-family: "Noto Sans Hebrew", serif;                /* Define fonte específica otimizada para hebraico.   */
     font-size: 1.4em;                                      /* Define o tamanho médio ampliado para a fonte.      */
     font-weight: 700;                                      /* Aplica peso de negrito forte ao hebraico.          */
+}
+
+/*======================================================*/
+/*         ITEM DE DETALHE DE PALAVRA (JS)              */
+/*  Agrupa as três linhas do interlinear gerado pelo JS.*/
+/*======================================================*/
+.versiculo .detalhe-palavra {
+    display: flex;                                         /* Ativa o layout flexível.                           */
+    flex-direction: column;                                /* Organiza os elementos internos em coluna vertical. */
+    align-items: center;                                   /* Centraliza os itens verticalmente no interlinear.  */
+    text-align: center;                                    /* Centraliza o texto de todos os blocos internos.    */
+    min-width: 80px;                                       /* Define largura mínima para estabilidade visual.    */
+    max-width: 320px;                                      /* Define largura máxima para evitar expansão excessiva.*/
+    padding: 12px 15px;                                    /* Aplica preenchimento interno vertical e horizontal.*/
+    white-space: normal;                                   /* Permite quebra controlada para palavras longas.    */
+    border-radius: 6px;                                    /* Arredonda os cantos da moldura da palavra.         */
+}
+
+/*======================================================*/
+/*               TEXTO HEBRAICO (JS)                    */
+/*  Formata o texto original hebraico gerado pelo JS.   */
+/*======================================================*/
+.versiculo .texto-hebraico {
+    font-family: "Noto Sans Hebrew", serif;                /* Define fonte específica otimizada para hebraico.   */
+    font-size: 1.4em;                                      /* Define o tamanho médio ampliado para a fonte.      */
+    font-weight: 700;                                      /* Aplica peso de negrito forte ao hebraico.          */
+    margin-bottom: 4px;                                    /* Aplica margem inferior para espaçamento de linhas. */
+    text-align: center;                                    /* Centraliza o texto hebraico.                       */
+    direction: rtl;                                        /* Mantém direção da escrita da direita para esquerda.*/
+}
+
+/*======================================================*/
+/*                TEXTO GREGO (JS)                      */
+/*  Formata o texto original grego gerado pelo JS.      */
+/*======================================================*/
+.versiculo .grego-text {
+    font-family: "Noto Sans", "Times New Roman", serif;    /* Fonte para grego.                                  */
+    font-size: 1.4em;                                      /* Tamanho para leitura do grego.                     */
+    font-weight: 700;                                      /* Negrito no texto original grego.                   */
+    margin-bottom: 4px;                                    /* Margem inferior de espaçamento.                    */
+    text-align: center;                                    /* Centraliza o texto grego.                          */
+    direction: ltr;                                        /* Direção padrão da esquerda para a direita.         */
+}
+
+/*======================================================*/
+/*             TEXTO TRANSLITERADO (JS)                 */
+/*  Exibe a representação fonética gerada pelo JS.      */
+/*======================================================*/
+.versiculo .texto-transliteral {
+    color: #f0ad4e;                                        /* Cor alaranjada conforme padrão visual.             */
+    font-size: 0.9em;                                      /* Define um tamanho de fonte levemente reduzido.     */
+    margin-bottom: 4px;                                    /* Aplica margem inferior para espaçamento de linhas. */
+    text-align: center;                                    /* Centraliza a fonética sob o texto original.        */
+    direction: ltr;                                        /* Fonética ocidental em LTR.                         */
+}
+
+/*======================================================*/
+/*             TRADUÇÃO DA PALAVRA (JS)                 */
+/*  Exibe o significado isolado da palavra em português.*/
+/*======================================================*/
+.versiculo .texto-traducao-palavra {
+    color: #fff;                                           /* Define a cor do texto como branca.                 */
+    font-size: 1em;                                        /* Define o tamanho padrão da fonte.                  */
+    font-weight: normal;                                   /* Define o peso normal da fonte.                     */
+    margin-bottom: 4px;                                    /* Aplica margem inferior para espaçamento de linhas. */
+    text-align: center;                                    /* Centraliza a tradução portuguesa.                  */
+    direction: ltr;                                        /* Tradução portuguesa sempre em LTR.                 */
+    max-width: 250px;                                      /* Evita expansão desmedida que colida com vizinhos.  */
+    overflow-wrap: break-word;                             /* Quebra palavras compridas se necessário.           */
+    line-height: 1.3;                                      /* Espaçamento legível entre linhas.                  */
 }
 
 /*======================================================*/

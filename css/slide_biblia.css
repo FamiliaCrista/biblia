@@ -49,6 +49,7 @@ body.loaded {
     width: 95%;                                           /* Define a largura relativa para garantir que o CONTÊINER DO VERSÍCULO seja responsivo.   */
     text-align: center;                                   /* Define o alinhamento de texto centralizado para o CONTÊINER DO VERSÍCULO.              */
     flex-grow: 1;                                         /* Permite que o CONTÊINER DO VERSÍCULO se expanda para ocupar o espaço disponível.        */
+    min-height: 0;                                        /* Permite que o contêiner encolha para caber na tela sem empurrar os botões para fora.   */
     overflow-y: auto;                                     /* Define o comportamento de rolagem vertical automática para o CONTÊINER DO VERSÍCULO.    */
     padding: 1rem 1rem 0;                                 /* Define o preenchimento interno superior e lateral para criar um respiro no CONTÊINER.  */
     box-sizing: border-box;                               /* Inclui bordas e padding no tamanho total (Evita quebrar layout).                      */
@@ -102,13 +103,13 @@ body.loaded {
 /*======================================================*/
 .traducao-completa {
     text-align: center;                                    /* Define o alinhamento de texto centralizado para a TRADUÇÃO COMPLETA DO VERSÍCULO.      */
-    font-size: clamp(1.5rem, 2.5vw, 3rem);                 /* Define o tamanho da fonte de forma responsiva para a TRADUÇÃO COMPLETA DO VERSÍCULO.  */
+    font-size: clamp(2rem, 4.5vw, 3.2rem);                /* Aumentado: era clamp(1.5rem, 3.5vw, 2.5rem) */
     max-width: 100%;                                       /* Define o limite máximo de largura sem restrições para a TRADUÇÃO COMPLETA DO VERSÍCULO.*/
     overflow-wrap: break-word;                             /* Define a quebra de palavras longas para evitar transbordamento na TRADUÇÃO.           */
-    line-height: 1.4;                                      /* Define a altura da linha para ajustar o espaçamento vertical entre os textos.         */
-    font-weight: normal;                                   /* Define o peso da fonte como normal para a TRADUÇÃO COMPLETA DO VERSÍCULO.            */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO para a TRADUÇÃO COMPLETA DO VERSÍCULO.         */
-    font-family: Arial, SANS-SERIF;                        /* Define o tipo de fonte como ARIAL, SANS-SERIF para a TRADUÇÃO COMPLETA DO VERSÍCULO.  */
+    line-height: 1.3;                                      /* Define a altura da linha igual às outras versões         */
+    font-weight: bold;                                     /* Define o peso da fonte em NEGRITO igual às outras versões            */
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO igual às outras versões         */
+    font-family: "Arial Black", Gadget, SANS-SERIF;        /* Define a família da fonte igual às outras versões  */
     color: #ffffff;                                      /* Define a cor do texto em branco para a TRADUÇÃO COMPLETA DO VERSÍCULO.                */
     z-index: 2;                                            /* Define a ordem de empilhamento para que a TRADUÇÃO se sobreponha ao fundo.            */
     margin-bottom: 2rem;                                   /* Define o espaçamento inferior para separar a TRADUÇÃO dos elementos abaixo.           */
@@ -125,7 +126,7 @@ body.loaded {
     flex-wrap: wrap;                                       /* Define a quebra automática de linha para que as palavras sejam distribuídas.             */
     justify-content: center;                               /* Define o alinhamento horizontal centralizado para as PALAVRAS HEBRAICAS.                */
     align-items: flex-start;                               /* Define o alinhamento vertical ao início para as PALAVRAS HEBRAICAS.                     */
-    gap: 2rem;                                             /* Define o espaçamento entre as palavras no CONTAINER DAS PALAVRAS.                       */
+    gap: 3rem;                                             /* Aumentado: era 2rem - mais espaçamento entre palavras hebraicas longas */
     width: 100%;                                           /* Define a largura total para o CONTAINER DAS PALAVRAS.                                  */
     max-width: 95%;                                        /* Define o limite máximo de largura para o CONTAINER DAS PALAVRAS.                       */
     margin: 0 auto;                                        /* Define as margens laterais automáticas para centralizar o CONTAINER DAS PALAVRAS.      */
@@ -145,7 +146,7 @@ body.loaded {
     justify-content: flex-start;                           /* Define o alinhamento vertical ao início para os elementos nos ITENS DA PALAVRA.        */
     gap: 0.5rem;                                           /* Define o espaçamento entre os elementos internos dos ITENS DA PALAVRA.                  */
     min-width: 100px;                                      /* Define a largura mínima para garantir a visibilidade dos ITENS DA PALAVRA.              */
-    max-width: 200px;                                      /* Define a largura máxima permitida para limitar a expansão dos ITENS DA PALAVRA.         */
+    max-width: 280px;                                      /* Aumentado: era 200px - permite palavras hebraicas longas sem overflow */
     flex-shrink: 0;                                        /* Impede que os ITENS DA PALAVRA encolham dentro do layout flexível.                    */
 }
 
@@ -154,13 +155,20 @@ body.loaded {
 /*          Destaque visual do texto original           */
 /*          em cor dourada e fonte específica           */
 /*======================================================*/
-.detalhe-palavra .hebrew {
-    font-size: clamp(2rem, 3vw, 4rem);                     /* Define o tamanho da fonte de forma responsiva para o TEXTO HEBRAICO.                   */
-    font-weight: bold;                                     /* Define o peso da fonte em NEGRITO para o TEXTO HEBRAICO.                              */
-    color: #ffd700;                                      /* Define a cor do texto em dourado para o TEXTO HEBRAICO.                               */
-    text-align: center;                                    /* Define o alinhamento de texto centralizado para o TEXTO HEBRAICO.                     */
+.detalhe-palavra .hebrew,
+.detalhe-palavra .greek {
+    font-size: clamp(5.5rem, 8vw, 9rem);                     /* Aumentado: era clamp(4rem, 6vw, 7rem) */
+    font-weight: bold;                                     /* Define o peso da fonte em NEGRITO para o TEXTO HEBRAICO/GREGO.                              */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado para o TEXTO HEBRAICO/GREGO.                               */
+    text-align: center;                                    /* Define o alinhamento de texto centralizado para o TEXTO HEBRAICO/GREGO.                     */
     line-height: 1.2;                                      /* Define a altura da linha para ajustar o espaçamento vertical entre os textos.         */
-    font-family: "Times New Roman", serif;                 /* Define a família da fonte como TIMES NEW ROMAN para o TEXTO HEBRAICO.                 */
+    font-family: "Noto Sans", "Times New Roman", serif;    /* Fonte que suporta hebraico e grego */
+}
+
+/* Espaçamento extra apenas para grego (letras mais largas) */
+.detalhe-palavra .greek {
+    letter-spacing: 0.08em;                                 /* Espaçamento entre letras para não emboladar */
+    word-spacing: 0.15em;                                   /* Espaçamento entre palavras */
 }
 
 /*======================================================*/
@@ -169,9 +177,9 @@ body.loaded {
 /*             em cinza claro e maiúsculas              */
 /*======================================================*/
 .detalhe-palavra .transliteration {
-    font-size: clamp(0.9rem, 1.5vw, 1.5rem);               /* Define o tamanho da fonte de forma responsiva para o TEXTO TRANSLITERADO.             */
+    font-size: clamp(2rem, 3.2vw, 3.2rem);                /* Mesmo tamanho da tradução (era clamp(1.3rem, 2vw, 1.6rem)) */
     font-weight: normal;                                   /* Define o peso da fonte como normal para o TEXTO TRANSLITERADO.                       */
-    color: #cccccc;                                      /* Define a cor do texto em cinza claro para o TEXTO TRANSLITERADO.                     */
+    color: #ffffff;                                      /* Alterado: era #cccccc - agora branco como o hebraico tinha */
     text-align: center;                                    /* Define o alinhamento de texto centralizado para o TEXTO TRANSLITERADO.               */
     text-transform: uppercase;                             /* Define a transformação do texto em maiúsculas para o TEXTO TRANSLITERADO.            */
     line-height: 1.2;                                      /* Define a altura da linha para ajustar o espaçamento vertical entre os textos.         */
@@ -184,9 +192,9 @@ body.loaded {
 /*                 em branco e itálico                  */
 /*======================================================*/
 .detalhe-palavra .translation {
-    font-size: clamp(0.9rem, 1.5vw, 1.5rem);               /* Define o tamanho da fonte de forma responsiva para a TRADUÇÃO DA PALAVRA.             */
+    font-size: clamp(2rem, 3.2vw, 3.2rem);                /* Aumentado: era clamp(1.5rem, 2.5vw, 2.5rem) */
     font-weight: normal;                                   /* Define o peso da fonte como normal para a TRADUÇÃO DA PALAVRA.                       */
-    color: #ffffff;                                      /* Define a cor do texto em branco para a TRADUÇÃO DA PALAVRA.                          */
+    color: #d4ac0d;                                      /* Alterado: era #ffffff - agora dourado igual ao hebraico */
     text-align: center;                                    /* Define o alinhamento de texto centralizado para a TRADUÇÃO DA PALAVRA.               */
     font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO para a TRADUÇÃO DA PALAVRA.                    */
     line-height: 1.2;                                      /* Define a altura da linha para ajustar o espaçamento vertical entre os textos.         */
@@ -198,15 +206,16 @@ body.loaded {
 /* Destaque temático do versículo (ex: “No Princípio”)  */
 /*       em cor verde claro e estilo diferenciado       */
 /*======================================================*/
-#versiculo-container strong.titulo-secao strong.titulo-secao {
+#versiculo-container > strong.section-title {
     color: #5df565;                                      /* Define a cor do texto em verde claro para o TÍTULO DA SEÇÃO INTERNA.                 */
-    font-size: clamp(1.5rem, 2.8vw, 3rem);                 /* Define o tamanho da fonte de forma responsiva para o TÍTULO DA SEÇÃO INTERNA.        */
+    font-size: clamp(2.25rem, 4.2vw, 4.5rem);             /* Define o tamanho da fonte de forma responsiva para o TÍTULO DA SEÇÃO INTERNA.        */
     margin-bottom: 1rem;                                   /* Define o espaçamento inferior para separar o TÍTULO DA SEÇÃO INTERNA do conteúdo.    */
     display: block;                                        /* Define a exibição como bloco para garantir que o TÍTULO ocupe uma linha exclusiva.   */
     font-weight: bold;                                     /* Define o peso da fonte em NEGRITO para o TÍTULO DA SEÇÃO INTERNA.                    */
     font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO para o TÍTULO DA SEÇÃO INTERNA.                */
     font-family: Arial, SANS-SERIF;                        /* Define o tipo de fonte como ARIAL, SANS-SERIF para o TÍTULO DA SEÇÃO INTERNA.        */
     text-align: center;                                    /* Define o alinhamento de texto centralizado para o TÍTULO DA SEÇÃO INTERNA.           */
+    text-transform: uppercase;                             /* Define a transformação do texto em maiúsculas para o TÍTULO DA SEÇÃO INTERNA.        */
     width: 100%;                                           /* Define a largura total para o TÍTULO DA SEÇÃO INTERNA.                               */
     z-index: 3;                                            /* Define a ordem de empilhamento para que o TÍTULO DA SEÇÃO se sobreponha ao conteúdo. */
     line-height: 1.2;                                      /* Define a altura da linha para ajustar o espaçamento vertical entre os textos.        */
@@ -325,7 +334,7 @@ body.loaded {
 /*              CONTEÚDO DA OPÇÃO “SOBRE”               */
 /*     Janela central com informações da aplicação      */
 /*======================================================*/
-.popup-overlay {
+.popup-sobreposicao {
     position: fixed;                                       /* Define o posicionamento fixo para manter a janela do POPUP sempre visível durante a interação.    */
     top: 0;                                                /* Define a distância do topo como zero para que o POPUP comece no limite superior.                  */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar o POPUP ao limite lateral.                  */
@@ -377,3 +386,75 @@ body.loaded {
 #fechar-popup:hover {
     background-color: #d4ac0d;                           /* Define a cor de fundo em dourado mais escuro para o efeito de HOVER no BOTÃO FECHAR DO POPUP.     */
 }
+
+
+/*======================================================*/
+/*       AJUSTES DE ROLAGEM E CENTRALIZAÇÃO DO SLIDE    */
+/*======================================================*/
+#versiculo-container {
+    min-height: 0;                                          /* Garante que o contêiner não ultrapasse a tela verticalmente. */
+    scrollbar-width: none;                                  /* Oculta visualmente a barra no Firefox sem desativar a rolagem. */
+    -ms-overflow-style: none;                               /* Oculta a barra em versões legadas do Microsoft Edge/IE. */
+    text-align: center;                                     /* Centraliza o texto de todo o conteúdo do versículo. */
+    justify-content: safe center;                           /* Centraliza quando cabe; em conteúdo longo, evita cortar o início. */
+    padding-top: 1.5rem;                                    /* Cria um espaçamento equilibrado entre o título e o início do texto. */
+}
+
+#versiculo-container::-webkit-scrollbar {
+    display: none;                                          /* Oculta a barra no Edge/Chrome mantendo a rolagem funcional. */
+    width: 0;
+    height: 0;
+}
+
+#versiculo-container,
+#versiculo-container * {
+    text-align: center;                                     /* Garante centralização mesmo em elementos internos com marcação irregular. */
+}
+
+#versiculo-container .palavras-container {
+    justify-content: center;                                /* Mantém as palavras agrupadas no centro em cada linha. */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Mesmo tamanho para título e versículo em todas as versões, exceto a Original. */
+body:not(:has(.traducao-completa)) #titulo,
+body:not(:has(.traducao-completa)) .texto-versiculo {
+    font-size: clamp(1.2rem, 3vw, 2rem);
+}
+
+/* Aumenta em 1,5x apenas o título do versículo nas versões não originais. */
+body:not(.versao-original) #titulo {
+    font-size: clamp(1.8rem, 4.5vw, 3rem);
+}
+
+/* Duplica o texto do versículo em todas as versões, exceto a Original; não altera títulos. */
+body:not(.versao-original) .texto-versiculo {
+    font-size: clamp(2.4rem, 6vw, 4rem);
+}
+
+/* Título da seção (tag STRONG) no mesmo tamanho em todas as versões (incluindo ARC), exceto Original. */
+body:not(.versao-original) #versiculo-container > strong.section-title,
+body:not(.versao-original) #versiculo-container strong.section-title,
+body.versao-arc #versiculo-container strong.section-title,
+body.versao-arc #versiculo-container strong {
+    font-size: clamp(2.25rem, 4.2vw, 4.5rem);
+}
+
+/* ===== VERSÃO ORIGINAL - TAMANHOS MAIORES ===== */
+body.versao-original #titulo {
+    font-size: clamp(1.3rem, 2.5vw, 2.2rem);              /* Título do versículo (era clamp(1rem, 2vw, 1.75rem)) */
+}
+
+body.versao-original #versiculo-container > strong.section-title,
+body.versao-original #versiculo-container strong.section-title,
+body.versao-original #versiculo-container strong {
+    font-size: clamp(1.6rem, 3vw, 3rem);                  /* Título da seção (era clamp(1.25rem, 2.5vw, 2.5rem)) */
+}
+
+
+/* No slide da Bíblia Original, detectado pela tradução completa, o hebraico usa o branco do rodapé. */
+ /* REMOVIDO: Regra com !important que forçava cor branca no hebraico, impedindo uso de .detalhe-palavra .hebrew */
+ /* body:has(#versiculo-container .traducao-completa) #versiculo-container .hebrew {
+     color: #ffffff !important;
+ } */

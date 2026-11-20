@@ -327,6 +327,7 @@
 .hebrew-verse {
     display: grid;
     grid-template-columns: 2.25rem minmax(0, 1fr);
+    grid-template-rows: auto auto;
     align-items: start;
     column-gap: 0.5rem;
     margin-bottom: 0.65rem;
@@ -334,15 +335,25 @@
 }
 
 .hebrew-verse .verse-number {
+    grid-column: 1;
+    grid-row: 1;                                           /* Alinha apenas com a linha da tradução completa.           */
+    display: flex;                                         /* Ativa flex para controle preciso de alinhamento.          */
+    align-items: flex-start;                               /* Ancora ao topo alinhando com a primeira linha do texto.   */
     margin: 0;
-    padding-top: 0.45rem;
+    padding-top: 0;                                        /* Remove deslocamento vertical do número.                   */
     min-width: 0;
     text-align: left;
     direction: ltr;
-    font-size: clamp(1rem, 1.2vw, 1.15rem);
+    font-size: clamp(1rem, 1.6vw, 1.35rem);               /* Mesmo tamanho da tradução completa do versículo hebraico. */
+    line-height: 1.5;                                      /* Mesma altura de linha da tradução completa.               */
+    color: #ffffff;                                        /* Define a cor do número como branca.                       */
+    align-self: start;                                     /* Ancora o número ao topo da célula do grid.                */
+    vertical-align: baseline;                              /* Alinha pela linha de base do texto adjacente.             */
 }
 
 .hebrew-words {
+    grid-column: 2;
+    grid-row: 2;
     display: flex;
     min-width: 0;
     flex-wrap: wrap;
@@ -385,6 +396,7 @@
     font-size: clamp(1.15rem, 1.8vw, 1.8rem);
     font-style: italic;
     line-height: 1.35;
+    color: #ffffff;
 }
 
 .hebrew-word-translation {
@@ -421,3 +433,120 @@
         font-size: clamp(1rem, 3.8vw, 1.45rem);
     }
 }
+
+.hebrew-verse-translation {
+    grid-column: 2;
+    grid-row: 1;
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    font-size: clamp(1rem, 1.6vw, 1.35rem);
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: left;
+}
+
+/*======================================================*/
+/*         MODO LEITURA — NOVO TESTAMENTO (GREGO)       */
+/*  Espelha o layout hebraico mas em direção LTR.       */
+/*======================================================*/
+
+.greek-verse {
+    display: grid;
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    grid-template-rows: auto auto;
+    column-gap: 0.5rem;
+    align-items: start;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(240, 173, 78, 0.15);
+}
+
+.greek-words {
+    grid-column: 2;
+    grid-row: 2;
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.35rem 1.25rem;
+    direction: ltr;
+}
+
+.greek-word {
+    display: inline-flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    text-align: center;
+}
+
+.greek-word-original,
+.greek-word-transliteral,
+.greek-word-translation {
+    display: block;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+}
+
+.greek-word-original {
+    direction: ltr;
+    font-family: "Noto Serif", "Times New Roman", serif;
+    font-size: clamp(1.5rem, 2.2vw, 2.25rem);
+    font-style: normal;
+    line-height: 1.5;
+    color: #ffffff;
+}
+
+.greek-word-transliteral {
+    direction: ltr;
+    font-size: clamp(1.15rem, 1.8vw, 1.8rem);
+    font-style: italic;
+    line-height: 1.35;
+    color: #d4ac0d;
+}
+
+.greek-word-translation {
+    direction: ltr;
+    font-size: clamp(1.1rem, 1.7vw, 1.7rem);
+    font-style: italic;
+    line-height: 1.35;
+    color: #ffffff;
+}
+
+.greek-verse-translation {
+    grid-column: 2;
+    grid-row: 1;
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    font-size: clamp(1rem, 1.6vw, 1.35rem);
+    line-height: 1.5;
+    color: #d4ac0d;
+    text-align: left;
+}
+
+.greek-verse .verse-number {
+    font-size: clamp(1rem, 1.6vw, 1.35rem);               /* Mesmo tamanho da tradução completa do versículo grego. */
+    color: #ffffff;                                        /* Define a cor do número como branca.                    */
+}
+
+@media (max-width: 900px) {
+    .chapter-verses.greek-chapter {
+        padding: 1rem 0.75rem;
+    }
+
+    .greek-verse {
+        grid-template-columns: 1.75rem minmax(0, 1fr);
+        column-gap: 0.35rem;
+    }
+
+    .greek-word-original {
+        font-size: clamp(1.35rem, 5vw, 1.85rem);
+    }
+
+    .greek-word-transliteral,
+    .greek-word-translation {
+        font-size: clamp(1rem, 3.8vw, 1.45rem);
+    }
+}
+

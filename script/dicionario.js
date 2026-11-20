@@ -85,7 +85,7 @@ class Dicionario {
         // Este bloco limpa a interface antes de carregar novos dados.
         if (this.elements.dicionarioInput) this.elements.dicionarioInput.value = '';                         // Limpa o campo de busca.
         // Exibe um spinner de carregamento.
-        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando dados...</p></div>';
+        this.elements.dicionarioResultados.innerHTML = '<div class="carregamento-container"><div class="carregamento-spinner"></div><p>Carregando dados...</p></div>';
         this.clearPagination();                                                                              // Limpa a paginação anterior.
 
         // Este bloco carrega o mapa de arquivos (lista_letras.json) se ainda não estiver em cache.
@@ -263,7 +263,7 @@ class Dicionario {
         }
 
         this.allGlobalTermos = [];
-        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
+        this.elements.dicionarioResultados.innerHTML = '<div class="carregamento-container"><div class="carregamento-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
 
         for (const letra in this.listaLetras) {
             const arquivos = this.listaLetras[letra];

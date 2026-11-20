@@ -220,29 +220,29 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {         
                     const traducaoPalavraDiv = document.createElement('div');                                            /* Div para o significado       */
                     
                     let originalText = '';                                                                               /* Buffer para texto original   */
-                    const textAlignStyle = isAntigoTestamento ? 'right' : 'left';                                        /* Alinha texto pelo idioma     */
-                    const alignItemsStyle = isAntigoTestamento ? 'flex-end' : 'flex-start';                              /* Ajusta flexbox pelo idioma   */
-
-                    wordDetailItemDiv.style.alignItems = alignItemsStyle;                                                /* Aplica alinhamento flex      */
-
-                    /* BLOCO: Aplica as regras de alinhamento de texto em todos os elementos internos do bloco de palavra*/
-                    [originalLangDiv, transliteralDiv, traducaoPalavraDiv].forEach(div => {
-                        div.style.textAlign = textAlignStyle;                                                            /* Define alinhamento do texto  */
-                    });
+                    wordDetailItemDiv.style.alignItems = 'center';                                                       /* Centraliza o interlinear     */
 
                     if (isAntigoTestamento) {
                         originalLangDiv.classList.add('texto-hebraico');                                                  /* Estilo de fonte Hebraica     */
+                        originalLangDiv.setAttribute('dir', 'rtl');                                                      /* Direção RTL para Hebraico    */
                         originalText = palavra.hebraico || '';                                                           /* Captura caracteres hebraicos */
                     } else {
                         originalLangDiv.classList.add('grego-text');                                                     /* Estilo de fonte Grega        */
+                        originalLangDiv.setAttribute('dir', 'ltr');                                                      /* Direção LTR para Grego       */
                         originalText = palavra.grego || '';                                                              /* Captura caracteres gregos    */
                     }
+                    originalLangDiv.style.textAlign = 'center';                                                          /* Alinha texto ao centro       */
                     originalLangDiv.textContent = originalText;                                                          /* Insere texto original na div */
 
                     /* BLOCO: Insere a transliteração fonética e o significado gramatical da palavra na estrutura HTML */
                     transliteralDiv.classList.add('texto-transliteral');                                                  /* Estilo da transliteração     */
+                    transliteralDiv.setAttribute('dir', 'ltr');                                                          /* Garante direção LTR          */
+                    transliteralDiv.style.textAlign = 'center';                                                          /* Alinha transliteração centro */
                     transliteralDiv.textContent = palavra.transliteral;                                                  /* Insere a pronúncia           */
+                    
                     traducaoPalavraDiv.classList.add('texto-traducao-palavra');                                           /* Estilo do significado        */
+                    traducaoPalavraDiv.setAttribute('dir', 'ltr');                                                       /* Garante direção LTR          */
+                    traducaoPalavraDiv.style.textAlign = 'center';                                                       /* Alinha tradução ao centro    */
                     traducaoPalavraDiv.textContent = palavra.traducao_palavra;                                           /* Insere tradução literal      */
                     
                     /* BLOCO: Organiza a hierarquia dos elementos visuais dentro do item de detalhamento da palavra     */  
